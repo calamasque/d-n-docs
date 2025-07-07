@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welkom to the adventures of Metatron
 ---
 
 This is a blank Quartz installation.

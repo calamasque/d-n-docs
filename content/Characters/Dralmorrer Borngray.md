@@ -31,7 +31,8 @@ last_modified:
 - Baas van [[Castle Naerytar]]
 - Lid van de [[Eldreth Veluuthra]]
 - Leert de [[Lizardfolk]] om wapens te smeden.
-
+- Blond haar, ooglapje.
+- draagt armor
 # Featured
 ```dataview
 list

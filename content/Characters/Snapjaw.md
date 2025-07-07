@@ -14,15 +14,16 @@ race:
 gender:
   - male
 class: 
-description: Chief of Lizardfolk tribe
+description: Future chief of the Lizardmen tribe
 shop: 
 location:
   - "[[Castle Naerytar]]"
+  - "[[Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 title: Snapjaw
 aliases:
-  - Chief of the Lizardfolk tribe
+  - Future chief of the Lizardmen tribe
 tags: 
 image: 
 publish: true

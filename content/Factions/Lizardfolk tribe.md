@@ -20,7 +20,7 @@ SORT file.name DESC
 - 3 kano's met Lizardfolk van de [[Lizardfolk tribe]] passeren onze helden in de [[Mere of Dead Men]]. [[SmogEater]] luistert hun gesprek af (zie "Meningen").
 - [[The Band]] belooft [[Snapjaw]] en de [[Lizardfolk tribe]] om de [[content/Factions/Bullywug tribe]] in een kwaad daglicht te brengen bij de [[Cult of the Dragon]]. 
 ## Meningen:
-- Hebben een hekel aan de [[Cult of the Dragon guards]] en [[Bullywug tribe]]
+- Hebben een hekel aan de [[Dragon kneelers]] en de [[Bullywug tribe]]
 - Respecteren [[Dralmorrer Borngray]] omdat hij hen beter behandelt dan [[Pharblex Spattergoo]] en omdat hij hen "staal geeft".
 - Hebben respect voor [[Snapjaw]] en luisteren wanneer hij wat te zeggen heeft.
 - Luisteren naar [[Rezmir]]

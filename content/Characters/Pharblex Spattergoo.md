@@ -5,7 +5,7 @@ world:
   - Forgotten Realms
 campaign:
   - Dungeons & Detectives
-deceased: 
+deceased: true
 family: 
 faction:
   - "[[Bullywug tribe]]"
@@ -35,9 +35,15 @@ embed(link(meta(image).path, "300")) AS "Image"
 ```
 ## Character Summary
 - Leider van de [[Bullywug tribe]] in [[Castle Naerytar]]
-- Draagt een krokodillenkop als hoed
 - Heeft een persoonlijk altaar in de grotten onder [[Castle Naerytar]]
-
+- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe]] in [[Castle Naerytar]].
+- Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe]].
+- Gedood door [[Szuszi]]
+## Items
+- Hoed: krokodillenkop
+- Lichte bepansering
+- Staff (taken by [[Metatron]])
+- Skull of Guts
 ## Featured
 ```dataview
 list
@@ -46,8 +52,6 @@ WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
 SORT file.name DESC
 ```
 
-## Items
-- Staff (taken by [[Metatron]])
-- Skull of Guts
+
 
 

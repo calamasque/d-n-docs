@@ -1,3 +1,9 @@
+---
+title: Cult of the Dragon
+aliases:
+  - Dragon kneelers
+des:
+---
 
 ## Members
 ```dataview

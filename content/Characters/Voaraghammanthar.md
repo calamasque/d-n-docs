@@ -20,6 +20,8 @@ location:
 origin: 
 game_date: 1489 DR
 title: Voaraghammanthar
+aliases:
+  - oude zwarte draak
 tags: 
 image: 
 publish: true

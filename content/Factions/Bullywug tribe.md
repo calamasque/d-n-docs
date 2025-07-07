@@ -16,7 +16,6 @@ Bondgenoten:
 - [[Cult of the Dragon]]
 - [[Rezmir]]
 - [[Dralmorrer Borngray]]
-- [[Cult of the Dragon guards]]
 
 Vijand:
 - [[Lizardfolk]]
