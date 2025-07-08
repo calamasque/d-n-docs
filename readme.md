@@ -1,226 +1,231 @@
-# zwitch
+# XMLDOM [![Build Status](https://secure.travis-ci.org/bigeasy/xmldom.png?branch=master)](http://travis-ci.org/bigeasy/xmldom) [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
+**This is a fork of [jindw](https://github.com/jindw)'s
+[xmldom](https://github.com/jindw/xmldom) library together with
+[Rui Azevedo](https://github.com/neu-rah) code for compareDocumentPosition. It
+allows the use of
+[wicked-good-xpath](https://github.com/google/wicked-good-xpath) together with
+xmldom, using a little hack. For an example see
+[speech-rule-engine](https://github.com/zorkow/speech-rule-engine/blob/master/src/common/system_external.js).**
 
-Handle values based on a field.
+_Just to be clear: This is not my code! You are welcome to use the package, but
+I can not fix any bugs!_
 
-## Contents
+A JavaScript implementation of W3C DOM for Node.js, Rhino and the browser. Fully
+compatible with `W3C DOM level2`; and some compatible with `level3`. Supports
+`DOMParser` and `XMLSerializer` interface such as in browser.
 
-*   [What is this?](readme.md##what-is-this)
-*   [When should I use this?](readme.md##when-should-i-use-this)
-*   [Install](readme.md##install)
-*   [Use](readme.md##use)
-*   [API](readme.md##api)
-    *   [`zwitch(key[, options])`](#zwitchkey-options)
-    *   [`one(value[, rest…])`](#onevalue-rest)
-    *   [`function handler(value[, rest…])`](#function-handlervalue-rest)
-*   [Types](readme.md##types)
-*   [Compatibility](readme.md##compatibility)
-*   [Related](readme.md##related)
-*   [Contribute](readme.md##contribute)
-*   [Security](readme.md##security)
-*   [License](readme.md##license)
 
-## What is this?
+Install:
+-------
+>npm install xmldom-sre
 
-This is a tiny package that lets you `switch` between some field on objects.
-
-## When should I use this?
-
-This package is very useful when mapping one AST to another.
-It’s a lot like a `switch` statement on one field, but it’s extensible.
-
-## Install
-
-This package is [ESM only][esm].
-In Node.js (version 14.14+, 16.0+), install with [npm][]:
-
-```sh
-npm install zwitch
+Example:
+====
+```javascript
+var DOMParser = require('xmldom').DOMParser;
+var doc = new DOMParser().parseFromString(
+    '<xml xmlns="a" xmlns:c="./lite">\n'+
+        '\t<child>test</child>\n'+
+        '\t<child></child>\n'+
+        '\t<child/>\n'+
+    '</xml>'
+    ,'text/xml');
+doc.documentElement.setAttribute('x','y');
+doc.documentElement.setAttributeNS('./lite','c:x','y2');
+var nsAttr = doc.documentElement.getAttributeNS('./lite','x')
+console.info(nsAttr)
+console.info(doc)
 ```
-
-In Deno with [`esm.sh`][esmsh]:
-
-```js
-import {zwitch} from 'https://esm.sh/zwitch@2'
-```
-
-In browsers with [`esm.sh`][esmsh]:
-
-```html
-<script type="module">
-  import {zwitch} from 'https://esm.sh/zwitch@2?bundle'
-</script>
-```
-
-## Use
-
-```js
-import {zwitch} from 'zwitch'
-
-const handle = zwitch('type', {invalid, unknown, handlers: {alpha: handleAlpha}})
-
-handle({type: 'alpha'})
-
-function handleAlpha() { /* … */ }
-```
-
-Or, with a `switch` statement:
-
-```js
-const field = 'type'
-
-function handle(value) {
-  let fn = invalid
-
-  if (value && typeof value === 'object' && field in value) {
-    switch (value[field]) {
-      case 'alpha':
-        fn = handleAlpha
-        break
-      default:
-        fn = unknown
-        break
-    }
-  }
-
-  return fn.apply(this, arguments)
-}
-
-handle({type: 'alpha'})
-
-function handleAlpha() { /* … */ }
-function unknown() { /* … */ }
-function invalid() { /* … */ }
-```
-
-## API
-
-This package exports the identifier `zwitch`.
-There is no default export.
-
-### `zwitch(key[, options])`
-
-Create a switch, based on a `key` (`string`).
-
-##### `options`
-
-Options can be omitted and added later to `one`.
-
-###### `options.handlers`
-
-Handlers to use, stored on `one.handlers` (`Record<string, Function>`,
-optional).
-
-###### `options.unknown`
-
-Handler to use for unknown values, stored on `one.unknown` (`Function`,
-optional).
-
-###### `options.invalid`
-
-Handler to use for invalid values, stored on `one.invalid` (`Function`,
-optional).
-
-###### Returns
-
-See [`one`][one] (`Function`).
-
-### `one(value[, rest…])`
-
-Handle one value.
-Based on the bound `key`, a respective handler will be called.
-If `value` is not an object, or doesn’t have a `key` property, the special
-“invalid” handler will be called.
-If `value` has an unknown `key`, the special “unknown” handler will be called.
-
-All arguments, and the context object (`this`), are passed through to the
-[handler][], and it’s result is returned.
-
-###### `one.handlers`
-
-Map of [handler][]s (`Record<string, Function>`).
-
-###### `one.invalid`
-
-Special [`handler`][handler] called if a value doesn’t have a `key` property.
-If not set, `undefined` is returned for invalid values.
-
-###### `one.unknown`
-
-Special [`handler`][handler] called if a value does not have a matching
-handler.
-If not set, `undefined` is returned for unknown values.
-
-### `function handler(value[, rest…])`
-
-Handle one value.
-
-## Types
-
-This package is fully typed with [TypeScript][].
-It exports the types `Handler`, `UnknownHandler`, `InvalidHandler`, and
-`Options`.
-
-## Compatibility
-
-This package is at least compatible with all maintained versions of Node.js.
-As of now, that is Node.js 14.14+ and 16.0+.
-It also works in Deno and modern browsers.
-
-## Related
-
-*   [`mapz`](https://github.com/wooorm/mapz)
-    — functional map
-
-## Contribute
-
-Yes please!
-See [How to Contribute to Open Source][contribute].
-
-## Security
-
-This package is safe.
-
-## License
-
-[MIT][license] © [Titus Wormer][author]
-
-<!-- Definitions -->
-
-[build-badge]: https://github.com/wooorm/zwitch/workflows/main/badge.svg
-
-[build]: https://github.com/wooorm/zwitch/actions
-
-[coverage-badge]: https://img.shields.io/codecov/c/github/wooorm/zwitch.svg
-
-[coverage]: https://codecov.io/github/wooorm/zwitch
-
-[downloads-badge]: https://img.shields.io/npm/dm/zwitch.svg
-
-[downloads]: https://www.npmjs.com/package/zwitch
-
-[size-badge]: https://img.shields.io/bundlephobia/minzip/zwitch.svg
-
-[size]: https://bundlephobia.com/result?p=zwitch
-
-[npm]: https://docs.npmjs.com/cli/install
-
-[esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
-
-[esmsh]: https://esm.sh
-
-[typescript]: https://www.typescriptlang.org
-
-[contribute]: https://opensource.guide/how-to-contribute/
-
-[license]: license
-
-[author]: https://wooorm.com
-
-[one]: #onevalue-rest
-
-[handler]: #function-handlervalue-rest
+API Reference
+=====
+
+ * [DOMParser](https://developer.mozilla.org/en/DOMParser):
+
+	```javascript
+	parseFromString(xmlsource,mimeType)
+	```
+	* **options extension** _by xmldom_(not BOM standard!!)
+
+	```javascript
+	//added the options argument
+	new DOMParser(options)
+	
+	//errorHandler is supported
+	new DOMParser({
+		/**
+		 * locator is always need for error position info
+		 */
+		locator:{},
+		/**
+		 * you can override the errorHandler for xml parser
+		 * @link http://www.saxproject.org/apidoc/org/xml/sax/ErrorHandler.html
+		 */
+		errorHandler:{warning:function(w){console.warn(w)},error:callback,fatalError:callback}
+		//only callback model
+		//errorHandler:function(level,msg){console.log(level,msg)}
+	})
+		
+	```
+
+ * [XMLSerializer](https://developer.mozilla.org/en/XMLSerializer)
+ 
+	```javascript
+	serializeToString(node)
+	```
+DOM level2 method and attribute:
+------
+
+ * [Node](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1950641247)
+	
+		attribute:
+			nodeValue|prefix
+		readonly attribute:
+			nodeName|nodeType|parentNode|childNodes|firstChild|lastChild|previousSibling|nextSibling|attributes|ownerDocument|namespaceURI|localName
+		method:	
+			insertBefore(newChild, refChild)
+			replaceChild(newChild, oldChild)
+			removeChild(oldChild)
+			appendChild(newChild)
+			hasChildNodes()
+			cloneNode(deep)
+			normalize()
+			isSupported(feature, version)
+			hasAttributes()
+
+ * [DOMImplementation](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-102161490)
+		
+		method:
+			hasFeature(feature, version)
+			createDocumentType(qualifiedName, publicId, systemId)
+			createDocument(namespaceURI, qualifiedName, doctype)
+
+ * [Document](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#i-Document) : Node
+		
+		readonly attribute:
+			doctype|implementation|documentElement
+		method:
+			createElement(tagName)
+			createDocumentFragment()
+			createTextNode(data)
+			createComment(data)
+			createCDATASection(data)
+			createProcessingInstruction(target, data)
+			createAttribute(name)
+			createEntityReference(name)
+			getElementsByTagName(tagname)
+			importNode(importedNode, deep)
+			createElementNS(namespaceURI, qualifiedName)
+			createAttributeNS(namespaceURI, qualifiedName)
+			getElementsByTagNameNS(namespaceURI, localName)
+			getElementById(elementId)
+
+ * [DocumentFragment](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-B63ED1A3) : Node
+ * [Element](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-745549614) : Node
+		
+		readonly attribute:
+			tagName
+		method:
+			getAttribute(name)
+			setAttribute(name, value)
+			removeAttribute(name)
+			getAttributeNode(name)
+			setAttributeNode(newAttr)
+			removeAttributeNode(oldAttr)
+			getElementsByTagName(name)
+			getAttributeNS(namespaceURI, localName)
+			setAttributeNS(namespaceURI, qualifiedName, value)
+			removeAttributeNS(namespaceURI, localName)
+			getAttributeNodeNS(namespaceURI, localName)
+			setAttributeNodeNS(newAttr)
+			getElementsByTagNameNS(namespaceURI, localName)
+			hasAttribute(name)
+			hasAttributeNS(namespaceURI, localName)
+
+ * [Attr](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-637646024) : Node
+	
+		attribute:
+			value
+		readonly attribute:
+			name|specified|ownerElement
+
+ * [NodeList](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-536297177)
+		
+		readonly attribute:
+			length
+		method:
+			item(index)
+	
+ * [NamedNodeMap](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1780488922)
+
+		readonly attribute:
+			length
+		method:
+			getNamedItem(name)
+			setNamedItem(arg)
+			removeNamedItem(name)
+			item(index)
+			getNamedItemNS(namespaceURI, localName)
+			setNamedItemNS(arg)
+			removeNamedItemNS(namespaceURI, localName)
+		
+ * [CharacterData](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-FF21A306) : Node
+	
+		method:
+			substringData(offset, count)
+			appendData(arg)
+			insertData(offset, arg)
+			deleteData(offset, count)
+			replaceData(offset, count, arg)
+		
+ * [Text](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1312295772) : CharacterData
+	
+		method:
+			splitText(offset)
+			
+ * [CDATASection](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-667469212)
+ * [Comment](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1728279322) : CharacterData
+	
+ * [DocumentType](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-412266927)
+	
+		readonly attribute:
+			name|entities|notations|publicId|systemId|internalSubset
+			
+ * Notation : Node
+	
+		readonly attribute:
+			publicId|systemId
+			
+ * Entity : Node
+	
+		readonly attribute:
+			publicId|systemId|notationName
+			
+ * EntityReference : Node 
+ * ProcessingInstruction : Node 
+	
+		attribute:
+			data
+		readonly attribute:
+			target
+		
+DOM level 3 support:
+-----
+
+ * [Node](http://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-textContent)
+		
+		attribute:
+			textContent
+		method:
+			isDefaultNamespace(namespaceURI){
+			lookupNamespaceURI(prefix)
+
+DOM extension by xmldom
+---
+ * [Node] Source position extension; 
+		
+		attribute:
+			//Numbered starting from '1'
+			lineNumber
+			//Numbered starting from '1'
+			columnNumber
