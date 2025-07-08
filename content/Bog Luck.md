@@ -31,7 +31,7 @@ date:
 last_modified: 
 ---
 # Character Summary
-- Location: kan overal zijn
+- Location: het laatst gezien in Mere of Dead Men varend richting de zee.
 - Half-orc
 - Leider van de [[Carnath Roadhouse|Carnath Roadhouse]]. 
 - Lid van de [[Cult of the Dragon|Cult of the Dragon]]
