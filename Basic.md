@@ -1,7 +1,8 @@
 ---
 title: <% tp.file.title %>
-aliases: 
 publish: true
+aliases: 
+description: 
 tags: 
 image:
   - []
