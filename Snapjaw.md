@@ -36,8 +36,8 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-- [[content/Adventures/010 - Battle.md|010 - Battle]]
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+- [[010 - Battle|010 - Battle]]
+- [[006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Log
