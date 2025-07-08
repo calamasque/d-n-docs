@@ -7,7 +7,7 @@ campaign:
   - Dungeons & Detectives
 deceased: true
 family:
-  - "[[Metatron|Metatron]]"
+  - "[[./Metatron|Metatron]]"
 faction:
   - "[[Harpers|Harpers]]"
 race:
@@ -35,4 +35,4 @@ last_modified:
 
 
 
-Nadat de familie van [[Metatron|Metatron]] werd ontvoerd door de [[Red Wizards of Thay|Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
+Nadat de familie van [[./Metatron|Metatron]] werd ontvoerd door de [[./Red Wizards of Thay|Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
