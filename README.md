@@ -1,18 +1,70 @@
-# Quartz v4
+# yoga-wasm-web
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+[Yoga](https://github.com/facebook/yoga) but in WebAssembly and ASM.js. 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Usage
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Install with your package manager:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```sh
+pnpm i yoga-wasm-web
+npm i yoga-wasm-web
+yarn add yoga-wasm-web
+```
 
-## Sponsors
+### ASM.js
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+To use the ASM.js build:
+
+```js
+import initYoga, { ALIGN_CENTER } from 'yoga-wasm-web/asm'
+
+const Yoga = initYoga()
+const node = Yoga.Node.create()
+node.setAlignContent(ALIGN_CENTER)
+```
+
+### WASM
+
+To use the WASM build (take Node.js as an example):
+
+```js
+import fs from 'fs'
+import initYoga, { ALIGN_CENTER } from 'yoga-wasm-web'
+
+const Yoga = await initYoga(
+  fs.readFileSync('./node_modules/yoga-wasm-web/dist/yoga.wasm')
+)
+
+const node = Yoga.Node.create()
+node.setAlignContent(ALIGN_CENTER)
+```
+
+You can use other ways to provide the WASM binary too.
+
+
+## Contribution
+
+To develop this project locally, you need to clone the repo and fetch the yoga submodule first. Also, [emcc](https://emscripten.org/docs/getting_started/downloads.html) is required to build this project too.
+
+After that, install npm dependencies:
+
+```sh
+pnpm i
+```
+
+And run the build script:
+
+```sh
+pnpm build
+```
+
+And run the tests:
+
+```sh
+pnpm test
+```
+
+# Acknowledgements
+
+This project was started as **opinionated** fork from [pinqy520/yoga-layout-wasm](https://github.com/pinqy520/yoga-layout-wasm)
