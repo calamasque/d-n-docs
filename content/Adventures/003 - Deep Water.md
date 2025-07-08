@@ -1,4 +1,7 @@
 ---
+title: 003 - Deep Water
+publish: true
+aliases: 
 type:
   - session
 world:
@@ -32,7 +35,6 @@ mentions:
 encounters: 
 date: 2024-12-08
 game_date: 1489 DR
-title: 003 - Deep Water
 tags:
   - adventure
 ---

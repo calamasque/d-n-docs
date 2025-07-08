@@ -1,4 +1,8 @@
 ---
+title: <% tp.file.title %>
+publish: true
+aliases: 
+description: 
 type:
   - NPC
 world:
@@ -11,15 +15,12 @@ faction:
 race: 
 gender: 
 class: 
-description: 
 shop: 
 location: 
 origin: 
 game_date: 1489 DR
-title: <% tp.file.title %>
 tags: 
 image: 
-publish: true
 date: <% tp.date.now("YYYY-MM-DD") %>
 last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 ---

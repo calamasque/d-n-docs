@@ -1,4 +1,10 @@
 ---
+title: Bog Luck
+publish: true
+aliases: 
+- Bog the Blind
+- Blind Luck
+description: Owner of Carnath Roadhouse
 type:
   - NPC
 world:
@@ -14,13 +20,12 @@ race:
 gender:
   - male
 class: 
-description: Owner of Carnath Roadhouse
+
 shop: 
 location:
   - "[[Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
-title: Bog Luck
 tags: 
 image: 
 date: 

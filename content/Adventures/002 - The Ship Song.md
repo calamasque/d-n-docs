@@ -1,4 +1,7 @@
 ---
+title: 002 - The Ship Song
+publish: true
+aliases: 
 type:
   - session
 world:
@@ -24,7 +27,6 @@ mentions:
 encounters:
 date: 2024-11-20
 game_date: 1489 DR
-title: 002 - The Ship Song
 tags:
   - adventure
 ---

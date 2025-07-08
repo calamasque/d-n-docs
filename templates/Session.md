@@ -1,4 +1,8 @@
 ---
+title: <% tp.file.title %>
+publish: true
+aliases: 
+description: 
 type: session
 world: Forgotten Realms
 campaign: Dungeons & Detectives
@@ -14,10 +18,8 @@ NPCs:
 monsters:
 date: 
 game_date: 1489 DR
-title: <% tp.file.title %>
 tags: 
 image: 
-publish: true
 date: <% tp.date.now("YYYY-MM-DD") %>
 last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 ---
