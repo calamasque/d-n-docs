@@ -1,231 +1,431 @@
-# XMLDOM [![Build Status](https://secure.travis-ci.org/bigeasy/xmldom.png?branch=master)](http://travis-ci.org/bigeasy/xmldom) [![Coverage Status](https://coveralls.io/repos/bigeasy/xmldom/badge.png?branch=master)](https://coveralls.io/r/bigeasy/xmldom) [![NPM version](https://badge.fury.io/js/xmldom.png)](http://badge.fury.io/js/xmldom)
+# mdast-util-gfm-footnote
 
-**This is a fork of [jindw](https://github.com/jindw)'s
-[xmldom](https://github.com/jindw/xmldom) library together with
-[Rui Azevedo](https://github.com/neu-rah) code for compareDocumentPosition. It
-allows the use of
-[wicked-good-xpath](https://github.com/google/wicked-good-xpath) together with
-xmldom, using a little hack. For an example see
-[speech-rule-engine](https://github.com/zorkow/speech-rule-engine/blob/master/src/common/system_external.js).**
+[![Build][build-badge]][build]
+[![Coverage][coverage-badge]][coverage]
+[![Downloads][downloads-badge]][downloads]
+[![Size][size-badge]][size]
+[![Sponsors][sponsors-badge]][collective]
+[![Backers][backers-badge]][collective]
+[![Chat][chat-badge]][chat]
 
-_Just to be clear: This is not my code! You are welcome to use the package, but
-I can not fix any bugs!_
+[mdast][] extensions to parse and serialize [GFM][] footnotes.
 
-A JavaScript implementation of W3C DOM for Node.js, Rhino and the browser. Fully
-compatible with `W3C DOM level2`; and some compatible with `level3`. Supports
-`DOMParser` and `XMLSerializer` interface such as in browser.
+## Contents
 
+*   [What is this?](readme.md##what-is-this)
+*   [When to use this](readme.md##when-to-use-this)
+*   [Install](readme.md##install)
+*   [Use](readme.md##use)
+*   [API](readme.md##api)
+    *   [`gfmFootnoteFromMarkdown()`](#gfmfootnotefrommarkdown)
+    *   [`gfmFootnoteToMarkdown()`](#gfmfootnotetomarkdown)
+*   [HTML](readme.md##html)
+*   [Syntax](readme.md##syntax)
+*   [Syntax tree](readme.md##syntax-tree)
+    *   [Nodes](readme.md##nodes)
+    *   [Content model](readme.md##content-model)
+*   [Types](readme.md##types)
+*   [Compatibility](readme.md##compatibility)
+*   [Related](readme.md##related)
+*   [Contribute](readme.md##contribute)
+*   [License](readme.md##license)
 
-Install:
--------
->npm install xmldom-sre
+## What is this?
 
-Example:
-====
-```javascript
-var DOMParser = require('xmldom').DOMParser;
-var doc = new DOMParser().parseFromString(
-    '<xml xmlns="a" xmlns:c="./lite">\n'+
-        '\t<child>test</child>\n'+
-        '\t<child></child>\n'+
-        '\t<child/>\n'+
-    '</xml>'
-    ,'text/xml');
-doc.documentElement.setAttribute('x','y');
-doc.documentElement.setAttributeNS('./lite','c:x','y2');
-var nsAttr = doc.documentElement.getAttributeNS('./lite','x')
-console.info(nsAttr)
-console.info(doc)
+This package contains two extensions that add support for GFM footnote syntax
+in markdown to [mdast][].
+These extensions plug into
+[`mdast-util-from-markdown`][mdast-util-from-markdown] (to support parsing
+footnotes in markdown into a syntax tree) and
+[`mdast-util-to-markdown`][mdast-util-to-markdown] (to support serializing
+footnotes in syntax trees to markdown).
+
+GFM footnotes were [announced September 30, 2021][post] but are not specified.
+Their implementation on github.com is currently buggy.
+The bugs have been reported on [`cmark-gfm`][cmark-gfm].
+
+## When to use this
+
+You can use these extensions when you are working with
+`mdast-util-from-markdown` and `mdast-util-to-markdown` already.
+
+When working with `mdast-util-from-markdown`, you must combine this package
+with [`micromark-extension-gfm-footnote`][micromark-extension-gfm-footnote].
+
+When you don’t need a syntax tree, you can use [`micromark`][micromark]
+directly with `micromark-extension-gfm-footnote`.
+
+When you are working with syntax trees and want all of GFM, use
+[`mdast-util-gfm`][mdast-util-gfm] instead.
+
+All these packages are used [`remark-gfm`][remark-gfm], which
+focusses on making it easier to transform content by abstracting these
+internals away.
+
+This utility does not handle how markdown is turned to HTML.
+That’s done by [`mdast-util-to-hast`][mdast-util-to-hast].
+If your content is not in English, you should configure that utility.
+
+## Install
+
+This package is [ESM only][esm].
+In Node.js (version 16+), install with [npm][]:
+
+```sh
+npm install mdast-util-gfm-footnote
 ```
-API Reference
-=====
 
- * [DOMParser](https://developer.mozilla.org/en/DOMParser):
+In Deno with [`esm.sh`][esmsh]:
 
-	```javascript
-	parseFromString(xmlsource,mimeType)
-	```
-	* **options extension** _by xmldom_(not BOM standard!!)
+```js
+import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'https://esm.sh/mdast-util-gfm-footnote@2'
+```
 
-	```javascript
-	//added the options argument
-	new DOMParser(options)
-	
-	//errorHandler is supported
-	new DOMParser({
-		/**
-		 * locator is always need for error position info
-		 */
-		locator:{},
-		/**
-		 * you can override the errorHandler for xml parser
-		 * @link http://www.saxproject.org/apidoc/org/xml/sax/ErrorHandler.html
-		 */
-		errorHandler:{warning:function(w){console.warn(w)},error:callback,fatalError:callback}
-		//only callback model
-		//errorHandler:function(level,msg){console.log(level,msg)}
-	})
-		
-	```
+In browsers with [`esm.sh`][esmsh]:
 
- * [XMLSerializer](https://developer.mozilla.org/en/XMLSerializer)
- 
-	```javascript
-	serializeToString(node)
-	```
-DOM level2 method and attribute:
-------
+```html
+<script type="module">
+  import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'https://esm.sh/mdast-util-gfm-footnote@2?bundle'
+</script>
+```
 
- * [Node](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1950641247)
-	
-		attribute:
-			nodeValue|prefix
-		readonly attribute:
-			nodeName|nodeType|parentNode|childNodes|firstChild|lastChild|previousSibling|nextSibling|attributes|ownerDocument|namespaceURI|localName
-		method:	
-			insertBefore(newChild, refChild)
-			replaceChild(newChild, oldChild)
-			removeChild(oldChild)
-			appendChild(newChild)
-			hasChildNodes()
-			cloneNode(deep)
-			normalize()
-			isSupported(feature, version)
-			hasAttributes()
+## Use
 
- * [DOMImplementation](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-102161490)
-		
-		method:
-			hasFeature(feature, version)
-			createDocumentType(qualifiedName, publicId, systemId)
-			createDocument(namespaceURI, qualifiedName, doctype)
+Say our document `example.md` contains:
 
- * [Document](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#i-Document) : Node
-		
-		readonly attribute:
-			doctype|implementation|documentElement
-		method:
-			createElement(tagName)
-			createDocumentFragment()
-			createTextNode(data)
-			createComment(data)
-			createCDATASection(data)
-			createProcessingInstruction(target, data)
-			createAttribute(name)
-			createEntityReference(name)
-			getElementsByTagName(tagname)
-			importNode(importedNode, deep)
-			createElementNS(namespaceURI, qualifiedName)
-			createAttributeNS(namespaceURI, qualifiedName)
-			getElementsByTagNameNS(namespaceURI, localName)
-			getElementById(elementId)
+```markdown
+Hi![^1]
 
- * [DocumentFragment](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-B63ED1A3) : Node
- * [Element](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-745549614) : Node
-		
-		readonly attribute:
-			tagName
-		method:
-			getAttribute(name)
-			setAttribute(name, value)
-			removeAttribute(name)
-			getAttributeNode(name)
-			setAttributeNode(newAttr)
-			removeAttributeNode(oldAttr)
-			getElementsByTagName(name)
-			getAttributeNS(namespaceURI, localName)
-			setAttributeNS(namespaceURI, qualifiedName, value)
-			removeAttributeNS(namespaceURI, localName)
-			getAttributeNodeNS(namespaceURI, localName)
-			setAttributeNodeNS(newAttr)
-			getElementsByTagNameNS(namespaceURI, localName)
-			hasAttribute(name)
-			hasAttributeNS(namespaceURI, localName)
+[^1]: big note
+```
 
- * [Attr](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-637646024) : Node
-	
-		attribute:
-			value
-		readonly attribute:
-			name|specified|ownerElement
+…and our module `example.js` looks as follows:
 
- * [NodeList](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-536297177)
-		
-		readonly attribute:
-			length
-		method:
-			item(index)
-	
- * [NamedNodeMap](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1780488922)
+```js
+import fs from 'node:fs/promises'
+import {fromMarkdown} from 'mdast-util-from-markdown'
+import {toMarkdown} from 'mdast-util-to-markdown'
+import {gfmFootnote} from 'micromark-extension-gfm-footnote'
+import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'mdast-util-gfm-footnote'
 
-		readonly attribute:
-			length
-		method:
-			getNamedItem(name)
-			setNamedItem(arg)
-			removeNamedItem(name)
-			item(index)
-			getNamedItemNS(namespaceURI, localName)
-			setNamedItemNS(arg)
-			removeNamedItemNS(namespaceURI, localName)
-		
- * [CharacterData](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-FF21A306) : Node
-	
-		method:
-			substringData(offset, count)
-			appendData(arg)
-			insertData(offset, arg)
-			deleteData(offset, count)
-			replaceData(offset, count, arg)
-		
- * [Text](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1312295772) : CharacterData
-	
-		method:
-			splitText(offset)
-			
- * [CDATASection](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-667469212)
- * [Comment](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-1728279322) : CharacterData
-	
- * [DocumentType](http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/core.html#ID-412266927)
-	
-		readonly attribute:
-			name|entities|notations|publicId|systemId|internalSubset
-			
- * Notation : Node
-	
-		readonly attribute:
-			publicId|systemId
-			
- * Entity : Node
-	
-		readonly attribute:
-			publicId|systemId|notationName
-			
- * EntityReference : Node 
- * ProcessingInstruction : Node 
-	
-		attribute:
-			data
-		readonly attribute:
-			target
-		
-DOM level 3 support:
------
+const doc = await fs.readFile('example.md')
 
- * [Node](http://www.w3.org/TR/DOM-Level-3-Core/core.html#Node3-textContent)
-		
-		attribute:
-			textContent
-		method:
-			isDefaultNamespace(namespaceURI){
-			lookupNamespaceURI(prefix)
+const tree = fromMarkdown(doc, {
+  extensions: [gfmFootnote()],
+  mdastExtensions: [gfmFootnoteFromMarkdown()]
+})
 
-DOM extension by xmldom
----
- * [Node] Source position extension; 
-		
-		attribute:
-			//Numbered starting from '1'
-			lineNumber
-			//Numbered starting from '1'
-			columnNumber
+console.log(tree)
+
+const out = toMarkdown(tree, {extensions: [gfmFootnoteToMarkdown()]})
+
+console.log(out)
+```
+
+…now running `node example.js` yields (positional info removed for brevity):
+
+```js
+{
+  type: 'root',
+  children: [
+    {
+      type: 'paragraph',
+      children: [
+        {type: 'text', value: 'Hi!'},
+        {type: 'footnoteReference', identifier: '1', label: '1'}
+      ]
+    },
+    {
+      type: 'footnoteDefinition',
+      identifier: '1',
+      label: '1',
+      children: [
+        {type: 'paragraph', children: [{type: 'text', value: 'big note'}]}
+      ]
+    }
+  ]
+}
+```
+
+```markdown
+Hi\![^1]
+
+[^1]: big note
+```
+
+## API
+
+This package exports the identifiers
+[`gfmFootnoteFromMarkdown`][api-gfmfootnotefrommarkdown] and
+[`gfmFootnoteToMarkdown`][api-gfmfootnotetomarkdown].
+There is no default export.
+
+### `gfmFootnoteFromMarkdown()`
+
+Create an extension for
+[`mdast-util-from-markdown`][mdast-util-from-markdown]
+to enable GFM footnotes in markdown.
+
+###### Returns
+
+Extension for `mdast-util-from-markdown`
+([`FromMarkdownExtension`][frommarkdownextension]).
+
+### `gfmFootnoteToMarkdown()`
+
+Create an extension for
+[`mdast-util-to-markdown`][mdast-util-to-markdown]
+to enable GFM footnotes in markdown.
+
+###### Returns
+
+Extension for `mdast-util-to-markdown`
+([`ToMarkdownExtension`][tomarkdownextension]).
+
+## HTML
+
+This utility does not handle how markdown is turned to HTML.
+That’s done by [`mdast-util-to-hast`][mdast-util-to-hast].
+If your content is not in English, you should configure that utility.
+
+## Syntax
+
+See [Syntax in `micromark-extension-gfm-footnote`][syntax].
+
+## Syntax tree
+
+The following interfaces are added to **[mdast][]** by this utility.
+
+### Nodes
+
+#### `FootnoteDefinition`
+
+```idl
+interface FootnoteDefinition <: Parent {
+  type: 'footnoteDefinition'
+  children: [FlowContent]
+}
+
+FootnoteDefinition includes Association
+```
+
+**FootnoteDefinition** (**[Parent][dfn-parent]**) represents content relating
+to the document that is outside its flow.
+
+**FootnoteDefinition** can be used where **[flow][dfn-flow-content]** content
+is expected.
+Its content model is also **[flow][dfn-flow-content]** content.
+
+**FootnoteDefinition** includes the mixin
+**[Association][dfn-mxn-association]**.
+
+**FootnoteDefinition** should be associated with
+**[FootnoteReferences][dfn-footnote-reference]**.
+
+For example, the following markdown:
+
+```markdown
+[^alpha]: bravo and charlie.
+```
+
+Yields:
+
+```js
+{
+  type: 'footnoteDefinition',
+  identifier: 'alpha',
+  label: 'alpha',
+  children: [{
+    type: 'paragraph',
+    children: [{type: 'text', value: 'bravo and charlie.'}]
+  }]
+}
+```
+
+#### `FootnoteReference`
+
+```idl
+interface FootnoteReference <: Node {
+  type: 'footnoteReference'
+}
+
+FootnoteReference includes Association
+```
+
+**FootnoteReference** (**[Node][dfn-node]**) represents a marker through
+association.
+
+**FootnoteReference** can be used where
+**[phrasing][dfn-phrasing-content]** content is expected.
+It has no content model.
+
+**FootnoteReference** includes the mixin **[Association][dfn-mxn-association]**.
+
+**FootnoteReference** should be associated with a
+**[FootnoteDefinition][dfn-footnote-definition]**.
+
+For example, the following markdown:
+
+```markdown
+[^alpha]
+```
+
+Yields:
+
+```js
+{
+  type: 'footnoteReference',
+  identifier: 'alpha',
+  label: 'alpha'
+}
+```
+
+### Content model
+
+#### `FlowContent` (GFM footnotes)
+
+```idl
+type FlowContentGfm = FootnoteDefinition | FlowContent
+```
+
+#### `PhrasingContent` (GFM footnotes)
+
+```idl
+type PhrasingContentGfm = FootnoteReference | PhrasingContent
+```
+
+## Types
+
+This package is fully typed with [TypeScript][].
+It does not export additional types.
+
+The `FootnoteDefinition` and `FootnoteReference` types of the mdast nodes are
+exposed from `@types/mdast`.
+
+## Compatibility
+
+Projects maintained by the unified collective are compatible with maintained
+versions of Node.js.
+
+When we cut a new major release, we drop support for unmaintained versions of
+Node.
+This means we try to keep the current release line,
+`mdast-util-gfm-footnote@^2`, compatible with Node.js 16.
+
+## Related
+
+*   [`remark-gfm`][remark-gfm]
+    — remark plugin to support GFM
+*   [`mdast-util-gfm`][mdast-util-gfm]
+    — same but all of GFM (autolink literals, footnotes, strikethrough, tables,
+    tasklists)
+*   [`micromark-extension-gfm-footnote`][micromark-extension-gfm-footnote]
+    — micromark extension to parse GFM footnotes
+
+## Contribute
+
+See [`contributing.md`][contributing] in [`syntax-tree/.github`][health] for
+ways to get started.
+See [`support.md`][support] for ways to get help.
+
+This project has a [code of conduct][coc].
+By interacting with this repository, organization, or community you agree to
+abide by its terms.
+
+## License
+
+[MIT][license] © [Titus Wormer][author]
+
+<!-- Definitions -->
+
+[build-badge]: https://github.com/syntax-tree/mdast-util-gfm-footnote/workflows/main/badge.svg
+
+[build]: https://github.com/syntax-tree/mdast-util-gfm-footnote/actions
+
+[coverage-badge]: https://img.shields.io/codecov/c/github/syntax-tree/mdast-util-gfm-footnote.svg
+
+[coverage]: https://codecov.io/github/syntax-tree/mdast-util-gfm-footnote
+
+[downloads-badge]: https://img.shields.io/npm/dm/mdast-util-gfm-footnote.svg
+
+[downloads]: https://www.npmjs.com/package/mdast-util-gfm-footnote
+
+[size-badge]: https://img.shields.io/badge/dynamic/json?label=minzipped%20size&query=$.size.compressedSize&url=https://deno.bundlejs.com/?q=mdast-util-gfm-footnote
+
+[size]: https://bundlejs.com/?q=mdast-util-gfm-footnote
+
+[sponsors-badge]: https://opencollective.com/unified/sponsors/badge.svg
+
+[backers-badge]: https://opencollective.com/unified/backers/badge.svg
+
+[collective]: https://opencollective.com/unified
+
+[chat-badge]: https://img.shields.io/badge/chat-discussions-success.svg
+
+[chat]: https://github.com/syntax-tree/unist/discussions
+
+[npm]: https://docs.npmjs.com/cli/install
+
+[esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
+
+[esmsh]: https://esm.sh
+
+[typescript]: https://www.typescriptlang.org
+
+[license]: license
+
+[author]: https://wooorm.com
+
+[health]: https://github.com/syntax-tree/.github
+
+[contributing]: https://github.com/syntax-tree/.github/blob/main/contributing.md
+
+[support]: https://github.com/syntax-tree/.github/blob/main/support.md
+
+[coc]: https://github.com/syntax-tree/.github/blob/main/code-of-conduct.md
+
+[mdast]: https://github.com/syntax-tree/mdast
+
+[mdast-util-gfm]: https://github.com/syntax-tree/mdast-util-gfm
+
+[remark-gfm]: https://github.com/remarkjs/remark-gfm
+
+[micromark]: https://github.com/micromark/micromark
+
+[micromark-extension-gfm-footnote]: https://github.com/micromark/micromark-extension-gfm-footnote
+
+[syntax]: https://github.com/micromark/micromark-extension-gfm-footnote#syntax
+
+[gfm]: https://github.github.com/gfm/
+
+[cmark-gfm]: https://github.com/github/cmark-gfm
+
+[post]: https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/
+
+[mdast-util-from-markdown]: https://github.com/syntax-tree/mdast-util-from-markdown
+
+[mdast-util-to-markdown]: https://github.com/syntax-tree/mdast-util-to-markdown
+
+[mdast-util-to-hast]: https://github.com/syntax-tree/mdast-util-to-hast
+
+[dfn-parent]: https://github.com/syntax-tree/mdast#parent
+
+[dfn-mxn-association]: https://github.com/syntax-tree/mdast#association
+
+[dfn-node]: https://github.com/syntax-tree/unist#node
+
+[frommarkdownextension]: https://github.com/syntax-tree/mdast-util-from-markdown#extension
+
+[tomarkdownextension]: https://github.com/syntax-tree/mdast-util-to-markdown#options
+
+[dfn-flow-content]: #flowcontent-gfm-footnotes
+
+[dfn-phrasing-content]: #phrasingcontent-gfm-footnotes
+
+[dfn-footnote-reference]: #footnotereference
+
+[dfn-footnote-definition]: #footnotedefinition
+
+[api-gfmfootnotefrommarkdown]: #gfmfootnotefrommarkdown
+
+[api-gfmfootnotetomarkdown]: #gfmfootnotetomarkdown
