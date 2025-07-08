@@ -37,9 +37,9 @@ last_modified:
 - Lid van de [[Cult of the Dragon|Cult of the Dragon]]
 - Heeft een hekel aan [[SmogEater|SmogEater]] die hij kent als voormalig lid van de [[Cult of the Dragon|Cult of the Dragon]] en uit hun jeugd. Kijkt op Smoggie neer en neemt hem niet serieus
 ## Featured
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
-- [[content/Adventures/005 - Eye Know (Bog Luck's Song).md|005 - Eye Know (Bog Luck's Song)]]
-- [[content/Adventures/004 - Roadhouse Blues.md|004 - Roadhouse Blues]]
+- [[006 - Windowlicker|006 - Windowlicker]]
+- [[005 - Eye Know (Bog Luck's Song)|005 - Eye Know (Bog Luck's Song)]]
+- [[./004 - Roadhouse Blues|004 - Roadhouse Blues]]
 
 ## Mentions
 

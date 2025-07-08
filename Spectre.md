@@ -22,7 +22,7 @@ last_modified: 2025-07-06
 * 
 
 ## Featured
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+- [[006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Locations
