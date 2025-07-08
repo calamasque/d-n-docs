@@ -1,5 +1,5 @@
 ---
-title: 001 - You Got A Friend In Me Pete
+title: 001 - You Got A Friend In Me
 publish: true
 aliases: 
 type:

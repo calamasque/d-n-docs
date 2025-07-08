@@ -1,4 +1,7 @@
 ---
+title: 004 - Roadhouse Blues
+publish: true
+aliases: 
 type:
   - session
 world:
@@ -24,7 +27,6 @@ mentions:
 encounters: "[[Bullywug tribe]]"
 date: 2025-01-26
 game_date: 1489 DR
-title: 004 - Roadhouse Blues
 tags:
 ---
 

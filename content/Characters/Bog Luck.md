@@ -32,7 +32,7 @@ date:
 last_modified:
 ---
 # Character Summary
-- Location: 
+- Location: kan overal zijn
 - Half-orc
 - Leider van de [[Carnath Roadhouse]]. 
 - Lid van de [[Cult of the Dragon]]
