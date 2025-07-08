@@ -1,100 +1,160 @@
-# Change Log
+# Release history
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file.
 
-### [5.0.8](https://www.github.com/yargs/y18n/compare/v5.0.7...v5.0.8) (2021-04-07)
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+<details>
+  <summary><strong>Guiding Principles</strong></summary>
 
-### Bug Fixes
+- Changelogs are for humans, not machines.
+- There should be an entry for every single version.
+- The same types of changes should be grouped.
+- Versions and sections should be linkable.
+- The latest version comes first.
+- The release date of each versions is displayed.
+- Mention whether you follow Semantic Versioning.
 
-* **deno:** force modern release for Deno ([b1c215a](https://www.github.com/yargs/y18n/commit/b1c215aed714bee5830e76de3e335504dc2c4dab))
+</details>
 
-### [5.0.7](https://www.github.com/yargs/y18n/compare/v5.0.6...v5.0.7) (2021-04-07)
+<details>
+  <summary><strong>Types of changes</strong></summary>
 
+Changelog entries are classified using the following labels _(from [keep-a-changelog](http://keepachangelog.com/)_):
 
-### Bug Fixes
+- `Added` for new features.
+- `Changed` for changes in existing functionality.
+- `Deprecated` for soon-to-be removed features.
+- `Removed` for now removed features.
+- `Fixed` for any bug fixes.
+- `Security` in case of vulnerabilities.
 
-* **deno:** force release for deno ([#121](https://www.github.com/yargs/y18n/issues/121)) ([d3f2560](https://www.github.com/yargs/y18n/commit/d3f2560e6cedf2bfa2352e9eec044da53f9a06b2))
+</details>
 
-### [5.0.6](https://www.github.com/yargs/y18n/compare/v5.0.5...v5.0.6) (2021-04-05)
+## [6.0.3] - 2020-01-16
 
+- Merge pull request #31 for issue #30
 
-### Bug Fixes
+## [6.0.0] - 2017-10-13
 
-* **webpack:** skip readFileSync if not defined ([#117](https://www.github.com/yargs/y18n/issues/117)) ([6966fa9](https://www.github.com/yargs/y18n/commit/6966fa91d2881cc6a6c531e836099e01f4da1616))
+- refactor code to be more performant
+- refactor benchmarks
 
-### [5.0.5](https://www.github.com/yargs/y18n/compare/v5.0.4...v5.0.5) (2020-10-25)
+## [5.1.0] - 2017-10-13
 
+**Added**
 
-### Bug Fixes
+- Merge pull request #15 from aretecode/patch-1
+- adds support and tests for string & array iterators
 
-* address prototype pollution issue ([#108](https://www.github.com/yargs/y18n/issues/108)) ([a9ac604](https://www.github.com/yargs/y18n/commit/a9ac604abf756dec9687be3843e2c93bfe581f25))
+**Changed**
 
-### [5.0.4](https://www.github.com/yargs/y18n/compare/v5.0.3...v5.0.4) (2020-10-16)
+- updates benchmarks
 
+## [5.0.2] - 2017-08-02
 
-### Bug Fixes
+- Merge pull request #14 from struct78/master
+- Added `undefined` check
 
-* **exports:** node 13.0 and 13.1 require the dotted object form _with_ a string fallback ([#105](https://www.github.com/yargs/y18n/issues/105)) ([4f85d80](https://www.github.com/yargs/y18n/commit/4f85d80dbaae6d2c7899ae394f7ad97805df4886))
+## [5.0.0] - 2017-06-21
 
-### [5.0.3](https://www.github.com/yargs/y18n/compare/v5.0.2...v5.0.3) (2020-10-16)
+- Merge pull request #12 from aretecode/iterator
+- Set Iterator + Map Iterator
+- streamline `isbuffer`, minor edits
 
+## [4.0.0] - 2017-05-19
 
-### Bug Fixes
+- Merge pull request #8 from tunnckoCore/master
+- update deps
 
-* **exports:** node 13.0-13.6 require a string fallback ([#103](https://www.github.com/yargs/y18n/issues/103)) ([e39921e](https://www.github.com/yargs/y18n/commit/e39921e1017f88f5d8ea97ddea854ffe92d68e74))
+## [3.2.2] - 2017-05-16
 
-### [5.0.2](https://www.github.com/yargs/y18n/compare/v5.0.1...v5.0.2) (2020-10-01)
+- fix version
 
+## [3.2.1] - 2017-05-16
 
-### Bug Fixes
+- add browserify
 
-* **deno:** update types for deno ^1.4.0 ([#100](https://www.github.com/yargs/y18n/issues/100)) ([3834d9a](https://www.github.com/yargs/y18n/commit/3834d9ab1332f2937c935ada5e76623290efae81))
+## [3.2.0] - 2017-04-25
 
-### [5.0.1](https://www.github.com/yargs/y18n/compare/v5.0.0...v5.0.1) (2020-09-05)
+- Merge pull request #10 from ksheedlo/unrequire-buffer
+- add `promise` support and tests
+- Remove unnecessary `Buffer` check
 
+## [3.1.0] - 2016-12-07
 
-### Bug Fixes
+- Merge pull request #7 from laggingreflex/err
+- add support for `error` and tests
+- run update
 
-* main had old index path ([#98](https://www.github.com/yargs/y18n/issues/98)) ([124f7b0](https://www.github.com/yargs/y18n/commit/124f7b047ba9596bdbdf64459988304e77f3de1b))
+## [3.0.4] - 2016-07-29
 
-## [5.0.0](https://www.github.com/yargs/y18n/compare/v4.0.0...v5.0.0) (2020-09-05)
+- move tests
+- run update
 
+## [3.0.3] - 2016-05-03
 
-### ⚠ BREAKING CHANGES
+- fix prepublish script
+- remove unused dep
 
-* exports maps are now used, which modifies import behavior.
-* drops Node 6 and 4. begin following Node.js LTS schedule (#89)
+## [3.0.0] - 2015-11-17
 
-### Features
+- add typed array support
+- Merge pull request #5 from miguelmota/typed-arrays
+- adds new tests
 
-* add support for ESM and Deno [#95](https://www.github.com/yargs/y18n/issues/95)) ([4d7ae94](https://www.github.com/yargs/y18n/commit/4d7ae94bcb42e84164e2180366474b1cd321ed94))
+## [2.0.1] - 2015-08-21
 
+- use `is-buffer` module
 
-### Build System
+## [2.0.0] - 2015-05-31
 
-* drops Node 6 and 4. begin following Node.js LTS schedule ([#89](https://www.github.com/yargs/y18n/issues/89)) ([3cc0c28](https://www.github.com/yargs/y18n/commit/3cc0c287240727b84eaf1927f903612ec80f5e43))
+- Create fallback for `Array.isArray` if used as a browser package
+- Merge pull request #2 from dtothefp/patch-1
+- Merge pull request #3 from pdehaan/patch-1
+- Merge branch 'master' of https://github.com/chorks/kind-of into chorks-master
+- optimizations, mostly date and regex
 
-### 4.0.1 (2020-10-25)
+## [1.1.0] - 2015-02-09
 
+- adds `buffer` support
+- adds tests for `buffer`
 
-### Bug Fixes
+## [1.0.0] - 2015-01-19
 
-* address prototype pollution issue ([#108](https://www.github.com/yargs/y18n/issues/108)) ([a9ac604](https://www.github.com/yargs/y18n/commit/7de58ca0d315990cdb38234e97fc66254cdbcd71))
+- update benchmarks
+- optimizations based on benchmarks
 
-## [4.0.0](https://github.com/yargs/y18n/compare/v3.2.1...v4.0.0) (2017-10-10)
+## [0.1.2] - 2014-10-26
 
+- return `typeof` value if it's not an object. very slight speed improvement
+- use `.slice`
+- adds benchmarks
 
-### Bug Fixes
+## [0.1.0] - 2014-9-26
 
-* allow support for falsy values like 0 in tagged literal ([#45](https://github.com/yargs/y18n/issues/45)) ([c926123](https://github.com/yargs/y18n/commit/c926123))
+- first commit
 
+[6.0.0]: https://github.com/jonschlinkert/kind-of/compare/5.1.0...6.0.0
+[5.1.0]: https://github.com/jonschlinkert/kind-of/compare/5.0.2...5.1.0
+[5.0.2]: https://github.com/jonschlinkert/kind-of/compare/5.0.1...5.0.2
+[5.0.1]: https://github.com/jonschlinkert/kind-of/compare/5.0.0...5.0.1
+[5.0.0]: https://github.com/jonschlinkert/kind-of/compare/4.0.0...5.0.0
+[4.0.0]: https://github.com/jonschlinkert/kind-of/compare/3.2.2...4.0.0
+[3.2.2]: https://github.com/jonschlinkert/kind-of/compare/3.2.1...3.2.2
+[3.2.1]: https://github.com/jonschlinkert/kind-of/compare/3.2.0...3.2.1
+[3.2.0]: https://github.com/jonschlinkert/kind-of/compare/3.1.0...3.2.0
+[3.1.0]: https://github.com/jonschlinkert/kind-of/compare/3.0.4...3.1.0
+[3.0.4]: https://github.com/jonschlinkert/kind-of/compare/3.0.3...3.0.4
+[3.0.3]: https://github.com/jonschlinkert/kind-of/compare/3.0.0...3.0.3
+[3.0.0]: https://github.com/jonschlinkert/kind-of/compare/2.0.1...3.0.0
+[2.0.1]: https://github.com/jonschlinkert/kind-of/compare/2.0.0...2.0.1
+[2.0.0]: https://github.com/jonschlinkert/kind-of/compare/1.1.0...2.0.0
+[1.1.0]: https://github.com/jonschlinkert/kind-of/compare/1.0.0...1.1.0
+[1.0.0]: https://github.com/jonschlinkert/kind-of/compare/0.1.2...1.0.0
+[0.1.2]: https://github.com/jonschlinkert/kind-of/compare/0.1.0...0.1.2
+[0.1.0]: https://github.com/jonschlinkert/kind-of/commit/2fae09b0b19b1aadb558e9be39f0c3ef6034eb87
 
-### Features
-
-* **__:** added tagged template literal support ([#44](https://github.com/yargs/y18n/issues/44)) ([0598daf](https://github.com/yargs/y18n/commit/0598daf))
-
-
-### BREAKING CHANGES
-
-* **__:** dropping Node 0.10/Node 0.12 support
+[Unreleased]: https://github.com/jonschlinkert/kind-of/compare/0.1.2...HEAD
+[keep-a-changelog]: https://github.com/olivierlacan/keep-a-changelog
