@@ -1,431 +1,173 @@
-# mdast-util-gfm-footnote
+# ansi-styles
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
-[![Sponsors][sponsors-badge]][collective]
-[![Backers][backers-badge]][collective]
-[![Chat][chat-badge]][chat]
+> [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors_and_Styles) for styling strings in the terminal
 
-[mdast][] extensions to parse and serialize [GFM][] footnotes.
+You probably want the higher-level [chalk](https://github.com/chalk/chalk) module for styling your strings.
 
-## Contents
-
-*   [What is this?](readme.md##what-is-this)
-*   [When to use this](readme.md##when-to-use-this)
-*   [Install](readme.md##install)
-*   [Use](readme.md##use)
-*   [API](readme.md##api)
-    *   [`gfmFootnoteFromMarkdown()`](#gfmfootnotefrommarkdown)
-    *   [`gfmFootnoteToMarkdown()`](#gfmfootnotetomarkdown)
-*   [HTML](readme.md##html)
-*   [Syntax](readme.md##syntax)
-*   [Syntax tree](readme.md##syntax-tree)
-    *   [Nodes](readme.md##nodes)
-    *   [Content model](readme.md##content-model)
-*   [Types](readme.md##types)
-*   [Compatibility](readme.md##compatibility)
-*   [Related](readme.md##related)
-*   [Contribute](readme.md##contribute)
-*   [License](readme.md##license)
-
-## What is this?
-
-This package contains two extensions that add support for GFM footnote syntax
-in markdown to [mdast][].
-These extensions plug into
-[`mdast-util-from-markdown`][mdast-util-from-markdown] (to support parsing
-footnotes in markdown into a syntax tree) and
-[`mdast-util-to-markdown`][mdast-util-to-markdown] (to support serializing
-footnotes in syntax trees to markdown).
-
-GFM footnotes were [announced September 30, 2021][post] but are not specified.
-Their implementation on github.com is currently buggy.
-The bugs have been reported on [`cmark-gfm`][cmark-gfm].
-
-## When to use this
-
-You can use these extensions when you are working with
-`mdast-util-from-markdown` and `mdast-util-to-markdown` already.
-
-When working with `mdast-util-from-markdown`, you must combine this package
-with [`micromark-extension-gfm-footnote`][micromark-extension-gfm-footnote].
-
-When you don’t need a syntax tree, you can use [`micromark`][micromark]
-directly with `micromark-extension-gfm-footnote`.
-
-When you are working with syntax trees and want all of GFM, use
-[`mdast-util-gfm`][mdast-util-gfm] instead.
-
-All these packages are used [`remark-gfm`][remark-gfm], which
-focusses on making it easier to transform content by abstracting these
-internals away.
-
-This utility does not handle how markdown is turned to HTML.
-That’s done by [`mdast-util-to-hast`][mdast-util-to-hast].
-If your content is not in English, you should configure that utility.
+![](screenshot.png)
 
 ## Install
 
-This package is [ESM only][esm].
-In Node.js (version 16+), install with [npm][]:
-
 ```sh
-npm install mdast-util-gfm-footnote
+npm install ansi-styles
 ```
 
-In Deno with [`esm.sh`][esmsh]:
+## Usage
 
 ```js
-import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'https://esm.sh/mdast-util-gfm-footnote@2'
-```
+import styles from 'ansi-styles';
 
-In browsers with [`esm.sh`][esmsh]:
+console.log(`${styles.green.open}Hello world!${styles.green.close}`);
 
-```html
-<script type="module">
-  import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'https://esm.sh/mdast-util-gfm-footnote@2?bundle'
-</script>
-```
 
-## Use
-
-Say our document `example.md` contains:
-
-```markdown
-Hi![^1]
-
-[^1]: big note
-```
-
-…and our module `example.js` looks as follows:
-
-```js
-import fs from 'node:fs/promises'
-import {fromMarkdown} from 'mdast-util-from-markdown'
-import {toMarkdown} from 'mdast-util-to-markdown'
-import {gfmFootnote} from 'micromark-extension-gfm-footnote'
-import {gfmFootnoteFromMarkdown, gfmFootnoteToMarkdown} from 'mdast-util-gfm-footnote'
-
-const doc = await fs.readFile('example.md')
-
-const tree = fromMarkdown(doc, {
-  extensions: [gfmFootnote()],
-  mdastExtensions: [gfmFootnoteFromMarkdown()]
-})
-
-console.log(tree)
-
-const out = toMarkdown(tree, {extensions: [gfmFootnoteToMarkdown()]})
-
-console.log(out)
-```
-
-…now running `node example.js` yields (positional info removed for brevity):
-
-```js
-{
-  type: 'root',
-  children: [
-    {
-      type: 'paragraph',
-      children: [
-        {type: 'text', value: 'Hi!'},
-        {type: 'footnoteReference', identifier: '1', label: '1'}
-      ]
-    },
-    {
-      type: 'footnoteDefinition',
-      identifier: '1',
-      label: '1',
-      children: [
-        {type: 'paragraph', children: [{type: 'text', value: 'big note'}]}
-      ]
-    }
-  ]
-}
-```
-
-```markdown
-Hi\![^1]
-
-[^1]: big note
+// Color conversion between 256/truecolor
+// NOTE: When converting from truecolor to 256 colors, the original color
+//       may be degraded to fit the new color palette. This means terminals
+//       that do not support 16 million colors will best-match the
+//       original color.
+console.log(`${styles.color.ansi(styles.rgbToAnsi(199, 20, 250))}Hello World${styles.color.close}`)
+console.log(`${styles.color.ansi256(styles.rgbToAnsi256(199, 20, 250))}Hello World${styles.color.close}`)
+console.log(`${styles.color.ansi16m(...styles.hexToRgb('#abcdef'))}Hello World${styles.color.close}`)
 ```
 
 ## API
 
-This package exports the identifiers
-[`gfmFootnoteFromMarkdown`][api-gfmfootnotefrommarkdown] and
-[`gfmFootnoteToMarkdown`][api-gfmfootnotetomarkdown].
-There is no default export.
+### `open` and `close`
 
-### `gfmFootnoteFromMarkdown()`
+Each style has an `open` and `close` property.
 
-Create an extension for
-[`mdast-util-from-markdown`][mdast-util-from-markdown]
-to enable GFM footnotes in markdown.
+### `modifierNames`, `foregroundColorNames`, `backgroundColorNames`, and `colorNames`
 
-###### Returns
+All supported style strings are exposed as an array of strings for convenience. `colorNames` is the combination of `foregroundColorNames` and `backgroundColorNames`.
 
-Extension for `mdast-util-from-markdown`
-([`FromMarkdownExtension`][frommarkdownextension]).
-
-### `gfmFootnoteToMarkdown()`
-
-Create an extension for
-[`mdast-util-to-markdown`][mdast-util-to-markdown]
-to enable GFM footnotes in markdown.
-
-###### Returns
-
-Extension for `mdast-util-to-markdown`
-([`ToMarkdownExtension`][tomarkdownextension]).
-
-## HTML
-
-This utility does not handle how markdown is turned to HTML.
-That’s done by [`mdast-util-to-hast`][mdast-util-to-hast].
-If your content is not in English, you should configure that utility.
-
-## Syntax
-
-See [Syntax in `micromark-extension-gfm-footnote`][syntax].
-
-## Syntax tree
-
-The following interfaces are added to **[mdast][]** by this utility.
-
-### Nodes
-
-#### `FootnoteDefinition`
-
-```idl
-interface FootnoteDefinition <: Parent {
-  type: 'footnoteDefinition'
-  children: [FlowContent]
-}
-
-FootnoteDefinition includes Association
-```
-
-**FootnoteDefinition** (**[Parent][dfn-parent]**) represents content relating
-to the document that is outside its flow.
-
-**FootnoteDefinition** can be used where **[flow][dfn-flow-content]** content
-is expected.
-Its content model is also **[flow][dfn-flow-content]** content.
-
-**FootnoteDefinition** includes the mixin
-**[Association][dfn-mxn-association]**.
-
-**FootnoteDefinition** should be associated with
-**[FootnoteReferences][dfn-footnote-reference]**.
-
-For example, the following markdown:
-
-```markdown
-[^alpha]: bravo and charlie.
-```
-
-Yields:
+This can be useful if you need to validate input:
 
 ```js
-{
-  type: 'footnoteDefinition',
-  identifier: 'alpha',
-  label: 'alpha',
-  children: [{
-    type: 'paragraph',
-    children: [{type: 'text', value: 'bravo and charlie.'}]
-  }]
-}
+import {modifierNames, foregroundColorNames} from 'ansi-styles';
+
+console.log(modifierNames.includes('bold'));
+//=> true
+
+console.log(foregroundColorNames.includes('pink'));
+//=> false
 ```
 
-#### `FootnoteReference`
+## Styles
 
-```idl
-interface FootnoteReference <: Node {
-  type: 'footnoteReference'
-}
+### Modifiers
 
-FootnoteReference includes Association
-```
+- `reset`
+- `bold`
+- `dim`
+- `italic` *(Not widely supported)*
+- `underline`
+- `overline` *Supported on VTE-based terminals, the GNOME terminal, mintty, and Git Bash.*
+- `inverse`
+- `hidden`
+- `strikethrough` *(Not widely supported)*
 
-**FootnoteReference** (**[Node][dfn-node]**) represents a marker through
-association.
+### Colors
 
-**FootnoteReference** can be used where
-**[phrasing][dfn-phrasing-content]** content is expected.
-It has no content model.
+- `black`
+- `red`
+- `green`
+- `yellow`
+- `blue`
+- `magenta`
+- `cyan`
+- `white`
+- `blackBright` (alias: `gray`, `grey`)
+- `redBright`
+- `greenBright`
+- `yellowBright`
+- `blueBright`
+- `magentaBright`
+- `cyanBright`
+- `whiteBright`
 
-**FootnoteReference** includes the mixin **[Association][dfn-mxn-association]**.
+### Background colors
 
-**FootnoteReference** should be associated with a
-**[FootnoteDefinition][dfn-footnote-definition]**.
+- `bgBlack`
+- `bgRed`
+- `bgGreen`
+- `bgYellow`
+- `bgBlue`
+- `bgMagenta`
+- `bgCyan`
+- `bgWhite`
+- `bgBlackBright` (alias: `bgGray`, `bgGrey`)
+- `bgRedBright`
+- `bgGreenBright`
+- `bgYellowBright`
+- `bgBlueBright`
+- `bgMagentaBright`
+- `bgCyanBright`
+- `bgWhiteBright`
 
-For example, the following markdown:
+## Advanced usage
 
-```markdown
-[^alpha]
-```
+By default, you get a map of styles, but the styles are also available as groups. They are non-enumerable so they don't show up unless you access them explicitly. This makes it easier to expose only a subset in a higher-level module.
 
-Yields:
+- `styles.modifier`
+- `styles.color`
+- `styles.bgColor`
+
+###### Example
 
 ```js
-{
-  type: 'footnoteReference',
-  identifier: 'alpha',
-  label: 'alpha'
-}
+import styles from 'ansi-styles';
+
+console.log(styles.color.green.open);
 ```
 
-### Content model
+Raw escape codes (i.e. without the CSI escape prefix `\u001B[` and render mode postfix `m`) are available under `styles.codes`, which returns a `Map` with the open codes as keys and close codes as values.
 
-#### `FlowContent` (GFM footnotes)
+###### Example
 
-```idl
-type FlowContentGfm = FootnoteDefinition | FlowContent
+```js
+import styles from 'ansi-styles';
+
+console.log(styles.codes.get(36));
+//=> 39
 ```
 
-#### `PhrasingContent` (GFM footnotes)
+## 16 / 256 / 16 million (TrueColor) support
 
-```idl
-type PhrasingContentGfm = FootnoteReference | PhrasingContent
+`ansi-styles` allows converting between various color formats and ANSI escapes, with support for 16, 256 and [16 million colors](https://gist.github.com/XVilka/8346728).
+
+The following color spaces are supported:
+
+- `rgb`
+- `hex`
+- `ansi256`
+- `ansi`
+
+To use these, call the associated conversion function with the intended output, for example:
+
+```js
+import styles from 'ansi-styles';
+
+styles.color.ansi(styles.rgbToAnsi(100, 200, 15)); // RGB to 16 color ansi foreground code
+styles.bgColor.ansi(styles.hexToAnsi('#C0FFEE')); // HEX to 16 color ansi foreground code
+
+styles.color.ansi256(styles.rgbToAnsi256(100, 200, 15)); // RGB to 256 color ansi foreground code
+styles.bgColor.ansi256(styles.hexToAnsi256('#C0FFEE')); // HEX to 256 color ansi foreground code
+
+styles.color.ansi16m(100, 200, 15); // RGB to 16 million color foreground code
+styles.bgColor.ansi16m(...styles.hexToRgb('#C0FFEE')); // Hex (RGB) to 16 million color foreground code
 ```
-
-## Types
-
-This package is fully typed with [TypeScript][].
-It does not export additional types.
-
-The `FootnoteDefinition` and `FootnoteReference` types of the mdast nodes are
-exposed from `@types/mdast`.
-
-## Compatibility
-
-Projects maintained by the unified collective are compatible with maintained
-versions of Node.js.
-
-When we cut a new major release, we drop support for unmaintained versions of
-Node.
-This means we try to keep the current release line,
-`mdast-util-gfm-footnote@^2`, compatible with Node.js 16.
 
 ## Related
 
-*   [`remark-gfm`][remark-gfm]
-    — remark plugin to support GFM
-*   [`mdast-util-gfm`][mdast-util-gfm]
-    — same but all of GFM (autolink literals, footnotes, strikethrough, tables,
-    tasklists)
-*   [`micromark-extension-gfm-footnote`][micromark-extension-gfm-footnote]
-    — micromark extension to parse GFM footnotes
+- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal
 
-## Contribute
+## Maintainers
 
-See [`contributing.md`][contributing] in [`syntax-tree/.github`][health] for
-ways to get started.
-See [`support.md`][support] for ways to get help.
+- [Sindre Sorhus](https://github.com/sindresorhus)
+- [Josh Junon](https://github.com/qix-)
 
-This project has a [code of conduct][coc].
-By interacting with this repository, organization, or community you agree to
-abide by its terms.
+## For enterprise
 
-## License
+Available as part of the Tidelift Subscription.
 
-[MIT][license] © [Titus Wormer][author]
-
-<!-- Definitions -->
-
-[build-badge]: https://github.com/syntax-tree/mdast-util-gfm-footnote/workflows/main/badge.svg
-
-[build]: https://github.com/syntax-tree/mdast-util-gfm-footnote/actions
-
-[coverage-badge]: https://img.shields.io/codecov/c/github/syntax-tree/mdast-util-gfm-footnote.svg
-
-[coverage]: https://codecov.io/github/syntax-tree/mdast-util-gfm-footnote
-
-[downloads-badge]: https://img.shields.io/npm/dm/mdast-util-gfm-footnote.svg
-
-[downloads]: https://www.npmjs.com/package/mdast-util-gfm-footnote
-
-[size-badge]: https://img.shields.io/badge/dynamic/json?label=minzipped%20size&query=$.size.compressedSize&url=https://deno.bundlejs.com/?q=mdast-util-gfm-footnote
-
-[size]: https://bundlejs.com/?q=mdast-util-gfm-footnote
-
-[sponsors-badge]: https://opencollective.com/unified/sponsors/badge.svg
-
-[backers-badge]: https://opencollective.com/unified/backers/badge.svg
-
-[collective]: https://opencollective.com/unified
-
-[chat-badge]: https://img.shields.io/badge/chat-discussions-success.svg
-
-[chat]: https://github.com/syntax-tree/unist/discussions
-
-[npm]: https://docs.npmjs.com/cli/install
-
-[esm]: https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
-
-[esmsh]: https://esm.sh
-
-[typescript]: https://www.typescriptlang.org
-
-[license]: license
-
-[author]: https://wooorm.com
-
-[health]: https://github.com/syntax-tree/.github
-
-[contributing]: https://github.com/syntax-tree/.github/blob/main/contributing.md
-
-[support]: https://github.com/syntax-tree/.github/blob/main/support.md
-
-[coc]: https://github.com/syntax-tree/.github/blob/main/code-of-conduct.md
-
-[mdast]: https://github.com/syntax-tree/mdast
-
-[mdast-util-gfm]: https://github.com/syntax-tree/mdast-util-gfm
-
-[remark-gfm]: https://github.com/remarkjs/remark-gfm
-
-[micromark]: https://github.com/micromark/micromark
-
-[micromark-extension-gfm-footnote]: https://github.com/micromark/micromark-extension-gfm-footnote
-
-[syntax]: https://github.com/micromark/micromark-extension-gfm-footnote#syntax
-
-[gfm]: https://github.github.com/gfm/
-
-[cmark-gfm]: https://github.com/github/cmark-gfm
-
-[post]: https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/
-
-[mdast-util-from-markdown]: https://github.com/syntax-tree/mdast-util-from-markdown
-
-[mdast-util-to-markdown]: https://github.com/syntax-tree/mdast-util-to-markdown
-
-[mdast-util-to-hast]: https://github.com/syntax-tree/mdast-util-to-hast
-
-[dfn-parent]: https://github.com/syntax-tree/mdast#parent
-
-[dfn-mxn-association]: https://github.com/syntax-tree/mdast#association
-
-[dfn-node]: https://github.com/syntax-tree/unist#node
-
-[frommarkdownextension]: https://github.com/syntax-tree/mdast-util-from-markdown#extension
-
-[tomarkdownextension]: https://github.com/syntax-tree/mdast-util-to-markdown#options
-
-[dfn-flow-content]: #flowcontent-gfm-footnotes
-
-[dfn-phrasing-content]: #phrasingcontent-gfm-footnotes
-
-[dfn-footnote-reference]: #footnotereference
-
-[dfn-footnote-definition]: #footnotedefinition
-
-[api-gfmfootnotefrommarkdown]: #gfmfootnotefrommarkdown
-
-[api-gfmfootnotetomarkdown]: #gfmfootnotetomarkdown
+The maintainers of `ansi-styles` and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/npm-ansi-styles?utm_source=npm-ansi-styles&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
