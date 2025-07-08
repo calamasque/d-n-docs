@@ -1,7 +1,8 @@
 ---
 title: <% tp.file.title %>
-aliases: 
 publish: true
+aliases: 
+description: 
 type: session
 world: Forgotten Realms
 campaign: Dungeons & Detectives
