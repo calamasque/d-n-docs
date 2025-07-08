@@ -36,8 +36,8 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-- [[010 - Battle|010 - Battle]]
-- [[006 - Windowlicker|006 - Windowlicker]]
+- [[./010 - Battle|010 - Battle]]
+- [[./006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Log
@@ -48,4 +48,4 @@ Details:
 - Leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[Castle Naerytar|Castle Naerytar]]
 
 Avonturen:
-- [[006 - Windowlicker|006 - Windowlicker]]
+- [[./006 - Windowlicker|006 - Windowlicker]]
