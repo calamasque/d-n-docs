@@ -30,7 +30,7 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-- [[content/Adventures/003 - Deep Water.md|003 - Deep Water]]
+- [[./003 - Deep Water|003 - Deep Water]]
 
 
 ## Log
