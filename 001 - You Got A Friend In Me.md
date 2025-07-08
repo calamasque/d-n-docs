@@ -1,7 +1,7 @@
 ---
 title: 001 - You Got A Friend In Me
-aliases: 
 publish: true
+aliases: 
 type:
   - session
 world:
