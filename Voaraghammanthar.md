@@ -16,7 +16,7 @@ class:
 description: 
 shop: 
 location:
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[./Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 title: Voaraghammanthar
@@ -32,8 +32,8 @@ last_modified: 2025-06-22
 
 ## Character summary
 * Vliegende draak
-* Leeft al generaties [[Lizardfolk tribe|Lizardfolk tribe]] in the [[Mere of Dead Men|Mere of Dead Men]]
-* Heeft de [[Lizardfolk tribe|Lizardfolk tribe]] de opdracht gegeven voor [[Rezmir|Rezmir]] te werken
+* Leeft al generaties [[./Lizardfolk tribe|Lizardfolk tribe]] in the [[./Mere of Dead Men|Mere of Dead Men]]
+* Heeft de [[./Lizardfolk tribe|Lizardfolk tribe]] de opdracht gegeven voor [[./Rezmir|Rezmir]] te werken
 
 ## Featured
 - [[./010 - Battle|010 - Battle]]
