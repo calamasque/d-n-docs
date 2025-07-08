@@ -1,6 +1,3 @@
 ---
-title: Welkom to the adventures of Metatron
+title: Plugins
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
