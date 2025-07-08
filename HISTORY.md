@@ -1,51 +1,50 @@
-1.2.0 / 2016-06-01
+0.5.2 / 2016-12-08
 ==================
 
-  * Add `combine` option to combine overlapping ranges
+  * Fix `parse` to accept any linear whitespace character
 
-1.1.0 / 2016-05-13
-==================
-
-  * Fix incorrectly returning -1 when there is at least one valid range
-  * perf: remove internal function
-
-1.0.3 / 2015-10-29
+0.5.1 / 2016-01-17
 ==================
 
   * perf: enable strict mode
 
-1.0.2 / 2014-09-08
+0.5.0 / 2014-10-11
 ==================
 
-  * Support Node.js 0.6
+  * Add `parse` function
 
-1.0.1 / 2014-09-07
+0.4.0 / 2014-09-21
 ==================
 
-  * Move repository to jshttp
+  * Expand non-Unicode `filename` to the full ISO-8859-1 charset
 
-1.0.0 / 2013-12-11
+0.3.0 / 2014-09-20
 ==================
 
-  * Add repository to package.json
-  * Add MIT license
+  * Add `fallback` option
+  * Add `type` option
 
-0.0.4 / 2012-06-17
+0.2.0 / 2014-09-19
 ==================
 
-  * Change ret -1 for unsatisfiable and -2 when invalid
+  * Reduce ambiguity of file names with hex escape in buggy browsers
 
-0.0.3 / 2012-06-17
+0.1.2 / 2014-09-19
 ==================
 
-  * Fix last-byte-pos default to len - 1
+  * Fix periodic invalid Unicode filename header
 
-0.0.2 / 2012-06-14
+0.1.1 / 2014-09-19
 ==================
 
-  * Add `.type`
+  * Fix invalid characters appearing in `filename*` parameter
 
-0.0.1 / 2012-06-11
+0.1.0 / 2014-09-18
+==================
+
+  * Make the `filename` argument optional
+
+0.0.0 / 2014-09-18
 ==================
 
   * Initial release
