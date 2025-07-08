@@ -34,6 +34,6 @@ last_modified: 2025-07-05
 * Vorige leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[Castle Naerytar|Castle Naerytar]]
 - Gedood door [[Pharblex Spattergoo|Pharblex Spattergoo]]
 ## Featured / mentions
-- [[006 - Windowlicker|006 - Windowlicker]]
+- [[./006 - Windowlicker|006 - Windowlicker]]
 
 
