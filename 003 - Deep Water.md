@@ -26,7 +26,7 @@ NPCs:
   - "[[Sanni|Sanni]]"
   - "[[Lady Remallia Haventree|Lady Remallia Haventree]]"
   - "[[Tu’aven|Tu’aven]]"
-  - "[[Torn Broadleaf|Torn Broadleaf]]"
+  - "[[./Torn Broadleaf|Torn Broadleaf]]"
 mentions:
   - "[[Lorcil Silkhands|Lorcil Silkhands]]"
   - "[[Elvira Blacktree|Elvira Blacktree]]"
@@ -50,4 +50,4 @@ Op de weg terug
 [[Bibliotheek van Waterdeep|Bibliotheek van Waterdeep]] 
 Stargazers: [[Adele Astrolara|Adele Astrolara]] vertrok ergens in het verleden van [[Waterdeep|Waterdeep]] naar [[Castle Naerytar|Castle Naerytar]] na de verdwijning van een student afkomstig van 1 van de huizen van adel. 
 
-Szuszi bezoekt een oude bekende: [[Torn Broadleaf|Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[Waterdeep|Waterdeep]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[The masked lords|The masked lords]].
+Szuszi bezoekt een oude bekende: [[./Torn Broadleaf|Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[Waterdeep|Waterdeep]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[The masked lords|The masked lords]].
