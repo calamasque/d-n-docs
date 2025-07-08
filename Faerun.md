@@ -16,7 +16,7 @@ date: 2025-07-02
 last_modified: 2025-07-02
 ---
 # Faerûn
-Beroemde inwoners van Faeûn zoals [[Metatron|Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
+Beroemde inwoners van Faeûn zoals [[./Metatron|Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
 
 ## Locations
 
