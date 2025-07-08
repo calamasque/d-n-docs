@@ -17,11 +17,11 @@ last_modified: 2025-07-02
 ## People
 | File                                                         | Faction                                                                           | Description                 |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------- |
-| [[Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
+| [[./Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
 | [[./Bog Luck\|Bog Luck]]                 | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
 | [[./Bog Luck\|Bog Luck]]                                    | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
-| [[Bog Luck\|Bog Luck]]                          | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
-| [[Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
+| [[./Bog Luck\|Bog Luck]]                          | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
+| [[./Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
 | [[./Lorcil Silkhands\|Lorcil Silkhands]] | <ul><li>[[content/Factions/Harpers.md\|Harpers]]</li></ul>                       | Bard, Harper agent          |
 | [[./Lorcil Silkhands\|Lorcil Silkhands]]                    | <ul><li>[[content/Factions/Harpers.md\|Harpers]]</li></ul>                       | Bard, Harper agent          |
 
@@ -41,6 +41,6 @@ last_modified: 2025-07-02
 - wachters op de daken
 
 ## Log 
-- [[./Bog Luck|Bog Luck]] herkent [[SmogEater|SmogEater]] en bespot hem non-stop. Na het vertellen van een lulverhaal zijn we toch welkom om hier te overnachten.
-- Uiteraard wordt een optreden van [[Metatron|Metatron]] door alle aanwezigen in de bar zeer gewaardeerd, ons verblijf is dan ook gratis.
-- [[Metatron|Metatron]] knoopt een gesprek aan met [[./Bog Luck|Bog Luck]] en geeft aan op zoek te zijn naar [[Elvira Blacktree|Elvira Blacktree]] onder het mom de opdracht te hebben haar "te laten verdwijnen". [[./Bog Luck|Bog Luck]] geeft aan dat ze al "verdwenen is" door zijn toedoen.  
+- [[./Bog Luck|Bog Luck]] herkent [[./SmogEater|SmogEater]] en bespot hem non-stop. Na het vertellen van een lulverhaal zijn we toch welkom om hier te overnachten.
+- Uiteraard wordt een optreden van [[./Metatron|Metatron]] door alle aanwezigen in de bar zeer gewaardeerd, ons verblijf is dan ook gratis.
+- [[./Metatron|Metatron]] knoopt een gesprek aan met [[./Bog Luck|Bog Luck]] en geeft aan op zoek te zijn naar [[./Elvira Blacktree|Elvira Blacktree]] onder het mom de opdracht te hebben haar "te laten verdwijnen". [[./Bog Luck|Bog Luck]] geeft aan dat ze al "verdwenen is" door zijn toedoen.  

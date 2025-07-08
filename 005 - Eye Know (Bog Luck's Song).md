@@ -31,9 +31,9 @@ game_date: 1489 DR
 tags: 
 ---
 
-[[Szuszi|Szuszi]] is out.
+[[./Szuszi|Szuszi]] is out.
 
-Gevecht in de storage room waar [[Szuszi|Szuszi]] verdween.
+Gevecht in de storage room waar [[./Szuszi|Szuszi]] verdween.
 
 Via de tunnel onder de opslagruimte van [[./Carnath Roadhouse|Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[./Bog Luck|Bog Luck]] de één-oog-orc. 
 
