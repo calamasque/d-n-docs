@@ -1,14 +1,14 @@
 ---
 title: <% tp.file.title %>
-publish: true
 aliases: 
-description: 
+publish: true
 type:
   - Monster
 world:
   - Forgotten Realms
 campaign:
   - Dungeons & Detectives
+description: 
 encounter: 
 game_date: 1489 DR
 tags: 

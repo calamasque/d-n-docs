@@ -1,7 +1,7 @@
 ---
 title: 001 - You Got A Friend In Me Pete
-publish: true
 aliases: 
+publish: true
 type:
   - session
 world:
