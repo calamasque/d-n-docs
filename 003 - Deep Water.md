@@ -1,7 +1,7 @@
 ---
 title: 003 - Deep Water
-aliases: 
 publish: true
+aliases: 
 type:
   - session
 world:

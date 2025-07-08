@@ -1,7 +1,8 @@
 ---
 title: <% tp.file.title %>
-aliases: 
 publish: true
+aliases: 
+description: 
 type:
   - NPC
 world:
@@ -14,7 +15,6 @@ faction:
 race: 
 gender: 
 class: 
-description: 
 shop: 
 location: 
 origin: 
