@@ -1,24 +1,31 @@
 ---
 title: Citations
 tags:
-  - plugin/transformer
+  - feature/transformer
 ---
 
-This plugin adds Citation support to Quartz.
+Quartz uses [rehype-citation](https://github.com/timlrx/rehype-citation) to support parsing of a BibTex bibliography file.
 
-> [!note]
-> For information on how to add, remove or configure plugins, see the [[./configuration#Plugins|Configuration]] page.
+Under the default configuration, a citation key `[@templeton2024scaling]` will be exported as `(Templeton et al., 2024)`.
 
-This plugin accepts the following configuration options:
+> [!example]- BibTex file
+>
+> ```bib title="bibliography.bib"
+> @article{templeton2024scaling,
+>   title={Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet},
+>   author={Templeton, Adly and Conerly, Tom and Marcus, Jonathan and Lindsey, Jack and Bricken, Trenton and Chen, Brian and Pearce, Adam and Citro, Craig and Ameisen, Emmanuel and Jones, Andy and Cunningham, Hoagy and Turner, Nicholas L and McDougall, Callum and MacDiarmid, Monte and Freeman, C. Daniel and Sumers, Theodore R. and Rees, Edward and Batson, Joshua and Jermyn, Adam and Carter, Shan and Olah, Chris and Henighan, Tom},
+>   year={2024},
+>   journal={Transformer Circuits Thread},
+>   url={https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html}
+> }
+> ```
 
-- `bibliographyFile`: the path to the bibliography file. Defaults to `./bibliography.bib`. This is relative to git source of your vault.
-- `suppressBibliography`: whether to suppress the bibliography at the end of the document. Defaults to `false`.
-- `linkCitations`: whether to link citations to the bibliography. Defaults to `false`.
-- `csl`: the citation style to use. Defaults to `apa`. Reference [rehype-citation](https://rehype-citation.netlify.app/custom-csl) for more options.
-- `prettyLink`: whether to use pretty links for citations. Defaults to `true`.
+> [!note] Behaviour of references
+>
+> By default, the references will be included at the end of the file. To control where the references to be included, uses `[^ref]`
+>
+> Refer to `rehype-citation` docs for more information.
 
-## API
+## Customization
 
-- Category: Transformer
-- Function name: `Plugin.Citations()`.
-- Source: [`quartz/plugins/transformers/citations.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/transformers/citations.ts).
+Citation parsing is a functionality of the [[Citations|Citation]] plugin. **This plugin is not enabled by default**. See the plugin page for customization options.
