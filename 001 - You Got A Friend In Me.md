@@ -42,7 +42,7 @@ De edelstenen werden door de vrijgevige [[Metatron|Metatron]] gedeeld met de avo
 
 'De band' avonturiers had duidelijk talent maar het waren ook stuk voor stuk ruwe diamanten die nog geslepen moesten worden. Hij besloot hen daarom onder zijn hoede te nemen om ze met een dagelijkse dosis inspiratie naar een hoger niveau te brengen. 
 
-De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[Szuszi|Szuszi]] was echter al helemaal omarmd door de groep zonder een [[Faerun|Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
+De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[Szuszi|Szuszi]] was echter al helemaal omarmd door de groep zonder een [[./Faerun|Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
 
 ## Recap of last session
 
