@@ -1,7 +1,7 @@
 ---
 title: 002 - The Ship Song
-aliases: 
 publish: true
+aliases: 
 type:
   - session
 world:
