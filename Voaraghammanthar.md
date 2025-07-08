@@ -36,7 +36,7 @@ last_modified: 2025-06-22
 * Heeft de [[Lizardfolk tribe|Lizardfolk tribe]] de opdracht gegeven voor [[Rezmir|Rezmir]] te werken
 
 ## Featured
-- [[content/Adventures/010 - Battle.md|010 - Battle]]
+- [[010 - Battle|010 - Battle]]
 
 
 ## Log
