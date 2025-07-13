@@ -29,5 +29,5 @@ last_modified: 2025-07-12
 - [[./Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[Castle Naerytar|Castle Naerytar]]
+- [[./Castle Naerytar|Castle Naerytar]]
 - [[./Carnath Roadhouse|Carnath Roadhouse]]

@@ -27,6 +27,7 @@ date: 2025-07-04
 last_modified: 2025-07-04
 aliases:
   - Unmasked Lord
+share: true
 ---
 * De "Unmasked Lord" van de [[./The masked lords|The masked lords]] van [[./Waterdeep|Waterdeep]].
 * Lord van [[Neverwinter|Neverwinter]].

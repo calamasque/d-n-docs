@@ -17,8 +17,8 @@ last_modified: 2025-07-07
 
 
 Locaties:
-- [[Mere of Dead Men|Mere of Dead Men]]
-- [[Castle Naerytar|Castle Naerytar]]
+- [[./Mere of Dead Men|Mere of Dead Men]]
+- [[./Castle Naerytar|Castle Naerytar]]
 
 Bondgenoten:
 - [[./Cult of the Dragon|Cult of the Dragon]]

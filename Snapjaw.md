@@ -17,8 +17,8 @@ class:
 description: Future chief of the Lizardmen tribe
 shop: 
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[./Castle Naerytar|Castle Naerytar]]"
+  - "[[./Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 title: Snapjaw
@@ -45,7 +45,7 @@ last_modified: 2025-07-05
 #character #stance/ally #race/lizardfolk 
 
 Details:
-- Leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[Castle Naerytar|Castle Naerytar]]
+- Leider van de [[Lizardfolk|Lizardfolk]] van de [[./Mere of Dead Men|Mere of Dead Men]] en [[./Castle Naerytar|Castle Naerytar]]
 
 Avonturen:
 - [[./006 - Windowlicker|006 - Windowlicker]]

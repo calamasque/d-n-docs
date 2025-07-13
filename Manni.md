@@ -25,6 +25,7 @@ tags:
 image: 
 date: 
 last_modified: 
+share: true
 ---
 ## Character Summary
 
@@ -38,7 +39,7 @@ last_modified:
 * op een avontuurlijke huwelijksreis met hun schip de [[./The Happily Ever After|The Happily Ever After]] en kapitein [[./Tu’aven|Tu’aven]]. 
 
 Gebeurtenissen:
-* Tijdens hun huwelijksreis ontmoeten zij [[./Agrip’Ah|Agrip’Ah]], [[./Dr. Egbert|Dr. Egbert]], [[./SmogEater|SmogEater]] en [[./Waldo|Waldo]] in [[./Baldur's Gate|Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
+* Tijdens hun huwelijksreis ontmoeten zij [[./Agrip'Ah|Agrip'Ah]], [[./Dr. Egbert|Dr. Egbert]], [[./SmogEater|SmogEater]] en [[./Waldo|Waldo]] in [[./Baldur's Gate|Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
 * Onderweg ontdekken zij een verstekeling in de keuken ([[./Szuszi|Szuszi]]) die zich bij het gezelschap voegt.
-* Kort daarna ontdekken ze de befaamde muzikant [[./Metatron|Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten hem te overtuigen zich bij hen te voegen. 
+* Kort daarna ontdekken ze de befaamde muzikant [[Metatron|Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten hem te overtuigen zich bij hen te voegen. 
 

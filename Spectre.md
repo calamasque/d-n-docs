@@ -11,7 +11,7 @@ game_date: 1489 DR
 title: Spectre
 tags: 
 image: 
-publish: true
+share: true
 date: 2025-07-06
 last_modified: 2025-07-06
 ---

@@ -1,5 +1,5 @@
 ---
-title: Szuszi
+title: Agrip'Ah
 share: true
 aliases: 
 description: 
@@ -22,9 +22,9 @@ game_date: 1489 DR
 tags: 
 image: 
 date: 2025-07-13
-last_modified: 2025-07-13
+last_modified: 2025-05-22
 ---
-# Szuszi
+# Agrip'Ah
 
 ## Character summary
 * 
@@ -35,4 +35,4 @@ last_modified: 2025-07-13
 
 
 ## Log
-* 
+* #the_band #character #race/githzerai #class/

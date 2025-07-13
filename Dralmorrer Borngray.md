@@ -18,7 +18,7 @@ class:
 description: Caretaker of Castle Naerytar
 shop: 
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[./Castle Naerytar|Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 title: Dralmorrer Borngray
@@ -29,7 +29,7 @@ last_modified:
 share: true
 ---
 # Character Summary
-- Baas van [[Castle Naerytar|Castle Naerytar]]
+- Baas van [[./Castle Naerytar|Castle Naerytar]]
 - Lid van de [[./Eldreth Veluuthra|Eldreth Veluuthra]]
 - Leert de [[Lizardfolk|Lizardfolk]] om wapens te smeden.
 - Blond haar, ooglapje.
@@ -40,14 +40,14 @@ share: true
 - [[./007 - Gargoyle|007 - Gargoyle]]
 
 ## Gesprekken
-* Lopend over de kleine binnenplaats van [[Castle Naerytar|Castle Naerytar]] zegt Dralmorrer: 
+* Lopend over de kleine binnenplaats van [[./Castle Naerytar|Castle Naerytar]] zegt Dralmorrer: 
   "Ik weet niet wat de onrust is maar ze zijn boos." 
   Waarop werd geantwoord door [[./Pharblex Spattergoo|Pharblex Spattergoo]](?): 
   "Minkukels, zei nog zo niet geschikt!"
 
 ## Eigendom
 ### Boeken
-- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[Castle Naerytar|Castle Naerytar]]) => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
+- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[./Castle Naerytar|Castle Naerytar]]) => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
 ### Kleding 
 - Huidige kleding
 - [[./Eldreth Veluuthra|Eldreth Veluuthra]] kleding => gestolen door [[Metatron|Metatron]] uit zijn werkkamer

@@ -1,6 +1,6 @@
 ---
-title: 004 - Roadhouse Blues
-publish: true
+title: Roadhouse Blues
+share: true
 aliases: 
 type:
   - session
@@ -18,16 +18,19 @@ PCs:
   - "[[SmogEater|SmogEater]]"
   - "[[Szuszi|Szuszi]]"
   - "[[Waldo|Waldo]]"
-  - "[[Agrip’Ah|Agrip’Ah]]"
+  - "[[Agrip'Ah|Agrip'Ah]]"
 NPCs:
   - "[[./Bog Luck|Bog Luck]]"
   - "[[Barman Pete|Barman Pete]]"
 mentions:
   - "[[./Elvira Blacktree|Elvira Blacktree]]"
-encounters: "[[./Bullywug tribe|Bullywug tribe]]"
+encounters:
+  - "[[./Bullywug tribe|Bullywug tribe]]"
 date: 2025-01-26
 game_date: 1489 DR
-tags: 
+session_num: 4
+tags:
+  - adventure
 ---
 
 ??? laten we achter in de [[./Halls of Justice|Halls of Justice]] in [[./Waterdeep|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.

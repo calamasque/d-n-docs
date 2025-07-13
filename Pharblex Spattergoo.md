@@ -18,7 +18,7 @@ description: Chief of Bullywug tribe
 shop: 
 location:
   - "[[Mere of Dead Men|Mere of Dead Men]]"
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[./Castle Naerytar|Castle Naerytar]]"
 origin:
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 game_date: 1489 DR
@@ -35,11 +35,11 @@ share: true
 | ![[./public/_media/Pharblex_spattergoo-5e.webp\|300]] |
 
 ## Character Summary
-- Leider van de [[./Bullywug tribe|Bullywug tribe]] in [[Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijk altaar in de grotten onder [[Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[./Bullywug tribe|Bullywug tribe]] in [[Castle Naerytar|Castle Naerytar]].
+- Leider van de [[./Bullywug tribe|Bullywug tribe]] in [[./Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijk altaar in de grotten onder [[./Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijke kamer in het kwartier van de  [[./Bullywug tribe|Bullywug tribe]] in [[./Castle Naerytar|Castle Naerytar]].
 - Stierf als een lafaard en leidde zo het definitieve einde in van de [[./Bullywug tribe|Bullywug tribe]].
-- Gedood door [[Szuszi|Szuszi]]
+- Gedood door [[./Szuszi|Szuszi]]
 ## Items
 - Hoed: krokodillenkop
 - Lichte bepansering

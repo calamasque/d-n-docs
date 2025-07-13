@@ -1,3 +1,14 @@
+---
+title: Ulbrinter Villa
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-13
+last_modified: 2025-07-05
+---
+# Ulbrinter Villa
 ## Featured
 - [[./003 - Deep Water|003 - Deep Water]]
 

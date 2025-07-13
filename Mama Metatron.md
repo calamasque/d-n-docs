@@ -7,7 +7,7 @@ campaign:
   - Dungeons & Detectives
 deceased: 
 family:
-  - "[[./Metatron|Metatron]]"
+  - "[[Metatron|Metatron]]"
 faction: 
 race:
   - tiefling
@@ -25,15 +25,16 @@ tags:
 image: 
 date: 
 last_modified: 
+share: true
 ---
 ## Character Summary
 
 ## Featured
 
 ## Details
-* Moeder van [[./Metatron|Metatron]].
-* Gevangen en tot slaaf gemaakt door [[./Red Wizards of Thay|Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[./Metatron|Metatron]]
-* Het [[Scrying altaar van Tyr|Scrying altaar van Tyr]] onthulde aan [[./Metatron|Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie|Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
+* Moeder van [[Metatron|Metatron]].
+* Gevangen en tot slaaf gemaakt door [[./Red Wizards of Thay|Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[Metatron|Metatron]]
+* Het [[Scrying altaar van Tyr|Scrying altaar van Tyr]] onthulde aan [[Metatron|Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie|Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
 
 ## Featured
 
