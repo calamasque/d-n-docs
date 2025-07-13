@@ -1,25 +1,33 @@
 ---
 title: Cult of the Dragon
+share: true
 aliases:
   - Dragon kneelers
-des:
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-07-12
 ---
+# Cult of the Dragon
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                                                           | description                  | deceased |
+| ------------------------------------------------------------------------------ | ---------------------------- | -------- |
+| [[/content/Characters/Voaraghammanthar\|Voaraghammanthar]]                   | \-                           | \-       |
+| [[/content/Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
+| [[/content/Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
+| [[/content/Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                           | \-       |
+| [[/content/Characters/Cult of the Dragon guards\|Cult of the Dragon guards]] | \-                           | \-       |
+| [[/content/Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
+
 
 ## Partners
-- [[Rath Modar]]
-- [[Onbekende Red Wizard]]
-- [[Pharblex Spattergoo]]
-- [[Snapjaw]]
+- [[/content/Characters/Rath Modar|Rath Modar]]
+- [[/content/Characters/Onbekende Red Wizard|Onbekende Red Wizard]]
+- [[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]]
+- [[/content/Characters/Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[Castle Naerytar]]
-- [[Carnath Roadhouse]]
+- [[Castle Naerytar|Castle Naerytar]]
+- [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]
