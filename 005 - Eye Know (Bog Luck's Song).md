@@ -1,6 +1,6 @@
 ---
-title: 005 - Eye Know (Bog Luck's Song)
-publish: true
+title: Eye Know (Bog Luck's Song)
+share: true
 aliases: 
 type:
   - session
@@ -16,7 +16,7 @@ PCs:
   - "[[Metatron|Metatron]]"
   - "[[SmogEater|SmogEater]]"
   - "[[Waldo|Waldo]]"
-  - "[[Agrip’Ah|Agrip’Ah]]"
+  - "[[Agrip'Ah|Agrip'Ah]]"
 NPCs:
   - "[[./Bog Luck|Bog Luck]]"
 mentions:
@@ -28,7 +28,9 @@ encounters:
   - "[[./Bog Luck|Bog Luck]]"
 date: 2025-03-02
 game_date: 1489 DR
-tags: 
+session_num: 5
+tags:
+  - adventure
 ---
 
 [[./Szuszi|Szuszi]] is out.
