@@ -1,4 +1,15 @@
-#stance/enemy #faction/eldreth_veluuthra 
+---
+title: Eldreth Veluuthra
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-06-30
+---
+# Eldreth Veluuthra
+
 
 Elvish supremacists. 
 

@@ -1,3 +1,14 @@
+---
+title: Bullywug tribe
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-07-07
+---
+# Bullywug tribe
 
 ## Members
 | File                                                               | description             | deceased |
@@ -6,8 +17,8 @@
 
 
 Locaties:
-- [[./Mere of Dead Men|Mere of Dead Men]]
-- [[./Castle Naerytar|Castle Naerytar]]
+- [[Mere of Dead Men|Mere of Dead Men]]
+- [[Castle Naerytar|Castle Naerytar]]
 
 Bondgenoten:
 - [[./Cult of the Dragon|Cult of the Dragon]]
