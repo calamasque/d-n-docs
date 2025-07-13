@@ -1,9 +1,17 @@
+---
+title: Red Wizards of Thay
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-07-05
+---
+# Red Wizards of Thay
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters" or "content/The Band"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                                                 | description                                   | deceased |
+| -------------------------------------------------------------------- | --------------------------------------------- | -------- |
+| [[/content/Characters/Rath Modar\|Rath Modar]]                     | \-                                            | \-       |
+| [[/content/Characters/Onbekende Red Wizard\|Onbekende Red Wizard]] | Red wizard werkt samen met Cult of the Dragon | \-       |
