@@ -1,14 +1,22 @@
-#stance/enemy #faction/eldreth_veluuthra 
+---
+title: Eldreth Veluuthra
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-06-30
+---
+# Eldreth Veluuthra
+
 
 Elvish supremacists. 
 
 Objective: kill/remove all humans from Faerun.
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                                               | description                  | deceased |
+| ------------------------------------------------------------------ | ---------------------------- | -------- |
+| [[/content/Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] | Caretaker of Castle Naerytar | \-       |
+
