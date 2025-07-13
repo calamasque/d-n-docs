@@ -26,6 +26,7 @@ tags:
 image: 
 date: 
 last_modified: 
+share: true
 ---
 * Belangrijk figuur in [[./Waterdeep|Waterdeep]].
 * Getrouwd met [[./Lady Remallia Haventree|Lady Remallia Haventree]] 
