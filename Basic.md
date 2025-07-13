@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: true
+share: true
 aliases: 
 description: 
 tags: 
