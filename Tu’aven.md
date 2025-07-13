@@ -24,6 +24,7 @@ tags:
 image: 
 date: 
 last_modified: 
+share: true
 ---
 ## Featured
 - [[./003 - Deep Water|003 - Deep Water]]
