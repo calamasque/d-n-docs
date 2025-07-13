@@ -20,7 +20,7 @@ description: Barman at Carnath Roadhouse
 shop:
   - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
 location:
-  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 tags: 
@@ -28,10 +28,14 @@ image:
 date: 
 last_modified: 
 ---
+
+https://calamasque.github.io/d-n-docs/Characters/Manni
+https://calamasque.github.io/d-n-docs/content/Characters/Manni
+
 ## Character Summary
-- Barman at [[Carnath Roadhouse|Carnath Roadhouse]].
+- Barman at [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
 - Claimt dat hij "beesten onder de vloer en tussen de muren hoorde hissen en bonken."
-- Onbekend of hij onderdeel was van de [[Cult of the Dragon|Cult of the Dragon]], waarschijnlijk niet.
+- Onbekend of hij onderdeel was van de [[/content/Factions/Cult of the Dragon|Cult of the Dragon]], waarschijnlijk niet.
 
 
 ## Introduction to DataviewJS
@@ -45,7 +49,7 @@ obsidian://open?vault=d-n-docs&file=content%2FCharacters%2FBarman%20Pete
 ## Featured
 |Session|Adventure|Date|
 |---|---|---|
-|4|[Roadhouse Blues](../Adventures/004%2520-%2520Roadhouse%2520Blues.md#)|January 26, 2025|
+|4|[Roadhouse Blues](/content/Adventures/004%2520-%2520Roadhouse%2520Blues.md#)|January 26, 2025|
 
 ## All sessions and NPCs featured
 |Session|NPC Name|Link|Path|
@@ -56,21 +60,21 @@ obsidian://open?vault=d-n-docs&file=content%2FCharacters%2FBarman%20Pete
 |[002 - The Ship Song](content/Adventures/002 - The Ship Song.md)|Manni|[content/Characters/Manni](content/Characters/Manni)|content/Characters/Manni.md|
 |[002 - The Ship Song](content/Adventures/002 - The Ship Song.md)|Sanni|[content/Characters/Sanni](content/Characters/Sanni)|content/Characters/Sanni.md|
 |[002 - The Ship Song](content/Adventures/002 - The Ship Song.md)|Tu’aven|[content/Characters/Tu’aven](content/Characters/Tu’aven)|content/Characters/Tu’aven.md|
-|[005 - Eye Know (Bog Luck's Song)](content/Adventures/005 - Eye Know \(Bog Luck's Song\).md)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
-|[006 - Windowlicker](content/Adventures/006 - Windowlicker.md)|Snapjaw|[content/Characters/Snapjaw](content/Characters/Snapjaw)|content/Characters/Snapjaw.md|
-|[006 - Windowlicker](content/Adventures/006 - Windowlicker.md)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
-|[007 - Gargoyle](content/Adventures/007 - Gargoyle.md)|Dralmorrer Borngray|[content/Characters/Dralmorrer Borngray](content/Characters/Dralmorrer Borngray)|content/Characters/Dralmorrer Borngray.md|
-|[007 - Gargoyle](content/Adventures/007 - Gargoyle.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
-|[004 - Roadhouse Blues](../Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
-|[004 - Roadhouse Blues](../Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|Barman Pete|[content/Characters/Barman Pete](content/Characters/Barman Pete)|content/Characters/Barman Pete.md|
-|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
-|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Dralmorrer Borngray|[content/Characters/Dralmorrer Borngray](content/Characters/Dralmorrer Borngray)|content/Characters/Dralmorrer Borngray.md|
-|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Onbekende Red Wizard|[content/Characters/Onbekende Red Wizard](content/Characters/Onbekende Red Wizard)|content/Characters/Onbekende Red Wizard.md|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|Manni|[content/Characters/Manni](content/Characters/Manni)|content/Characters/Manni.md|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|Sanni|[content/Characters/Sanni](content/Characters/Sanni)|content/Characters/Sanni.md|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|Lady Remallia Haventree|[content/Characters/Lady Remallia Haventree](content/Characters/Lady Remallia Haventree)|content/Characters/Lady Remallia Haventree.md|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|Tu’aven|[content/Characters/Tu’aven](content/Characters/Tu’aven)|content/Characters/Tu’aven.md|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|Torn Broadleaf|[content/Characters/Torn Broadleaf](content/Characters/Torn Broadleaf)|content/Characters/Torn Broadleaf.md|
+|[005 - Eye Know (Bog Luck's Song)](content/Adventures/005 - Eye Know \(Bog Luck's Song\).md)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
+|[004 - Roadhouse Blues](/content/Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
+|[004 - Roadhouse Blues](/content/Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|Barman Pete|[content/Characters/Barman Pete](content/Characters/Barman Pete)|content/Characters/Barman Pete.md|
+|[006 - Windowlicker](content/Adventures/006 - Windowlicker.md)|Snapjaw|[content/Characters/Snapjaw](content/Characters/Snapjaw)|content/Characters/Snapjaw.md|
+|[006 - Windowlicker](content/Adventures/006 - Windowlicker.md)|Bog Luck|[content/Characters/Bog Luck](content/Characters/Bog Luck)|content/Characters/Bog Luck.md|
+|[007 - Gargoyle](content/Adventures/007 - Gargoyle.md)|Dralmorrer Borngray|[content/Characters/Dralmorrer Borngray](content/Characters/Dralmorrer Borngray)|content/Characters/Dralmorrer Borngray.md|
+|[007 - Gargoyle](content/Adventures/007 - Gargoyle.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
+|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
+|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Dralmorrer Borngray|[content/Characters/Dralmorrer Borngray](content/Characters/Dralmorrer Borngray)|content/Characters/Dralmorrer Borngray.md|
+|[008 - Tightrope](content/Adventures/008 - Tightrope.md)|Onbekende Red Wizard|[content/Characters/Onbekende Red Wizard](content/Characters/Onbekende Red Wizard)|content/Characters/Onbekende Red Wizard.md|
 |[009 - Name this adventure](content/Adventures/009 - Name this adventure.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
 |[009 - Name this adventure](content/Adventures/009 - Name this adventure.md)|Rezmir|[content/Characters/Rezmir](content/Characters/Rezmir)|content/Characters/Rezmir.md|
 |[010 - Battle](content/Adventures/010 - Battle.md)|Pharblex Spattergoo|[content/Characters/Pharblex Spattergoo](content/Characters/Pharblex Spattergoo)|content/Characters/Pharblex Spattergoo.md|
@@ -83,17 +87,17 @@ obsidian://open?vault=d-n-docs&file=content%2FCharacters%2FBarman%20Pete
 
 002 - The Ship Song: [{"path":"content/Characters/Manni.md","embed":false,"type":"file"},{"path":"content/Characters/Sanni.md","embed":false,"type":"file"},{"path":"content/Characters/Tu’aven.md","embed":false,"type":"file"}]
 
+003 - Deep Water: [{"path":"content/Characters/Manni.md","embed":false,"type":"file"},{"path":"content/Characters/Sanni.md","embed":false,"type":"file"},{"path":"content/Characters/Lady Remallia Haventree.md","embed":false,"type":"file"},{"path":"content/Characters/Tu’aven.md","embed":false,"type":"file"},{"path":"content/Characters/Torn Broadleaf.md","embed":false,"type":"file"}]
+
 005 - Eye Know (Bog Luck's Song): [{"path":"content/Characters/Bog Luck.md","embed":false,"type":"file"}]
+
+004 - Roadhouse Blues: [{"path":"content/Characters/Bog Luck.md","embed":false,"type":"file"},{"path":"content/Characters/Barman Pete.md","embed":false,"type":"file"}]
 
 006 - Windowlicker: [{"path":"content/Characters/Snapjaw.md","embed":false,"type":"file"},{"path":"content/Characters/Bog Luck.md","embed":false,"type":"file"}]
 
 007 - Gargoyle: [{"path":"content/Characters/Dralmorrer Borngray.md","embed":false,"type":"file"},{"path":"content/Characters/Pharblex Spattergoo.md","embed":false,"type":"file"}]
 
-004 - Roadhouse Blues: [{"path":"content/Characters/Bog Luck.md","embed":false,"type":"file"},{"path":"content/Characters/Barman Pete.md","embed":false,"type":"file"}]
-
 008 - Tightrope: [{"path":"content/Characters/Pharblex Spattergoo.md","embed":false,"type":"file"},{"path":"content/Characters/Dralmorrer Borngray.md","embed":false,"type":"file"},{"path":"content/Characters/Onbekende Red Wizard.md","embed":false,"type":"file"}]
-
-003 - Deep Water: [{"path":"content/Characters/Manni.md","embed":false,"type":"file"},{"path":"content/Characters/Sanni.md","embed":false,"type":"file"},{"path":"content/Characters/Lady Remallia Haventree.md","embed":false,"type":"file"},{"path":"content/Characters/Tu’aven.md","embed":false,"type":"file"},{"path":"content/Characters/Torn Broadleaf.md","embed":false,"type":"file"}]
 
 009 - Name this adventure: [{"path":"content/Characters/Pharblex Spattergoo.md","embed":false,"type":"file"},{"path":"content/Characters/Rezmir.md","embed":false,"type":"file"}]
 
@@ -112,7 +116,7 @@ content/Characters/Barman Pete.md
 |[001 - You Got A Friend In Me](content/Adventures/001 - You Got A Friend In Me.md)|October 30, 2024|
 |[002 - The Ship Song](content/Adventures/002 - The Ship Song.md)|November 20, 2024|
 |[003 - Deep Water](content/Adventures/003 - Deep Water.md)|December 08, 2024|
-|[004 - Roadhouse Blues](../Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|January 26, 2025|
+|[004 - Roadhouse Blues](/content/Adventures/004%2520-%2520Roadhouse%2520Blues.md#.md#)|January 26, 2025|
 |[005 - Eye Know (Bog Luck's Song)](content/Adventures/005 - Eye Know \(Bog Luck's Song\).md)|March 02, 2025|
 |[006 - Windowlicker](content/Adventures/006 - Windowlicker.md)|March 23, 2025|
 |[007 - Gargoyle](content/Adventures/007 - Gargoyle.md)|April 15, 2025|
@@ -125,7 +129,7 @@ content/Characters/Barman Pete.md
 |1|[You Got A Friend In Me](content/Adventures/001 - You Got A Friend In Me.md)|October 30, 2024|
 |2|[The Ship Song](content/Adventures/002 - The Ship Song.md)|November 20, 2024|
 |3|[Deep Water](content/Adventures/003 - Deep Water.md)|December 08, 2024|
-|4|[Roadhouse Blues](../Adventures/004%2520-%2520Roadhouse%2520Blues.md#)|January 26, 2025|
+|4|[Roadhouse Blues](/content/Adventures/004%2520-%2520Roadhouse%2520Blues.md#)|January 26, 2025|
 |5|[Eye Know (Bog Luck's Song)](content/Adventures/005 - Eye Know \(Bog Luck's Song\).md)|March 02, 2025|
 |6|[Windowlicker](content/Adventures/006 - Windowlicker.md)|March 23, 2025|
 |7|[Gargoyle](content/Adventures/007 - Gargoyle.md)|April 15, 2025|
@@ -162,7 +166,7 @@ content/Characters/Barman Pete.md
 ## Featured
 
 
-- [[../Adventures/004%20-%20Roadhouse%20Blues.md#.md#.md#.md#.md#|004 - Roadhouse Blues]]
+- [[/content/Adventures/004%20-%20Roadhouse%20Blues.md#.md#.md#.md#.md#|004 - Roadhouse Blues]]
 
 
 ## Mentions
