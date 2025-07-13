@@ -8,7 +8,7 @@ campaign:
 deceased: 
 family: 
 faction:
-  - "[[Red Wizards of Thay]]"
+  - "[[Red Wizards of Thay|Red Wizards of Thay]]"
 race: 
 gender: 
 class:
@@ -23,6 +23,7 @@ tags:
 image: 
 date: 2025-06-30
 last_modified: 2025-06-30
+share: true
 ---
 # Rath Modar
 
@@ -30,12 +31,7 @@ last_modified: 2025-06-30
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 
