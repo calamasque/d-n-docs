@@ -1,23 +1,31 @@
+---
+title: Bullywug tribe
+share: true
+aliases: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-07-07
+---
+# Bullywug tribe
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                                               | description             | deceased |
+| ------------------------------------------------------------------ | ----------------------- | -------- |
+| [[/content/Characters/Pharblex Spattergoo\|Pharblex Spattergoo]] | Chief of Bullywug tribe | true     |
+
 
 Locaties:
-- [[Mere of Dead Men]]
-- [[Castle Naerytar]]
+- [[Mere of Dead Men|Mere of Dead Men]]
+- [[Castle Naerytar|Castle Naerytar]]
 
 Bondgenoten:
-- [[Cult of the Dragon]]
-- [[Rezmir]]
-- [[Dralmorrer Borngray]]
+- [[/content/Factions/Cult of the Dragon|Cult of the Dragon]]
+- [[/content/Characters/Rezmir|Rezmir]]
+- [[/content/Characters/Dralmorrer Borngray|Dralmorrer Borngray]]
 
 Vijand:
-- [[Lizardfolk]]
-- [[Snapjaw]]
+- [[Lizardfolk|Lizardfolk]]
+- [[/content/Characters/Snapjaw|Snapjaw]]
 

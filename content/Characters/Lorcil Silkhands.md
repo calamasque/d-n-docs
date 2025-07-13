@@ -7,9 +7,9 @@ campaign:
   - Dungeons & Detectives
 deceased: true
 family:
-  - "[[Metatron]]"
+  - "[[Metatron|Metatron]]"
 faction:
-  - "[[Harpers]]"
+  - "[[Harpers|Harpers]]"
 race:
   - high elf
 gender:
@@ -17,27 +17,22 @@ gender:
 class: 
 description: Bard, Harper agent
 shop:
-  - "[[Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
 location:
-  - "[[Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 title: Lorcil Silkhands
-publish: true
+share: true
 tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
 ---
 
 
 # Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
 
 
-Nadat de familie van [[Metatron]] werd ontvoerd door de [[Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
+
+Nadat de familie van [[Metatron|Metatron]] werd ontvoerd door de [[/content/Factions/Red Wizards of Thay|Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 

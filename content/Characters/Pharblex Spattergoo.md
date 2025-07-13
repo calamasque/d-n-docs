@@ -8,7 +8,7 @@ campaign:
 deceased: true
 family: 
 faction:
-  - "[[Bullywug tribe]]"
+  - "[[/content/Factions/Bullywug tribe|Bullywug tribe]]"
 race:
   - bullywug
 gender:
@@ -17,40 +17,40 @@ class:
 description: Chief of Bullywug tribe
 shop: 
 location:
-  - "[[Mere of Dead Men]]"
-  - "[[Castle Naerytar]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
 origin:
-  - "[[Mere of Dead Men]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
 game_date: 1489 DR
 title: Pharblex Spattergoo
 tags: 
-image: "![[Pharblex_spattergoo-5e.webp]]"
+image: "![[Pharblex_spattergoo-5e.webp|Pharblex_spattergoo-5e.webp]]"
 date: 
-last_modified:
+last_modified: 
+share: true
 ---
 
-```dataview
-table without id
-embed(link(meta(image).path, "300")) AS "Image"
-```
+| Image                                               |
+| --------------------------------------------------- |
+| ![[/public/_media/Pharblex_spattergoo-5e.webp\|300]] |
+
 ## Character Summary
-- Leider van de [[Bullywug tribe]] in [[Castle Naerytar]]
-- Heeft een persoonlijk altaar in de grotten onder [[Castle Naerytar]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe]] in [[Castle Naerytar]].
-- Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe]].
-- Gedood door [[Szuszi]]
+- Leider van de [[/content/Factions/Bullywug tribe|Bullywug tribe]] in [[Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijk altaar in de grotten onder [[Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijke kamer in het kwartier van de  [[/content/Factions/Bullywug tribe|Bullywug tribe]] in [[Castle Naerytar|Castle Naerytar]].
+- Stierf als een lafaard en leidde zo het definitieve einde in van de [[/content/Factions/Bullywug tribe|Bullywug tribe]].
+- Gedood door [[Szuszi|Szuszi]]
 ## Items
 - Hoed: krokodillenkop
 - Lichte bepansering
-- Staff (taken by [[Metatron]])
+- Staff (taken by [[Metatron|Metatron]])
 - Skull of Guts
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+- [[/content/Adventures/010 - Battle|010 - Battle]]
+- [[/content/Adventures/009 - Name this adventure|009 - Name this adventure]]
+- [[/content/Adventures/008 - Tightrope|008 - Tightrope]]
+- [[/content/Adventures/007 - Gargoyle|007 - Gargoyle]]
+
 
 
 

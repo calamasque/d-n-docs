@@ -8,7 +8,7 @@ campaign:
 deceased: 
 family: 
 faction:
-  - "[[Lizardfolk tribe]]"
+  - "[[Lizardfolk tribe|Lizardfolk tribe]]"
 race:
   - lizardfolk
 gender:
@@ -17,8 +17,8 @@ class:
 description: Future chief of the Lizardmen tribe
 shop: 
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 title: Snapjaw
@@ -26,7 +26,7 @@ aliases:
   - Future chief of the Lizardmen tribe
 tags: 
 image: 
-publish: true
+share: true
 date: 2025-07-05
 last_modified: 2025-07-05
 ---
@@ -36,19 +36,16 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+- [[/content/Adventures/010 - Battle|010 - Battle]]
+- [[/content/Adventures/006 - Windowlicker|006 - Windowlicker]]
+
 
 ## Log
 * 
 #character #stance/ally #race/lizardfolk 
 
 Details:
-- Leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[Castle Naerytar]]
+- Leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[Castle Naerytar|Castle Naerytar]]
 
 Avonturen:
-- [[006 - Windowlicker]]
+- [[/content/Adventures/006 - Windowlicker|006 - Windowlicker]]
