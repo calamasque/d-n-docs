@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: true
+share: true
 aliases: 
 description: 
 type: session
@@ -18,6 +18,7 @@ NPCs:
 monsters: 
 date: <% tp.date.now("YYYY-MM-DD") %>
 game_date: 1489 DR
+session_num: <% tp.user.getSessionNumber(tp, "[[session|session]]", "session_num") %>
 tags: 
 image: 
 last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
