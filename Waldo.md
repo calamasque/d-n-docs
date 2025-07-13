@@ -1,6 +1,10 @@
 ---
+title: Waldo
+share: true
+aliases: 
+description: 
 type:
-  - NPC
+  - PC
 world:
   - Forgotten Realms
 campaign:
@@ -11,17 +15,27 @@ faction:
 race: 
 gender: 
 class: 
-description: 
 shop: 
 location: 
-origin: []
+origin: 
 game_date: 1489 DR
-title: "[[Waldo]]"
 tags: 
 image: 
-date: 
-last_modified: 
+date: 2025-07-13
+last_modified: 2025-07-13
 ---
+# Waldo
+
+## Character summary
+* 
+
+## Featured
+
+## Mentions
+
+
+## Log
+* 
 ## Character summary
 * 
 
