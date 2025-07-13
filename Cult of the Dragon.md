@@ -1,9 +1,15 @@
 ---
 title: Cult of the Dragon
+share: true
 aliases:
   - Dragon kneelers
-des: 
+description: 
+tags: 
+image: 
+date: 2025-07-12
+last_modified: 2025-07-12
 ---
+# Cult of the Dragon
 
 ## Members
 | File                                                                           | description                  | deceased |
@@ -23,5 +29,5 @@ des:
 - [[./Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[./Castle Naerytar|Castle Naerytar]]
+- [[Castle Naerytar|Castle Naerytar]]
 - [[./Carnath Roadhouse|Carnath Roadhouse]]
