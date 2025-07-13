@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: true
+share: true
 aliases: 
 description: 
 type:
@@ -30,10 +30,7 @@ last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 * 
 
 ## Featured
-Evaluation Error: SyntaxError: missing ) after argument list
-    at new Function (<anonymous>)
-    at DataviewInlineApi.view (plugin:dataview:18981:20)
-    at async DataviewJSRenderer.render (plugin:dataview:19064:13)
+
 ## Mentions
 
 
