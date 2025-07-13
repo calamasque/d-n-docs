@@ -25,6 +25,7 @@ tags:
 image: 
 date: 
 last_modified: 
+share: true
 ---
 ## Character Summary
 - leidend figuur in de [[./Cult of the Dragon|Cult of the Dragon]].
