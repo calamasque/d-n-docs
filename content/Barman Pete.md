@@ -28,6 +28,10 @@ image:
 date: 
 last_modified: 
 ---
+
+https://calamasque.github.io/d-n-docs/Characters/Manni
+https://calamasque.github.io/d-n-docs/content/Characters/Manni
+
 ## Character Summary
 - Barman at [[/content/Carnath Roadhouse|Carnath Roadhouse]].
 - Claimt dat hij "beesten onder de vloer en tussen de muren hoorde hissen en bonken."
