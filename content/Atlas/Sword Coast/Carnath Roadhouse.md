@@ -8,28 +8,28 @@ image:
 date: 2025-07-02
 last_modified: 2025-07-02
 ---
-X O X O - Gossip Girl & me
+X O X O - Gossip Girl & me 2
 ## Aanwezig
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
-| [[content/Characters/Barman Pete.md\|Barman Pete]]           | Barman at Carnath Roadhouse |
-| [[content/Characters/Bog Luck.md\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
-| [[content/Characters/Elvira Blacktree.md\|Elvira Blacktree]] | \-                          |
+| [[../../Characters/Barman Pete\|Barman Pete]]           | Barman at Carnath Roadhouse |
+| [[../../Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
+| [[Elvira Blacktree\|Elvira Blacktree]] | \-                          |
 
 
 # Carnath Roadhouse
 
 ## Featured
 - [[/content/Adventures/005 - Eye Know (Bog Luck's Song)|005 - Eye Know (Bog Luck's Song)]]
-- [[/content/Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
+- [[../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
 
 ## People
 | File                                                         | Faction                                                                           | Description                 |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------- |
-| [[/content/Characters/Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
-| [[/content/Characters/Bog Luck\|Bog Luck]]                 | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
-| [[/content/Characters/Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
-| [[/content/Characters/Lorcil Silkhands\|Lorcil Silkhands]] | <ul><li>[[content/Factions/Harpers.md\|Harpers]]</li></ul>                       | Bard, Harper agent          |
+| [[../../Characters/Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
+| [[../../Characters/Bog Luck\|Bog Luck]]                 | <ul><li>[[Cult of the Dragon\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
+| [[Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
+| [[Lorcil Silkhands\|Lorcil Silkhands]] | <ul><li>[[Harpers\|Harpers]]</li></ul>                       | Bard, Harper agent          |
 
 
 ## Locatie
@@ -37,16 +37,16 @@ X O X O - Gossip Girl & me
 - Binnenplaats (met een waterput in de hoek)
 - Trap naar boven (?)
 - Gastenkamers
-- Kamer van [[/content/Characters/Bog Luck|Bog Luck]]
+- Kamer van [[../../Characters/Bog Luck|Bog Luck]]
 - Bar (boven de beveiligde opslagruimte)
 - ==Beveiligde opslagruimte==
 - Tunnel (vanuit de beveiligde opslagruimte)
 
 ## Security
-- [[/content/Characters/Bog Luck|Bog Luck]] is/was de baas.
+- [[../../Characters/Bog Luck|Bog Luck]] is/was de baas.
 - wachters op de daken
 
 ## Log 
-- [[/content/Characters/Bog Luck|Bog Luck]] herkent [[SmogEater|SmogEater]] en bespot hem non-stop. Na het vertellen van een lulverhaal zijn we toch welkom om hier te overnachten.
+- [[../../Characters/Bog Luck|Bog Luck]] herkent [[SmogEater|SmogEater]] en bespot hem non-stop. Na het vertellen van een lulverhaal zijn we toch welkom om hier te overnachten.
 - Uiteraard wordt een optreden van [[Metatron|Metatron]] door alle aanwezigen in de bar zeer gewaardeerd, ons verblijf is dan ook gratis.
-- [[Metatron|Metatron]] knoopt een gesprek aan met [[/content/Characters/Bog Luck|Bog Luck]] en geeft aan op zoek te zijn naar [[/content/Characters/Elvira Blacktree|Elvira Blacktree]] onder het mom de opdracht te hebben haar "te laten verdwijnen". [[/content/Characters/Bog Luck|Bog Luck]] geeft aan dat ze al "verdwenen is" door zijn toedoen.  
+- [[Metatron|Metatron]] knoopt een gesprek aan met [[../../Characters/Bog Luck|Bog Luck]] en geeft aan op zoek te zijn naar [[Elvira Blacktree|Elvira Blacktree]] onder het mom de opdracht te hebben haar "te laten verdwijnen". [[../../Characters/Bog Luck|Bog Luck]] geeft aan dat ze al "verdwenen is" door zijn toedoen.  
