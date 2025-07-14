@@ -2,12 +2,9 @@
 title: Elvira Blacktree
 share: true
 aliases: 
-type:
-  - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: NPC
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 deceased: true
 family: 
 faction:
@@ -16,8 +13,7 @@ race:
   - half-elf
 gender:
   - female
-class:
-  - ranger
+class: ranger
 description: 
 shop: 
 location:
@@ -27,7 +23,7 @@ game_date: 1489 DR
 tags: 
 image: 
 date: 
-last_modified: 
+last_modified:
 ---
 ## Character Summary
 Elvira Blacktree was een half-elf ranger in dienst van de [[/content/Factions/Harpers|Harpers]]. Opvallend kenmerk aan haar was dat haar rechteroor niet in een punt liep (litteken). Gedood door [[/content/Characters/Bog Luck|Bog Luck]] nadat hij haar gevangen nam en martelde. Haar lichaam is achtergelaten in de bosjes op zo'n 600-900ft ten oosten van [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].

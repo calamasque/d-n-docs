@@ -1,13 +1,11 @@
 ---
-title: 002 - The Ship Song
+title: The Ship Song
 publish: true
+session_num: 2
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Sea of Swords]]"
   - "[[The Happily Ever After]]"
@@ -24,7 +22,7 @@ NPCs:
   - "[[Tu’aven]]"
 mentions:
   - "[[Rezmir]]"
-encounters:
+encounters: 
 date: 2024-11-20
 game_date: 1489 DR
 tags:

@@ -28,18 +28,17 @@ publish: true
 date: 2025-07-05
 last_modified: 2025-06-22
 ---
-# Voaraghammanthar
+### Campaign Sessions
 
-## Character summary
-* Vliegende draak
-* Leeft al generaties [[Lizardfolk tribe]] in the [[Mere of Dead Men]]
-* Heeft de [[Lizardfolk tribe]] de opdracht gegeven voor [[Rezmir]] te werken
+| # | Title | Date |
+|--|--|--|
+undefined
 
-## Featured
+## Mentions
 ```dataview
-list
+LIST
 FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
+WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
 SORT file.name DESC
 ```
 

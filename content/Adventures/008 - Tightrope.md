@@ -1,13 +1,10 @@
 ---
 title: Tightrope
-share: true
+publish: true
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
@@ -19,16 +16,16 @@ PCs:
   - "[[Waldo|Waldo]]"
   - "[[Agrip'Ah|Agrip'Ah]]"
 NPCs:
-  - "[[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]]"
-  - "[[/content/Characters/Dralmorrer Borngray|Dralmorrer Borngray]]"
-  - "[[/content/Characters/Onbekende Red Wizard|Onbekende Red Wizard]]"
+  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[Dralmorrer Borngray|Dralmorrer Borngray]]"
+  - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
 mentions: 
 encounters:
   - "[[Giant frog|Giant frog]]"
   - "[[Bullywug tribe|Bullywug tribe]]"
   - "[[Gargoyle|Gargoyle]]"
-  - "[[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]]"
-  - "[[/content/Characters/Onbekende Red Wizard|Onbekende Red Wizard]]"
+  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
   - "[[Cult of the Dragon guard|Cult of the Dragon guard]]"
 date: 2025-05-18
 game_date: 1489 DR

@@ -1,13 +1,11 @@
 ---
 title: Windowlicker
-share: true
+publish: true
+session_num: 6
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
@@ -19,8 +17,8 @@ PCs:
   - "[[Waldo|Waldo]]"
   - "[[Agrip'Ah|Agrip'Ah]]"
 NPCs:
-  - "[[/content/Characters/Snapjaw|Snapjaw]]"
-  - "[[/content/Characters/Bog Luck|Bog Luck]]"
+  - "[[Snapjaw|Snapjaw]]"
+  - "[[Bog Luck|Bog Luck]]"
 mentions:
   - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
   - "[[Dralmorrer Borngray|Dralmorrer Borngray]]"
@@ -32,7 +30,6 @@ encounters:
   - "[[Spectre|Spectre]]"
 date: 2025-03-23
 game_date: 1489 DR
-session_num: 6
 tags:
   - adventure
 ---

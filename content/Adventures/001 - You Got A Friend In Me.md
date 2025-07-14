@@ -1,13 +1,11 @@
 ---
-title: 001 - You Got A Friend In Me
+title: You Got A Friend In Me
 publish: true
+session_num: 1
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Sea of Swords]]"
   - "[[The Happily Ever After]]"

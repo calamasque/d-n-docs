@@ -1,13 +1,11 @@
 ---
-title: 004 - Roadhouse Blues
+title: Roadhouse Blues
 publish: true
+session_num: 4
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Waterdeep]]"
   - "[[Carnath Roadhouse]]"

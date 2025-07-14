@@ -1,13 +1,9 @@
 ---
-type:
-  - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: NPC
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 deceased: 
-family:
-  - "[[Lord Ulbrinter|Lord Ulbrinter]]"
+family: "[[Lord Ulbrinter|Lord Ulbrinter]]"
 faction:
   - Harpers
 race:

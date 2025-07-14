@@ -2,12 +2,9 @@
 title: Barman Pete
 share: true
 aliases: 
-type:
-  - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: NPC
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 deceased: false
 family: 
 faction: 
@@ -18,19 +15,34 @@ gender:
 class: 
 description: Barman at Carnath Roadhouse
 shop:
-  - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse bar]]"
 location:
-  - "[[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 tags: 
 image: 
 date: 
-last_modified: 
+last_modified:
 ---
 
 https://calamasque.github.io/d-n-docs/Characters/Manni
 https://calamasque.github.io/d-n-docs/content/Characters/Manni
+
+## Templater
+
+
+## Oude code
+```dataviewjs
+for (let group of dv.pages('"content/Adventures"').where(p => p.type === "session").groupBy(c => c.campaign)) {
+	dv.header(3,group.key);
+	dv.table(["Sessie","Avontuur","Datum"],
+	group.rows
+		.where(p => p.type === "session")
+		.sort(p => p.session_num)
+		.map(p => [p.session_num,dv.fileLink(p.file.path,false,[p.title]),p.date]))
+}
+```
 
 ## Character Summary
 - Barman at [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].

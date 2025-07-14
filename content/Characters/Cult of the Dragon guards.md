@@ -1,10 +1,7 @@
 ---
-type:
-  - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: NPC
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 deceased: 
 family: 
 faction:

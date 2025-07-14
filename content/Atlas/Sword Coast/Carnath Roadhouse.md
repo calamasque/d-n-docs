@@ -8,6 +8,23 @@ image:
 date: 2025-07-02
 last_modified: 2025-07-02
 ---
+
+## Aanwezig
+```dataview
+
+TABLE 
+	WITHOUT ID
+	link(file.link,title) AS "Name", 
+	description AS "Beschrijving"
+
+FROM "content/Characters"
+
+WHERE 
+	contains(location, link(this.file.name)) AND 
+	type = "NPC"
+
+```
+
 # Carnath Roadhouse
 
 ## Featured

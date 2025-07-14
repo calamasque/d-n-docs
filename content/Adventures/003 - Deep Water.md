@@ -1,13 +1,11 @@
 ---
-title: 003 - Deep Water
+title: Deep Water
 publish: true
+session_num: 3
 aliases: 
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Waterdeep]]"
   - "[[The Happily Ever After]]"

@@ -1,10 +1,7 @@
 ---
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
@@ -16,14 +13,16 @@ PCs:
 NPCs:
   - "[[Dralmorrer Borngray]]"
   - "[[Pharblex Spattergoo]]"
-mentions: []
+mentions: 
 encounters:
   - "[[Drake]]"
   - "[[Otyugh]]"
   - "[[Gargoyle]]"
 date: 2025-04-15
 game_date: 1489 DR
-title: "007 - "
+title: Gargoyle
+publish: true
+session_num: 7
 tags:
   - adventure
 ---

@@ -1,10 +1,7 @@
 ---
-type:
-  - session
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: session
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 location:
   - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
@@ -31,7 +28,9 @@ encounters:
   - "[[Cult of the Dragon guard]]"
 date: 2025-07-06
 game_date: 1489 DR
-title: 010 - Battle
+title: Battle
+publish: true
+session_num: 10
 tags:
   - adventure
 ---

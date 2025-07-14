@@ -5,12 +5,9 @@ aliases:
   - Bog the Blind
   - Blind Luck
 description: Owner of Carnath Roadhouse
-type:
-  - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
+type: NPC
+world: Forgotten Realms
+campaign: Dungeons & Detectives
 deceased: 
 family: 
 faction:
@@ -28,7 +25,7 @@ game_date: 1489 DR
 tags: 
 image: 
 date: 
-last_modified: 
+last_modified:
 ---
 # Character Summary
 - Location: het laatst gezien in Mere of Dead Men varend richting de zee.
