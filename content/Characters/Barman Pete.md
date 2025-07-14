@@ -1,6 +1,6 @@
 ---
 title: Barman Pete
-share: true
+publish: true
 aliases: 
 type: NPC
 world: Forgotten Realms
@@ -15,15 +15,15 @@ gender:
 class: 
 description: Barman at Carnath Roadhouse
 shop:
-  - "[[Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
 location:
-  - "[[Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
 ---
 
 https://calamasque.github.io/d-n-docs/Characters/Manni
@@ -33,16 +33,20 @@ https://calamasque.github.io/d-n-docs/content/Characters/Manni
 
 
 ## Oude code
-```dataviewjs
-for (let group of dv.pages('"content/Adventures"').where(p => p.type === "session").groupBy(c => c.campaign)) {
-	dv.header(3,group.key);
-	dv.table(["Sessie","Avontuur","Datum"],
-	group.rows
-		.where(p => p.type === "session")
-		.sort(p => p.session_num)
-		.map(p => [p.session_num,dv.fileLink(p.file.path,false,[p.title]),p.date]))
-}
-```
+### Dungeons & Detectives
+
+|Sessie10|Avontuur|Datum|
+|---|---|---|
+|1|[You Got A Friend In Me](content/Adventures/001 - You Got A Friend In Me.md)|October 30, 2024|
+|2|[The Ship Song](content/Adventures/002 - The Ship Song.md)|November 20, 2024|
+|3|[Deep Water](content/Adventures/003 - Deep Water.md)|December 08, 2024|
+|4|[Roadhouse Blues](content/Adventures/004 - Roadhouse Blues.md)|January 26, 2025|
+|5|[Eye Know](content/Adventures/005 - Eye Know.md)|March 02, 2025|
+|6|[Windowlicker](content/Adventures/006 - Windowlicker.md)|March 23, 2025|
+|7|[Gargoyle](content/Adventures/007 - Gargoyle.md)|April 15, 2025|
+|8|[Tightrope](content/Adventures/008 - Tightrope.md)|May 18, 2025|
+|9|[Titel nog te bepalen](content/Adventures/009 - Titel nog te bepalen.md)|June 25, 2025|
+|10|[Battle](content/Adventures/010 - Battle.md)|July 06, 2025|
 
 ## Character Summary
 - Barman at [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].

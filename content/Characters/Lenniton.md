@@ -27,14 +27,9 @@ last_modified: 2025-07-06
 * 
 
 ## Featured
-```dataviewjs dv.view("/Scripts/featured"); ```
+Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
 ## Mentions
-```dataview
-LIST
-FROM "content/Adventures"
-WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
-* Blauwe draak die bij [[Greennest]] was.
+* Blauwe draak die bij [[Greennest|Greennest]] was.

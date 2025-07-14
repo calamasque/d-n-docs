@@ -8,7 +8,7 @@ campaign:
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon]]"
+  - "[[Cult of the Dragon|Cult of the Dragon]]"
 race:
   - dragon
 gender: 
@@ -16,7 +16,7 @@ class:
 description: 
 shop: 
 location:
-  - "[[Mere of Dead Men]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 title: Voaraghammanthar
@@ -35,12 +35,8 @@ last_modified: 2025-06-22
 undefined
 
 ## Mentions
-```dataview
-LIST
-FROM "content/Adventures"
-WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
-SORT file.name DESC
-```
+- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+
 
 ## Log
 * 
