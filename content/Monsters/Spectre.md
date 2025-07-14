@@ -22,20 +22,11 @@ last_modified: 2025-07-06
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(encounters, this.file.name) or contains(encounters, link(this.file.name))
-SORT file.name DESC
-```
+- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+
 
 ## Locations
-```dataview
-list
-FROM "content/Atlas"
-WHERE contains(monsters, this.file.name) or contains(monsters, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 
