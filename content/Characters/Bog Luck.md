@@ -1,6 +1,6 @@
 ---
 title: Bog Luck
-share: true
+publish: true
 aliases:
   - Bog the Blind
   - Blind Luck
@@ -25,7 +25,7 @@ game_date: 1489 DR
 tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
 ---
 # Character Summary
 - Location: het laatst gezien in Mere of Dead Men varend richting de zee.
