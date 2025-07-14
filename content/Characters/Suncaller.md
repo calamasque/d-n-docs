@@ -17,7 +17,7 @@ class:
 description: Former chief of Lizardfolk tribe
 shop: 
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 title: Suncaller
@@ -31,9 +31,9 @@ last_modified: 2025-07-05
 # Suncaller
 
 ## Character summary
-* Vorige leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[Castle Naerytar|Castle Naerytar]]
+* Vorige leider van de [[Lizardfolk|Lizardfolk]] van de [[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]] en [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
 - Gedood door [[Pharblex Spattergoo|Pharblex Spattergoo]]
 ## Featured / mentions
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
 
 
