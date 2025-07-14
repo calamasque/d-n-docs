@@ -1,6 +1,6 @@
 ---
 title: Carnath Roadhouse
-share: true
+publish: true
 aliases: 
 description: 
 tags: 
@@ -10,20 +10,12 @@ last_modified: 2025-07-02
 ---
 
 ## Aanwezig
-```dataview
+| Name                                                         | Beschrijving                |
+| ------------------------------------------------------------ | --------------------------- |
+| [[content/Characters/Barman Pete.md\|Barman Pete]]           | Barman at Carnath Roadhouse |
+| [[content/Characters/Bog Luck.md\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
+| [[content/Characters/Elvira Blacktree.md\|Elvira Blacktree]] | \-                          |
 
-TABLE 
-	WITHOUT ID
-	link(file.link,title) AS "Name", 
-	description AS "Beschrijving"
-
-FROM "content/Characters"
-
-WHERE 
-	contains(location, link(this.file.name)) AND 
-	type = "NPC"
-
-```
 
 # Carnath Roadhouse
 
