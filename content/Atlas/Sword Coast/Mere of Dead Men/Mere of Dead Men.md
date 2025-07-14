@@ -10,18 +10,18 @@ last_modified: 2025-07-14
 ---
 # Mere of Dead Men
 ## Featured
-- [[content/Adventures/010 - Battle.md|010 - Battle]]
-- [[content/Adventures/009 - Titel nog te bepalen.md|009 - Titel nog te bepalen]]
-- [[content/Adventures/008 - Tightrope.md|008 - Tightrope]]
-- [[content/Adventures/007 - Gargoyle.md|007 - Gargoyle]]
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
-- [[content/Adventures/005 - Eye Know.md|005 - Eye Know]]
+- [[../../../Adventures/010 - Battle|010 - Battle]]
+- [[../../../Adventures/009 - Titel nog te bepalen|009 - Titel nog te bepalen]]
+- [[../../../Adventures/008 - Tightrope|008 - Tightrope]]
+- [[../../../Adventures/007 - Gargoyle|007 - Gargoyle]]
+- [[../../../Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [[../../../Adventures/005 - Eye Know|005 - Eye Know]]
 
 ## Characters
 | File                                                                   | Faction                                                                           | Description                         |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
-| [[content/Characters/Pharblex Spattergoo.md\|Pharblex Spattergoo]]     | <ul><li>[[content/Factions/Bullywug tribe.md\|Bullywug tribe]]</li></ul>         | Chief of Bullywug tribe             |
-| [[content/Characters/Snapjaw.md\|Snapjaw]]                             | <ul><li>[[content/Factions/Lizardfolk tribe.md\|Lizardfolk tribe]]</li></ul>     | Future chief of the Lizardmen tribe |
-| [[content/Characters/Voaraghammanthar.md\|Voaraghammanthar]]           | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
-| [[enveloppe/content/Characters/Voaraghammanthar.md\|Voaraghammanthar]] | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
+| [[Pharblex Spattergoo\|Pharblex Spattergoo]]     | <ul><li>[[content/Factions/Bullywug tribe.md\|Bullywug tribe]]</li></ul>         | Chief of Bullywug tribe             |
+| [[Snapjaw\|Snapjaw]]                             | <ul><li>[[content/Factions/Lizardfolk tribe.md\|Lizardfolk tribe]]</li></ul>     | Future chief of the Lizardmen tribe |
+| [[../../../Characters/Voaraghammanthar\|Voaraghammanthar]]           | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
+| [[Voaraghammanthar\|Voaraghammanthar]] | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
 
