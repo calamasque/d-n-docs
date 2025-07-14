@@ -35,7 +35,7 @@ last_modified: 2025-06-22
 undefined
 
 ## Mentions
-- [[content/Adventures/006 - Windowlicker.md|006 - Windowlicker]]
+- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Log
