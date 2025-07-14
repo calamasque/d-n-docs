@@ -8,7 +8,7 @@ image:
 date: 2025-07-02
 last_modified: 2025-07-02
 ---
-X O X O - Gossip Girl
+X O X O - Gossip Girl & me
 ## Aanwezig
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
