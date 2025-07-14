@@ -22,6 +22,6 @@ last_modified: 2025-07-14
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------------- |
 | [[content/Characters/Pharblex Spattergoo.md\|Pharblex Spattergoo]]     | <ul><li>[[content/Factions/Bullywug tribe.md\|Bullywug tribe]]</li></ul>         | Chief of Bullywug tribe             |
 | [[content/Characters/Snapjaw.md\|Snapjaw]]                             | <ul><li>[[content/Factions/Lizardfolk tribe.md\|Lizardfolk tribe]]</li></ul>     | Future chief of the Lizardmen tribe |
-| [[enveloppe/content/Characters/Voaraghammanthar.md\|Voaraghammanthar]] | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
 | [[content/Characters/Voaraghammanthar.md\|Voaraghammanthar]]           | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
+| [[enveloppe/content/Characters/Voaraghammanthar.md\|Voaraghammanthar]] | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | \-                                  |
 
