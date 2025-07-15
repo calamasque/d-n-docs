@@ -15,9 +15,9 @@ location:
   - "[[The Happily Ever After|The Happily Ever After]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
-  - "[[../Metatron and The Band/Metatron|Metatron]]"
+  - "[[../Characters/Metatron and The Meta Band/Metatron|Metatron]]"
   - "[[SmogEater|SmogEater]]"
-  - "[[../Metatron and The Band/Szuszi|Szuszi]]"
+  - "[[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]]"
   - "[[Waldo|Waldo]]"
   - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
@@ -33,9 +33,9 @@ tags:
 ---
 
 ## Session Summary
-Wat zit er in de keuken? [[../Metatron and The Band/Szuszi|Szuszi]]
+Wat zit er in de keuken? [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]]
 
-After my departure from Luskan and a successful tour across the Sea of Swords I, [[../Metatron and The Band/Metatron|Metatron]], was offered an artist in residence space on a small island. Immediately after making landfall I was able to enchant the local fauna (harpies) with the sound of my heavenly voice. It didn't take long before my performance attracted a larger crowd - a group of rowdy adventures. After they made short work of the harpies I 
+After my departure from Luskan and a successful tour across the Sea of Swords I, [[../Characters/Metatron and The Meta Band/Metatron|Metatron]], was offered an artist in residence space on a small island. Immediately after making landfall I was able to enchant the local fauna (harpies) with the sound of my heavenly voice. It didn't take long before my performance attracted a larger crowd - a group of rowdy adventures. After they made short work of the harpies I 
 
 Gevonden in het harpy-nest:
 - Heilig symbool van Tyr (150GP): hamer met weegschaal
@@ -43,11 +43,11 @@ Gevonden in het harpy-nest:
 - Tiger Eye (10GP)
 - Obsidian (10GP)
 
-De edelstenen werden door de vrijgevige [[../Metatron and The Band/Metatron|Metatron]] gedeeld met de avonturiers als dank voor de fantastische show zij hadden opgevoerd. Het Heilige symbool van Tyr 'viel' echter in zijn rugzak zonder dat hij hier zelf erg in had. 
+De edelstenen werden door de vrijgevige [[../Characters/Metatron and The Meta Band/Metatron|Metatron]] gedeeld met de avonturiers als dank voor de fantastische show zij hadden opgevoerd. Het Heilige symbool van Tyr 'viel' echter in zijn rugzak zonder dat hij hier zelf erg in had. 
 
 'De band' avonturiers had duidelijk talent maar het waren ook stuk voor stuk ruwe diamanten die nog geslepen moesten worden. Hij besloot hen daarom onder zijn hoede te nemen om ze met een dagelijkse dosis inspiratie naar een hoger niveau te brengen. 
 
-De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[../Metatron and The Band/Szuszi|Szuszi]] was echter al helemaal omarmd door de groep zonder een [[Faerun|Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
+De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] was echter al helemaal omarmd door de groep zonder een [[../Atlas/Faerun|Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
 
 ## Recap of last session
 
