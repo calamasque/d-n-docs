@@ -9,17 +9,17 @@ date: 2025-07-14
 last_modified: 2025-07-14
 ---
 # The Band
-Lead: [[Metatron]]
+Lead: [[Metatron|Metatron]]
 
 Support:
-- [[Agrip’Ah]]
-- [[Dr. Egbert]]
-- [[SmogEater]]
-- [[Szuszi]]
-- [[Waldo]]
+- [[Agrip’Ah|Agrip’Ah]]
+- [[Dr. Egbert|Dr. Egbert]]
+- [[SmogEater|SmogEater]]
+- [[Szuszi|Szuszi]]
+- [[Waldo|Waldo]]
 
 Roadies:
-- [[Manni]]
-- [[Sanni]]
-- [[Tu’aven]]
+- [[Manni|Manni]]
+- [[Sanni|Sanni]]
+- [[Tu’aven|Tu’aven]]
 
