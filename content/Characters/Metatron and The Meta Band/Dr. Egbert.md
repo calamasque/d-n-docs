@@ -1,38 +1,31 @@
 ---
-title: Rath Modar
+title: Dr. Egbert
 publish: true
-aliases: 
+aliases:
+  - De Dokter
+  - Doc
 description: 
 world:
   - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: PC
 deceased: 
 family: 
 faction:
-  - "[[Red Wizards of Thay|Red Wizards of Thay]]"
+  - "[[The Meta Band|The Meta Band]]"
 race: 
 gender: 
 class:
-  - wizard
+  - - - warlock
 shop: 
 location: 
 origin: 
 game_date: 1489 DR
 image: 
-date: 2025-06-30
-last_modified: 2025-06-30
+date: 2025-07-15
+last_modified: 2025-07-14
 tags: 
 ---
-# Rath Modar
-
-## Character summary
-* 
-
-## Featured
-
-
-## Log
-* 
+# Dr. Egbert
+✅ Updated "world" to ["Forgotten Realms"] in 0 files where type == "PC".

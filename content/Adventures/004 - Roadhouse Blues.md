@@ -25,7 +25,7 @@ NPCs:
   - "[[../Characters/Bog Luck|Bog Luck]]"
   - "[[Barman Pete|Barman Pete]]"
 mentions:
-  - "[[Elvira Blacktree|Elvira Blacktree]]"
+  - "[[../Characters/Elvira Blacktree|Elvira Blacktree]]"
 encounters: "[[Bullywug tribe|Bullywug tribe]]"
 game_date: 1489 DR
 date: 2025-01-26
@@ -39,4 +39,4 @@ We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het altaar 
 
 Halverwege slaan we ons kamp op. Daar probeert de [[Bullywug tribe|Bullywug tribe]] midden in de nacht onze paarden te stelen. Dit moeten zij bekopen met hun leven.
 
-Met enig bedrog lukt het [[../Characters/Bog Luck|Bog Luck]] te overtuigen dat een opdrachtgever ons achter [[Elvira Blacktree|Elvira Blacktree]] aan heeft gestuurd met de vraag of hij haar misschien heeft gezien. Lachend laat hij weten dat hij haar al heeft uitgeschakeld en dat zij xxx meter ten westen van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] in de struiken is verborgen. 
+Met enig bedrog lukt het [[../Characters/Bog Luck|Bog Luck]] te overtuigen dat een opdrachtgever ons achter [[../Characters/Elvira Blacktree|Elvira Blacktree]] aan heeft gestuurd met de vraag of hij haar misschien heeft gezien. Lachend laat hij weten dat hij haar al heeft uitgeschakeld en dat zij xxx meter ten westen van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] in de struiken is verborgen. 

@@ -1,22 +1,22 @@
 ---
-type:
-  - Monster
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
-description: 
-encounter: 
-game_date: 1489 DR
 title: Spectre
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+type: monster
+encounter: 
 tags: 
 image: 
-publish: true
-date: 2025-07-06
-last_modified: 2025-07-06
+date: 2025-07-16
+last_modified: 2025-07-14
 ---
 
 # Spectre
+
 
 ## Monster summary
 * 

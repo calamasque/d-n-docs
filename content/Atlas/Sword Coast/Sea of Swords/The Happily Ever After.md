@@ -3,6 +3,10 @@ title: The Happily Ever After
 publish: true
 aliases: 
 description: 
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -19,7 +23,7 @@ tags:
 ## People
 | File                                       | Faction | Description                       |
 | ------------------------------------------ | ------- | --------------------------------- |
-| [[Manni\|Manni]]     | \-      | Owner of The Happily Ever After   |
-| [[Sanni\|Sanni]]     | \-      | Owner of The Happily Ever After   |
-| [[Tu’aven\|Tu’aven]] | \-      | Captain of The Happily Ever After |
+| [[../../../Characters/Manni\|Manni]]     | \-      | Owner of The Happily Ever After   |
+| [[../../../Characters/Sanni\|Sanni]]     | \-      | Owner of The Happily Ever After   |
+| [[../../../Characters/Tu’aven\|Tu’aven]] | \-      | Captain of The Happily Ever After |
 

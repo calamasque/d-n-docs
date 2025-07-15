@@ -4,6 +4,10 @@ publish: true
 aliases:
   - gezonken schip van Tyr
 description: 
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15

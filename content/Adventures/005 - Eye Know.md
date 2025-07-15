@@ -32,9 +32,9 @@ last_modified: 2025-07-15
 tags: 
 ---
 
-[[../Metatron and The Band/Szuszi|Szuszi]] is out.
+[[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] is out.
 
-Gevecht in de storage room waar [[../Metatron and The Band/Szuszi|Szuszi]] verdween.
+Gevecht in de storage room waar [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] verdween.
 
 Via de tunnel onder de opslagruimte van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[../Characters/Bog Luck|Bog Luck]] de één-oog-orc. 
 

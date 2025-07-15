@@ -3,6 +3,10 @@ title: Halls of Justice
 publish: true
 aliases: 
 description: 
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -21,4 +25,4 @@ tags:
 
 Tempel van Tyr gevestigd in [[./Waterdeep|Waterdeep]]. 
 
-[[../../../Metatron and The Band/SmogEater|SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 
+[[../../../Characters/Metatron and The Meta Band/SmogEater|SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 

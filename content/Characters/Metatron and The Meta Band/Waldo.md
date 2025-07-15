@@ -1,5 +1,5 @@
 ---
-title: Lenniton
+title: Waldo
 publish: true
 aliases: 
 description: 
@@ -7,31 +7,30 @@ world:
   - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
-type: NPC
+type: PC
 deceased: 
 family: 
-faction: 
-race: "[[dragon]]"
-gender: 
+faction:
+  - "[[The Meta Band|The Meta Band]]"
+race: 
+gender: male
 class: 
 shop: 
 location: 
 origin: 
 game_date: 1489 DR
 image: 
-date: 2025-07-07
-last_modified: 2025-07-06
+date: 2025-07-15
+last_modified: 2025-07-15
 tags: 
 ---
-# Lenniton
+# Waldo
 
 ## Character summary
 * 
 
 ## Featured
-Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
-## Mentions
 
 
 ## Log
-* Blauwe draak die bij [[Greennest|Greennest]] was.
+* 
