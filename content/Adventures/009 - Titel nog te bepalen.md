@@ -3,17 +3,17 @@ type: session
 world: Forgotten Realms
 campaign: Dungeons & Detectives
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
-  - "[[Dr. Egbert]]"
-  - "[[Metatron]]"
-  - "[[SmogEater]]"
-  - "[[Szuszi]]"
-  - "[[Agrip’Ah]]"
+  - "[[Dr. Egbert|Dr. Egbert]]"
+  - "[[Metatron|Metatron]]"
+  - "[[SmogEater|SmogEater]]"
+  - "[[Szuszi|Szuszi]]"
+  - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
-  - "[[Pharblex Spattergoo]]"
-  - "[[Rezmir]]"
+  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[Rezmir|Rezmir]]"
 mentions: 
 encounters: 
 date: 2025-06-25
@@ -29,7 +29,7 @@ tags:
 ## Recap of last session
 
 ## Log
-Een poging om [[Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [[Pharblex Spattergoo|Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -54,7 +54,7 @@ Gang = chokehold
 
 Arcane-check: Pharblex's staff is voor een focus, niet echt magisch.
 
-Metatron geeft Pharblex het [[zakje met Bullywug steentjes]] voor zijn kinderen.
+Metatron geeft Pharblex het [[zakje met Bullywug steentjes|zakje met Bullywug steentjes]] voor zijn kinderen.
 
 Tiny hut:
 1. 1e wacht (niets)
@@ -64,5 +64,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir|Rezmir]]
 

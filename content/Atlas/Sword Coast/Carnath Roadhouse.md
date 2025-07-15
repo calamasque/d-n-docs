@@ -8,29 +8,14 @@ image:
 date: 2025-07-02
 last_modified: 2025-07-02
 ---
-X O X O - Gossip Girl & me 2
-## Aanwezig
+# Carnath Roadhouse
+
+## Gerelateerde NPCs
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
 | [[../../Characters/Barman Pete\|Barman Pete]]           | Barman at Carnath Roadhouse |
 | [[../../Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
 | [[Elvira Blacktree\|Elvira Blacktree]] | \-                          |
-
-
-# Carnath Roadhouse
-
-## Featured
-- [[/content/Adventures/005 - Eye Know (Bog Luck's Song)|005 - Eye Know (Bog Luck's Song)]]
-- [[../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
-
-## People
-| File                                                         | Faction                                                                           | Description                 |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------- |
-| [[../../Characters/Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
-| [[../../Characters/Bog Luck\|Bog Luck]]                 | <ul><li>[[Cult of the Dragon\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
-| [[Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
-| [[Lorcil Silkhands\|Lorcil Silkhands]] | <ul><li>[[Harpers\|Harpers]]</li></ul>                       | Bard, Harper agent          |
-
 
 ## Locatie
 - Poort

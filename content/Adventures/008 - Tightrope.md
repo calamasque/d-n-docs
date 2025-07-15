@@ -38,15 +38,15 @@ Na een kort gevecht weten onze helden de 4 gargoyles te verslaan.
 
 De groep besluit een kijkje te nemen in het observatorium waar zich een gigantische telescoop bevindt. Bijzonder genoeg is het dak van het observatorium volledig afgesloten. Is dit misschien een magische telescoop. [[Szuszi|Szuszi]] en [[SmogEater|SmogEater]] besluiten een kijkje te nemen. De eerste doet dit voorzichtig en ziet (...). De draconian doet dit niet geheel onverwacht minder subtiel waardoor de telescoop een tik krijgt en daardoor iets anders in beeld brengt. 
  
-Terwijl dit zich allemaal afspeelde zaten een toren verder [[Dr. Egbert|Dr. Egbert]] en [[Waldo|Waldo]] wat uit hun neus te eten. Uiteindelijk besloten zij toch ook maar eens poolshoogte te gaan nemen. De rest van de groep zou nu ondertussen de kolen toch wel uit het vuur hebben gehaald? De trap afgedaald komen zij met een sprong op de kleine binnenplaats die verlaten is. Met wat gesluip komt Dr. Egbert bij de poort naar de grotere binnenplaats. Waar Waldo is gebleven is onduidelijk. [[/content/Characters/Dralmorrer Borngray|Dralmorrer Borngray]] steekt op dat moment de grote binnenplaats over en ...
+Terwijl dit zich allemaal afspeelde zaten een toren verder [[Dr. Egbert|Dr. Egbert]] en [[Waldo|Waldo]] wat uit hun neus te eten. Uiteindelijk besloten zij toch ook maar eens poolshoogte te gaan nemen. De rest van de groep zou nu ondertussen de kolen toch wel uit het vuur hebben gehaald? De trap afgedaald komen zij met een sprong op de kleine binnenplaats die verlaten is. Met wat gesluip komt Dr. Egbert bij de poort naar de grotere binnenplaats. Waar Waldo is gebleven is onduidelijk. [[../Characters/Dralmorrer Borngray|Dralmorrer Borngray]] steekt op dat moment de grote binnenplaats over en ...
 
 ONTBREKEND DEEL
 
-De goed verborgen [[Dr. Egbert|Dr. Egbert]] valt op de kleine binnenplaats de [[/content/Characters/Onbekende Red Wizard|Onbekende Red Wizard]] aan die afgeleid is door het lawaai wat boven uit het observatorium komt. Het lukt hem helaas net niet om de Thayan te doden waarop deze ontsnapt naar de grote binnenplaats, luidkeels alarm roepend. [[Dr. Egbert|Dr. Egbert]] zoekt daarom snel een veilig heenkomen in de afvaltoren maar overschat hierbij zijn atletisch vermogen waardoor hij kopje onder gaat in vele kubieke meters stront en andere ranzigheden onder in de toren.
+De goed verborgen [[Dr. Egbert|Dr. Egbert]] valt op de kleine binnenplaats de [[Onbekende Red Wizard|Onbekende Red Wizard]] aan die afgeleid is door het lawaai wat boven uit het observatorium komt. Het lukt hem helaas net niet om de Thayan te doden waarop deze ontsnapt naar de grote binnenplaats, luidkeels alarm roepend. [[Dr. Egbert|Dr. Egbert]] zoekt daarom snel een veilig heenkomen in de afvaltoren maar overschat hierbij zijn atletisch vermogen waardoor hij kopje onder gaat in vele kubieke meters stront en andere ranzigheden onder in de toren.
 
 [[Agrip'Ah|Agrip'Ah]]  hoort [[Dr. Egbert|Dr. Egbert]] ...
 
-[[/content/Characters/Dralmorrer Borngray|Dralmorrer Borngray]] en een groep bewapende leden van de [[/content/Factions/Cult of the Dragon|Cult of the Dragon]] stormden beneden door de deur...
+[[../Characters/Dralmorrer Borngray|Dralmorrer Borngray]] en een groep bewapende leden van de [[Cult of the Dragon|Cult of the Dragon]] stormden beneden door de deur...
 
 Vluchten naar het dak...
 
@@ -74,5 +74,5 @@ Vinden in een daar achter gelegen kleine ruimte een soort poging tot een altaar/
 - [[Ramenos|Ramenos]] - (god of ancient creation races)
 Al lijkt het er vooral op een poging van iemand die het niet helemaal snapt.
 
-Onze helden keren zich weer om en staan vervolgens oog in oog met [[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]] en een groep van 10 [[bullywug krijgers|bullywug krijgers]].
+Onze helden keren zich weer om en staan vervolgens oog in oog met [[Pharblex Spattergoo|Pharblex Spattergoo]] en een groep van 10 [[bullywug krijgers|bullywug krijgers]].
 

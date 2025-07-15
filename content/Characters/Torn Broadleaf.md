@@ -30,12 +30,8 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+- [[../Adventures/003 - Deep Water|003 - Deep Water]]
+
 
 ## Log
 * 
