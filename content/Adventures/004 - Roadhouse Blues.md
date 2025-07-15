@@ -7,9 +7,9 @@ type: session
 world: Forgotten Realms
 campaign: Dungeons & Detectives
 location:
-  - "[[Waterdeep|Waterdeep]]"
+  - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
   - "[[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
-  - "[[Halls of Justice|Halls of Justice]]"
+  - "[[../Atlas/Sword Coast/Waterdeep/Halls of Justice|Halls of Justice]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
   - "[[Metatron|Metatron]]"
@@ -28,7 +28,7 @@ game_date: 1489 DR
 tags: 
 ---
 
-??? laten we achter in de [[Halls of Justice|Halls of Justice]] in [[Waterdeep|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
+??? laten we achter in de [[../Atlas/Sword Coast/Waterdeep/Halls of Justice|Halls of Justice]] in [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
 
 We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het altaar nemen we met ons mee in de wagen. 
 
