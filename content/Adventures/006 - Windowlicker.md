@@ -1,11 +1,15 @@
 ---
 title: Windowlicker
 publish: true
-session_num: 6
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 6
+session_date: 2025-03-23
 location:
   - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
@@ -15,7 +19,7 @@ PCs:
   - "[[SmogEater|SmogEater]]"
   - "[[Szuszi|Szuszi]]"
   - "[[Waldo|Waldo]]"
-  - "[[Agrip'Ah|Agrip'Ah]]"
+  - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
   - "[[Snapjaw|Snapjaw]]"
   - "[[Bog Luck|Bog Luck]]"
@@ -28,10 +32,10 @@ mentions:
 encounters:
   - "[[Crocodile|Crocodile]]"
   - "[[../Monsters/Spectre|Spectre]]"
-date: 2025-03-23
 game_date: 1489 DR
-tags:
-  - adventure
+date: 2025-03-23
+last_modified: 2025-07-15
+tags: 
 ---
 
 Aangekomen bij [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[../Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[../Metatron and The Band/Metatron|Metatron]] de wachter van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 
