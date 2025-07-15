@@ -1,11 +1,15 @@
 ---
 title: Deep Water
 publish: true
-session_num: 3
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 3
+session_date: 2024-12-08
 location:
   - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
   - "[[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
@@ -31,10 +35,10 @@ mentions:
   - "[[Lord Ulbrinter|Lord Ulbrinter]]"
   - "[[Lord Neverember|Lord Neverember]]"
 encounters: 
-date: 2024-12-08
 game_date: 1489 DR
-tags:
-  - adventure
+date: 2024-12-08
+last_modified: 2025-07-15
+tags: 
 ---
 
 Onze helden arriveren met de [[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]] in de haven van de indrukwekkende stad [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 
