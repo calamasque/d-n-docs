@@ -11,7 +11,7 @@ location:
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
-  - "[[Metatron|Metatron]]"
+  - "[[../Metatron and The Band/Metatron|Metatron]]"
   - "[[SmogEater|SmogEater]]"
   - "[[Szuszi|Szuszi]]"
   - "[[Waldo|Waldo]]"
@@ -34,7 +34,7 @@ tags:
   - adventure
 ---
 
-Aangekomen bij [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[../Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[Metatron|Metatron]] de wachter van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 
+Aangekomen bij [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[../Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[../Metatron and The Band/Metatron|Metatron]] de wachter van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 
 
 Die hadden ondertussen de tijd gehad de omgeving in zich op te nemen. Voor hen rees [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] uit het landschap op met voor de poort een groep longhuts en verderop een andere groep hutten. 
 
