@@ -20,8 +20,8 @@ PCs:
   - "[[Szuszi|Szuszi]]"
   - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
-  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
-  - "[[Rezmir|Rezmir]]"
+  - "[[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[../Characters/Rezmir|Rezmir]]"
 mentions: 
 encounters: 
 game_date: 1489 DR
@@ -34,7 +34,7 @@ tags:
 ## Recap of last session
 
 ## Log
-Een poging om [[Pharblex Spattergoo|Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -69,5 +69,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir|Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[../Characters/Rezmir|Rezmir]]
 
