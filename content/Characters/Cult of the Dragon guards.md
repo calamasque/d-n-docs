@@ -5,14 +5,14 @@ campaign: Dungeons & Detectives
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon]]"
+  - "[[Cult of the Dragon|Cult of the Dragon]]"
 race: 
 gender: 
 class: 
 description: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 title: Cult of the Dragon guards
@@ -30,12 +30,7 @@ last_modified: 2025-07-05
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 
