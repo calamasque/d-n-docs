@@ -34,6 +34,7 @@ last_modified: 2025-07-15
 ## Character Summary
 
 ## Featured
+- [[../Adventures/011 - Zzzzz|011 - Zzzzz]]
 - [[../Adventures/010 - Battle|010 - Battle]]
 - [[../Adventures/009 - Titel nog te bepalen|009 - Titel nog te bepalen]]
 - [[../Adventures/008 - Tightrope|008 - Tightrope]]
