@@ -1,11 +1,15 @@
 ---
 title: You Got A Friend In Me
 publish: true
-session_num: 1
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 1
+session_date: 2024-10-30
 location:
   - "[[Sea of Swords|Sea of Swords]]"
   - "[[The Happily Ever After|The Happily Ever After]]"
@@ -20,9 +24,11 @@ NPCs:
   - "[[Manni|Manni]]"
   - "[[Sanni|Sanni]]"
   - "[[Tu’aven|Tu’aven]]"
+mentions: 
 encounters: "[[Harpies]]"
-date: 2024-10-30
 game_date: 1489 DR
+date: 2024-10-30
+last_modified: 2025-07-15
 tags: 
 ---
 

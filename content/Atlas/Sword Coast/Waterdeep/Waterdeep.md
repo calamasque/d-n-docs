@@ -4,10 +4,10 @@ publish: true
 aliases: 
 description: 
 type: place
-tags: 
 image: 
 date: 2025-07-15
 last_modified: 2025-07-14
+tags: 
 ---
 # Waterdeep
 

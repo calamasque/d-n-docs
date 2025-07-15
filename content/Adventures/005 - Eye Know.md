@@ -1,7 +1,15 @@
 ---
+title: Eye Know
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 5
+session_date: 2025-03-02
 location:
   - "[[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
@@ -18,11 +26,9 @@ mentions:
   - "[[Snapjaw|Snapjaw]]"
 encounters:
   - "[[Bullywug tribe|Bullywug tribe]]"
-date: 2025-03-02
 game_date: 1489 DR
-title: Eye Know
-publish: true
-session_num: 5
+date: 2025-03-02
+last_modified: 2025-07-15
 tags: 
 ---
 

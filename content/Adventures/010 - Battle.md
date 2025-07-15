@@ -1,7 +1,15 @@
 ---
+title: Battle
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 10
+session_date: 2025-07-06
 location:
   - "[[Castle Naerytar|Castle Naerytar]]"
   - "[[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
@@ -26,13 +34,10 @@ encounters:
   - "[[Dragonclaws|Dragonclaws]]"
   - "[[../Characters/Dragonwing(s)|Dragonwing(s)]]"
   - "[[Cult of the Dragon guard|Cult of the Dragon guard]]"
-date: 2025-07-06
 game_date: 1489 DR
-title: Battle
-publish: true
-session_num: 10
-tags:
-  - adventure
+date: 2025-07-06
+last_modified: 2025-07-15
+tags: 
 ---
 ## Session Summary
 

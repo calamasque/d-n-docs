@@ -1,11 +1,15 @@
 ---
 title: The Ship Song
 publish: true
-session_num: 2
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 2
+session_date: 2024-11-20
 location:
   - "[[Sea of Swords|Sea of Swords]]"
   - "[[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
@@ -23,10 +27,10 @@ NPCs:
 mentions:
   - "[[Rezmir|Rezmir]]"
 encounters: 
-date: 2024-11-20
 game_date: 1489 DR
-tags:
-  - adventure
+date: 2024-11-20
+last_modified: 2025-07-15
+tags: 
 ---
 
 Nadat [[../Metatron and The Band/Metatron|Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[../Atlas/Sword Coast/Sea of Swords/wrak van The Marshall|wrak van The Marshall]], een missionaris schip van priesters van [[Tyr|Tyr]], gingen onderzoeken. 

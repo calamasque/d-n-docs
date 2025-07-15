@@ -1,11 +1,15 @@
 ---
 title: Roadhouse Blues
 publish: true
-session_num: 4
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 4
+session_date: 2025-01-26
 location:
   - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
   - "[[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
@@ -23,8 +27,9 @@ NPCs:
 mentions:
   - "[[Elvira Blacktree|Elvira Blacktree]]"
 encounters: "[[Bullywug tribe|Bullywug tribe]]"
-date: 2025-01-26
 game_date: 1489 DR
+date: 2025-01-26
+last_modified: 2025-07-15
 tags: 
 ---
 

@@ -1,7 +1,15 @@
 ---
+title: Gargoyle
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms|Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+session_num: 7
+session_date: 2025-04-15
 location:
   - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
@@ -10,6 +18,7 @@ PCs:
   - "[[SmogEater|SmogEater]]"
   - "[[Waldo|Waldo]]"
   - "[[Agrip’Ah|Agrip’Ah]]"
+  - "[[../Metatron and The Band/Szuszi|Szuszi]]"
 NPCs:
   - "[[../Characters/Dralmorrer Borngray|Dralmorrer Borngray]]"
   - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
@@ -18,13 +27,10 @@ encounters:
   - "[[Drake|Drake]]"
   - "[[Otyugh|Otyugh]]"
   - "[[Gargoyle|Gargoyle]]"
-date: 2025-04-15
 game_date: 1489 DR
-title: Gargoyle
-publish: true
-session_num: 7
-tags:
-  - adventure
+date: 2025-04-15
+last_modified: 2025-07-15
+tags: 
 ---
 
 The [[../Metatron and The Band/Dr. Egbert|Dr. Egbert]] is out.

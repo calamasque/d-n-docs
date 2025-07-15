@@ -33,9 +33,11 @@ https://calamasque.github.io/d-n-docs/content/Characters/Manni
 
 
 ## Oude code
-### Dungeons & Detectives
+### 
 
-|Sessie10|Avontuur|Datum|
+- [Hoard of the Dragon Queen](Hoard of the Dragon Queen)
+
+|Sessie11|Avontuur|Datum|
 |---|---|---|
 |1|[You Got A Friend In Me](content/Adventures/001 - You Got A Friend In Me.md)|October 30, 2024|
 |2|[The Ship Song](content/Adventures/002 - The Ship Song.md)|November 20, 2024|
@@ -47,6 +49,7 @@ https://calamasque.github.io/d-n-docs/content/Characters/Manni
 |8|[Tightrope](content/Adventures/008 - Tightrope.md)|May 18, 2025|
 |9|[Titel nog te bepalen](content/Adventures/009 - Titel nog te bepalen.md)|June 25, 2025|
 |10|[Battle](content/Adventures/010 - Battle.md)|July 06, 2025|
+|11|[Zzzzz](content/Adventures/011 - Zzzzz.md)|July 15, 2025|
 
 ## Character Summary
 - Barman at [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
