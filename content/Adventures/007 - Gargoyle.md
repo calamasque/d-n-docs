@@ -6,7 +6,7 @@ location:
   - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
-  - "[[Metatron|Metatron]]"
+  - "[[../Metatron and The Band/Metatron|Metatron]]"
   - "[[SmogEater|SmogEater]]"
   - "[[Waldo|Waldo]]"
   - "[[Agrip’Ah|Agrip’Ah]]"
@@ -27,11 +27,11 @@ tags:
   - adventure
 ---
 
-The [[Dr. Egbert|Dr. Egbert]] is out.
+The [[../Metatron and The Band/Dr. Egbert|Dr. Egbert]] is out.
 
 Na een korte rustpauze in de torenkamer van de afvaltoren gingen onze nachtelijke avonturiers op onderzoek uit. 
 
-[[Szuszi|Szuszi]] kruipt door een kleine opening het dak op.................
+[[../Metatron and The Band/Szuszi|Szuszi]] kruipt door een kleine opening het dak op.................
 
 Kleine binnenplaats:
 3 [[Drake|Drake]]s 
@@ -53,7 +53,7 @@ Begane grond:
 Eerste verdieping:
 * Luxe werkkamer van [[../Characters/Dralmorrer Borngray|Dralmorrer Borngray]] met het boek "Code of the [[Eldreth Veluuthra|Eldreth Veluuthra]]" en een [[Eldreth Veluuthra|Eldreth Veluuthra]] outfit.
 
-Trap: [[Szuszi|Szuszi]] en [[Metatron|Metatron]] gaan voorop
+Trap: [[../Metatron and The Band/Szuszi|Szuszi]] en [[../Metatron and The Band/Metatron|Metatron]] gaan voorop
 
 Bovenste verdieping:
 - Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[gargoyle|gargoyle]]s. 
