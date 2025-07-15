@@ -3,6 +3,7 @@ title: Mere of Dead Men
 publish: true
 aliases: 
 description: 
+type: place
 tags: 
 image: 
 date: 2025-07-14

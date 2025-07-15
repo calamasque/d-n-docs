@@ -3,6 +3,7 @@ title: Castle Naerytar
 publish: true
 aliases: 
 description: 
+type: place
 tags: 
 image: 
 date: 2025-07-14

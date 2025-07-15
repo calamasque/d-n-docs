@@ -1,13 +1,24 @@
+---
+title: Waterdeep
+publish: true
+aliases: 
+description: 
+type: place
+tags: 
+image: 
+date: 2025-07-15
+last_modified: 2025-07-14
+---
+# Waterdeep
+
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
-SORT file.name DESC
-```
+- [[../../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
+- [[../../../Adventures/003 - Deep Water|003 - Deep Water]]
+
 ## People
-```dataview
-table faction as Faction, description as Description
-WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
-SORT file.name ASC
-```
+| File                                                                       | Faction                                                                       | Description                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
+| [[Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>Harpers</li></ul>                                                     | Harper leadership                                |
+| [[Lord Neverember\|Lord Neverember]]                 | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
+| [[Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Waterdeep lord                                   |
+

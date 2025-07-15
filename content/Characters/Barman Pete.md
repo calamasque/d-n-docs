@@ -15,7 +15,7 @@ gender:
 class: 
 description: Barman at Carnath Roadhouse
 shop:
-  - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse tavern|Carnath roadhouse tavern]]"
 location:
   - "[[Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 

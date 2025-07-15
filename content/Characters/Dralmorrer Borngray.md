@@ -47,8 +47,8 @@ publish: true
 
 ## Eigendom
 ### Boeken
-- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]) => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
+- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]) => gestolen door [[../Metatron and The Band/Metatron|Metatron]] uit zijn werkkamer
 ### Kleding 
 - Huidige kleding
-- [[Eldreth Veluuthra|Eldreth Veluuthra]] kleding => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
+- [[Eldreth Veluuthra|Eldreth Veluuthra]] kleding => gestolen door [[../Metatron and The Band/Metatron|Metatron]] uit zijn werkkamer
 
