@@ -5,20 +5,20 @@ aliases:
   - Dragon Kneelers
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type: NPC
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon|Cult of the Dragon]]"
+  - "[Cult of the Dragon](Cult%20of%20the%20Dragon.md)"
 race: 
 gender: 
 class: 
 shop: 
 location:
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[Castle Naerytar](content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)"
 origin: 
 game_date: 1489 DR
 image: 
