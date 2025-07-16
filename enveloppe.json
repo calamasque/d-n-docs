@@ -3,7 +3,7 @@
   "outputFolder": "public",  
   "site": {
     "title": "D-n-Docs",
-    "baseUrl": "/"
+    "baseUrl": "/d-n-docs/"
   },
   "features": {
     "preserveFolderStructure": true
