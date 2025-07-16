@@ -5,21 +5,21 @@ aliases:
   - oude zwarte draak
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type:
   - NPC
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon|Cult of the Dragon]]"
+  - "[Cult of the Dragon](Cult%20of%20the%20Dragon.md)"
 race: "[[dragon]]"
 gender: 
 class: 
 shop: 
 location:
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men]]"
+  - "[Mere of Dead Men](Mere%20of%20Dead%20Men.md)"
 origin: 
 game_date: 1489 DR
 image: 
@@ -34,7 +34,7 @@ tags:
 undefined
 
 ## Mentions
-- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [006 - Windowlicker](/content/Adventures/006%20-%20Windowlicker.md)
 
 
 ## Log
