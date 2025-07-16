@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -16,14 +16,15 @@ tags:
 # Waterdeep
 
 ## Featured
-- [[../../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
-- [[../../../Adventures/003 - Deep Water|003 - Deep Water]]
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
+SORT file.name DESC
+```
 ## People
-| File                                                                       | Faction                                                                       | Description                                      |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
-| [[../../../Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>Harpers</li></ul>                                                     | Harper leadership                                |
-| [[../../../Characters/Lord Neverember\|Lord Neverember]]                 | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
-| [[../../../Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Waterdeep lord                                   |
-| [[../../../Characters/Torn Broadleaf\|Torn Broadleaf]]                   | \-                                                                            | Smit in Waterdeep                                |
-
+```dataview
+table faction as Faction, description as Description
+WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
+SORT file.name ASC
+```

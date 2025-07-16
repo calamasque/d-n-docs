@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
@@ -29,9 +29,14 @@ tags:
 * 
 
 ## Featured
-Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
+```dataviewjs dv.view("/Scripts/featured"); ```
 ## Mentions
-
+```dataview
+LIST
+FROM "content/Adventures"
+WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
+SORT file.name DESC
+```
 
 ## Log
-* Blauwe draak die bij [[Greennest|Greennest]] was.
+* Blauwe draak die bij [[Greennest]] was.

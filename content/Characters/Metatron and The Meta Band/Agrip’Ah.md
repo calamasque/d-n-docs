@@ -4,14 +4,14 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen]]"
 type: PC
 deceased: 
 family: 
 faction:
-  - "[[The Meta Band|The Meta Band]]"
+  - "[[The Meta Band]]"
 race: 
 gender: 
 class: 

@@ -4,14 +4,14 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen]]"
 type: PC
 deceased: 
 family: 
 faction:
-  - "[[The Meta Band|The Meta Band]]"
+  - "[[The Meta Band]]"
 race: 
 gender: male
 class: 
@@ -30,7 +30,12 @@ tags:
 * 
 
 ## Featured
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
+SORT file.name DESC
+```
 
 ## Log
 * 

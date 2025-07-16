@@ -5,20 +5,20 @@ aliases:
   - Dragon Kneelers
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon|Cult of the Dragon]]"
+  - "[[Cult of the Dragon]]"
 race: 
 gender: 
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -32,7 +32,12 @@ tags:
 * 
 
 ## Featured
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
+SORT file.name DESC
+```
 
 ## Log
 * 

@@ -4,25 +4,30 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[[Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
-type: place
+  - "[[Hoard of the Dragon Queen]]"
+type: place 
 image: 
 date: 2025-07-15
 last_modified: 2025-07-14
-tags: 
+tags:
 ---
 # Halls of Justice
 ## Featured
-- [[../../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
-- [[../../../Adventures/003 - Deep Water|003 - Deep Water]]
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
+SORT file.name DESC
+```
 ## People
-| File | Faction | Description |
-| ---- | ------- | ----------- |
+```dataview
+table faction as Faction, description as Description
+WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
+SORT file.name ASC
+```
 
+Tempel van Tyr gevestigd in [[Waterdeep]]. 
 
-Tempel van Tyr gevestigd in [[./Waterdeep|Waterdeep]]. 
-
-[[../../../Characters/Metatron and The Meta Band/SmogEater|SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 
+[[SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 
