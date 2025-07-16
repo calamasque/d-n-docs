@@ -11,9 +11,9 @@ campaign:
 session_num: 2
 session_date: 2024-11-20
 location:
-  - "[[Sea of Swords|Sea of Swords]]"
-  - "[[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
-  - "[[../Atlas/Sword Coast/Sea of Swords/wrak van The Marshall|wrak van The Marshall]]"
+  - "[[content/Faerun/Sword Coast/Sea of Swords/Sea of Swords|content/Faerun/Sword Coast/Sea of Swords/Sea of Swords]]"
+  - "[[../Faerun/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
+  - "[[../Faerun/Sword Coast/Sea of Swords/wrak van The Marshall|wrak van The Marshall]]"
 PCs:
   - "[[../Characters/Metatron and The Meta Band/Dr. Egbert|Dr. Egbert]]"
   - "[[../Characters/Metatron and The Meta Band/SmogEater|SmogEater]]"
@@ -33,7 +33,7 @@ last_modified: 2025-07-15
 tags: 
 ---
 
-Nadat [[../Characters/Metatron and The Meta Band/Metatron|Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[../Atlas/Sword Coast/Sea of Swords/wrak van The Marshall|wrak van The Marshall]], een missionaris schip van priesters van [[Tyr|Tyr]], gingen onderzoeken. 
+Nadat [[../Characters/Metatron and The Meta Band/Metatron|Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[../Faerun/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[../Faerun/Sword Coast/Sea of Swords/wrak van The Marshall|wrak van The Marshall]], een missionaris schip van priesters van [[Tyr|Tyr]], gingen onderzoeken. 
 
 Op het het schip, niet het wrak, leert [[../Characters/Metatron and The Meta Band/Metatron|Metatron]] 2 halflingen kennen, [[../Characters/Manni|Manni]] & [[../Characters/Sanni|Sanni]], en hun Tabaxi kapitein [[../Characters/Tu’aven|Tu’aven]]. Zij namen hem onder hun hoede en verzorgden hem van zijn wonden van de harpies. De namiddag genoten de halflings van de liederen en verhalen van hun nieuwe vriend. Af en toe zagen jullie in de verte handelsschepen en dergelijke aan de horizon voorbij varen, maar de aandacht van [[../Characters/Metatron and The Meta Band/Metatron|Metatron]], [[../Characters/Sanni|Sanni]], [[../Characters/Manni|Manni]] & [[../Characters/Tu’aven|Tu’aven]] ging natuurlijk vooral naar de cove waar het wrak en hun vrienden zich bevonden.
 
