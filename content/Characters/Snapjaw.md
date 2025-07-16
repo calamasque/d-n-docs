@@ -5,22 +5,22 @@ aliases:
   - Future chief of the Lizardmen tribe
 description: Future chief of the Lizardmen tribe
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type:
   - NPC
 deceased: 
 family: 
 faction:
-  - "[[Lizardfolk tribe|Lizardfolk tribe]]"
+  - "[Lizardfolk tribe](Lizardfolk%20tribe.md)"
 race: "[[lizardfolk]]"
 gender: male
 class: 
 shop: 
 location:
-  - "[[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
-  - "[[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]"
+  - "[Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)"
+  - "[Mere of Dead Men](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/index.md)"
 origin: 
 game_date: 1489 DR
 image: 
@@ -34,8 +34,8 @@ tags:
 * 
 
 ## Featured
-- [[../Adventures/010 - Battle|010 - Battle]]
-- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [010 - Battle](/content/Adventures/010%20-%20Battle.md)
+- [006 - Windowlicker](/content/Adventures/006%20-%20Windowlicker.md)
 
 
 ## Log
@@ -43,7 +43,7 @@ tags:
 #character #stance/ally #race/lizardfolk 
 
 Details:
-- Leider van de [[Lizardfolk|Lizardfolk]] van de [[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]] en [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- Leider van de [Lizardfolk](Lizardfolk.md) van de [Mere of Dead Men](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/index.md) en [Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)
 
 Avonturen:
-- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [006 - Windowlicker](/content/Adventures/006%20-%20Windowlicker.md)
