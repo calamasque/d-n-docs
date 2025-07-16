@@ -18,7 +18,7 @@ gender:
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 image: 
