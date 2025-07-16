@@ -5,9 +5,9 @@ aliases:
   - gezonken schip van Tyr
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -17,7 +17,7 @@ tags:
 # wrak van The Marshall
 
 ## Featured
-- [002 - The Ship Song](/content/Adventures/002%20-%20The%20Ship%20Song.md)
+- [[../../../Adventures/002 - The Ship Song|002 - The Ship Song]]
 
 ## People
 | File | Faction | Description |
