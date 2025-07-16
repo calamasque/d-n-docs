@@ -20,7 +20,7 @@ class:
 shop:
   - "[[Carnath roadhouse tavern|Carnath roadhouse tavern]]"
 location:
-  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[content/Faerun/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 image: 
