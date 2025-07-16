@@ -11,8 +11,8 @@ campaign:
 session_num: 9
 session_date: 2025-06-25
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
   - "[[Metatron|Metatron]]"
