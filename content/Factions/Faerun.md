@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: 
 tags: 
 image: 
