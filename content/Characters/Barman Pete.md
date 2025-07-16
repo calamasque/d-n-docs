@@ -18,7 +18,7 @@ class:
 shop:
   - "[[Carnath roadhouse tavern|Carnath roadhouse tavern]]"
 location:
-  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[../Faerun/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -53,7 +53,7 @@ https://calamasque.github.io/d-n-docs/content/Characters/Manni
 |11|[Zzzzz](content/Adventures/011 - Zzzzz.md)|July 15, 2025|
 
 ## Character Summary
-- Barman at [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
+- Barman at [[../Faerun/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
 - Claimt dat hij "beesten onder de vloer en tussen de muren hoorde hissen en bonken."
 - Onbekend of hij onderdeel was van de [[Cult of the Dragon|Cult of the Dragon]], waarschijnlijk niet.
 

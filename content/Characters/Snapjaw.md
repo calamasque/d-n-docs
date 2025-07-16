@@ -19,8 +19,8 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
-  - "[[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
+  - "[[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -43,7 +43,7 @@ tags:
 #character #stance/ally #race/lizardfolk 
 
 Details:
-- Leider van de [[Lizardfolk|Lizardfolk]] van de [[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]] en [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- Leider van de [[Lizardfolk|Lizardfolk]] van de [[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]] en [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
 
 Avonturen:
 - [[../Adventures/006 - Windowlicker|006 - Windowlicker]]

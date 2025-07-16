@@ -19,7 +19,7 @@ gender:
 class: 
 shop: 
 location:
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 image: 
