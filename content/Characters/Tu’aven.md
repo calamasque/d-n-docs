@@ -17,7 +17,7 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
+  - "[[../Faerun/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -31,5 +31,5 @@ tags:
 - [[../Adventures/001 - You Got A Friend In Me|001 - You Got A Friend In Me]]
 
 ## Character summary
-- Kapitein van het schip [[../Atlas/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]
+- Kapitein van het schip [[../Faerun/Sword Coast/Sea of Swords/The Happily Ever After|The Happily Ever After]]
 - Vergezeld [[./Manni|Manni]] en [[./Sanni|Sanni]] als kapitein van hun schip op hun huwelijksreis.
