@@ -4,9 +4,9 @@ publish: true
 aliases: BFer
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-02
@@ -14,7 +14,7 @@ last_modified: 2025-07-02
 tags: 
 ---
 # Faerûn
-Beroemde inwoners van Faeûn zoals [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md) worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
+Beroemde inwoners van Faeûn zoals [[../Characters/Metatron and The Meta Band/Metatron|Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
 
 ## Locations
 
