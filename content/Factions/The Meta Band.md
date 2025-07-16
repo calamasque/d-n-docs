@@ -4,13 +4,14 @@ publish: true
 aliases: 
 description: 
 type: faction
-faction_type: 	
-- avonturiers
+faction_type:
+  - avonturiers
 alignment: neutral
-symbol:
-goals:
-scope: [[Sword Coast]]
-headquarters:
+symbol: 
+goals: 
+scope:
+  - - Sword Coast
+headquarters: 
 image: 
 date: 2025-07-16
 last_modified: 2025-07-15
@@ -18,17 +19,17 @@ tags:
 ---
 # The Band
 
-Lead: [[Metatron]]
+Lead: [[../Characters/Metatron and The Meta Band/Metatron|Metatron]]
 
 Support:
-- [[Agrip’Ah]]
-- [[Dr. Egbert]]
-- [[SmogEater]]
-- [[Szuszi]]
-- [[Waldo]]
+- [[../Characters/Metatron and The Meta Band/Agrip’Ah|Agrip’Ah]]
+- [[../Characters/Metatron and The Meta Band/Dr. Egbert|Dr. Egbert]]
+- [[../Characters/Metatron and The Meta Band/SmogEater|SmogEater]]
+- [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]]
+- [[../Characters/Metatron and The Meta Band/Waldo|Waldo]]
 
 Roadies:
-- [[Manni]]
-- [[Sanni]]
-- [[Tu’aven]]
+- [[../Characters/Manni|Manni]]
+- [[../Characters/Sanni|Sanni]]
+- [[../Characters/Tu’aven|Tu’aven]]
 
