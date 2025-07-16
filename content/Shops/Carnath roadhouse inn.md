@@ -4,8 +4,8 @@ publish: true
 aliases: 
 description: 
 type: shop
-shop_type: 
-- inn
+shop_type:
+  - inn
 tags: 
 image: 
 date: 2025-07-15

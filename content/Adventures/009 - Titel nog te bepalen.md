@@ -5,36 +5,36 @@ aliases:
 description: 
 type: session
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 session_num: 9
 session_date: 2025-06-25
 location:
-  - "[[Mere of Dead Men]]"
-  - "[[Castle Naerytar]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
 PCs:
-  - "[[Dr. Egbert]]"
-  - "[[Metatron]]"
-  - "[[SmogEater]]"
-  - "[[Szuszi]]"
-  - "[[Agrip’Ah]]"
+  - "[[Dr. Egbert|Dr. Egbert]]"
+  - "[[Metatron|Metatron]]"
+  - "[[SmogEater|SmogEater]]"
+  - "[[Szuszi|Szuszi]]"
+  - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
-  - "[[Pharblex Spattergoo]]"
-  - "[[Rezmir]]"
+  - "[[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[../Characters/Rezmir|Rezmir]]"
 mentions: 
 encounters: 
 game_date: 1489 DR
 date: 2025-06-25
 last_modified: 2025-07-15
-tags:
+tags: 
 ---
 ## Session Summary
 
 ## Recap of last session
 
 ## Log
-Een poging om [[Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -59,7 +59,7 @@ Gang = chokehold
 
 Arcane-check: Pharblex's staff is voor een focus, niet echt magisch.
 
-Metatron geeft Pharblex het [[zakje met Bullywug steentjes]] voor zijn kinderen.
+Metatron geeft Pharblex het [[zakje met Bullywug steentjes|zakje met Bullywug steentjes]] voor zijn kinderen.
 
 Tiny hut:
 1. 1e wacht (niets)
@@ -69,5 +69,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[../Characters/Rezmir|Rezmir]]
 
