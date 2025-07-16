@@ -1,17 +1,17 @@
 ---
 title: Dragonwing(s)
 publish: true
-aliases:
+aliases: 
 description: 
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon]]"
+  - "[[Cult of the Dragon|Cult of the Dragon]]"
 race: 
 gender: 
 class: 
@@ -30,14 +30,9 @@ tags:
 * 
 
 ## Featured
-```dataviewjs dv.view("/Scripts/featured"); ```
+Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
 ## Mentions
-```dataview
-LIST
-FROM "content/Adventures"
-WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 
