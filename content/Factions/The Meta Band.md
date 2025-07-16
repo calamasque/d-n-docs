@@ -5,7 +5,7 @@ aliases:
 description: 
 type: faction
 faction_type: 	
-	- avonturiers
+- avonturiers
 alignment: neutral
 symbol:
 goals:

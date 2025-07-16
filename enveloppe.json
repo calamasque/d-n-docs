@@ -1,0 +1,14 @@
+{
+  "inputFolder": "content",
+  "outputFolder": "public",  
+  "site": {
+    "title": "D-n-Docs",
+    "baseUrl": "/d-n-docs/"
+  },
+  "features": {
+    "preserveFolderStructure": true
+  },
+  "transformations": {
+    "resolveInternalLinks": true
+  }
+}

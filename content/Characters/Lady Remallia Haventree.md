@@ -10,9 +10,9 @@ campaign:
 type: NPC
 deceased: 
 family:
-  - "[[Lord Ulbrinter|Lord Ulbrinter]]"
+  - "[[Lord Ulbrinter]]"
 faction:
-  - - - Harpers
+  - Harpers
 race: "[[high elf]]"
 gender: female
 class: 

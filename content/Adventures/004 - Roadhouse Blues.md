@@ -12,8 +12,8 @@ session_num: 4
 session_date: 2025-01-26
 location:
   - "[[Waterdeep]]"
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
-  - "[[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]]"
+  - "[[Carnath Roadhouse]]"
+  - "[[Halls of Justice]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"
@@ -26,11 +26,12 @@ NPCs:
   - "[[Barman Pete]]"
 mentions:
   - "[[Elvira Blacktree]]"
-encounters: "[[Bullywug tribe]]"
+encounters:
+  - "[[Bullywug tribe]]"
 game_date: 1489 DR
 date: 2025-01-26
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 ??? laten we achter in de [[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.

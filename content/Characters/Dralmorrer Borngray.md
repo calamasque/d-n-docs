@@ -7,19 +7,18 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction:
-  - "[[/content/Factions/Eldreth Veluuthra|Eldreth Veluuthra]]"
-  - "[[Cult of the Dragon|Cult of the Dragon]]"
-race: "[[high-elf]]"
+  - "[[Eldreth Veluuthra]]"
+  - "[[Cult of the Dragon]]"
+race: [[high-elf]]
 gender: male
 class: 
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 image: 

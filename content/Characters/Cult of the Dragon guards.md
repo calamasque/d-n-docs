@@ -18,7 +18,7 @@ gender:
 class: 
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 image: 

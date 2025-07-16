@@ -5,12 +5,13 @@ aliases:
 description: 
 type: faction
 faction_type:
-	- stam
+- stam
 alignment: 
 symbol:
 goals:
-scope: [[content/Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]
-headquarters: [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] 
+scope: [[Mere of Dead Men]]
+headquarters: 
+- [[Castle Naerytar]] 
 image: 
 date: 2025-07-16
 last_modified: 2025-07-16

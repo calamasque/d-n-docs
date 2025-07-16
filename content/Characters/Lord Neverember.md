@@ -8,8 +8,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction:

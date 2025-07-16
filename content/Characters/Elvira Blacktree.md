@@ -11,14 +11,14 @@ type: NPC
 deceased: true
 family: 
 faction:
-  - - - Harpers
+  - [[Harpers]]
 race: "[[half-elf]]"
 gender: female
 class:
-  - ranger
+  - [[ranger]]
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 image: 

@@ -7,8 +7,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type NPC
 deceased: true
 family:
   - "[[Lizardfolk tribe]]"

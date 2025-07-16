@@ -5,10 +5,10 @@ aliases: Dragon Kneelers
 description: 
 type: faction
 faction_type: 	
-	- geheim
-	- militair
-	- mythisch
-	- religieus
+- geheim
+- militair
+- mythisch
+- religieus
 alignment: evil
 symbol:
 - "Terugkeer van Tiamat"

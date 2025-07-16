@@ -5,10 +5,10 @@ aliases:
 description: 
 type: faction
 faction_type: 	
-	- geheim
-	- "magisch / occult"
-	- militair
-	- politiek
+- geheim
+- "magisch / occult"
+- militair
+- politiek
 alignment: evil
 symbol:
 goals:

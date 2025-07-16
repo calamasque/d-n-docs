@@ -11,8 +11,7 @@ type: NPC
 deceased: false
 family: 
 faction: 
-race:
-  - - human
+race: [[human]]
 gender: male
 class: 
 shop:

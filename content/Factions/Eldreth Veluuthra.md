@@ -5,10 +5,10 @@ aliases:
 description: 
 type: faction
 faction_type: 	
-	- cultureel
-	- geheim
-	- ideologisch
-	- militair
+- cultureel
+- geheim
+- ideologisch
+- militair
 alignment: evil
 symbol:
 goals:

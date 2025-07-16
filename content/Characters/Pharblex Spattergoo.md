@@ -7,8 +7,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: true
 family:
   - "[[Bullywug tribe|Bullywug tribe]]"
@@ -20,7 +19,7 @@ class:
 shop: 
 location:
   - "[[Mere of Dead Men|Mere of Dead Men]]"
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
 origin:
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 game_date: 1489 DR

@@ -13,13 +13,13 @@ type: NPC
 deceased: 
 family: 
 faction:
-  - "[[/content/Factions/Cult of the Dragon|Cult of the Dragon]]"
+  - "[[Cult of the Dragon]]"
 race: "[[half-orc]]"
 gender: male
 class: 
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 image: 

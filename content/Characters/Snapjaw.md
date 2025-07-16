@@ -8,8 +8,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction:
@@ -19,7 +18,7 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR

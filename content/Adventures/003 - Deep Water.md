@@ -12,10 +12,10 @@ session_num: 3
 session_date: 2024-12-08
 location:
   - "[[Waterdeep]]"
-  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
+  - "[[The Happily Ever After]]"
   - "[[Sea of Swords]]"
-  - "[[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]]"
-  - "[[content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]]"
+  - "[[Halls of Justice]]"
+  - "[[Ulbrinter Villa]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"

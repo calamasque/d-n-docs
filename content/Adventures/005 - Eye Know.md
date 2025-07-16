@@ -11,8 +11,8 @@ campaign:
 session_num: 5
 session_date: 2025-03-02
 location:
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
   - "[[Mere of Dead Men]]"
+  - "[[Carnath Roadhouse]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"
@@ -29,7 +29,7 @@ encounters:
 game_date: 1489 DR
 date: 2025-03-02
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 [[Szuszi]] is out.

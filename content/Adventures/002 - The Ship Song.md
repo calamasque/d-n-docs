@@ -12,8 +12,8 @@ session_num: 2
 session_date: 2024-11-20
 location:
   - "[[Sea of Swords]]"
-  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
-  - "[[content/Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]]"
+  - "[[The Happily Ever After]]"
+  - "[[wrak van The Marshall]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[SmogEater]]"

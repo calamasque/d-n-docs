@@ -7,8 +7,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family:
   - "[[Lady Remallia Haventree]]"
@@ -20,7 +19,7 @@ class:
 shop: 
 location:
   - "[[Waterdeep]]"
-  - "[[content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]]"
+  - "[[Ulbrinter Villa]]"
 origin: 
 game_date: 1489 DR
 image: 

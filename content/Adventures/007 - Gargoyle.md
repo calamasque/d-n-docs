@@ -11,8 +11,8 @@ campaign:
 session_num: 7
 session_date: 2025-04-15
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
+  - "[[Castle Naerytar]]"
 PCs:
   - "[[Metatron]]"
   - "[[SmogEater]]"
@@ -30,7 +30,7 @@ encounters:
 game_date: 1489 DR
 date: 2025-04-15
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 The [[Dr. Egbert]] is out.

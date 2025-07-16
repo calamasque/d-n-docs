@@ -7,8 +7,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction: 
@@ -17,7 +16,7 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
+  - "[[The Happily Ever After]]"
 origin: 
 game_date: 1489 DR
 image: 

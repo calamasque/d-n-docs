@@ -7,8 +7,7 @@ world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction: 
@@ -18,6 +17,7 @@ class:
 shop: 
 - "[[Torn Broadleaf's smidse]]"
 location: 
+- "[[Waterdeep]]"
 origin: 
 game_date: 1489 DR
 image: 

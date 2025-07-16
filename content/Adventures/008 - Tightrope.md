@@ -11,7 +11,7 @@ campaign:
 session_num: 8
 session_date: 2025-05-18
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
