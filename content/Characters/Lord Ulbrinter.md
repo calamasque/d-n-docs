@@ -4,23 +4,23 @@ publish: true
 aliases: 
 description: Waterdeep lord
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type:
   - NPC
 deceased: 
 family:
-  - "[Lady Remallia Haventree](/content/Characters/Lady%20Remallia%20Haventree.md)"
+  - "[[./Lady Remallia Haventree|Lady Remallia Haventree]]"
 faction:
-  - "[The masked lords](The%20masked%20lords.md)"
+  - "[[The masked lords|The masked lords]]"
 race: 
 gender: male
 class: 
 shop: 
 location:
-  - "[Waterdeep](/content/Atlas/Sword%20Coast/Waterdeep/index.md)"
-  - "[Ulbrinter Villa](/content/Atlas/Sword%20Coast/Waterdeep/Ulbrinter%20Villa.md)"
+  - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
+  - "[[../Atlas/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -28,8 +28,8 @@ date:
 last_modified: 
 tags: 
 ---
-* Belangrijk figuur in [Waterdeep](/content/Atlas/Sword%20Coast/Waterdeep/index.md).
-* Getrouwd met [Lady Remallia Haventree](/content/Characters/Lady%20Remallia%20Haventree.md) 
-* Woont in [Ulbrinter Villa](/content/Atlas/Sword%20Coast/Waterdeep/Ulbrinter%20Villa.md).
+* Belangrijk figuur in [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]].
+* Getrouwd met [[./Lady Remallia Haventree|Lady Remallia Haventree]] 
+* Woont in [[../Atlas/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]].
 * Houdt zich onder andere bezig met handel / verschepen van goederen.
 
