@@ -1,14 +1,18 @@
 ---
 title: You Got A Friend In Me
 publish: true
-session_num: 1
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 1
+session_date: 2024-10-30
 location:
   - "[[Sea of Swords]]"
-  - "[[The Happily Ever After]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"
@@ -20,11 +24,14 @@ NPCs:
   - "[[Manni]]"
   - "[[Sanni]]"
   - "[[Tu’aven]]"
+mentions: 
 encounters: "[[Harpies]]"
-date: 2024-10-30
 game_date: 1489 DR
-tags:
+date: 2024-10-30
+last_modified: 2025-07-15
+tags: 
 ---
+
 ## Session Summary
 Wat zit er in de keuken? [[Szuszi]]
 
@@ -40,7 +47,7 @@ De edelstenen werden door de vrijgevige [[Metatron]] gedeeld met de avonturiers 
 
 'De band' avonturiers had duidelijk talent maar het waren ook stuk voor stuk ruwe diamanten die nog geslepen moesten worden. Hij besloot hen daarom onder zijn hoede te nemen om ze met een dagelijkse dosis inspiratie naar een hoger niveau te brengen. 
 
-De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[Szuszi]] was echter al helemaal omarmd door de groep zonder een [[Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
+De avonturiers bleken zo'n 5 dagen geleden te zijn vertrokken uit Baldur's Gate en onderweg een halfling verstekeling te hebben ontdekt in de kombuis van hun schip. Deze [[Szuszi]] was echter al helemaal omarmd door de groep zonder een [[content/Atlas/Faerun]] te zijn. Mijn verwachting is dan ook dat ze me op handen gaan dragen wanneer ze zich realiseren wie ik ben. 
 
 ## Recap of last session
 

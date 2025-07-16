@@ -1,14 +1,27 @@
 ---
 title: Cult of the Dragon
-share: true
-aliases:
-  - Dragon kneelers
+publish: true
+aliases: Dragon Kneelers
 description: 
-tags: 
+type: faction
+faction_type: 	
+	- geheim
+	- militair
+	- mythisch
+	- religieus
+alignment: evil
+symbol:
+- "Terugkeer van Tiamat"
+goals:
+scope:
+headquarters:
 image: 
-date: 2025-07-12
-last_modified: 2025-07-12
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
+# Cult of the Dragon
+
 # Cult of the Dragon
 
 ## Members
@@ -29,5 +42,5 @@ last_modified: 2025-07-12
 - [[/content/Characters/Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[Castle Naerytar|Castle Naerytar]]
-- [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]
+- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]

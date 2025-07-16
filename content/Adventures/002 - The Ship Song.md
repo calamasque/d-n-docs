@@ -1,15 +1,19 @@
 ---
 title: The Ship Song
 publish: true
-session_num: 2
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 2
+session_date: 2024-11-20
 location:
   - "[[Sea of Swords]]"
-  - "[[The Happily Ever After]]"
-  - "[[wrak van The Marshall]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[SmogEater]]"
@@ -23,13 +27,13 @@ NPCs:
 mentions:
   - "[[Rezmir]]"
 encounters: 
-date: 2024-11-20
 game_date: 1489 DR
-tags:
-  - adventure
+date: 2024-11-20
+last_modified: 2025-07-15
+tags: 
 ---
 
-Nadat [[Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[wrak van The Marshall]], een missionaris schip van priesters van [[Tyr]], gingen onderzoeken. 
+Nadat [[Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[content/Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]], een missionaris schip van priesters van [[Tyr]], gingen onderzoeken. 
 
 Op het het schip, niet het wrak, leert [[Metatron]] 2 halflingen kennen, [[Manni]] & [[Sanni]], en hun Tabaxi kapitein [[Tu’aven]]. Zij namen hem onder hun hoede en verzorgden hem van zijn wonden van de harpies. De namiddag genoten de halflings van de liederen en verhalen van hun nieuwe vriend. Af en toe zagen jullie in de verte handelsschepen en dergelijke aan de horizon voorbij varen, maar de aandacht van [[Metatron]], [[Sanni]], [[Manni]] & [[Tu’aven]] ging natuurlijk vooral naar de cove waar het wrak en hun vrienden zich bevonden.
 

@@ -1,30 +1,30 @@
 ---
+title: Manni
+publish: true
+aliases: 
+description: Owner of The Happily Ever After
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: 
 family:
   - "[[Sanni]]"
 faction: 
-race:
-  - halfling
-gender:
-  - male
+race: "[[halfling]]"
+gender: male
 class: 
-description: Owner of The Happily Ever After
 shop: 
 location:
-  - "[[The Happily Ever After]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
 origin: 
 game_date: 1489 DR
-title: Manni
-tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
+tags: 
 ---
 ## Character Summary
 
@@ -37,7 +37,7 @@ SORT file.name DESC
 ```
 ## Details
 * recent getrouwd met [[Sanni]]
-* op een avontuurlijke huwelijksreis met hun schip de [[The Happily Ever After]] en kapitein [[Tu’aven]]. 
+* op een avontuurlijke huwelijksreis met hun schip de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Tu’aven]]. 
 
 Gebeurtenissen:
 * Tijdens hun huwelijksreis ontmoeten zij [[Agrip’Ah]], [[Dr. Egbert]], [[SmogEater]] en [[Waldo]] in [[Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 

@@ -1,14 +1,28 @@
 ---
 title: Harpers
-share: true
+publish: true
 aliases: 
 description: 
-tags: 
+type: faction
+faction_type: 	
+	- geheim
+	- ideologisch
+	- politiek
+	- spionage
+alignment: good
+symbol: zilveren harp op een halve maan
+goals: 
+- balans bewaren
+- vrijheid beschermen
+scope:
+headquarters:
 image: 
-date: 2025-07-12
-last_modified: 2025-06-30
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
 # Harpers
+
 
 ## Members
 | File                                                                       | description        | deceased |

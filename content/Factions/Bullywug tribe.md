@@ -1,14 +1,23 @@
 ---
-title: Bullywug tribe
-share: true
+title: Bullywug stam
+publish: true
 aliases: 
 description: 
-tags: 
+type: faction
+faction_type: 	
+	- stam
+alignment: 
+symbol:
+goals:
+scope:
+headquarters:
 image: 
-date: 2025-07-12
-last_modified: 2025-07-07
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
 # Bullywug tribe
+
 
 ## Members
 | File                                                               | description             | deceased |
@@ -18,7 +27,7 @@ last_modified: 2025-07-07
 
 Locaties:
 - [[Mere of Dead Men|Mere of Dead Men]]
-- [[Castle Naerytar|Castle Naerytar]]
+- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
 
 Bondgenoten:
 - [[/content/Factions/Cult of the Dragon|Cult of the Dragon]]

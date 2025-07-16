@@ -1,9 +1,17 @@
 ---
+title: Battle
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 10
+session_date: 2025-07-06
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -26,13 +34,10 @@ encounters:
   - "[[Dragonclaws]]"
   - "[[Dragonwing(s)]]"
   - "[[Cult of the Dragon guard]]"
-date: 2025-07-06
 game_date: 1489 DR
-title: Battle
-publish: true
-session_num: 10
-tags:
-  - adventure
+date: 2025-07-06
+last_modified: 2025-07-15
+tags: 
 ---
 ## Session Summary
 
@@ -104,7 +109,7 @@ tags:
 	* [[Dr. Egbert]] neemt zijn Dreadform aan. 
 	* [[SmogEater]] hakt verder in op de [[Drake]]
 	* [[Agrip’Ah]] doet schade aan een [[Dragonwing(s)]] met [[shocking grasp]]
-	* [[Dralmorrer Borngray]] heeft zijn moed weer bij elkaar geraapt en verschijnt weer ten tonele en valt [[metatron]] onsuccesvol aan.
+	* [[Dralmorrer Borngray]] heeft zijn moed weer bij elkaar geraapt en verschijnt weer ten tonele en valt [[Metatron]] onsuccesvol aan.
 	* De [[Dragonwing(s)]]s vallen ook weer aan:
 		* [[Dr. Egbert]] wordt aangevallen door een [[Dragonwing(s)]] en krijgt klappen.
 		* [[Szuszi]] wordt ook aangevallen door 2 [[Dragonwing(s)]]s maar loopt gelukkig weinig schade op.

@@ -1,0 +1,22 @@
+project:
+  title: "The true and accurate adventures of Metatron and The Band"
+  type: website
+  output-dir: _site
+
+input-folder: content
+output-folder: public
+
+features:
+  preserve-folder-structure: true
+
+transformations:
+  resolve-internal-links: true
+
+site:
+  base-url: /d-n-docs/
+
+publish:
+  github:
+    repo: calamasque/d-n-docs
+    branch: v4
+    folder_structure: true

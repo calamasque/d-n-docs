@@ -1,6 +1,6 @@
 ---
 title: Characters
-share: true
+publish: true
 ---
 ## DataviewJS
 ```dataviewjs

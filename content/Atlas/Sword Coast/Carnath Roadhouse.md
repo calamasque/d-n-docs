@@ -1,15 +1,21 @@
 ---
 title: Carnath Roadhouse
-share: true
+publish: true
 aliases: 
 description: 
-tags: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: place
 image: 
 date: 2025-07-02
 last_modified: 2025-07-02
+tags: 
 ---
+# Carnath Roadhouse
 
-## Aanwezig
+## Gerelateerde NPCs
 ```dataview
 
 TABLE 
@@ -24,22 +30,6 @@ WHERE
 	type = "NPC"
 
 ```
-
-# Carnath Roadhouse
-
-## Featured
-- [[/content/Adventures/005 - Eye Know (Bog Luck's Song)|005 - Eye Know (Bog Luck's Song)]]
-- [[/content/Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
-
-## People
-| File                                                         | Faction                                                                           | Description                 |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------- | --------------------------- |
-| [[/content/Characters/Barman Pete\|Barman Pete]]           | \-                                                                                | Barman at Carnath Roadhouse |
-| [[/content/Characters/Bog Luck\|Bog Luck]]                 | <ul><li>[[content/Factions/Cult of the Dragon.md\|Cult of the Dragon]]</li></ul> | Owner of Carnath Roadhouse  |
-| [[/content/Characters/Elvira Blacktree\|Elvira Blacktree]] | <ul><li>Harpers</li></ul>                                                         | \-                          |
-| [[/content/Characters/Lorcil Silkhands\|Lorcil Silkhands]] | <ul><li>[[content/Factions/Harpers.md\|Harpers]]</li></ul>                       | Bard, Harper agent          |
-
-
 ## Locatie
 - Poort
 - Binnenplaats (met een waterput in de hoek)

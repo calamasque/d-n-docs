@@ -1,33 +1,35 @@
 ---
-type:
-  - NPC
+title: Metatron
+publish: true
+aliases: 
+description: 
 world:
-  - Forgotten Realms
+  - "[[Forgotten Realms]]"
 campaign:
-  - Dungeons & Detectives
+  - "[[Hoard of the Dragon Queen]]"
+type: PC
 deceased: 
 family:
   - "[[Mama Metatron]]"
   - "[[Lorcil Silkhands]]"
 faction:
   - "[[Harpers]]"
-race:
-  - tiefling
-gender:
-  - male
+  - "[[The Meta Band]]"
+race: [[tiefling]]
+gender: male
 class:
-  - bard
-description: 
+  - [[bard]]
 shop: 
 location: 
 origin: 
 game_date: 1489 DR
-title: 
-tags: 
 image: 
-date: 
-last_modified: 
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
+# Metatron
+
 ## Character Summary
 
 ## Featured

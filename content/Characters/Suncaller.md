@@ -1,37 +1,36 @@
 ---
+title: Suncaller
+publish: true
+aliases:
+description: Former chief of Lizardfolk tribe
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: true
 family:
   - "[[Lizardfolk tribe]]"
 faction:
   - "[[Lizardfolk tribe]]"
-race:
-  - lizardfolk
-gender: 
+race: "[[lizardfolk]""
+gender: male
 class: 
-description: Former chief of Lizardfolk tribe
 shop: 
 location:
   - "[[Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
-title: Suncaller
-aliases: []
-tags: 
 image: 
-publish: true
 date: 2025-07-05
 last_modified: 2025-07-05
+tags: 
 ---
 # Suncaller
 
 ## Character summary
-* Vorige leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[Castle Naerytar]]
+* Vorige leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]
 - Gedood door [[Pharblex Spattergoo]]
 ## Featured / mentions
 ```dataview

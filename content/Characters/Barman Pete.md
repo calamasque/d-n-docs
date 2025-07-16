@@ -1,29 +1,30 @@
 ---
 title: Barman Pete
-share: true
+publish: true
 aliases: 
+description: Barman at Carnath Roadhouse
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type: NPC
-world: Forgotten Realms
-campaign: Dungeons & Detectives
 deceased: false
 family: 
 faction: 
 race:
-  - human
-gender:
-  - male
+  - - human
+gender: male
 class: 
-description: Barman at Carnath Roadhouse
 shop:
-  - "[[Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse tavern]]"
 location:
-  - "[[Carnath Roadhouse]]"
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
-tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
+tags: 
 ---
 
 https://calamasque.github.io/d-n-docs/Characters/Manni
@@ -45,7 +46,7 @@ for (let group of dv.pages('"content/Adventures"').where(p => p.type === "sessio
 ```
 
 ## Character Summary
-- Barman at [[/content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
+- Barman at [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]].
 - Claimt dat hij "beesten onder de vloer en tussen de muren hoorde hissen en bonken."
 - Onbekend of hij onderdeel was van de [[/content/Factions/Cult of the Dragon|Cult of the Dragon]], waarschijnlijk niet.
 

@@ -1,13 +1,25 @@
 ---
 title: Red Wizards of Thay
-share: true
+publish: true
 aliases: 
 description: 
-tags: 
+type: faction
+faction_type: 	
+	- geheim
+	- "magisch / occult"
+	- militair
+	- politiek
+alignment: evil
+symbol:
+goals:
+scope: [[Faerun]]
+headquarters: [[Thay]]
 image: 
-date: 2025-07-12
-last_modified: 2025-07-05
+date: 2025-07-16
+last_modified: 2025-07-15
+tags: 
 ---
+
 # Red Wizards of Thay
 
 ## Members

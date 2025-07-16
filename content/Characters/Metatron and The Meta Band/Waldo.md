@@ -1,27 +1,31 @@
 ---
-type:
-  - NPC
+title: Waldo
+publish: true
+aliases: 
+description: 
 world:
-  - Forgotten Realms
+  - "[[Forgotten Realms]]"
 campaign:
-  - Dungeons & Detectives
+  - "[[Hoard of the Dragon Queen]]"
+type: PC
 deceased: 
 family: 
-faction: 
+faction:
+  - "[[The Meta Band]]"
 race: 
-gender: 
+gender: male
 class: 
-description: 
 shop: 
 location: 
-origin: []
+origin: 
 game_date: 1489 DR
-title: "[[Waldo]]"
-tags: 
 image: 
-date: 
-last_modified:
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
+# Waldo
+
 ## Character summary
 * 
 

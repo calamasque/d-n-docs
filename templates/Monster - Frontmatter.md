@@ -3,18 +3,15 @@ title: <% tp.file.title %>
 publish: false
 aliases: 
 description: 
-type:
-  - Monster
 world:
-  - Forgotten Realms
+  - "[[Forgotten Realms]]"
 campaign:
-  - Dungeons & Detectives
+  - "[[Hoard of the Dragon Queen]]"
+type: monster
 encounter: 
-game_date: 1489 DR
 tags: 
 image: 
 date: <% tp.date.now("YYYY-MM-DD") %>
 last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 ---
-
 # <% tp.file.title %>

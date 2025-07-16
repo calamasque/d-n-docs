@@ -1,11 +1,10 @@
 ---
-title: Welkom to the adventures of Metatron
+title: index
 publish: true
 ---
 ## Adventures in dataviewJS
 ```dataviewjs
 for (let group of dv.pages('"content/Adventures"').where(p => p.type === "session").groupBy(c => c.campaign)) {
-	dv.header(3,group.key);
 	dv.table(["Sessie","Avontuur","Datum"],
 	group.rows
 		.where(p => p.type === "session")
@@ -18,8 +17,8 @@ for (let group of dv.pages('"content/Adventures"').where(p => p.type === "sessio
 ```dataview
 TABLE 
 	WITHOUT ID
-	link(file.link,title) AS "Name", 
 	session_num AS "Sessie",
+	link(file.link,title) AS "Avontuur", 
 	date AS "Datum"
 
 FROM "content/Adventures"

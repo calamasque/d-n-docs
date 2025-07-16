@@ -1,9 +1,17 @@
 ---
+title: Eye Know
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 5
+session_date: 2025-03-02
 location:
-  - "[[Carnath Roadhouse]]"
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -18,19 +26,17 @@ mentions:
   - "[[Snapjaw]]"
 encounters:
   - "[[Bullywug tribe]]"
-date: 2025-03-02
 game_date: 1489 DR
-title: Eye Know
-publish: true
-session_num: 5
-tags:
+date: 2025-03-02
+last_modified: 2025-07-15
+tags: 
 ---
 
 [[Szuszi]] is out.
 
 Gevecht in de storage room waar [[Szuszi]] verdween.
 
-Via de tunnel onder de opslagruimte van [[Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[Bog Luck]] de één-oog-orc. 
+Via de tunnel onder de opslagruimte van [[content/Atlas/Sword Coast/Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[Bog Luck]] de één-oog-orc. 
 
 Bullywug encounter in Mere
 

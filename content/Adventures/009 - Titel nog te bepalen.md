@@ -1,9 +1,17 @@
 ---
+title: Titel nog te bepalen
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 9
+session_date: 2025-06-25
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -16,13 +24,10 @@ NPCs:
   - "[[Rezmir]]"
 mentions: 
 encounters: 
-date: 2025-06-25
 game_date: 1489 DR
-title: Titel nog te bepalen
-publish: true
-session_num: 9
-tags:
-  - adventure
+date: 2025-06-25
+last_modified: 2025-07-15
+tags: 
 ---
 ## Session Summary
 

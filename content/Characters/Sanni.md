@@ -1,35 +1,35 @@
 ---
+title: Sanni
+publish: true
+aliases: 
+description: Owner of The Happily Ever After
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: 
 family:
   - "[[Manni]]"
 faction: 
-race:
-  - halfling
-gender:
-  - female
+race: "[[halfling]]"
+gender: female
 class: 
-description: Owner of The Happily Ever After
 shop: 
 location:
-  - "[[The Happily Ever After]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
 origin: 
 game_date: 1489 DR
-title: Sanni
-tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
+tags: 
 ---
 
 ## Character summary
 * recent getrouwd met [[Manni]]
-* op een avontuurlijke huwelijksreis met hun schip de [[The Happily Ever After]] en kapitein [[Tu’aven]]. 
+* op een avontuurlijke huwelijksreis met hun schip de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Tu’aven]]. 
 
 ## Featured
 ```dataview

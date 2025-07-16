@@ -1,13 +1,27 @@
 ---
 title: Eldreth Veluuthra
-share: true
+publish: true
 aliases: 
 description: 
-tags: 
+type: faction
+faction_type: 	
+	- cultureel
+	- geheim
+	- ideologisch
+	- militair
+alignment: evil
+symbol:
+goals:
+- "alle mensen in Faerûn uitroeien"
+scope:
+headquarters:
 image: 
-date: 2025-07-12
-last_modified: 2025-06-30
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
+# Eldreth Veluuthra
+
 # Eldreth Veluuthra
 
 

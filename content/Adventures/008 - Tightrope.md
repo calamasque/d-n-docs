@@ -2,11 +2,16 @@
 title: Tightrope
 publish: true
 aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 8
+session_date: 2025-05-18
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
   - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
@@ -14,7 +19,7 @@ PCs:
   - "[[SmogEater|SmogEater]]"
   - "[[Szuszi|Szuszi]]"
   - "[[Waldo|Waldo]]"
-  - "[[Agrip'Ah|Agrip'Ah]]"
+  - "[[Agrip’Ah]]"
 NPCs:
   - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
   - "[[Dralmorrer Borngray|Dralmorrer Borngray]]"
@@ -27,11 +32,10 @@ encounters:
   - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
   - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
   - "[[Cult of the Dragon guard|Cult of the Dragon guard]]"
-date: 2025-05-18
 game_date: 1489 DR
-session_num: 8
-tags:
-  - adventure
+date: 2025-05-18
+last_modified: 2025-07-15
+tags: 
 ---
 
 Na een kort gevecht weten onze helden de 4 gargoyles te verslaan. 

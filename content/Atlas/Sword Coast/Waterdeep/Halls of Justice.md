@@ -1,3 +1,19 @@
+---
+title: Halls of Justice
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: place 
+image: 
+date: 2025-07-15
+last_modified: 2025-07-14
+tags:
+---
+# Halls of Justice
 ## Featured
 ```dataview
 list

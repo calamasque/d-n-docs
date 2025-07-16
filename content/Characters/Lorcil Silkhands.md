@@ -1,33 +1,32 @@
 ---
+title: Lorcil Silkhands
+publish: true
+aliases: 
+description: Bard, Harper agent
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: true
 family:
   - "[[Metatron|Metatron]]"
 faction:
   - "[[Harpers|Harpers]]"
-race:
-  - high elf
-gender:
-  - male
+race: "[[high elf]]"
+gender: male
 class: 
-description: Bard, Harper agent
 shop:
-  - "[[Carnath roadhouse bar|Carnath roadhouse bar]]"
+  - "[[Carnath roadhouse tavern|Carnath roadhouse tavern]]"
 location:
-  - "[[Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
-title: Lorcil Silkhands
-share: true
-tags: 
 image: 
 date: 
 last_modified: 
+tags: 
 ---
 
 

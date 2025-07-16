@@ -1,30 +1,30 @@
 ---
+title: Mama Metatron
+publish: true
+aliases: 
+description: Mother of Metatron the Magnificent
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: 
 family:
   - "[[Metatron]]"
 faction: 
-race:
-  - tiefling
-gender:
-  - female
+race: "[[tiefling]]"
+gender: female
 class: 
-description: Mother of Metatron the Magnificent
 shop: 
 location:
-  - "[[Mijn op een onbekende locatie]]"
+  - "[[Een mijn op een onbekende locatie]]"
 origin: 
 game_date: 1489 DR
-title: Mama Metatron
-tags: 
 image: 
 date: 
-last_modified:
+last_modified: 
+tags: 
 ---
 ## Character Summary
 

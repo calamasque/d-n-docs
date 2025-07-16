@@ -1,15 +1,24 @@
 ---
+title: Gargoyle
+publish: true
+aliases: 
+description: 
 type: session
-world: Forgotten Realms
-campaign: Dungeons & Detectives
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 7
+session_date: 2025-04-15
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Metatron]]"
   - "[[SmogEater]]"
   - "[[Waldo]]"
   - "[[Agrip’Ah]]"
+  - "[[Szuszi]]"
 NPCs:
   - "[[Dralmorrer Borngray]]"
   - "[[Pharblex Spattergoo]]"
@@ -18,13 +27,10 @@ encounters:
   - "[[Drake]]"
   - "[[Otyugh]]"
   - "[[Gargoyle]]"
-date: 2025-04-15
 game_date: 1489 DR
-title: Gargoyle
-publish: true
-session_num: 7
-tags:
-  - adventure
+date: 2025-04-15
+last_modified: 2025-07-15
+tags: 
 ---
 
 The [[Dr. Egbert]] is out.
@@ -39,7 +45,7 @@ Kleine binnenplaats:
 Afvaltoren:
 1 [[Otyugh]]
 
-Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[Castle Naerytar]] met daarin het observatorium blijkt niet gesloten :) 
+Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]] met daarin het observatorium blijkt niet gesloten :) 
 
 Begane grond:
 * Eetzaal.

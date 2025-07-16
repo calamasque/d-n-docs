@@ -1,28 +1,29 @@
 ---
+title: Torn Broadleaf
+publish: true
+aliases: 
+description: Smit in Waterdeep
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
 type:
   - NPC
-world:
-  - Forgotten Realms
-campaign:
-  - Dungeons & Detectives
 deceased: 
 family: 
 faction: 
 race: 
-gender:
-  - male
+gender: male
 class: 
-description: Smit in Waterdeep
 shop: 
+- "[[Torn Broadleaf's smidse]]"
 location: 
 origin: 
 game_date: 1489 DR
-title: Torn Broadleaf
-tags: 
 image: 
-publish: true
 date: 2025-07-05
 last_modified: 2025-07-05
+tags: 
 ---
 # Torn Broadleaf
 
