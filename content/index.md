@@ -68,7 +68,7 @@ publish: true
 
 |NPC1|Beschrijving|
 |---|---|
-|[Suncaller](./Characters/Suncaller.md#)|Former chief of Lizardfolk tribe|
+|[Suncaller](Suncaller.md#)|Former chief of Lizardfolk tribe|
 
 ### [Castle Naerytar](content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar.md)
 
@@ -176,7 +176,7 @@ publish: true
 | [[./Characters/Rezmir.md#\|Rezmir]]                                       | Cult of the Dragon leader                        |
 | [[./Characters/Sanni.md#\|Sanni]]                                         | Owner of The Happily Ever After                  |
 | [[./Characters/Snapjaw.md#.md#\|Snapjaw]]                                     | Future chief of the Lizardmen tribe              |
-| [[./Characters/Suncaller.md#\|Suncaller]]                                 | Former chief of Lizardfolk tribe                 |
+| [[Suncaller.md#\|Suncaller]]                                 | Former chief of Lizardfolk tribe                 |
 | [[./Characters/Torn%20Broadleaf.md#\|Torn Broadleaf]]                       | Smit in Waterdeep                                |
 | [[./Characters/Tu’aven.md#\|Tu’aven]]                                     | Captain of The Happily Ever After                |
 | [[./Characters/Voaraghammanthar.md#\|Voaraghammanthar]]                   | \-                                               |
