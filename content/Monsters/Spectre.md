@@ -1,19 +1,7 @@
 ---
-title: Spectre
-publish: true
-aliases: 
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: monster
-encounter: 
-tags: 
-image: 
-date: 2025-07-16
-last_modified: 2025-07-14
+{"publish":true,"title":"Spectre","created":"2025-07-16","modified":"2025-07-16T20:41:11.975+02:00","cssclasses":""}
 ---
+
 
 # Spectre
 
@@ -22,20 +10,11 @@ last_modified: 2025-07-14
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(encounters, this.file.name) or contains(encounters, link(this.file.name))
-SORT file.name DESC
-```
+- [[Adventures/006 - Windowlicker\|006 - Windowlicker]]
+
 
 ## Locations
-```dataview
-list
-FROM "content/Atlas"
-WHERE contains(monsters, this.file.name) or contains(monsters, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 

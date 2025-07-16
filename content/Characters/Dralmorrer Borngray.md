@@ -1,52 +1,28 @@
 ---
-title: Dralmorrer Borngray
-publish: true
-aliases: Drambuie
-description: Caretaker of Castle Naerytar
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: NPC
-deceased: 
-family: 
-faction:
-  - "[[Eldreth Veluuthra]]"
-  - "[[Cult of the Dragon]]"
-race: [[high-elf]]
-gender: male
-class: 
-shop: 
-location:
-  - "[[Castle Naerytar]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 
-last_modified: 
-tags: 
+{"publish":true,"aliases":"D r a m b u i e","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-16T20:14:00.887+02:00","modified":"2025-07-16T20:41:12.067+02:00","cssclasses":""}
 ---
+
 # Character Summary
-- Baas van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- Lid van de [[/content/Factions/Eldreth Veluuthra|Eldreth Veluuthra]]
-- Leert de [[Lizardfolk|Lizardfolk]] om wapens te smeden.
+- Baas van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]]
+- Lid van de [[Factions/Eldreth Veluuthra\|Eldreth Veluuthra]]
+- Leert de [[Lizardfolk\|Lizardfolk]] om wapens te smeden.
 - Blond haar, ooglapje.
 - draagt armor
 # Featured
-- [[/content/Adventures/010 - Battle|010 - Battle]]
-- [[/content/Adventures/008 - Tightrope|008 - Tightrope]]
-- [[/content/Adventures/007 - Gargoyle|007 - Gargoyle]]
+- [[Adventures/010 - Battle\|010 - Battle]]
+- [[Adventures/008 - Tightrope\|008 - Tightrope]]
+- [[Adventures/007 - Gargoyle\|007 - Gargoyle]]
 
 ## Gesprekken
-* Lopend over de kleine binnenplaats van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] zegt Dralmorrer: 
+* Lopend over de kleine binnenplaats van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]] zegt Dralmorrer: 
   "Ik weet niet wat de onrust is maar ze zijn boos." 
-  Waarop werd geantwoord door [[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]](?): 
+  Waarop werd geantwoord door [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]](?): 
   "Minkukels, zei nog zo niet geschikt!"
 
 ## Eigendom
 ### Boeken
-- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]) => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
+- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]]) => gestolen door [[Characters/Metatron and The Meta Band/Metatron\|Metatron]] uit zijn werkkamer
 ### Kleding 
 - Huidige kleding
-- [[/content/Factions/Eldreth Veluuthra|Eldreth Veluuthra]] kleding => gestolen door [[Metatron|Metatron]] uit zijn werkkamer
+- [[Factions/Eldreth Veluuthra\|Eldreth Veluuthra]] kleding => gestolen door [[Characters/Metatron and The Meta Band/Metatron\|Metatron]] uit zijn werkkamer
 

@@ -1,44 +1,19 @@
 ---
-title: Sanni
-publish: true
-aliases: 
-description: Owner of The Happily Ever After
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: NPC
-deceased: 
-family:
-  - "[[Manni]]"
-faction: 
-race: "[[halfling]]"
-gender: female
-class: 
-shop: 
-location:
-  - "[[The Happily Ever After]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 
-last_modified: 
-tags: 
+{"publish":true,"title":"Sanni","description":"Owner of The Happily Ever After","created":"2025-07-16T15:14:23.858+02:00","modified":"2025-07-16T20:41:12.101+02:00","cssclasses":""}
 ---
 
+
 ## Character summary
-* recent getrouwd met [[Manni]]
-* op een avontuurlijke huwelijksreis met hun schip de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Tu’aven]]. 
+* recent getrouwd met [[Characters/Manni]]
+* op een avontuurlijke huwelijksreis met hun schip de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Characters/Tu’aven]]. 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+- [[Adventures/002 - The Ship Song\|002 - The Ship Song]]
+- [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]]
+
 
 ## Log
-* Tijdens hun huwelijksreis ontmoeten zij [[Agrip’Ah]], [[Dr. Egbert]], [[SmogEater]] en [[Waldo]] in [[Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
-* Onderweg ontdekken zij een verstekeling in de keuken ([[Szuszi]]) die zich bij het gezelschap voegt.
-* Kort daarna ontdekken ze de befaamde muzikant [[Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten de  te overtuigen zich bij hen te voegen. 
+* Tijdens hun huwelijksreis ontmoeten zij [[Characters/Metatron and The Meta Band/Agrip’Ah]], [[Characters/Metatron and The Meta Band/Dr. Egbert]], [[Characters/Metatron and The Meta Band/SmogEater]] en [[Characters/Metatron and The Meta Band/Waldo]] in [[Atlas/Sword Coast/Baldur's Gate/Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
+* Onderweg ontdekken zij een verstekeling in de keuken ([[Characters/Metatron and The Meta Band/Szuszi]]) die zich bij het gezelschap voegt.
+* Kort daarna ontdekken ze de befaamde muzikant [[Characters/Metatron and The Meta Band/Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten de  te overtuigen zich bij hen te voegen. 

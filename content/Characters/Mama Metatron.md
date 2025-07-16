@@ -1,49 +1,16 @@
 ---
-title: Mama Metatron
-publish: true
-aliases: 
-description: Mother of Metatron the Magnificent
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: NPC
-deceased: 
-family:
-  - "[[Metatron]]"
-faction: 
-race: "[[tiefling]]"
-gender: female
-class: 
-shop: 
-location:
-  - "[[Een mijn op een onbekende locatie]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 
-last_modified: 
-tags: 
+{"publish":true,"title":"Mama Metatron","description":"Mother of Metatron the Magnificent","created":"2025-07-16T15:12:52.272+02:00","modified":"2025-07-16T20:41:12.160+02:00","cssclasses":""}
 ---
+
 ## Character Summary
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+
 ## Details
-* Moeder van [[Metatron]].
-* Gevangen en tot slaaf gemaakt door [[Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[Metatron]]
-* Het [[Scrying altaar van Tyr]] onthulde aan [[Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
+* Moeder van [[Characters/Metatron and The Meta Band/Metatron]].
+* Gevangen en tot slaaf gemaakt door [[Factions/Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[Characters/Metatron and The Meta Band/Metatron]]
+* Het [[Scrying altaar van Tyr]] onthulde aan [[Characters/Metatron and The Meta Band/Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+
 
