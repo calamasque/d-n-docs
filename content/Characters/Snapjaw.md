@@ -5,9 +5,9 @@ aliases:
   - Future chief of the Lizardmen tribe
 description: Future chief of the Lizardmen tribe
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
@@ -18,8 +18,8 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
+  - "[[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -33,8 +33,8 @@ tags:
 * 
 
 ## Featured
-- [[/content/Adventures/010 - Battle|010 - Battle]]
-- [[/content/Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [[../Adventures/010 - Battle|010 - Battle]]
+- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Log
@@ -42,7 +42,7 @@ tags:
 #character #stance/ally #race/lizardfolk 
 
 Details:
-- Leider van de [[Lizardfolk|Lizardfolk]] van de [[Mere of Dead Men|Mere of Dead Men]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- Leider van de [[Lizardfolk|Lizardfolk]] van de [[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]] en [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
 
 Avonturen:
-- [[/content/Adventures/006 - Windowlicker|006 - Windowlicker]]
+- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
