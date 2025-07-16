@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: Smit in Waterdeep
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type:
   - NPC
 deceased: 
@@ -16,7 +16,7 @@ race:
 gender: male
 class: 
 shop:
-  - "[[Torn Broadleaf's smidse|Torn Broadleaf's smidse]]"
+  - "[Torn Broadleaf's smidse](Torn%20Broadleaf's%20smidse.md)"
 location: 
 origin: 
 game_date: 1489 DR
@@ -31,7 +31,7 @@ tags:
 * 
 
 ## Featured
-- [[../Adventures/003 - Deep Water|003 - Deep Water]]
+- [003 - Deep Water](/content/Adventures/003%20-%20Deep%20Water.md)
 
 
 ## Log
