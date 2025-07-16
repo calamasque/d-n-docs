@@ -4,21 +4,21 @@ publish: true
 aliases: 
 description: Mother of Metatron the Magnificent
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type:
   - NPC
 deceased: 
 family:
-  - "[[./Metatron and The Meta Band/Metatron|Metatron]]"
+  - "[Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md)"
 faction: 
 race: "[[tiefling]]"
 gender: female
 class: 
 shop: 
 location:
-  - "[[Een mijn op een onbekende locatie|Een mijn op een onbekende locatie]]"
+  - "[Een mijn op een onbekende locatie](Een%20mijn%20op%20een%20onbekende%20locatie.md)"
 origin: 
 game_date: 1489 DR
 image: 
@@ -31,9 +31,9 @@ tags:
 ## Featured
 
 ## Details
-* Moeder van [[./Metatron and The Meta Band/Metatron|Metatron]].
-* Gevangen en tot slaaf gemaakt door [[Red Wizards of Thay|Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[./Metatron and The Meta Band/Metatron|Metatron]]
-* Het [[Scrying altaar van Tyr|Scrying altaar van Tyr]] onthulde aan [[./Metatron and The Meta Band/Metatron|Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie|Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
+* Moeder van [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md).
+* Gevangen en tot slaaf gemaakt door [Red Wizards of Thay](Red%20Wizards%20of%20Thay.md) met het gehele gezin, uitgezonderd [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md)
+* Het [Scrying altaar van Tyr](Scrying%20altaar%20van%20Tyr.md) onthulde aan [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md) dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [Mijn op een onbekende locatie](Mijn%20op%20een%20onbekende%20locatie.md) waar zij wordt bewaakt door wachters.
 
 ## Featured
 
