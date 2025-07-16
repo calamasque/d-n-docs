@@ -19,10 +19,10 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
-  - "[[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
+  - "[[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
 origin:
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
 game_date: 1489 DR
 image: "![[Pharblex_spattergoo-5e.webp|Pharblex_spattergoo-5e.webp]]"
 date: 
@@ -35,9 +35,9 @@ tags:
 | ![[../../public/_media/Pharblex_spattergoo-5e.webp\|300]] |
 
 ## Character Summary
-- Leider van de [[Bullywug tribe|Bullywug tribe]] in [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijk altaar in de grotten onder [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe|Bullywug tribe]] in [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]].
+- Leider van de [[Bullywug tribe|Bullywug tribe]] in [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijk altaar in de grotten onder [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe|Bullywug tribe]] in [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]].
 - Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe|Bullywug tribe]].
 - Gedood door [[./Metatron and The Meta Band/Szuszi|Szuszi]]
 ## Items
