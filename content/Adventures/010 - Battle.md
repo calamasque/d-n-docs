@@ -11,8 +11,8 @@ campaign:
 session_num: 10
 session_date: 2025-07-06
 location:
-  - "[[Castle Naerytar|Castle Naerytar]]"
-  - "[[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
+  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]"
 PCs:
   - "[[../Characters/Metatron and The Meta Band/Dr. Egbert|Dr. Egbert]]"
   - "[[../Characters/Metatron and The Meta Band/Metatron|Metatron]]"
@@ -148,13 +148,13 @@ END BATTLE
 	* 22 semi-precious stones
 	* potion of greater healing
 * Short rest (+22)
-* [[../Characters/Snapjaw|Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat|Tiamat]] maar wel in de stijl van de [[Lizardfolk|Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Lizardfolk tribe|Lizardfolk tribe]] heeft deze dagger gevonden in [[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]] en cadeau gedaan aan [[../Characters/Rezmir|Rezmir]]. [[../Characters/Metatron and The Meta Band/Agrip’Ah|Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese|Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom|Netherese dagger of Venom]].
+* [[../Characters/Snapjaw|Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat|Tiamat]] maar wel in de stijl van de [[Lizardfolk|Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Lizardfolk tribe|Lizardfolk tribe]] heeft deze dagger gevonden in [[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]] en cadeau gedaan aan [[../Characters/Rezmir|Rezmir]]. [[../Characters/Metatron and The Meta Band/Agrip’Ah|Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese|Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom|Netherese dagger of Venom]].
 * We bezoeken de toren van [[../Characters/Rezmir|Rezmir]]. 
 	* We bezoeken de torenkamer waar [[../Characters/Rezmir|Rezmir]] huist.
 		* Prachtige meubels en tapijten
 		* Commando-woord voor de teleportatiecirkel is "Draezir"
 		* Metatron vindt een brief: 
-		  "[[../Characters/Rezmir|Rezmir]], [[../Characters/Lenniton|Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin|Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[../Characters/Voaraghammanthar|Voaraghammanthar]]?) rustig blijft in het Mere ([[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]?) en tevreden blijft. [[Galvan|Galvan]]".
+		  "[[../Characters/Rezmir|Rezmir]], [[../Characters/Lenniton|Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin|Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[../Characters/Voaraghammanthar|Voaraghammanthar]]?) rustig blijft in het Mere ([[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]?) en tevreden blijft. [[Galvan|Galvan]]".
 		* 2 Onyx dragon statues (3000GP)
 	* 1 Meditatiekamer
 	* 1 Slaapkamer
@@ -170,7 +170,7 @@ END BATTLE
 	* Eerst kijken naar de locatie "V". Laat een grot zien. Er beweegt ook iets terwijl [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] kijkt, de kop van een [[../Characters/Voaraghammanthar|oude zwarte draak]] is te zien.
 	* [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] past het apparaat aan en bekijkt de locatie "?" ziet nu een andere plek: restanten van een oud gebouw wat daarbovenop een [[slapende zwarte draak|slapende zwarte draak]]. 
 	* Ze bepalen op [[../Characters/Metatron and The Meta Band/Agrip’Ah|Agrip’Ah]]'s [[kaart van Mere of Dead Men|kaart van Mere of Dead Men]] waar deze 2 locaties ongeveer moeten zijn.
-	* Zijn er 2 zwarte draken in [[../Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]?
+	* Zijn er 2 zwarte draken in [[../Faerun/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]?
  * Bullywug toren ([[../Characters/Metatron and The Meta Band/Dr. Egbert|Dr. Egbert]] en [[../Characters/Metatron and The Meta Band/SmogEater|SmogEater]] en [[../Characters/Metatron and The Meta Band/Metatron|Metatron]])
 	* 1e verdieping: Pharblex-kamer bevat een kist die opent met sleutel van Pharblex:
 		* jewelry (1377GP) = 459 GP pp
