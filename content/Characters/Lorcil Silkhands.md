@@ -4,23 +4,23 @@ publish: true
 aliases: 
 description: Bard, Harper agent
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type:
   - NPC
 deceased: true
 family:
-  - "[Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md)"
+  - "[[./Metatron and The Meta Band/Metatron|Metatron]]"
 faction:
-  - "[Harpers](Harpers.md)"
+  - "[[Harpers|Harpers]]"
 race: "[[high elf]]"
 gender: male
 class: 
 shop:
-  - "[Carnath roadhouse tavern](Carnath%20roadhouse%20tavern.md)"
+  - "[[Carnath roadhouse tavern|Carnath roadhouse tavern]]"
 location:
-  - "[Carnath Roadhouse](content/Atlas/Sword%20Coast/Carnath%20Roadhouse.md)"
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -34,4 +34,4 @@ tags:
 
 
 
-Nadat de familie van [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md) werd ontvoerd door de [Red Wizards of Thay](Red%20Wizards%20of%20Thay.md) nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
+Nadat de familie van [[./Metatron and The Meta Band/Metatron|Metatron]] werd ontvoerd door de [[Red Wizards of Thay|Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
