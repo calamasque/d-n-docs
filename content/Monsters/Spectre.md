@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: monster
 encounter: 
 tags: 
@@ -22,7 +22,7 @@ last_modified: 2025-07-14
 * 
 
 ## Featured
-- [006 - Windowlicker](/content/Adventures/006%20-%20Windowlicker.md)
+- [[../Adventures/006 - Windowlicker|006 - Windowlicker]]
 
 
 ## Locations
