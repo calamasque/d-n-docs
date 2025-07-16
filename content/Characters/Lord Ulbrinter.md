@@ -19,8 +19,8 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
-  - "[[../Atlas/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]]"
+  - "[[../Faerun/Sword Coast/Waterdeep/index|Waterdeep]]"
+  - "[[../Faerun/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -28,8 +28,8 @@ date:
 last_modified: 
 tags: 
 ---
-* Belangrijk figuur in [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]].
+* Belangrijk figuur in [[../Faerun/Sword Coast/Waterdeep/index|Waterdeep]].
 * Getrouwd met [[./Lady Remallia Haventree|Lady Remallia Haventree]] 
-* Woont in [[../Atlas/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]].
+* Woont in [[../Faerun/Sword Coast/Waterdeep/Ulbrinter Villa|Ulbrinter Villa]].
 * Houdt zich onder andere bezig met handel / verschepen van goederen.
 
