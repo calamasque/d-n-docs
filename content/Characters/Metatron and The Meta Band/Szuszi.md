@@ -20,7 +20,7 @@ class:
 shop: 
 location: 
 origin:
-  - "[[Waterdeep|Waterdeep]]"
+  - "[[content/Faerun/Sword Coast/Waterdeep/Waterdeep|content/Faerun/Sword Coast/Waterdeep/Waterdeep]]"
 game_date: 1489 DR
 image: 
 date: 2025-07-15
