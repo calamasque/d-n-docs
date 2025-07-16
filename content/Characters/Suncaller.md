@@ -1,6 +1,6 @@
 ---
 title: Suncaller
-publish: false
+publish: true
 aliases: 
 description: Former chief of Lizardfolk tribe
 world:
