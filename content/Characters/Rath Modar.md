@@ -4,15 +4,15 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type:
   - NPC
 deceased: 
 family: 
 faction:
-  - "[Red Wizards of Thay](Red%20Wizards%20of%20Thay.md)"
+  - "[[Red Wizards of Thay|Red Wizards of Thay]]"
 race: 
 gender: 
 class:
