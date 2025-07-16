@@ -4,17 +4,17 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type: PC
 deceased: 
 family:
-  - "[[Mama Metatron|Mama Metatron]]"
-  - "[[Lorcil Silkhands|Lorcil Silkhands]]"
+  - "[Mama Metatron](Mama%20Metatron.md)"
+  - "[Lorcil Silkhands](Lorcil%20Silkhands.md)"
 faction:
-  - "[[Harpers|Harpers]]"
-  - "[[The Meta Band|The Meta Band]]"
+  - "[Harpers](Harpers.md)"
+  - "[The Meta Band](The%20Meta%20Band.md)"
 race:
   - - tiefling
 gender: male
@@ -34,14 +34,14 @@ tags:
 ## Character Summary
 
 ## Featured
-- [[../../Adventures/011 - Zzzzz|011 - Zzzzz]]
-- [[../../Adventures/010 - Battle|010 - Battle]]
-- [[../../Adventures/009 - Titel nog te bepalen|009 - Titel nog te bepalen]]
-- [[../../Adventures/008 - Tightrope|008 - Tightrope]]
-- [[../../Adventures/007 - Gargoyle|007 - Gargoyle]]
-- [[../../Adventures/006 - Windowlicker|006 - Windowlicker]]
-- [[../../Adventures/005 - Eye Know|005 - Eye Know]]
-- [[../../Adventures/004 - Roadhouse Blues|004 - Roadhouse Blues]]
-- [[../../Adventures/003 - Deep Water|003 - Deep Water]]
-- [[../../Adventures/001 - You Got A Friend In Me|001 - You Got A Friend In Me]]
+- [011 - Zzzzz](/content/Adventures/011%20-%20Zzzzz.md)
+- [010 - Battle](/content/Adventures/010%20-%20Battle.md)
+- [009 - Titel nog te bepalen](/content/Adventures/009%20-%20Titel%20nog%20te%20bepalen.md)
+- [008 - Tightrope](/content/Adventures/008%20-%20Tightrope.md)
+- [007 - Gargoyle](/content/Adventures/007%20-%20Gargoyle.md)
+- [006 - Windowlicker](/content/Adventures/006%20-%20Windowlicker.md)
+- [005 - Eye Know](/content/Adventures/005%20-%20Eye%20Know.md)
+- [004 - Roadhouse Blues](/content/Adventures/004%20-%20Roadhouse%20Blues.md)
+- [003 - Deep Water](/content/Adventures/003%20-%20Deep%20Water.md)
+- [001 - You Got A Friend In Me](/content/Adventures/001%20-%20You%20Got%20A%20Friend%20In%20Me.md)
 
