@@ -6,14 +6,14 @@ aliases:
   - Doc
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: PC
 deceased: 
 family: 
 faction:
-  - "[The Meta Band](The%20Meta%20Band.md)"
+  - "[[The Meta Band|The Meta Band]]"
 race: 
 gender: 
 class:
