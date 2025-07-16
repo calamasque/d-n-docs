@@ -5,23 +5,23 @@ aliases:
 description: 
 type: session
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 session_num: 9
 session_date: 2025-06-25
 location:
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|content/Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men]]"
+  - "[Castle Naerytar](content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)"
+  - "[Mere of Dead Men](Mere%20of%20Dead%20Men.md)"
 PCs:
-  - "[[Dr. Egbert|Dr. Egbert]]"
-  - "[[Metatron|Metatron]]"
-  - "[[SmogEater|SmogEater]]"
-  - "[[Szuszi|Szuszi]]"
-  - "[[Agrip’Ah|Agrip’Ah]]"
+  - "[Dr. Egbert](Dr.%20Egbert.md)"
+  - "[Metatron](Metatron.md)"
+  - "[SmogEater](SmogEater.md)"
+  - "[Szuszi](Szuszi.md)"
+  - "[Agrip’Ah](Agrip%E2%80%99Ah.md)"
 NPCs:
-  - "[[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]]"
-  - "[[../Characters/Rezmir|Rezmir]]"
+  - "[Pharblex Spattergoo](/content/Characters/Pharblex%20Spattergoo.md)"
+  - "[Rezmir](/content/Characters/Rezmir.md)"
 mentions: 
 encounters: 
 game_date: 1489 DR
@@ -34,7 +34,7 @@ tags:
 ## Recap of last session
 
 ## Log
-Een poging om [[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [Pharblex Spattergoo](/content/Characters/Pharblex%20Spattergoo.md) en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -59,7 +59,7 @@ Gang = chokehold
 
 Arcane-check: Pharblex's staff is voor een focus, niet echt magisch.
 
-Metatron geeft Pharblex het [[zakje met Bullywug steentjes|zakje met Bullywug steentjes]] voor zijn kinderen.
+Metatron geeft Pharblex het [zakje met Bullywug steentjes](zakje%20met%20Bullywug%20steentjes.md) voor zijn kinderen.
 
 Tiny hut:
 1. 1e wacht (niets)
@@ -69,5 +69,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[../Characters/Rezmir|Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [Rezmir](/content/Characters/Rezmir.md)
 

@@ -4,27 +4,27 @@ publish: true
 aliases: 
 description: Chief of Bullywug tribe
 world:
-  - "[[Forgotten Realms|Forgotten Realms]]"
+  - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
-  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
+  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
 type:
   - NPC
 deceased: true
 family:
-  - "[[Bullywug tribe|Bullywug tribe]]"
+  - "[Bullywug tribe](Bullywug%20tribe.md)"
 faction:
-  - "[[Bullywug tribe|Bullywug tribe]]"
+  - "[Bullywug tribe](Bullywug%20tribe.md)"
 race: "[[bullywug]]"
 gender: male
 class: 
 shop: 
 location:
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
-  - "[[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
+  - "[Mere of Dead Men](Mere%20of%20Dead%20Men.md)"
+  - "[Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)"
 origin:
-  - "[[content/Faerun/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]"
+  - "[Mere of Dead Men](Mere%20of%20Dead%20Men.md)"
 game_date: 1489 DR
-image: "![[Pharblex_spattergoo-5e.webp|Pharblex_spattergoo-5e.webp]]"
+image: "![Pharblex_spattergoo-5e.webp](Pharblex_spattergoo-5e.webp)"
 date: 
 last_modified: 
 tags: 
@@ -32,24 +32,24 @@ tags:
 
 | Image                                               |
 | --------------------------------------------------- |
-| ![[../../public/_media/Pharblex_spattergoo-5e.webp\|300]] |
+| ![300](/public/_media/Pharblex_spattergoo-5e.webp) |
 
 ## Character Summary
-- Leider van de [[Bullywug tribe|Bullywug tribe]] in [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijk altaar in de grotten onder [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe|Bullywug tribe]] in [[../Faerun/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]].
-- Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe|Bullywug tribe]].
-- Gedood door [[./Metatron and The Meta Band/Szuszi|Szuszi]]
+- Leider van de [Bullywug tribe](Bullywug%20tribe.md) in [Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)
+- Heeft een persoonlijk altaar in de grotten onder [Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md)
+- Heeft een persoonlijke kamer in het kwartier van de  [Bullywug tribe](Bullywug%20tribe.md) in [Castle Naerytar](/content/Atlas/Sword%20Coast/Mere%20of%20Dead%20Men/Castle%20Naerytar.md).
+- Stierf als een lafaard en leidde zo het definitieve einde in van de [Bullywug tribe](Bullywug%20tribe.md).
+- Gedood door [Szuszi](/content/Characters/Metatron%20and%20The%20Meta%20Band/Szuszi.md)
 ## Items
 - Hoed: krokodillenkop
 - Lichte bepansering
-- Staff (taken by [[./Metatron and The Meta Band/Metatron|Metatron]])
+- Staff (taken by [Metatron](/content/Characters/Metatron%20and%20The%20Meta%20Band/Metatron.md))
 - Skull of Guts
 ## Featured
-- [[../Adventures/010 - Battle|010 - Battle]]
-- [[/content/Adventures/009 - Name this adventure|009 - Name this adventure]]
-- [[../Adventures/008 - Tightrope|008 - Tightrope]]
-- [[../Adventures/007 - Gargoyle|007 - Gargoyle]]
+- [010 - Battle](/content/Adventures/010%20-%20Battle.md)
+- [009 - Name this adventure](/content/Adventures/009%20-%20Name%20this%20adventure.md)
+- [008 - Tightrope](/content/Adventures/008%20-%20Tightrope.md)
+- [007 - Gargoyle](/content/Adventures/007%20-%20Gargoyle.md)
 
 
 

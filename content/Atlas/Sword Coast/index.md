@@ -1,5 +1,5 @@
 ---
-title: Races
+title: Sword Coast
 publish: true
 aliases: 
 description: 
@@ -7,10 +7,10 @@ world:
   - "[Forgotten Realms](Forgotten%20Realms.md)"
 campaign:
   - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
-type: 
-tags: 
+type: place
 image: 
 date: 2025-07-16
 last_modified: 2025-07-16
+tags: 
 ---
-# Races
+# Sword Coast
