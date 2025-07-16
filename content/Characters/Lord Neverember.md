@@ -5,22 +5,22 @@ aliases:
   - Unmasked Lord
 description: Lord of Neverwinter. Unmasked lord of Waterdeep.
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type:
   - NPC
 deceased: 
 family: 
 faction:
-  - "[The masked lords](The%20masked%20lords.md)"
+  - "[[The masked lords|The masked lords]]"
 race: 
 gender: male
 class: 
 shop: 
 location:
-  - "[Waterdeep](/content/Atlas/Sword%20Coast/Waterdeep/index.md)"
-  - "[Ulbrinter Villa](content/Atlas/Sword%20Coast/Waterdeep/Ulbrinter%20Villa.md)"
+  - "[[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa|content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -28,8 +28,8 @@ date: 2025-07-04
 last_modified: 2025-07-04
 tags: 
 ---
-* De "Unmasked Lord" van de [The masked lords](The%20masked%20lords.md) van [Waterdeep](/content/Atlas/Sword%20Coast/Waterdeep/index.md).
-* Lord van [Neverwinter](Neverwinter.md).
+* De "Unmasked Lord" van de [[The masked lords|The masked lords]] van [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]].
+* Lord van [[Neverwinter|Neverwinter]].
 * Betaald voor de 
-* Betaald voor de herstelwerkzaamheden aan [The High Road](The%20High%20Road.md) tussen [Waterdeep](/content/Atlas/Sword%20Coast/Waterdeep/index.md) en [Neverwinter](Neverwinter.md).
+* Betaald voor de herstelwerkzaamheden aan [[The High Road|The High Road]] tussen [[../Atlas/Sword Coast/Waterdeep/Waterdeep|Waterdeep]] en [[Neverwinter|Neverwinter]].
 

@@ -5,38 +5,38 @@ aliases:
 description: 
 type: session
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 session_num: 5
 session_date: 2025-03-02
 location:
-  - "[Carnath Roadhouse](/content/Atlas/Sword%20Coast/Carnath%20Roadhouse.md)"
-  - "[Mere of Dead Men](Mere%20of%20Dead%20Men.md)"
+  - "[[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[Mere of Dead Men|Mere of Dead Men]]"
 PCs:
-  - "[Dr. Egbert](Dr.%20Egbert.md)"
-  - "[Metatron](Metatron.md)"
-  - "[SmogEater](SmogEater.md)"
-  - "[Waldo](Waldo.md)"
-  - "[Agrip’Ah](Agrip%E2%80%99Ah.md)"
+  - "[[Dr. Egbert|Dr. Egbert]]"
+  - "[[Metatron|Metatron]]"
+  - "[[SmogEater|SmogEater]]"
+  - "[[Waldo|Waldo]]"
+  - "[[Agrip’Ah|Agrip’Ah]]"
 NPCs:
-  - "[Bog Luck](/content/Characters/Bog%20Luck.md)"
+  - "[[../Characters/Bog Luck|Bog Luck]]"
 mentions:
-  - "[Pharblex Spattergoo](Pharblex%20Spattergoo.md)"
-  - "[Snapjaw](Snapjaw.md)"
+  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
+  - "[[Snapjaw|Snapjaw]]"
 encounters:
-  - "[Bullywug tribe](Bullywug%20tribe.md)"
+  - "[[Bullywug tribe|Bullywug tribe]]"
 game_date: 1489 DR
 date: 2025-03-02
 last_modified: 2025-07-15
 tags: 
 ---
 
-[Szuszi](/content/Characters/Metatron%20and%20The%20Meta%20Band/Szuszi.md) is out.
+[[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] is out.
 
-Gevecht in de storage room waar [Szuszi](/content/Characters/Metatron%20and%20The%20Meta%20Band/Szuszi.md) verdween.
+Gevecht in de storage room waar [[../Characters/Metatron and The Meta Band/Szuszi|Szuszi]] verdween.
 
-Via de tunnel onder de opslagruimte van [Carnath Roadhouse](/content/Atlas/Sword%20Coast/Carnath%20Roadhouse.md) bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [Bog Luck](/content/Characters/Bog%20Luck.md) de één-oog-orc. 
+Via de tunnel onder de opslagruimte van [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[../Characters/Bog Luck|Bog Luck]] de één-oog-orc. 
 
 Bullywug encounter in Mere
 

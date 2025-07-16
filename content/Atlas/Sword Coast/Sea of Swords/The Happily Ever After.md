@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -16,17 +16,14 @@ tags:
 # The Happily Ever After
 
 ## Featured
-- [003 - Deep Water](/content/Adventures/003%20-%20Deep%20Water.md)
-- [002 - The Ship Song](/content/Adventures/002%20-%20The%20Ship%20Song.md)
-- [001 - You Got A Friend In Me](/content/Adventures/001%20-%20You%20Got%20A%20Friend%20In%20Me.md)
+- [[../../../Adventures/003 - Deep Water|003 - Deep Water]]
+- [[../../../Adventures/002 - The Ship Song|002 - The Ship Song]]
+- [[../../../Adventures/001 - You Got A Friend In Me|001 - You Got A Friend In Me]]
 
 ## People
-| File                                                 | Faction | Description                       |
-| ---------------------------------------------------- | ------- | --------------------------------- |
-| [Manni](/content/Characters/Manni.md)               | \-      | Owner of The Happily Ever After   |
-| [Manni](Manni.md)     | \-      | Owner of The Happily Ever After   |
-| [Sanni](/content/Characters/Sanni.md)               | \-      | Owner of The Happily Ever After   |
-| [Sanni](Sanni.md)     | \-      | Owner of The Happily Ever After   |
-| [Tu’aven](/content/Characters/Tu%E2%80%99aven.md)           | \-      | Captain of The Happily Ever After |
-| [Tu’aven](Tu%E2%80%99aven.md) | \-      | Captain of The Happily Ever After |
+| File                                       | Faction | Description                       |
+| ------------------------------------------ | ------- | --------------------------------- |
+| [[../../../Characters/Manni\|Manni]]     | \-      | Owner of The Happily Ever After   |
+| [[../../../Characters/Sanni\|Sanni]]     | \-      | Owner of The Happily Ever After   |
+| [[../../../Characters/Tu’aven\|Tu’aven]] | \-      | Captain of The Happily Ever After |
 

@@ -5,19 +5,19 @@ aliases:
 description: 
 type: session
 world:
-  - "[Forgotten Realms](Forgotten%20Realms.md)"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[Hoard of the Dragon Queen](Hoard%20of%20the%20Dragon%20Queen.md)"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 session_num: 11
 session_date: 2025-07-15
 location: 
 PCs:
-  - "[Agrip’Ah](Agrip%E2%80%99Ah.md)"
-  - "[Dr. Egbert](Dr.%20Egbert.md)"
-  - "[Metatron](Metatron.md)"
-  - "[SmogEater](SmogEater.md)"
-  - "[Szuszi](Szuszi.md)"
-  - "[Waldo](Waldo.md)"
+  - "[[Agrip’Ah|Agrip’Ah]]"
+  - "[[Dr. Egbert|Dr. Egbert]]"
+  - "[[Metatron|Metatron]]"
+  - "[[SmogEater|SmogEater]]"
+  - "[[Szuszi|Szuszi]]"
+  - "[[Waldo|Waldo]]"
 NPCs: 
 mentions: 
 encounters: 
