@@ -4,17 +4,17 @@ publish: true
 aliases: Dragon Kneelers
 description: 
 type: faction
-faction_type: 	
-- geheim
-- militair
-- mythisch
-- religieus
+faction_type:
+  - geheim
+  - militair
+  - mythisch
+  - religieus
 alignment: evil
 symbol:
-- "Terugkeer van Tiamat"
-goals:
-scope:
-headquarters:
+  - Terugkeer van Tiamat
+goals: 
+scope: 
+headquarters: 
 image: 
 date: 2025-07-15
 last_modified: 2025-07-15
@@ -27,20 +27,20 @@ tags:
 ## Members
 | File                                                                           | description                  | deceased |
 | ------------------------------------------------------------------------------ | ---------------------------- | -------- |
-| [[/content/Characters/Voaraghammanthar\|Voaraghammanthar]]                   | \-                           | \-       |
-| [[/content/Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
-| [[/content/Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
-| [[/content/Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                           | \-       |
-| [[/content/Characters/Cult of the Dragon guards\|Cult of the Dragon guards]] | \-                           | \-       |
-| [[/content/Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
+| [[../Characters/Voaraghammanthar\|Voaraghammanthar]]                   | \-                           | \-       |
+| [[../Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
+| [[../Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
+| [[../Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                           | \-       |
+| [[../Characters/Cult of the Dragon guards\|Cult of the Dragon guards]] | \-                           | \-       |
+| [[../Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
 
 
 ## Partners
-- [[/content/Characters/Rath Modar|Rath Modar]]
-- [[/content/Characters/Onbekende Red Wizard|Onbekende Red Wizard]]
-- [[/content/Characters/Pharblex Spattergoo|Pharblex Spattergoo]]
-- [[/content/Characters/Snapjaw|Snapjaw]]
+- [[../Characters/Rath Modar|Rath Modar]]
+- [[../Characters/Onbekende Red Wizard|Onbekende Red Wizard]]
+- [[../Characters/Pharblex Spattergoo|Pharblex Spattergoo]]
+- [[../Characters/Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
-- [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]
+- [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- [[../Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]

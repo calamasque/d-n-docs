@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: 
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: place
 image: 
 date: 2025-07-15
@@ -16,21 +16,18 @@ tags:
 # Ulbrinter Villa
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
-SORT file.name DESC
-```
-## People
-```dataview
-table faction as Faction, description as Description
-WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
-SORT file.name ASC
-```
-## Info
-* Woning van [[Lord Ulbrinter]] en [[Lady Remallia Haventree]]. 
-* Gelegen aan [[Delzorin street]] in de [[North Ward]] van [[Waterdeep]]
+- [[../../../Adventures/003 - Deep Water|003 - Deep Water]]
 
-De villa is gelegen in de North Ward van [[Waterdeep]] aan Delzorin Street. Deze straat kan worden bereikt door de High Road te volgen naar de noordelijke poort.
+## People
+| File                                                                       | Faction                                                                       | Description                                      |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
+| [[../../../Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>Harpers</li></ul>                                                     | Harper leadership                                |
+| [[../../../Characters/Lord Neverember\|Lord Neverember]]                 | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
+| [[../../../Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[content/Factions/The masked lords.md\|The masked lords]]</li></ul> | Waterdeep lord                                   |
+
+## Info
+* Woning van [[../../../Characters/Lord Ulbrinter|Lord Ulbrinter]] en [[../../../Characters/Lady Remallia Haventree|Lady Remallia Haventree]]. 
+* Gelegen aan [[Delzorin street|Delzorin street]] in de [[North Ward|North Ward]] van [[./Waterdeep|Waterdeep]]
+
+De villa is gelegen in de North Ward van [[./Waterdeep|Waterdeep]] aan Delzorin Street. Deze straat kan worden bereikt door de High Road te volgen naar de noordelijke poort.
 

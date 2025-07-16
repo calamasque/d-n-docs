@@ -4,9 +4,9 @@ publish: true
 aliases: 
 description: Smit in Waterdeep
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
@@ -14,10 +14,10 @@ faction:
 race: 
 gender: male
 class: 
-shop: 
-- "[[Torn Broadleaf's smidse]]"
-location: 
-- "[[Waterdeep]]"
+shop:
+  - "[[Torn Broadleaf's smidse|Torn Broadleaf's smidse]]"
+location:
+  - "[[Waterdeep|Waterdeep]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -31,12 +31,8 @@ tags:
 * 
 
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
-SORT file.name DESC
-```
+- [[../Adventures/003 - Deep Water|003 - Deep Water]]
+
 
 ## Log
 * 
