@@ -1,19 +1,19 @@
 ---
 title: Suncaller
-publish: true
-aliases:
+publish: false
+aliases: 
 description: Former chief of Lizardfolk tribe
 world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type NPC
+type: NPC
 deceased: true
 family:
   - "[[Lizardfolk tribe]]"
 faction:
   - "[[Lizardfolk tribe]]"
-race: "[[lizardfolk]""
+race: "[[lizardfolk]]"
 gender: male
 class: 
 shop: 
@@ -24,7 +24,7 @@ game_date: 1489 DR
 image: 
 date: 2025-07-05
 last_modified: 2025-07-05
-tags: 
+tags:
 ---
 # Suncaller
 
