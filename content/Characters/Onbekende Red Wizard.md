@@ -4,20 +4,20 @@ publish: true
 aliases: 
 description: Red wizard werkt samen met Cult of the Dragon
 world:
-  - "[[Forgotten Realms]]"
+  - "[[Forgotten Realms|Forgotten Realms]]"
 campaign:
-  - "[[Hoard of the Dragon Queen]]"
+  - "[[Hoard of the Dragon Queen|Hoard of the Dragon Queen]]"
 type: NPC
 deceased: 
 family: 
 faction:
-  - "[[Red Wizards of Thay]]"
+  - "[[Red Wizards of Thay|Red Wizards of Thay]]"
 race: 
 gender: 
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[Castle Naerytar|Castle Naerytar]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -31,18 +31,18 @@ tags:
 * 
 
 ## Featured
-- [[/content/Adventures/008 - Tightrope|008 - Tightrope]]
+- [[../Adventures/008 - Tightrope|008 - Tightrope]]
 
 
 ## Log
 * 
 Details:
-- Een [[/content/Factions/Red Wizards of Thay|Red Wizards of Thay]] 
-- Werkt samen met de [[/content/Factions/Cult of the Dragon|Cult of the Dragon]]
-- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]. 
+- Een [[../Factions/Red Wizards of Thay|Red Wizards of Thay]] 
+- Werkt samen met de [[../Factions/Cult of the Dragon|Cult of the Dragon]]
+- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[../Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]. 
 
 Brieven:
-- "Beste [[/content/Characters/Rath Modar|Rath Modar]], de gesprekken met [[/content/Characters/Rezmir|Rezmir]] lopen goed."
+- "Beste [[./Rath Modar|Rath Modar]], de gesprekken met [[./Rezmir|Rezmir]] lopen goed."
 
 Spellbook:
 - Level 1:  Fog cloud, Magic missile, Thunderwave
@@ -50,4 +50,4 @@ Spellbook:
 - Level 3:  Counterspell, Dispel magic, Fireball
 
 Gebeurtenissen:
-* [[Onbekende Red Wizard|Onbekende Red Wizard]] werd tijdens [[/content/Adventures/008 - Tightrope|008 - Tightrope]] aangevallen door [[Dr. Egbert|Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.
+* [[Onbekende Red Wizard|Onbekende Red Wizard]] werd tijdens [[../Adventures/008 - Tightrope|008 - Tightrope]] aangevallen door [[./Metatron and The Meta Band/Dr. Egbert|Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.
