@@ -68,13 +68,13 @@ publish: true
 
 |NPC1|Beschrijving|
 |---|---|
-|[Suncaller](Suncaller.md#)|Former chief of Lizardfolk tribe|
+|[Snapjaw](./Characters/Snapjaw.md#)|Future chief of the Lizardmen tribe|
 
 ### [Castle Naerytar](content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar.md)
 
 |NPC1|Beschrijving|
 |---|---|
-|[Snapjaw](./Characters/Snapjaw.md#)|Future chief of the Lizardmen tribe|
+|[Suncaller](Suncaller.md#)|Former chief of Lizardfolk tribe|
 
 ### [Mere of Dead Men](content/Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men.md)
 
@@ -86,13 +86,13 @@ publish: true
 
 |NPC1|Beschrijving|
 |---|---|
-|[Voaraghammanthar](./Characters/Voaraghammanthar.md#)|-|
+|[Snapjaw](./Characters/Snapjaw.md#)|Future chief of the Lizardmen tribe|
 
 ### [Mere of Dead Men](content/Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men.md)
 
 |NPC1|Beschrijving|
 |---|---|
-|[Snapjaw](./Characters/Snapjaw.md#)|Future chief of the Lizardmen tribe|
+|[Voaraghammanthar](./Characters/Voaraghammanthar.md#)|-|
 
 ### [The Happily Ever After](content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After.md)
 
@@ -122,13 +122,13 @@ publish: true
 
 |NPC1|Beschrijving|
 |---|---|
-|[Lord Ulbrinter](./Characters/Lord%2520Ulbrinter.md#)|Waterdeep lord|
+|[Lord Neverember](./Characters/Lord%2520Neverember.md#)|Lord of Neverwinter. Unmasked lord of Waterdeep.|
 
 ### [Ulbrinter Villa](content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa.md)
 
 |NPC1|Beschrijving|
 |---|---|
-|[Lord Neverember](./Characters/Lord%2520Neverember.md#)|Lord of Neverwinter. Unmasked lord of Waterdeep.|
+|[Lord Ulbrinter](./Characters/Lord%2520Ulbrinter.md#)|Waterdeep lord|
 
 ### [Waterdeep](content/Atlas/Sword Coast/Waterdeep/Waterdeep.md)
 
@@ -140,13 +140,13 @@ publish: true
 
 |NPC1|Beschrijving|
 |---|---|
-|[Lord Ulbrinter](./Characters/Lord%2520Ulbrinter.md#)|Waterdeep lord|
+|[Lord Neverember](./Characters/Lord%2520Neverember.md#)|Lord of Neverwinter. Unmasked lord of Waterdeep.|
 
 ### [Waterdeep](content/Atlas/Sword Coast/Waterdeep/Waterdeep.md)
 
 |NPC1|Beschrijving|
 |---|---|
-|[Lord Neverember](./Characters/Lord%2520Neverember.md#)|Lord of Neverwinter. Unmasked lord of Waterdeep.|
+|[Lord Ulbrinter](./Characters/Lord%2520Ulbrinter.md#)|Waterdeep lord|
 
 ### [Waterdeep](content/Atlas/Sword Coast/Waterdeep/Waterdeep.md)
 
