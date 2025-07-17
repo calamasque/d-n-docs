@@ -1,32 +1,14 @@
 ---
-title: The masked lords
-publish: true
-aliases: 
-description: 
-type: faction
-faction_type:
-- geheim
-- politiek
-alignment: 
-symbol: masker
-goals:
-scope: [[Waterdeep]]
-headquarters: [[Waterdeep]]
-image: 
-date: 2025-07-16
-last_modified: 2025-07-15
-tags: 
+{"publish":true,"title":"The masked lords","created":"2025-07-16","modified":"2025-07-16T20:41:11.971+02:00","cssclasses":""}
 ---
+
 # The masked lords
 
 # The masked lords
 Rulers of Waterdeep. Among the 
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters" or "content/The Band"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                                       | description                                      | deceased |
+| ---------------------------------------------------------- | ------------------------------------------------ | -------- |
+| [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]   | Waterdeep lord                                   | \-       |
+| [[Characters/Lord Neverember\|Lord Neverember]] | Lord of Neverwinter. Unmasked lord of Waterdeep. | \-       |

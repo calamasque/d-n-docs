@@ -1,33 +1,17 @@
 ---
-title: Halls of Justice
-publish: true
-aliases: 
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: place 
-image: 
-date: 2025-07-15
-last_modified: 2025-07-14
-tags:
+{"publish":true,"title":"Halls of Justice","created":"2025-07-15","modified":"2025-07-16T10:45:38.763+02:00","cssclasses":""}
 ---
+
 # Halls of Justice
 ## Featured
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
-SORT file.name DESC
-```
+- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
+- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+
 ## People
-```dataview
-table faction as Faction, description as Description
-WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
-SORT file.name ASC
-```
+| File | Faction | Description |
+| ---- | ------- | ----------- |
 
-Tempel van Tyr gevestigd in [[Waterdeep]]. 
 
-[[SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 
+Tempel van Tyr gevestigd in [[Atlas/Sword Coast/Waterdeep/Waterdeep]]. 
+
+[[Characters/Metatron and The Meta Band/SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 

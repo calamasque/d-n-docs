@@ -1,17 +1,5 @@
 ---
-title: Otyugh
-publish: true
-aliases: 
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: monster
-encounter: 
-tags: 
-image: 
-date: 2025-07-16
-last_modified: 2025-07-14
+{"publish":true,"title":"Otyugh","created":"2025-07-16","modified":"2025-07-16T20:41:11.973+02:00","cssclasses":""}
 ---
+
 # Otyugh

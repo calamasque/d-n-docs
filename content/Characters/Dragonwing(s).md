@@ -1,43 +1,16 @@
 ---
-title: Dragonwing(s)
-publish: true
-aliases:
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: NPC
-deceased: 
-family: 
-faction:
-  - "[[Cult of the Dragon]]"
-race: 
-gender: 
-class: 
-shop: 
-location: 
-origin: 
-game_date: 1489 DR
-image: 
-date: 2025-07-07
-last_modified: 2025-07-06
-tags: 
+{"publish":true,"title":"Dragonwing(s)","created":"2025-07-07","modified":"2025-07-16T20:41:12.157+02:00","cssclasses":""}
 ---
+
 # Dragonwing(s)
 
 ## Character summary
 * 
 
 ## Featured
-```dataviewjs dv.view("/Scripts/featured"); ```
+Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
 ## Mentions
-```dataview
-LIST
-FROM "content/Adventures"
-WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
-SORT file.name DESC
-```
+
 
 ## Log
 * 
