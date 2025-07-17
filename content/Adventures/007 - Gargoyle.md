@@ -3,7 +3,6 @@
 ---
 
 
-
 The [[Characters/Metatron and The Meta Band/Dr. Egbert]] is out.
 
 Na een korte rustpauze in de torenkamer van de afvaltoren gingen onze nachtelijke avonturiers op onderzoek uit. 

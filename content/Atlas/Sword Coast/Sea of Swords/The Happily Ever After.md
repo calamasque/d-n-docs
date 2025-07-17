@@ -2,7 +2,6 @@
 {"publish":true,"title":"The Happily Ever After","created":"2025-07-15","modified":"2025-07-16T00:23:18.290+02:00","cssclasses":""}
 ---
 
-
 # The Happily Ever After
 
 ## Featured

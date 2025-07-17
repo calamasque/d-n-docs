@@ -3,7 +3,6 @@
 ---
 
 
-
 https://calamasque.github.io/d-n-docs/Characters/Manni
 https://calamasque.github.io/d-n-docs/content/Characters/Manni
 

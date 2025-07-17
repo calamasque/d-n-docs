@@ -2,7 +2,6 @@
 {"publish":true,"aliases":"D r a m b u i e","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-16T20:14:00.887+02:00","modified":"2025-07-16T20:41:12.067+02:00","cssclasses":""}
 ---
 
-
 # Character Summary
 - Baas van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]]
 - Lid van de [[Factions/Eldreth Veluuthra\|Eldreth Veluuthra]]

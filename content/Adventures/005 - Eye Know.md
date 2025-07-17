@@ -3,7 +3,6 @@
 ---
 
 
-
 [[Characters/Metatron and The Meta Band/Szuszi]] is out.
 
 Gevecht in de storage room waar [[Characters/Metatron and The Meta Band/Szuszi]] verdween.

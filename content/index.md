@@ -1,7 +1,8 @@
 ---
-{"publish":true,"title":"The Incredible Adventures of Metatron and The Band","created":"2025-07-17T13:18:54.431+02:00","modified":"2025-07-17T13:18:54.431+02:00","cssclasses":""}
+title: The Incredible Adventures of Metatron and The Band
+publish: true
+tags: []
 ---
-
 
 Blub.
 # Adventures in dataviewJS

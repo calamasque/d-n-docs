@@ -2,7 +2,6 @@
 {"publish":true,"title":"Characters","created":"2025-07-16T20:14:00.894+02:00","modified":"2025-07-16T20:41:12.124+02:00","tags":["dataview-publisher"],"cssclasses":""}
 ---
 
-
 ## DataviewJS
 |NPC23|Locatie|
 |---|---|

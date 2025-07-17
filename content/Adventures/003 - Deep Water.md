@@ -3,7 +3,6 @@
 ---
 
 
-
 Onze helden arriveren met de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] in de haven van de indrukwekkende stad [[Atlas/Sword Coast/Waterdeep/Waterdeep]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 
 
 Als 1 groep (minus [[Characters/Metatron and The Meta Band/Waldo]]) begeven zij zich vervolgens naar het centrale plein van de stad waar van alles wordt verkocht en waar [[Characters/Metatron and The Meta Band/SmogEater]] in de buurt ook de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] hoopt te vinden. In deze tempel van Tyr zou het voor hem toch mogelijk moeten zijn een prachtige set zware bepantsering te kopen? [[Characters/Metatron and The Meta Band/Szuszi]] en [[Characters/Metatron and The Meta Band/Dr. Egbert]] vergezellen hem hierbij. In zijn enthousiasme om de Tyr-aanhangers tevreden te stellen wordt [[Characters/Metatron and The Meta Band/SmogEater]] al snel iets te loslippig en informeert hen dat wij in het bezit zijn van 

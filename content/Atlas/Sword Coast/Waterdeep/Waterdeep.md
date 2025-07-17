@@ -2,7 +2,6 @@
 {"publish":true,"title":"Waterdeep","created":"2025-07-15","modified":"2025-07-16T00:23:31.612+02:00","cssclasses":""}
 ---
 
-
 # Waterdeep
 
 ## Featured

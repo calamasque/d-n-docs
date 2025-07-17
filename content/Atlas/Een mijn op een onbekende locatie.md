@@ -1,6 +1,17 @@
 ---
-{"publish":true,"title":"Een mijn op een onbekende locatie","created":"2025-07-16","modified":"2025-07-17T13:18:54.418+02:00","cssclasses":""}
+title: Een mijn op een onbekende locatie
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: place
+image: 
+date: 2025-07-16
+last_modified: 2025-07-16
+tags:
 ---
-
 
 # Een mijn op een onbekende locatie

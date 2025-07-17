@@ -2,7 +2,6 @@
 {"publish":true,"title":"Carnath Roadhouse","created":"2025-07-02","modified":"2025-07-16T20:41:12.046+02:00","cssclasses":""}
 ---
 
-
 # Carnath Roadhouse
 
 ## Gerelateerde NPCs

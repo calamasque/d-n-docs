@@ -2,7 +2,6 @@
 {"publish":true,"title":"Mama Metatron","description":"Mother of Metatron the Magnificent","created":"2025-07-16T15:12:52.272+02:00","modified":"2025-07-16T20:41:12.160+02:00","cssclasses":""}
 ---
 
-
 ## Character Summary
 
 ## Featured

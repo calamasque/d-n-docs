@@ -3,7 +3,6 @@
 ---
 
 
-
 Na een kort gevecht weten onze helden de 4 gargoyles te verslaan. 
 
 De groep besluit een kijkje te nemen in het observatorium waar zich een gigantische telescoop bevindt. Bijzonder genoeg is het dak van het observatorium volledig afgesloten. Is dit misschien een magische telescoop. [[Characters/Metatron and The Meta Band/Szuszi\|Szuszi]] en [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]] besluiten een kijkje te nemen. De eerste doet dit voorzichtig en ziet (...). De draconian doet dit niet geheel onverwacht minder subtiel waardoor de telescoop een tik krijgt en daardoor iets anders in beeld brengt. 

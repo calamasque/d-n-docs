@@ -3,7 +3,6 @@
 ---
 
 
-
 ## Character summary
 * recent getrouwd met [[Characters/Manni]]
 * op een avontuurlijke huwelijksreis met hun schip de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Characters/Tu’aven]]. 
