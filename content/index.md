@@ -1,8 +1,7 @@
 ---
-title: index
+title: The Incredible Adventures of Metatron and The Band
 publish: true
-tags:
-  - dataview-publisher
+tags: []
 ---
 Blub.
 # Adventures in dataviewJS

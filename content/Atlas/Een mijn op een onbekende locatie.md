@@ -1,6 +1,6 @@
 ---
 title: Een mijn op een onbekende locatie
-publish: false
+publish: true
 aliases: 
 description: 
 world:
@@ -11,6 +11,6 @@ type: place
 image: 
 date: 2025-07-16
 last_modified: 2025-07-16
-tags: 
+tags:
 ---
 # Een mijn op een onbekende locatie
