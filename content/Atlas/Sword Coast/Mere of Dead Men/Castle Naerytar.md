@@ -3,8 +3,8 @@
 ---
 
 # Castle Naerytar
-| File                                                                                 | file.link                                                                            | file.path                                          |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| File                                                                      | file.link                                                                 | file.path                                          |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
 | [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]] | [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]] | content/Adventures/001 - You Got A Friend In Me.md |
 | [[Adventures/002 - The Ship Song\|002 - The Ship Song]]                   | [[Adventures/002 - The Ship Song\|002 - The Ship Song]]                   | content/Adventures/002 - The Ship Song.md          |
 | [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]               | [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]               | content/Adventures/004 - Roadhouse Blues.md        |
