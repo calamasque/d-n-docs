@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"index","created":"2025-07-16T20:31:39.161+02:00","modified":"2025-07-16T20:41:12.004+02:00","tags":["dataview-publisher"],"cssclasses":""}
+{"publish":true,"title":"The Incredible Adventures of Metatron and The Band","created":"2025-07-16T20:31:39.161+02:00","modified":"2025-07-17T10:35:12.161+02:00","cssclasses":""}
 ---
 
 Blub.
