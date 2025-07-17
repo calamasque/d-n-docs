@@ -3,6 +3,7 @@
 ---
 
 
+
 ??? laten we achter in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Atlas/Sword Coast/Waterdeep/Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
 
 We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het altaar nemen we met ons mee in de wagen. 

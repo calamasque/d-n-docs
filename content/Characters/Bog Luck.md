@@ -1,6 +1,7 @@
 ---
-{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-16T20:14:00.881+02:00","modified":"2025-07-16T20:41:12.163+02:00","cssclasses":""}
+{"publish":true,"aliases":"B o g t h e B l i n d B l i n d L u c k","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-16T20:14:00.881+02:00","modified":"2025-07-16T20:41:12.163+02:00","cssclasses":""}
 ---
+
 
 # Character Summary
 - Location: het laatst gezien in Mere of Dead Men varend richting de zee.

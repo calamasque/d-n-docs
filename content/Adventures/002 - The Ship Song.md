@@ -3,6 +3,7 @@
 ---
 
 
+
 Nadat [[Characters/Metatron and The Meta Band/Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]], een missionaris schip van priesters van [[Tyr]], gingen onderzoeken. 
 
 Op het het schip, niet het wrak, leert [[Characters/Metatron and The Meta Band/Metatron]] 2 halflingen kennen, [[Characters/Manni]] & [[Characters/Sanni]], en hun Tabaxi kapitein [[Characters/Tu’aven]]. Zij namen hem onder hun hoede en verzorgden hem van zijn wonden van de harpies. De namiddag genoten de halflings van de liederen en verhalen van hun nieuwe vriend. Af en toe zagen jullie in de verte handelsschepen en dergelijke aan de horizon voorbij varen, maar de aandacht van [[Characters/Metatron and The Meta Band/Metatron]], [[Characters/Sanni]], [[Characters/Manni]] & [[Characters/Tu’aven]] ging natuurlijk vooral naar de cove waar het wrak en hun vrienden zich bevonden.

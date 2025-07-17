@@ -2,6 +2,7 @@
 {"publish":true,"title":"Suncaller","description":"Former chief of Lizardfolk tribe","created":"2025-07-05","modified":"2025-07-16T20:41:12.151+02:00","cssclasses":""}
 ---
 
+
 # Suncaller
 
 ## Character summary

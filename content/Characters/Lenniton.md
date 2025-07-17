@@ -2,6 +2,7 @@
 {"publish":true,"title":"Lenniton","created":"2025-07-07","modified":"2025-07-16T20:41:12.183+02:00","cssclasses":""}
 ---
 
+
 # Lenniton
 
 ## Character summary
