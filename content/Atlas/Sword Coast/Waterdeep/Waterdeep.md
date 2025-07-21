@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Waterdeep","created":"2025-07-15","modified":"2025-07-20T15:40:10.134+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Waterdeep","created":"2025-07-15","modified":"2025-07-21T12:15:19.006+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Waterdeep
@@ -11,7 +11,7 @@
 ## People
 | File                                                                       | Faction                                                                       | Description                                      |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
-| [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li><ul><li><ul><li>Harpers</li></ul></li></ul></li></ul>                 | Harper leadership                                |
+| [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>[[Factions/Harpers.md\\|Harpers]]</li></ul>                   | Harper leadership                                |
 | [[Characters/Lord Neverember\|Lord Neverember]]                 | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
 | [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Waterdeep lord                                   |
 

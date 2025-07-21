@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-20T15:41:34.119+02:00","published":"2025-07-14","cssclasses":""}
+{"publish":true,"title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-21T12:14:17.126+02:00","published":"2025-07-14","cssclasses":""}
 ---
 
 # Castle Naerytar
@@ -8,6 +8,7 @@
 | File                                                                           | Description                                   |
 | ------------------------------------------------------------------------------ | --------------------------------------------- |
 | [[Characters/Cult of the Dragon guards\|Cult of the Dragon guards]] | \-                                            |
+| [[Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                                            |
 | [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar                  |
 | [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]]           | Red wizard werkt samen met Cult of the Dragon |
 | [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]]             | Chief of Bullywug tribe                       |

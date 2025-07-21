@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Carnath Roadhouse","created":"2025-07-02","modified":"2025-07-20T15:38:40.751+02:00","published":"2025-07-02","cssclasses":""}
+{"publish":true,"title":"Carnath Roadhouse","created":"2025-07-02","modified":"2025-07-21T12:15:24.453+02:00","published":"2025-07-02","cssclasses":""}
 ---
 
 # Carnath Roadhouse

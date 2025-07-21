@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Eye Know","created":"2025-03-02","modified":"2025-07-16T10:45:38.552+02:00","published":"2025-03-02","cssclasses":""}
+{"publish":true,"aliases":"B o g ' s S o n g","title":"Eye Know","created":"2025-03-02","modified":"2025-07-21T12:19:18.597+02:00","published":"2025-03-02","cssclasses":""}
 ---
 
 

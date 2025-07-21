@@ -1,17 +1,17 @@
 ---
-{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-14T14:08:20.328+02:00","modified":"2025-07-16T10:45:38.595+02:00","published":"2025-07-16T10:45:38.595+02:00","cssclasses":""}
+{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-14T14:08:20.328+02:00","modified":"2025-07-21T12:19:04.880+02:00","published":"2025-07-21T12:19:04.880+02:00","cssclasses":""}
 ---
 
 # Character Summary
 - Location: het laatst gezien in Mere of Dead Men varend richting de zee.
 - Half-orc
-- Leider van de [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]. 
-- Lid van de [[Factions/Cult of the Dragon\|Cult of the Dragon]]
-- Heeft een hekel aan [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]] die hij kent als voormalig lid van de [[Factions/Cult of the Dragon\|Cult of the Dragon]] en uit hun jeugd. Kijkt op Smoggie neer en neemt hem niet serieus
+- Leider van de [[Atlas/Sword Coast/Carnath Roadhouse]]. 
+- Lid van de [[Factions/Cult of the Dragon]]
+- Heeft een hekel aan [[Characters/Metatron and The Meta Band/SmogEater]] die hij kent als voormalig lid van de [[Factions/Cult of the Dragon]] en uit hun jeugd. Kijkt op Smoggie neer en neemt hem niet serieus
 ## Featured
-- [[Adventures/006 - Windowlicker\|006 - Windowlicker]]
-- [[/content/Adventures/005 - Eye Know (Bog Luck's Song)\|005 - Eye Know (Bog Luck's Song)]]
-- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
+- [[Adventures/006 - Windowlicker]]
+- [[Adventures/005 - Eye Know]]
+- [[Adventures/004 - Roadhouse Blues]]
 
 ## Mentions
 

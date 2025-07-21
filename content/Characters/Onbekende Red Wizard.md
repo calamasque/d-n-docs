@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Onbekende Red Wizard","description":"Red wizard werkt samen met Cult of the Dragon","created":"2025-06-30","modified":"2025-07-16T10:45:38.631+02:00","published":"2025-06-30","cssclasses":""}
+{"publish":true,"title":"Onbekende Red Wizard","description":"Red wizard werkt samen met Cult of the Dragon","created":"2025-06-30","modified":"2025-07-21T12:29:51.177+02:00","published":"2025-06-30","cssclasses":""}
 ---
 
 # Onbekende Red Wizard
@@ -8,18 +8,18 @@
 * 
 
 ## Featured
-- [[Adventures/008 - Tightrope\|008 - Tightrope]]
+- [[Adventures/008 - Tightrope]]
 
 
 ## Log
 * 
 Details:
-- Een [[Factions/Red Wizards of Thay\|Red Wizards of Thay]] 
-- Werkt samen met de [[Factions/Cult of the Dragon\|Cult of the Dragon]]
-- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]]. 
+- Een [[Factions/Red Wizards of Thay]] 
+- Werkt samen met de [[Factions/Cult of the Dragon]]
+- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]. 
 
 Brieven:
-- "Beste [[Characters/Rath Modar\|Rath Modar]], de gesprekken met [[Characters/Rezmir\|Rezmir]] lopen goed."
+- "Beste [[Characters/Rath Modar]], de gesprekken met [[Characters/Rezmir]] lopen goed."
 
 Spellbook:
 - Level 1:  Fog cloud, Magic missile, Thunderwave
@@ -27,4 +27,4 @@ Spellbook:
 - Level 3:  Counterspell, Dispel magic, Fireball
 
 Gebeurtenissen:
-* [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]] werd tijdens [[Adventures/008 - Tightrope\|008 - Tightrope]] aangevallen door [[Characters/Metatron and The Meta Band/Dr. Egbert\|Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.
+* [[Characters/Onbekende Red Wizard]] werd tijdens [[Adventures/008 - Tightrope]] aangevallen door [[Characters/Metatron and The Meta Band/Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.

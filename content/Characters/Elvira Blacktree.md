@@ -1,15 +1,15 @@
 ---
-{"publish":true,"title":"Elvira Blacktree","created":"2025-07-14T14:08:47.597+02:00","modified":"2025-07-16T10:45:38.605+02:00","published":"2025-07-16T10:45:38.605+02:00","cssclasses":""}
+{"publish":true,"title":"Elvira Blacktree","created":"2025-07-14T14:08:47.597+02:00","modified":"2025-07-21T12:24:03.834+02:00","published":"2025-07-21T12:24:03.834+02:00","cssclasses":""}
 ---
 
 ## Character Summary
-Elvira Blacktree was een half-elf ranger in dienst van de [[Factions/Harpers\|Harpers]]. Opvallend kenmerk aan haar was dat haar rechteroor niet in een punt liep (litteken). Gedood door [[Characters/Bog Luck\|Bog Luck]] nadat hij haar gevangen nam en martelde. Haar lichaam is achtergelaten in de bosjes op zo'n 600-900ft ten oosten van [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]].
+Elvira Blacktree was een half-elf ranger in dienst van de [[Factions/Harpers]]. Opvallend kenmerk aan haar was dat haar rechteroor niet in een punt liep (litteken). Gedood door [[Characters/Bog Luck]] nadat hij haar gevangen nam en martelde. Haar lichaam is achtergelaten in de bosjes op zo'n 600-900ft ten oosten van [[Atlas/Sword Coast/Carnath Roadhouse]].
 
 ## Featured
 
 ## Mentions
-- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+- [[Adventures/004 - Roadhouse Blues]]
+- [[Adventures/003 - Deep Water]]
 
 ## Verhaal
-2 weken voordat [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] [[Agrip'Ah\|Agrip'Ah]] en [[Characters/Metatron and The Meta Band/Metatron\|Metatron]] ontmoette in [[Atlas/Sword Coast/Waterdeep/Waterdeep\|Waterdeep]] gaf zij Elvira de opdracht een koets met huurlingen te paard te volgen in de richting van [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]. Sindsdien had Remallia niets meer vernomen van Elvira. Zij vroeg daarom [[Factions/The Meta Band\|The Meta Band]] of zij uit wilden kijken naar Elvira op hun reis om contact te maken of uit te zoek wat haar lot was.
+2 weken voordat [[Characters/Lady Remallia Haventree]] [[Agrip'Ah]] en [[Characters/Metatron and The Meta Band/Metatron]] ontmoette in [[Atlas/Sword Coast/Waterdeep/Waterdeep]] gaf zij Elvira de opdracht een koets met huurlingen te paard te volgen in de richting van [[Atlas/Sword Coast/Carnath Roadhouse]]. Sindsdien had Remallia niets meer vernomen van Elvira. Zij vroeg daarom [[Factions/The Meta Band]] of zij uit wilden kijken naar Elvira op hun reis om contact te maken of uit te zoek wat haar lot was.
