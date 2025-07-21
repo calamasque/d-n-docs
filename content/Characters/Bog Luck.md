@@ -34,7 +34,7 @@ tags:
 - Lid van de [[Cult of the Dragon]]
 - Heeft een hekel aan [[SmogEater]] die hij kent als voormalig lid van de [[Cult of the Dragon]] en uit hun jeugd. Kijkt op Smoggie neer en neemt hem niet serieus
 ## Featured
-- [[006 - Windowlicker]]
+- [[006 - Short Skirmish - Long Jacket]]
 - [[005 - Eye Know]]
 - [[004 - Roadhouse Blues]]
 

@@ -8,16 +8,14 @@ world:
 campaign:
   - "[[Hoard of the Dragon Queen]]"
 type: monster
+monster_type: undead
 encounter: 
 tags: 
 image: 
 date: 2025-07-16
 last_modified: 2025-07-14
 ---
-
-# Specter
-
-## Statblock
+# Stat Block
 ```statblock
 monster: Specter 
 ```

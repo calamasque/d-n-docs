@@ -24,8 +24,10 @@ NPCs:
   - "[[Manni]]"
   - "[[Sanni]]"
   - "[[Tu’aven]]"
+  - "[[Harpies]]"
 mentions: 
-encounters: "[[Harpies]]"
+combats:
+  - "[[Harpies]]"
 game_date: 1489 DR
 date: 2024-10-30
 last_modified: 2025-07-15

@@ -1,28 +1,27 @@
 ---
-title: Dragonwing(s)
+title: Dragonclaw(s)
 publish: true
-aliases:
+aliases: 
 description: 
 world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
+type: NPC
 deceased: 
 family: 
 faction:
-  - "[[Cult of the Dragon]]"
+  - "[[/content/Factions/Cult of the Dragon|Cult of the Dragon]]"
 race: 
 gender: 
 class: 
 shop: 
-location: 
+location:
   - "[[Castle Naerytar]]"
 origin: 
-game_date: 1489 DR
 image: 
-date: 2025-07-07
-last_modified: 2025-07-06
-tags: 
+date: 2025-07-21
+last_modified: 2025-07-21
+tags:
 ---
+# Dragonclaws

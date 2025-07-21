@@ -1,5 +1,5 @@
 ---
-title: Titel nog te bepalen
+title: The Crazy Frog Song
 publish: true
 aliases: 
 description: 
@@ -11,7 +11,7 @@ campaign:
 session_num: 9
 session_date: 2025-06-25
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -23,11 +23,14 @@ NPCs:
   - "[[Pharblex Spattergoo]]"
   - "[[Rezmir]]"
 mentions: 
-encounters: 
+combats:
+  - "[[Pharblex Spattergoo]]"
+  - "[[Bullywug tribe]]"
+  - "[[Cult of the Dragon guard]]"
 game_date: 1489 DR
 date: 2025-06-25
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 ## Session Summary
 

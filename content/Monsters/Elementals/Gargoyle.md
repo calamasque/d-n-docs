@@ -1,5 +1,5 @@
 ---
-title: Crocodile
+title: Gargoyle
 publish: true
 aliases: 
 description: 
@@ -8,13 +8,15 @@ world:
 campaign:
   - "[[Hoard of the Dragon Queen]]"
 type: monster
+monster_type: elemental
 encounter: 
 tags: 
 image: 
-date: 2025-07-16
-last_modified: 2025-07-14
+date: 2025-07-21
+last_modified: 2025-07-21
 ---
-# Crocodile
+# Stat Block
 ```statblock
-monster: Crocodile 
+monster: Gargoyle
 ```
+

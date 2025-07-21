@@ -31,7 +31,7 @@ tags:
 | [[/content/Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
 | [[/content/Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
 | [[/content/Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                           | \-       |
-| [[/content/Characters/Cult of the Dragon guards\|Cult of the Dragon guards]] | \-                           | \-       |
+| [[Cult of the Dragon cultist(s)\|Cult of the Dragon guards]] | \-                           | \-       |
 | [[/content/Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
 
 

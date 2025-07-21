@@ -1,5 +1,5 @@
 ---
-title: Windowlicker
+title: Short Skirmish - Long Jacket
 publish: true
 aliases: 
 description: 
@@ -29,13 +29,13 @@ mentions:
   - "[[Rezmir|Rezmir]]"
   - "[[Voaraghammanthar|Voaraghammanthar]]"
   - "[[Suncaller|Suncaller]]"
-encounters:
+combats:
   - "[[Crocodile|Crocodile]]"
   - "[[Specter|Specter]]"
 game_date: 1489 DR
 date: 2025-03-23
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 Aangekomen bij [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[/content/Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[Metatron|Metatron]] de wachter van [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 

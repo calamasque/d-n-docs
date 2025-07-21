@@ -1,6 +1,6 @@
 ---
 title: Lizardfolk tribe
-publish: false
+publish: true
 aliases: 
 description: 
 type: faction
@@ -9,8 +9,8 @@ faction_type:
 alignment: 
 symbol:
 goals:
-scope: [[content/Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men|Mere of Dead Men]]
-headquarters: [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] 
+scope: [[Mere of Dead Men]]
+headquarters: [[Castle Naerytar]] 
 image: 
 date: 2025-07-16
 last_modified: 2025-07-16
@@ -30,7 +30,7 @@ SORT file.name DESC
 ```
 ## Locaties:
 - [[Mere of Dead Men]] (vrouwen en kinderen)
-- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]] (mannen)
+- [[Castle Naerytar]] (mannen)
 ## Allies:
 - [[Dralmorrer Borngray]]
 - [[The Meta Band]]

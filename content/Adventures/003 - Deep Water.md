@@ -34,11 +34,11 @@ mentions:
   - "[[Elvira Blacktree]]"
   - "[[Lord Ulbrinter]]"
   - "[[Lord Neverember]]"
-encounters: 
+combats: []
 game_date: 1489 DR
 date: 2024-12-08
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 Onze helden arriveren met de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] in de haven van de indrukwekkende stad [[Waterdeep]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 

@@ -2,7 +2,7 @@
 title: Tightrope
 publish: true
 aliases: 
-description: 
+description: Telescopes are hard to find, but easy to break. Dr. Egbert fights The Red Wizard. A dragon(born) falls while an imaginary dragon saves the day. We descend into the dungeons for a frog fight.
 type: session
 world:
   - "[[Forgotten Realms]]"
@@ -11,8 +11,8 @@ campaign:
 session_num: 8
 session_date: 2025-05-18
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[Castle Naerytar]]"
+  - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
   - "[[Metatron|Metatron]]"
@@ -25,17 +25,15 @@ NPCs:
   - "[[Dralmorrer Borngray|Dralmorrer Borngray]]"
   - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
 mentions: 
-encounters:
+combats:
+  - "[[Gargoyle|Gargoyle]]"
+  - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
   - "[[Giant frog|Giant frog]]"
   - "[[Bullywug tribe|Bullywug tribe]]"
-  - "[[Gargoyle|Gargoyle]]"
-  - "[[Pharblex Spattergoo|Pharblex Spattergoo]]"
-  - "[[Onbekende Red Wizard|Onbekende Red Wizard]]"
-  - "[[Cult of the Dragon guard|Cult of the Dragon guard]]"
 game_date: 1489 DR
 date: 2025-05-18
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 
 Na een kort gevecht weten onze helden de 4 gargoyles te verslaan. 

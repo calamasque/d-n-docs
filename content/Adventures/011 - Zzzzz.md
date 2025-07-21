@@ -20,7 +20,7 @@ PCs:
   - "[[Waldo]]"
 NPCs: 
 mentions: 
-encounters: 
+combats: 
 game_date: 1489 DR
 date: 2025-07-15
 last_modified: 2025-07-15

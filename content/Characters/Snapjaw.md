@@ -34,8 +34,8 @@ tags:
 * 
 
 ## Featured
-- [[010 - Battle]]
-- [[006 - Windowlicker]]
+- [[010 - I Would Die 4 You]]
+- [[006 - Short Skirmish - Long Jacket]]
 
 
 ## Log
@@ -45,4 +45,4 @@ Details:
 - Leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[Castle Naerytar]]
 
 Avonturen:
-- [[006 - Windowlicker]]
+- [[006 - Short Skirmish - Long Jacket]]

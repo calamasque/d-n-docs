@@ -34,8 +34,8 @@ tags:
 - Blond haar, ooglapje.
 - draagt armor
 # Featured
-- [[010 - Battle]]
-- [[008 - Tightrope]]
+- [[010 - I Would Die 4 You]]
+- [[008 - Smoggi Watch The Stars]]
 - [[007 - Gargoyle]]
 
 ## Gesprekken

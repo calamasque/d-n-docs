@@ -32,7 +32,7 @@ tags:
 * 
 
 ## Featured
-- [[008 - Tightrope]]
+- [[008 - Smoggi Watch The Stars]]
 
 
 ## Log
@@ -51,4 +51,4 @@ Spellbook:
 - Level 3:  Counterspell, Dispel magic, Fireball
 
 Gebeurtenissen:
-* [[Onbekende Red Wizard]] werd tijdens [[008 - Tightrope]] aangevallen door [[Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.
+* [[Onbekende Red Wizard]] werd tijdens [[008 - Smoggi Watch The Stars]] aangevallen door [[Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.

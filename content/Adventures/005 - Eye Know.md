@@ -11,7 +11,7 @@ campaign:
 session_num: 5
 session_date: 2025-03-02
 location:
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
+  - "[[Carnath Roadhouse]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -24,7 +24,8 @@ NPCs:
 mentions:
   - "[[Pharblex Spattergoo]]"
   - "[[Snapjaw]]"
-encounters:
+combats:
+  - "[[Bog Luck]]"
   - "[[Bullywug tribe]]"
 game_date: 1489 DR
 date: 2025-03-02

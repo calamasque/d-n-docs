@@ -1,5 +1,5 @@
 ---
-title: Cult of the Dragon guards
+title: Cult of the Dragon cultist(s)
 publish: true
 aliases:
   - Dragon Kneelers

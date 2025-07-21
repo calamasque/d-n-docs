@@ -26,7 +26,7 @@ NPCs:
   - "[[Tu’aven]]"
 mentions:
   - "[[Rezmir]]"
-encounters: 
+combats: 
 game_date: 1489 DR
 date: 2024-11-20
 last_modified: 2025-07-15

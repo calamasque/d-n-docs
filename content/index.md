@@ -1,8 +1,8 @@
 ---
-title: index
+title: Metatron - Faerûn Tour 1489
+sub_title: A true and accurate account of the adventures of Metatron and The Meta Band 
 publish: true
 ---
-Test.
 ## Adventures in dataviewJS
 ```dataviewjs
 for (let group of dv.pages('"content/Adventures"').where(p => p.type === "session").groupBy(c => c.campaign)) {
@@ -29,4 +29,3 @@ WHERE
 SORT session_num ASC
 ```
 
-The end.

@@ -11,7 +11,7 @@ campaign:
 session_num: 7
 session_date: 2025-04-15
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Metatron]]"
@@ -23,7 +23,7 @@ NPCs:
   - "[[Dralmorrer Borngray]]"
   - "[[Pharblex Spattergoo]]"
 mentions: 
-encounters:
+combats:
   - "[[Drake]]"
   - "[[Otyugh]]"
   - "[[Gargoyle]]"
@@ -45,7 +45,7 @@ Kleine binnenplaats:
 Afvaltoren:
 1 [[Otyugh]]
 
-Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]] met daarin het observatorium blijkt niet gesloten :) 
+Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[Castle Naerytar]] met daarin het observatorium blijkt niet gesloten :) 
 
 Begane grond:
 * Eetzaal.
@@ -62,4 +62,4 @@ Eerste verdieping:
 Trap: [[Szuszi]] en [[Metatron]] gaan voorop
 
 Bovenste verdieping:
-- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[gargoyle]]s. 
+- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[Gargoyle]]s. 

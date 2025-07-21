@@ -20,7 +20,7 @@ PCs:
   - "[[Waldo]]"
 NPCs: 
 mentions: 
-encounters: 
+combats: 
 game_date: 1489 DR
 date: <% tp.date.now("YYYY-MM-DD") %>
 last_modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>

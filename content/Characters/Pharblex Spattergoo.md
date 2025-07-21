@@ -46,9 +46,9 @@ tags:
 - Staff (taken by [[Metatron]])
 - Skull of Guts
 ## Featured
-- [[010 - Battle]]
+- [[010 - I Would Die 4 You]]
 - [[009 - Name this adventure]]
-- [[008 - Tightrope]]
+- [[008 - Smoggi Watch The Stars]]
 - [[007 - Gargoyle]]
 
 

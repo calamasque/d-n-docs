@@ -1,5 +1,5 @@
 ---
-title: Battle
+title: I Would Die 4 You
 publish: true
 aliases: 
 description: 
@@ -11,7 +11,7 @@ campaign:
 session_num: 10
 session_date: 2025-07-06
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[Castle Naerytar]]"
   - "[[Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
@@ -28,16 +28,17 @@ NPCs:
 mentions:
   - "[[Rezmir]]"
   - "[[Onbekende Red Wizard]]"
-encounters:
+combats:
   - "[[Pharblex Spattergoo]]"
   - "[[Dralmorrer Borngray]]"
-  - "[[Dragonclaws]]"
+  - "[[Drake]]"
+  - "[[Cult of the Dragon cultist(s)]]"
+  - "[[Dragonclaw(s)]]"
   - "[[Dragonwing(s)]]"
-  - "[[Cult of the Dragon guard]]"
 game_date: 1489 DR
 date: 2025-07-06
 last_modified: 2025-07-15
-tags: 
+tags:
 ---
 ## Session Summary
 
@@ -58,15 +59,15 @@ tags:
 	* Een andere cultist overwint zijn angst en doet [[Metatron]] 7 schade.
 	* Dat is het moment dat de andere cultists de [[Arms of Hadar]] beginnen te voelen en 3 van hen leggen direct het loodje. De rest van de cultists zijn verblind en 
 	* Pharblex zet het op een rennen weg van [[Metatron]] richting de deur en slaat daar [[Dr. Egbert]] in zijn gezicht die daarbij vergiftigd raakt en - erger nog - zijn concentratie verliest over de [[Arms of Hadar]].
-	* [[Dralmorrer Borngray]] en 2 [[Dragonclaws]] rennen richting [[Metatron]], de 2 angstige [[Dragonclaws]] rennen naar buiten.
+	* [[Dralmorrer Borngray]] en 2 [[Dragonclaw(s)]] rennen richting [[Metatron]], de 2 angstige [[Dragonclaw(s)]] rennen naar buiten.
 	* [[Szuszi]] en [[Metatron]] horen ondertussen van buiten geschreeuw om versterkingen. 
 	* 6 [[bullywugs]] verschijnen.
 * Ronde #2
 	* Het eerste wat ze zien is hoe [[Szuszi]] hun leider [[Pharblex Spattergoo]] van het leven beroofd. 
-	* Dit is voor [[Metatron]] het teken om zich met [[misty step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Pipes of Haunting]] te spelen. De [[bullywugs]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 cultists en 1 [[Dragonclaws]].
-	* [[Dr. Egbert]] gooit een fles met explosieven richting 1 van de [[Dragonclaws]] maar de pot land op de grond zonder te breken.
+	* Dit is voor [[Metatron]] het teken om zich met [[misty step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Pipes of Haunting]] te spelen. De [[bullywugs]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 cultists en 1 [[Dragonclaw(s)]].
+	* [[Dr. Egbert]] gooit een fles met explosieven richting 1 van de [[Dragonclaw(s)]] maar de pot land op de grond zonder te breken.
 	* [[SmogEater]] doet wat hij het beste doet en dat is hakken: 2 cultists daardoor afscheid van deze wereld.
-	* 1 [[Dragonclaws]] rent door de deur richting [[Agrip’Ah]] maar wordt door zowel [[Dr. Egbert]] als [[Szuszi]] geraakt en ziet het witte licht al maar weet nog net [[Agrip’Ah]] te raken. Hij wordt gevolgd door een vluchtende cultist.
+	* 1 [[Dragonclaw(s)]] rent door de deur richting [[Agrip’Ah]] maar wordt door zowel [[Dr. Egbert]] als [[Szuszi]] geraakt en ziet het witte licht al maar weet nog net [[Agrip’Ah]] te raken. Hij wordt gevolgd door een vluchtende cultist.
 	* 2 [[Drake]]s rennen op [[Metatron]] af en hakken op hem in, ondanks dat [[Metatron]] [[silvery barbs]] cast. Zelf schiet hij daar niets mee op maar [[SmogEater]] heeft straks een advantage.
 	* [[Agrip’Ah]] probeert van alles maar niets lukt.
 	* [[Dralmorrer Borngray]] stormt binnen met versterkingen: 
@@ -76,7 +77,7 @@ tags:
 	* [[Szuszi]] maakt werk van de 2 cultist bij hem in de kamer en blijft lekker hangen in de schaduw.
 	* [[Metatron]] heeft publiek dus speelt "With a little help from my friends" op zijn [[Pipes of Haunting]] en waardoor 4 van de 5  [[Dragonwing(s)]] zodanig onder de indruk zijn dat zijn frightened worden.
 	* [[Dr. Egbert]] cast wederom [[Arms of Hadar]] waardoor [[Metatron]] en zijn publiek - waaronder [[Dralmorrer Borngray]] in de duisternis verdwijnen.
-	* [[SmogEater]] hakt lekker door en weet 1 [[Dragonclaws]] en 2 [[cultists]] naar het hiernamaals te sturen.
+	* [[SmogEater]] hakt lekker door en weet 1 [[Dragonclaw(s)]] en 2 [[cultists]] naar het hiernamaals te sturen.
 	* De overgebleven [[cultists]]  lopen wat rond. De 2 [[Drake]] lopen schade op door de [[Arms of Hadar]], 1 doet [[Metatron]] schade met zijn staart.
 	* [[Agrip’Ah]] cast [[mindsliver]] en 2 cultist krijgen schade en een duw richting [[Arms of Hadar]] waardoor 1 er in verdwijnt.
 	* [[Dralmorrer Borngray]] loopt naar buiten buiten het bereik van de [[Arms of Hadar]] en zegt iets in het Elvish. Is het een spreuk? [[Metatron]] snapt er niets van.
@@ -90,7 +91,7 @@ tags:
 	* [[Dr. Egbert]] laat de [[Arms of Hadar]] verdwijnen en raakt beide [[Drake]]s met een [[agonizing blast]]. 
 	* [[SmogEater]] snelt [[Metatron]] te hulp en geeft hem een healing potion waardoor hij 13 punten healt. Daarna hakt hij ook nog even 1 [[Drake]] in mootjes.
 	* Vervolgens worden de overgebleven [[Drake]] en 2 [[cultists]] [[SmogEater]] aan maar zonder veel succes.
-	* [[Agrip’Ah]] cast [[hypnotic pattern]] en weet zo 2 [[Dragonwing(s)]] en 1 [[Dragonclaws]] vast te houden
+	* [[Agrip’Ah]] cast [[hypnotic pattern]] en weet zo 2 [[Dragonwing(s)]] en 1 [[Dragonclaw(s)]] vast te houden
 	* [[Dralmorrer Borngray]] hakt laf op [[Metatron]] in terwijl hij op de grond ligt. Ondanks [[Cutting words]] incasseert hij 12 damage en is op een haar na dood.
 	* De [[Dragonwing(s)]] vliegen de lucht in waarbij [[Metatron]] liggend op de grond nog 1 van hen te raken en zo 10 schade doet.  [[Dr. Egbert]] is het volgende slachtoffer en wordt door 3 [[Dragonwing(s)]] omringt. Hij incasseert 16 slashing damage en valt dood neer.
 * Ronde #5:
