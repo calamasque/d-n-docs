@@ -12,7 +12,7 @@ type:
 deceased: 
 family: 
 faction: 
-race: [[dwarf]]
+race: "[[dwarf]]"
 gender: male
 class: 
 shop: 

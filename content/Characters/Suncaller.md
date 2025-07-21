@@ -14,7 +14,7 @@ family:
   - "[[Lizardfolk tribe]]"
 faction:
   - "[[Lizardfolk tribe]]"
-race: "[[lizardfolk]""
+race: "[[lizardfolk]]"
 gender: male
 class: 
 shop: 
