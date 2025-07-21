@@ -1,15 +1,42 @@
 ---
-{"publish":true,"title":"Torn Broadleaf","description":"Smit in Waterdeep","created":"2025-07-05","modified":"2025-07-16T20:41:12.154+02:00","cssclasses":""}
+title: Torn Broadleaf
+publish: true
+aliases: 
+description: Smit in Waterdeep
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type:
+  - NPC
+deceased: 
+family: 
+faction: 
+race: [[dwarf]]
+gender: male
+class: 
+shop: 
+- "[[Torn Broadleaf's smidse]]"
+location: 
+origin: 
+game_date: 1489 DR
+image: 
+date: 2025-07-05
+last_modified: 2025-07-05
+tags: 
 ---
-
 # Torn Broadleaf
 
 ## Character summary
 * 
 
 ## Featured
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name))
+SORT file.name DESC
+```
 
 ## Log
 * 

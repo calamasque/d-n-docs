@@ -1,14 +1,31 @@
 ---
-{"publish":true,"title":"Sea of Swords","created":"2025-07-15","modified":"2025-07-16T00:23:14.551+02:00","cssclasses":""}
+title: Sea of Swords
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: place
+locationType: sea
+leaders: 
+image: 
+date: 2025-07-15
+last_modified: 2025-07-14
+tags: 
 ---
-
 # Sea of Swords
 ## Featured
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
-- [[Adventures/002 - The Ship Song\|002 - The Ship Song]]
-- [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]]
-
+```dataview
+list
+FROM "content/Adventures"
+WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
+SORT file.name DESC
+```
 ## People
-| File | Faction | Description |
-| ---- | ------- | ----------- |
-
+```dataview
+table faction as Faction, description as Description
+WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
+SORT file.name ASC
+```

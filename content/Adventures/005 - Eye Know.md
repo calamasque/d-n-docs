@@ -1,13 +1,42 @@
 ---
-{"publish":true,"title":"Eye Know","created":"2025-03-02","modified":"2025-07-16T20:41:11.966+02:00","cssclasses":""}
+title: Eye Know
+publish: true
+aliases:  Bog's Song
+description: 
+type: session
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 5
+session_date: 2025-03-02
+location:
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
+  - "[[Mere of Dead Men]]"
+PCs:
+  - "[[Dr. Egbert]]"
+  - "[[Metatron]]"
+  - "[[SmogEater]]"
+  - "[[Waldo]]"
+  - "[[Agrip’Ah]]"
+NPCs:
+  - "[[Bog Luck]]"
+mentions:
+  - "[[Pharblex Spattergoo]]"
+  - "[[Snapjaw]]"
+encounters:
+  - "[[Bullywug tribe]]"
+game_date: 1489 DR
+date: 2025-03-02
+last_modified: 2025-07-15
+tags: 
 ---
 
+[[Szuszi]] is out.
 
-[[Characters/Metatron and The Meta Band/Szuszi]] is out.
+Gevecht in de storage room waar [[Szuszi]] verdween.
 
-Gevecht in de storage room waar [[Characters/Metatron and The Meta Band/Szuszi]] verdween.
-
-Via de tunnel onder de opslagruimte van [[Atlas/Sword Coast/Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[Characters/Bog Luck]] de één-oog-orc. 
+Via de tunnel onder de opslagruimte van [[content/Atlas/Sword Coast/Carnath Roadhouse]] bereiken we het moeras. Hierbij worden we vrijwillig vergezeld door 1 van de wachters van Carnath Roadhouse en iets minder vrijwillig door [[Bog Luck]] de één-oog-orc. 
 
 Bullywug encounter in Mere
 

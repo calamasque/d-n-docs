@@ -1,13 +1,40 @@
 ---
-{"publish":true,"title":"Titel nog te bepalen","created":"2025-06-25","modified":"2025-07-16T20:41:11.968+02:00","cssclasses":""}
+title: Titel nog te bepalen
+publish: true
+aliases: 
+description: 
+type: session
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+session_num: 9
+session_date: 2025-06-25
+location:
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]]"
+  - "[[Mere of Dead Men]]"
+PCs:
+  - "[[Dr. Egbert]]"
+  - "[[Metatron]]"
+  - "[[SmogEater]]"
+  - "[[Szuszi]]"
+  - "[[Agrip’Ah]]"
+NPCs:
+  - "[[Pharblex Spattergoo]]"
+  - "[[Rezmir]]"
+mentions: 
+encounters: 
+game_date: 1489 DR
+date: 2025-06-25
+last_modified: 2025-07-15
+tags: 
 ---
-
 ## Session Summary
 
 ## Recap of last session
 
 ## Log
-Een poging om [[Characters/Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [[Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -42,5 +69,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Characters/Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir]]
 

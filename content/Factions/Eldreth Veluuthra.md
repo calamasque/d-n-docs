@@ -1,7 +1,25 @@
 ---
-{"publish":true,"title":"Eldreth Veluuthra","created":"2025-07-15","modified":"2025-07-16T20:41:11.969+02:00","cssclasses":""}
+title: Eldreth Veluuthra
+publish: true
+aliases: 
+description: 
+type: faction
+faction_type: 	
+	- cultureel
+	- geheim
+	- ideologisch
+	- militair
+alignment: evil
+symbol:
+goals:
+- "alle mensen in Faerûn uitroeien"
+scope:
+headquarters:
+image: 
+date: 2025-07-15
+last_modified: 2025-07-15
+tags: 
 ---
-
 # Eldreth Veluuthra
 
 # Eldreth Veluuthra
@@ -14,5 +32,5 @@ Objective: kill/remove all humans from Faerun.
 ## Members
 | File                                                               | description                  | deceased |
 | ------------------------------------------------------------------ | ---------------------------- | -------- |
-| [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] | Caretaker of Castle Naerytar | \-       |
+| [[/content/Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] | Caretaker of Castle Naerytar | \-       |
 

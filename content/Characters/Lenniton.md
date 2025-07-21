@@ -1,16 +1,42 @@
 ---
-{"publish":true,"title":"Lenniton","created":"2025-07-07","modified":"2025-07-16T20:41:12.183+02:00","cssclasses":""}
+title: Lenniton
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: NPC
+deceased: 
+family: 
+faction: 
+race: "[[dragon]]"
+gender: 
+class: 
+shop: 
+location: 
+origin: 
+game_date: 1489 DR
+image: 
+date: 2025-07-07
+last_modified: 2025-07-06
+tags: 
 ---
-
 # Lenniton
 
 ## Character summary
 * 
 
 ## Featured
-Dataview: custom view not found for '/Scripts/featured.js' or '/Scripts/featured/view.js'.
+```dataviewjs dv.view("/Scripts/featured"); ```
 ## Mentions
-
+```dataview
+LIST
+FROM "content/Adventures"
+WHERE contains(mentions, this.file.name) or contains(mentions, link(this.file.name))
+SORT file.name DESC
+```
 
 ## Log
 * Blauwe draak die bij [[Greennest]] was.

@@ -1,5 +1,18 @@
 ---
-{"publish":true,"title":"Sword Coast","created":"2025-07-16","modified":"2025-07-16T09:35:11.170+02:00","cssclasses":""}
+title: Sword Coast
+publish: true
+aliases: 
+description: 
+world:
+  - "[[Forgotten Realms]]"
+campaign:
+  - "[[Hoard of the Dragon Queen]]"
+type: place
+locationType: region
+leaders: 
+image: 
+date: 2025-07-16
+last_modified: 2025-07-16
+tags:
 ---
-
 # Sword Coast
