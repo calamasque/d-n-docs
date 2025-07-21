@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Battle","created":"2025-07-06","modified":"2025-07-16T20:41:11.968+02:00","cssclasses":""}
+{"publish":true,"title":"Battle","created":"2025-07-06","modified":"2025-07-16T10:45:38.587+02:00","published":"2025-07-06","cssclasses":""}
 ---
-
 
 ## Session Summary
 
@@ -27,7 +26,7 @@
 	* 6 [[bullywugs]] verschijnen.
 * Ronde #2
 	* Het eerste wat ze zien is hoe [[Characters/Metatron and The Meta Band/Szuszi]] hun leider [[Characters/Pharblex Spattergoo]] van het leven beroofd. 
-	* Dit is voor [[Characters/Metatron and The Meta Band/Metatron]] het teken om zich met [[misty step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Items/Pipes of Haunting]] te spelen. De [[bullywugs]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 cultists en 1 [[Dragonclaws]].
+	* Dit is voor [[Characters/Metatron and The Meta Band/Metatron]] het teken om zich met [[DND.SRD.Wiki-main/Spells/Misty Step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Items/Pipes of Haunting]] te spelen. De [[bullywugs]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 cultists en 1 [[Dragonclaws]].
 	* [[Characters/Metatron and The Meta Band/Dr. Egbert]] gooit een fles met explosieven richting 1 van de [[Dragonclaws]] maar de pot land op de grond zonder te breken.
 	* [[Characters/Metatron and The Meta Band/SmogEater]] doet wat hij het beste doet en dat is hakken: 2 cultists daardoor afscheid van deze wereld.
 	* 1 [[Dragonclaws]] rent door de deur richting [[Characters/Metatron and The Meta Band/Agrip’Ah]] maar wordt door zowel [[Characters/Metatron and The Meta Band/Dr. Egbert]] als [[Characters/Metatron and The Meta Band/Szuszi]] geraakt en ziet het witte licht al maar weet nog net [[Characters/Metatron and The Meta Band/Agrip’Ah]] te raken. Hij wordt gevolgd door een vluchtende cultist.
@@ -48,13 +47,13 @@
 	* De [[Characters/Dragonwing(s)]] vliegen (!) vervolgens de lucht in en bewegen buiten bereik van de [[Arms of Hadar]].
 	* [[Characters/Metatron and The Meta Band/SmogEater]] wordt ook nog aangevallen maar brengt het er zonder schade vanaf. 
 * Ronde #4:
-	* [[Characters/Metatron and The Meta Band/SmogEater]] hoort ondertussen een groep [[Lizardfolk]] onze kant op komen - al [[bullywugs]] dodend. Afgaand op het geschreeuw komen ze ons te hulp.
+	* [[Characters/Metatron and The Meta Band/SmogEater]] hoort ondertussen een groep [[DND.SRD.Wiki-main/Monsters/Lizardfolk]] onze kant op komen - al [[bullywugs]] dodend. Afgaand op het geschreeuw komen ze ons te hulp.
 	* [[Characters/Metatron and The Meta Band/Szuszi]] schiet op de 2 voorste [[Characters/Dragonwing(s)]]af en valt aan met zijn dolk. 1 [[Characters/Dragonwing(s)]] stort ter aarde.
 	* [[Characters/Metatron and The Meta Band/Metatron]] schreeuwt het uit en failt 2 Death Saves.
 	* [[Characters/Metatron and The Meta Band/Dr. Egbert]] laat de [[Arms of Hadar]] verdwijnen en raakt beide [[Monsters/Drake]]s met een [[agonizing blast]]. 
 	* [[Characters/Metatron and The Meta Band/SmogEater]] snelt [[Characters/Metatron and The Meta Band/Metatron]] te hulp en geeft hem een healing potion waardoor hij 13 punten healt. Daarna hakt hij ook nog even 1 [[Monsters/Drake]] in mootjes.
 	* Vervolgens worden de overgebleven [[Monsters/Drake]] en 2 [[cultists]] [[Characters/Metatron and The Meta Band/SmogEater]] aan maar zonder veel succes.
-	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] cast [[hypnotic pattern]] en weet zo 2 [[Characters/Dragonwing(s)]] en 1 [[Dragonclaws]] vast te houden
+	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] cast [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern]] en weet zo 2 [[Characters/Dragonwing(s)]] en 1 [[Dragonclaws]] vast te houden
 	* [[Characters/Dralmorrer Borngray]] hakt laf op [[Characters/Metatron and The Meta Band/Metatron]] in terwijl hij op de grond ligt. Ondanks [[Cutting words]] incasseert hij 12 damage en is op een haar na dood.
 	* De [[Characters/Dragonwing(s)]] vliegen de lucht in waarbij [[Characters/Metatron and The Meta Band/Metatron]] liggend op de grond nog 1 van hen te raken en zo 10 schade doet.  [[Characters/Metatron and The Meta Band/Dr. Egbert]] is het volgende slachtoffer en wordt door 3 [[Characters/Dragonwing(s)]] omringt. Hij incasseert 16 slashing damage en valt dood neer.
 * Ronde #5:
@@ -63,7 +62,7 @@
 	* [[Characters/Metatron and The Meta Band/Dr. Egbert]] lukt het om een Death Save te halen.
 	* [[Characters/Metatron and The Meta Band/SmogEater]] gaat weer verder met hakken en dood 2 cultists. 
 	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] wekt [[Characters/Metatron and The Meta Band/Dr. Egbert]] weer tot leven met een health potion van in totaal 16 en probeert [[blindness]] op [[Characters/Dralmorrer Borngray]] te casten maar dat laatste mislukt.
-	* [[Characters/Dralmorrer Borngray]] reageert direct door [[magic missile]] op [[Characters/Metatron and The Meta Band/Agrip’Ah]] af te vuren maar dit weet [[Characters/Metatron and The Meta Band/Metatron]] te voorkomen met een [[counterspell]].
+	* [[Characters/Dralmorrer Borngray]] reageert direct door [[DND.SRD.Wiki-main/Spells/Magic Missile]] op [[Characters/Metatron and The Meta Band/Agrip’Ah]] af te vuren maar dit weet [[Characters/Metatron and The Meta Band/Metatron]] te voorkomen met een [[DND.SRD.Wiki-main/Spells/Counterspell]].
 	* 2 [[Characters/Dragonwing(s)]] vallen [[Characters/Metatron and The Meta Band/Agrip’Ah]] aan die flinke schade oploopt maar het wel overleefd.
 	* 1 [[Characters/Dragonwing(s)]] valt [[Characters/Metatron and The Meta Band/Szuszi]] aan zonder succes. [[Characters/Metatron and The Meta Band/Szuszi]] reageert wel en doet hem schade.
 	* 1 [[cultists]] valt [[Characters/Metatron and The Meta Band/Dr. Egbert]] aan maar gaat gigantisch op zijn bek en is prone.
@@ -72,7 +71,7 @@
 	* [[Characters/Metatron and The Meta Band/Metatron]] cast [[dissonant whsipers]] op [[Characters/Dralmorrer Borngray]] die schade oploopt en op de vlucht slaat. [[Characters/Metatron and The Meta Band/SmogEater]] en [[Characters/Metatron and The Meta Band/Metatron]] doen nog een poging om hem te raken maar ze slaan beiden mis.
 	* [[Characters/Metatron and The Meta Band/Dr. Egbert]] neemt zijn Dreadform aan. 
 	* [[Characters/Metatron and The Meta Band/SmogEater]] hakt verder in op de [[Monsters/Drake]]
-	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] doet schade aan een [[Characters/Dragonwing(s)]] met [[shocking grasp]]
+	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] doet schade aan een [[Characters/Dragonwing(s)]] met [[DND.SRD.Wiki-main/Spells/Shocking Grasp]]
 	* [[Characters/Dralmorrer Borngray]] heeft zijn moed weer bij elkaar geraapt en verschijnt weer ten tonele en valt [[Characters/Metatron and The Meta Band/Metatron]] onsuccesvol aan.
 	* De [[Characters/Dragonwing(s)]]s vallen ook weer aan:
 		* [[Characters/Metatron and The Meta Band/Dr. Egbert]] wordt aangevallen door een [[Characters/Dragonwing(s)]] en krijgt klappen.
@@ -86,7 +85,7 @@
 	* [[Characters/Metatron and The Meta Band/SmogEater]] valt [[Characters/Dralmorrer Borngray]] aan en doet schade.
 	* [[Factions/Lizardfolk tribe]] valt aan en dood 4 [[cultists]].
 	* [[Characters/Metatron and The Meta Band/Agrip’Ah]] gebruikt zijn [[psionic force]] op de laatste [[Characters/Dragonwing(s)]] die hij zo van zich af duwt en vervolgens met een poisoned dart raakt.
-	* [[Characters/Dralmorrer Borngray]] begint [[Thunderwave]] te casten maar [[Characters/Metatron and The Meta Band/Metatron]] gebruikt [[counterspell]] waardoor er niets gebeurt.
+	* [[Characters/Dralmorrer Borngray]] begint [[DND.SRD.Wiki-main/Spells/Thunderwave]] te casten maar [[Characters/Metatron and The Meta Band/Metatron]] gebruikt [[DND.SRD.Wiki-main/Spells/Counterspell]] waardoor er niets gebeurt.
 	* De laatst overgebleven [[Characters/Dragonwing(s)]] valt [[Characters/Metatron and The Meta Band/Szuszi]] aan.
 * Ronde #8: 
 	* [[Characters/Metatron and The Meta Band/Szuszi]] dood de laatste [[Characters/Dragonwing(s)]]
@@ -101,7 +100,7 @@ END BATTLE
 
 * [[Characters/Snapjaw]] treedt binnen.
 * [[Characters/Metatron and The Meta Band/Waldo]] is gisteravond naar [[Characters/Snapjaw]] gegaan en heeft hem geïnformeerd over het teken ("de draak"). [[Characters/Rezmir]] heeft overal wachters neergezet. Daarna is [[Characters/Rezmir]] met de [[Characters/Onbekende Red Wizard]] de grot in gegaan. Daarna hebben de [[Factions/Lizardfolk tribe]] de [[Factions/Bullywug tribe]] aangevallen. Daarna heeft [[Characters/Dralmorrer Borngray]] geprobeerd de rust te bewaren door iedereen van elkaar te scheiden.  
-* Op verzoek van [[Characters/Metatron and The Meta Band/Agrip’Ah]] posteert [[Characters/Snapjaw]] wat [[lizardfolk]] bij de teleportatiecirkel om ons te waarschuwen als [[Characters/Rezmir]] en de [[Characters/Onbekende Red Wizard]] terugkeren.
+* Op verzoek van [[Characters/Metatron and The Meta Band/Agrip’Ah]] posteert [[Characters/Snapjaw]] wat [[DND.SRD.Wiki-main/Monsters/Lizardfolk]] bij de teleportatiecirkel om ons te waarschuwen als [[Characters/Rezmir]] en de [[Characters/Onbekende Red Wizard]] terugkeren.
 * [[Characters/Dralmorrer Borngray]] wordt cadeau gedaan aan de [[Factions/Lizardfolk tribe]] en wordt gevangengezet in de stallen.
 * We krijgen toegang tot de torens van [[Characters/Rezmir]] en de [[Characters/Onbekende Red Wizard]].
 * De dwarf kok [[Tangsit]] en zijn hulpjes komen binnen en bieden ons een maaltijd aan.
@@ -112,7 +111,7 @@ END BATTLE
 	* 22 semi-precious stones
 	* potion of greater healing
 * Short rest (+22)
-* [[Characters/Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Characters/Metatron and The Meta Band/Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Factions/Lizardfolk tribe]] heeft deze dagger gevonden in [[Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men]] en cadeau gedaan aan [[Characters/Rezmir]]. [[Characters/Metatron and The Meta Band/Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom]].
+* [[Characters/Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[DND.SRD.Wiki-main/Monsters/Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Characters/Metatron and The Meta Band/Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Factions/Lizardfolk tribe]] heeft deze dagger gevonden in [[Atlas/Sword Coast/Mere of Dead Men/Mere of Dead Men]] en cadeau gedaan aan [[Characters/Rezmir]]. [[Characters/Metatron and The Meta Band/Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom]].
 * We bezoeken de toren van [[Characters/Rezmir]]. 
 	* We bezoeken de torenkamer waar [[Characters/Rezmir]] huist.
 		* Prachtige meubels en tapijten

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Lenniton","created":"2025-07-07","modified":"2025-07-16T20:41:12.183+02:00","cssclasses":""}
+{"publish":true,"title":"Lenniton","created":"2025-07-07","modified":"2025-07-16T00:46:23.623+02:00","published":"2025-07-07","cssclasses":""}
 ---
-
 
 # Lenniton
 

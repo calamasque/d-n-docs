@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-07-16T20:41:11.965+02:00","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-07-16T10:45:38.510+02:00","published":"2025-01-26","cssclasses":""}
 ---
-
 
 
 ??? laten we achter in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Atlas/Sword Coast/Waterdeep/Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.

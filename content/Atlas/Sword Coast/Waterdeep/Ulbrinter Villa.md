@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Ulbrinter Villa","created":"2025-07-15","modified":"2025-07-16T10:45:38.764+02:00","cssclasses":""}
+{"publish":true,"title":"Ulbrinter Villa","created":"2025-07-15","modified":"2025-07-20T15:39:56.082+02:00","published":"2025-07-15","cssclasses":""}
 ---
-
 
 # Ulbrinter Villa
 
@@ -11,7 +10,7 @@
 ## People
 | File                                                                       | Faction                                                                       | Description                                      |
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
-| [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>Harpers</li></ul>                                                     | Harper leadership                                |
+| [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li><ul><li><ul><li>Harpers</li></ul></li></ul></li></ul>                 | Harper leadership                                |
 | [[Characters/Lord Neverember\|Lord Neverember]]                 | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
 | [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Waterdeep lord                                   |
 

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Dragonwing(s)","created":"2025-07-07","modified":"2025-07-16T20:41:12.157+02:00","cssclasses":""}
+{"publish":true,"title":"Dragonwing(s)","created":"2025-07-07","modified":"2025-07-16T00:50:18.450+02:00","published":"2025-07-07","cssclasses":""}
 ---
-
 
 # Dragonwing(s)
 

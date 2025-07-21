@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"The Ship Song","created":"2024-11-20","modified":"2025-07-16T20:41:11.965+02:00","cssclasses":""}
+{"publish":true,"title":"The Ship Song","created":"2024-11-20","modified":"2025-07-16T10:45:38.406+02:00","published":"2024-11-20","cssclasses":""}
 ---
-
 
 
 Nadat [[Characters/Metatron and The Meta Band/Metatron]] gered was van de harpies, werd hij veilig naar een boot gebracht, [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]. Hier kon hij bijkomen terwijl zijn redders, het [[Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]], een missionaris schip van priesters van [[Tyr]], gingen onderzoeken. 

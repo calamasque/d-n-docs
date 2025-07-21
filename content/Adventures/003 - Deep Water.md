@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Deep Water","created":"2024-12-08","modified":"2025-07-16T20:41:11.966+02:00","cssclasses":""}
+{"publish":true,"title":"Deep Water","created":"2024-12-08","modified":"2025-07-16T10:45:38.481+02:00","published":"2024-12-08","cssclasses":""}
 ---
-
 
 
 Onze helden arriveren met de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] in de haven van de indrukwekkende stad [[Atlas/Sword Coast/Waterdeep/Waterdeep]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 

@@ -1,5 +1,4 @@
 ---
-{"publish":true,"title":"Bullywug","created":"2025-07-16T20:14:00.895+02:00","modified":"2025-07-16T20:41:11.982+02:00","cssclasses":""}
+{"publish":true,"title":"Bullywug","created":"2025-07-15T11:53:46.469+02:00","modified":"2025-07-15T11:54:56.413+02:00","published":"2025-07-15T11:54:56.413+02:00","cssclasses":""}
 ---
-
 

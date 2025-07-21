@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-07-16T20:41:11.964+02:00","cssclasses":""}
+{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-07-16T10:45:38.322+02:00","published":"2024-10-30","cssclasses":""}
 ---
-
 
 
 ## Session Summary

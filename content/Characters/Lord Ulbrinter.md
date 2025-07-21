@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Lord Ulbrinter","description":"Waterdeep lord","created":"2025-07-16T20:14:00.889+02:00","modified":"2025-07-16T20:41:12.181+02:00","cssclasses":""}
+{"publish":true,"title":"Lord Ulbrinter","description":"Waterdeep lord","created":"2025-07-14T11:46:55.749+02:00","modified":"2025-07-16T10:45:38.622+02:00","published":"2025-07-16T10:45:38.622+02:00","cssclasses":""}
 ---
-
 
 * Belangrijk figuur in [[Atlas/Sword Coast/Waterdeep/Waterdeep]].
 * Getrouwd met [[Characters/Lady Remallia Haventree]] 

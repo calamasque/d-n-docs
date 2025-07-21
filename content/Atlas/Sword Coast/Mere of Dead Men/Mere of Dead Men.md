@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Mere of Dead Men","created":"2025-07-14","modified":"2025-07-16T00:23:01.790+02:00","cssclasses":""}
+{"publish":true,"title":"Mere of Dead Men","created":"2025-07-14","modified":"2025-07-20T15:41:20.332+02:00","published":"2025-07-14","cssclasses":""}
 ---
-
 
 # Mere of Dead Men
 ## Featured

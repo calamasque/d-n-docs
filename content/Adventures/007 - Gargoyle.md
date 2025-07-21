@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Gargoyle","created":"2025-04-15","modified":"2025-07-16T20:41:11.967+02:00","cssclasses":""}
+{"publish":true,"title":"Gargoyle","created":"2025-04-15","modified":"2025-07-16T10:45:38.573+02:00","published":"2025-04-15","cssclasses":""}
 ---
-
 
 
 The [[Characters/Metatron and The Meta Band/Dr. Egbert]] is out.
@@ -33,4 +32,4 @@ Eerste verdieping:
 Trap: [[Characters/Metatron and The Meta Band/Szuszi]] en [[Characters/Metatron and The Meta Band/Metatron]] gaan voorop
 
 Bovenste verdieping:
-- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[gargoyle]]s. 
+- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[DND.SRD.Wiki-main/Monsters/Gargoyle]]s. 

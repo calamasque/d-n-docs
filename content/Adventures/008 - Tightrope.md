@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Tightrope","created":"2025-05-18","modified":"2025-07-16T20:41:11.967+02:00","cssclasses":""}
+{"publish":true,"title":"Tightrope","created":"2025-05-18","modified":"2025-07-16T10:45:38.578+02:00","published":"2025-05-18","cssclasses":""}
 ---
-
 
 
 Na een kort gevecht weten onze helden de 4 gargoyles te verslaan. 

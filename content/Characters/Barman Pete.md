@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Barman Pete","description":"Barman at Carnath Roadhouse","created":"2025-07-16T20:14:00.876+02:00","modified":"2025-07-16T20:41:12.062+02:00","cssclasses":""}
+{"publish":true,"title":"Barman Pete","description":"Barman at Carnath Roadhouse","created":"2025-07-14T14:47:38.279+02:00","modified":"2025-07-16T10:45:38.592+02:00","published":"2025-07-16T10:45:38.592+02:00","cssclasses":""}
 ---
-
 
 
 https://calamasque.github.io/d-n-docs/Characters/Manni

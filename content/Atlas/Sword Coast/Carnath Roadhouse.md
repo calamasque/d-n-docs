@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Carnath Roadhouse","created":"2025-07-02","modified":"2025-07-16T20:41:12.046+02:00","cssclasses":""}
+{"publish":true,"title":"Carnath Roadhouse","created":"2025-07-02","modified":"2025-07-20T15:38:40.751+02:00","published":"2025-07-02","cssclasses":""}
 ---
-
 
 # Carnath Roadhouse
 
@@ -9,9 +8,8 @@
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
 | [[Characters/Barman Pete\|Barman Pete]]           | Barman at Carnath Roadhouse |
-| [[Characters/Elvira Blacktree\|Elvira Blacktree]] | \-                          |
 | [[Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
-| [[Characters/Lorcil Silkhands\|Lorcil Silkhands]] | Bard, Harper agent          |
+| [[Characters/Elvira Blacktree\|Elvira Blacktree]] | \-                          |
 
 ## Locatie
 - Poort

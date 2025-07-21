@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Titel nog te bepalen","created":"2025-06-25","modified":"2025-07-16T20:41:11.968+02:00","cssclasses":""}
+{"publish":true,"title":"Titel nog te bepalen","created":"2025-06-25","modified":"2025-07-16T10:45:38.580+02:00","published":"2025-06-25","cssclasses":""}
 ---
-
 
 ## Session Summary
 

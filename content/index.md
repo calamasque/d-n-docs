@@ -1,10 +1,8 @@
 ---
-{"publish":true,"title":"The Incredible Adventures of Metatron and The Band","created":"2025-07-17T13:18:54.431+02:00","modified":"2025-07-17T13:18:54.431+02:00","cssclasses":""}
+{"publish":true,"title":"index","created":"2025-07-14T15:26:42.936+02:00","modified":"2025-07-16T14:23:54.258+02:00","published":"2025-07-16T14:23:54.258+02:00","cssclasses":""}
 ---
 
-
-Blub.
-# Adventures in dataviewJS
+## Adventures in dataviewJS
 |Sessie11|Avontuur|Datum|
 |---|---|---|
 |1|[[Adventures/001 - You Got A Friend In Me\|You Got A Friend In Me]]|October 30, 2024|

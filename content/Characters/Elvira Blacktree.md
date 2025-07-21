@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Elvira Blacktree","created":"2025-07-16T20:14:00.887+02:00","modified":"2025-07-16T20:41:12.137+02:00","cssclasses":""}
+{"publish":true,"title":"Elvira Blacktree","created":"2025-07-14T14:08:47.597+02:00","modified":"2025-07-16T10:45:38.605+02:00","published":"2025-07-16T10:45:38.605+02:00","cssclasses":""}
 ---
-
 
 ## Character Summary
 Elvira Blacktree was een half-elf ranger in dienst van de [[Factions/Harpers\|Harpers]]. Opvallend kenmerk aan haar was dat haar rechteroor niet in een punt liep (litteken). Gedood door [[Characters/Bog Luck\|Bog Luck]] nadat hij haar gevangen nam en martelde. Haar lichaam is achtergelaten in de bosjes op zo'n 600-900ft ten oosten van [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]].
