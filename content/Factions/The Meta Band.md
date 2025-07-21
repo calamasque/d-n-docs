@@ -5,11 +5,11 @@ aliases:
 description: 
 type: faction
 faction_type: 	
-	- avonturiers
+- avonturiers
 alignment: neutral
 symbol:
 goals:
-scope: [[Sword Coast]]
+scope: "[[Sword Coast]]"
 headquarters:
 image: 
 date: 2025-07-16

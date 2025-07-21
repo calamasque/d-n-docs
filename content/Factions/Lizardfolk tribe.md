@@ -5,7 +5,7 @@ aliases:
 description: 
 type: faction
 faction_type:
-	- stam
+- stam
 alignment: 
 symbol:
 goals:

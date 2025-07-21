@@ -5,10 +5,10 @@ aliases:
 description: 
 type: faction
 faction_type: 	
-	- geheim
-	- ideologisch
-	- politiek
-	- spionage
+- geheim
+- ideologisch
+- politiek
+- spionage
 alignment: good
 symbol: zilveren harp op een halve maan
 goals: 

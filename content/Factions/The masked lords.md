@@ -5,8 +5,8 @@ aliases:
 description: 
 type: faction
 faction_type:
-	- geheim
-	- politiek
+- geheim
+- politiek
 alignment: 
 symbol: masker
 goals:
