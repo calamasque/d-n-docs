@@ -14,7 +14,7 @@
 ## Dataview
 | Location                                                                           | NPCs                                                                                                                                                           |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]              | [[Characters/Barman Pete\|Barman Pete]], [[Characters/Bog Luck\|Bog Luck]], [[Characters/Elvira Blacktree\|Elvira Blacktree]] |
+| [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]              | [[Characters/Bog Luck\|Bog Luck]], [[Characters/Elvira Blacktree\|Elvira Blacktree]], [[Characters/Barman Pete\|Barman Pete]] |
 | [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar\|Castle Naerytar]] | [[Characters/Cult of the Dragon guards\|Cult of the Dragon guards]]                                                                                 |
 | [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]        | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]                                                                                     |
 | [[Atlas/Sword Coast/Waterdeep/Waterdeep\|Waterdeep]]                    | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]                                                                                     |
