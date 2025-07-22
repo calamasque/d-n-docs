@@ -2,7 +2,7 @@
 title: I Would Die 4 You
 publish: true
 aliases: 
-description: 
+description: "No more wasting time discussing important decisions. We jump into the fight head first. Metatron is about to lose his head first, Pharblex wins."
 type: session
 world:
   - "[[Forgotten Realms]]"
@@ -11,8 +11,7 @@ campaign:
 session_num: 10
 session_date: 2025-07-06
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|Castle Naerytar]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"
@@ -40,7 +39,12 @@ date: 2025-07-06
 last_modified: 2025-07-15
 tags:
 ---
-## Session Summary
+## Summary
+- No more wasting time discussing important decisions. 
+- We dive into the fight head first, "surprising" [[Dralmorrer Borngray]] and 15 [[cultists]].
+- [[Pharblex Spattergoo|Pharblex]] fails as a public speaker, sorely disappointing [[Szuszi]].
+- [[Metatron]] is about to lose his head first, [[Pharblex Spattergoo|Pharblex]] wins (credits: [[Szuszi]]).
+- 
 
 ## Recap of last session
 
@@ -149,13 +153,13 @@ END BATTLE
 	* 22 semi-precious stones
 	* potion of greater healing
 * Short rest (+22)
-* [[Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Lizardfolk tribe]] heeft deze dagger gevonden in [[Mere of Dead Men]] en cadeau gedaan aan [[Rezmir]]. [[Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom]].
+* [[Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Lizardfolk tribe]] heeft deze dagger gevonden in [[content/Atlas/Sword Coast/Mere of Dead Men/index]] en cadeau gedaan aan [[Rezmir]]. [[Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom]].
 * We bezoeken de toren van [[Rezmir]]. 
 	* We bezoeken de torenkamer waar [[Rezmir]] huist.
 		* Prachtige meubels en tapijten
 		* Commando-woord voor de teleportatiecirkel is "Draezir"
 		* Metatron vindt een brief: 
-		  "[[Rezmir]], [[Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[Voaraghammanthar]]?) rustig blijft in het Mere ([[Mere of Dead Men]]?) en tevreden blijft. [[Galvan]]".
+		  "[[Rezmir]], [[Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[Voaraghammanthar]]?) rustig blijft in het Mere ([[content/Atlas/Sword Coast/Mere of Dead Men/index]]?) en tevreden blijft. [[Galvan]]".
 		* 2 Onyx dragon statues (3000GP)
 	* 1 Meditatiekamer
 	* 1 Slaapkamer
@@ -171,7 +175,7 @@ END BATTLE
 	* Eerst kijken naar de locatie "V". Laat een grot zien. Er beweegt ook iets terwijl [[Szuszi]] kijkt, de kop van een [[Voaraghammanthar|oude zwarte draak]] is te zien.
 	* [[Szuszi]] past het apparaat aan en bekijkt de locatie "?" ziet nu een andere plek: restanten van een oud gebouw wat daarbovenop een [[slapende zwarte draak]]. 
 	* Ze bepalen op [[Agrip’Ah]]'s [[kaart van Mere of Dead Men]] waar deze 2 locaties ongeveer moeten zijn.
-	* Zijn er 2 zwarte draken in [[Mere of Dead Men]]?
+	* Zijn er 2 zwarte draken in [[content/Atlas/Sword Coast/Mere of Dead Men/index]]?
  * Bullywug toren ([[Dr. Egbert]] en [[SmogEater]] en [[Metatron]])
 	* 1e verdieping: Pharblex-kamer bevat een kist die opent met sleutel van Pharblex:
 		* jewelry (1377GP) = 459 GP pp

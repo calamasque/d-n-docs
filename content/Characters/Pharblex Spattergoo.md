@@ -19,10 +19,10 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Mere of Dead Men]]"
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin:
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
 game_date: 1489 DR
 image: "![[Pharblex_spattergoo-5e.webp]]"
 date: 
@@ -35,9 +35,9 @@ tags:
 | ![[_media/Pharblex_spattergoo-5e.webp\|300]] |
 
 ## Character Summary
-- Leider van de [[Bullywug tribe]] in [[Castle Naerytar]]
-- Heeft een persoonlijk altaar in de grotten onder [[Castle Naerytar]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe]] in [[Castle Naerytar]].
+- Leider van de [[Bullywug tribe]] in [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Heeft een persoonlijk altaar in de grotten onder [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe]] in [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]].
 - Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe]].
 - Gedood door [[Szuszi]]
 ## Items

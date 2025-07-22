@@ -1,7 +1,8 @@
 ---
 title: Sea of Swords
 publish: true
-aliases: 
+aliases:
+  - Sea of Swords
 description: 
 world:
   - "[[Forgotten Realms]]"
@@ -13,7 +14,7 @@ leaders:
 image: 
 date: 2025-07-15
 last_modified: 2025-07-14
-tags: 
+tags:
 ---
 # Sea of Swords
 ## Featured

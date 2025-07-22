@@ -17,11 +17,11 @@ gender:
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin: 
 image: 
 date: 2025-07-21
 last_modified: 2025-07-21
-tags:
+tags: 
 ---
 # Dragonclaws

@@ -34,7 +34,7 @@ SORT file.name ASC
 ```
 ## Info
 * Woning van [[Lord Ulbrinter]] en [[Lady Remallia Haventree]]. 
-* Gelegen aan [[Delzorin street]] in de [[North Ward]] van [[Waterdeep]]
+* Gelegen aan [[Delzorin street]] in de [[North Ward]] van [[content/Atlas/Sword Coast/Waterdeep/index]]
 
-De villa is gelegen in de North Ward van [[Waterdeep]] aan Delzorin Street. Deze straat kan worden bereikt door de High Road te volgen naar de noordelijke poort.
+De villa is gelegen in de North Ward van [[content/Atlas/Sword Coast/Waterdeep/index]] aan Delzorin Street. Deze straat kan worden bereikt door de High Road te volgen naar de noordelijke poort.
 

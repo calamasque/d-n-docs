@@ -36,4 +36,4 @@ Elvira Blacktree was een half-elf ranger in dienst van de [[Harpers]]. Opvallend
 - [[003 - Deep Water]]
 
 ## Verhaal
-2 weken voordat [[Lady Remallia Haventree]] [[Agrip'Ah]] en [[Metatron]] ontmoette in [[Waterdeep]] gaf zij Elvira de opdracht een koets met huurlingen te paard te volgen in de richting van [[Carnath Roadhouse]]. Sindsdien had Remallia niets meer vernomen van Elvira. Zij vroeg daarom [[The Meta Band]] of zij uit wilden kijken naar Elvira op hun reis om contact te maken of uit te zoek wat haar lot was.
+2 weken voordat [[Lady Remallia Haventree]] [[Agrip'Ah]] en [[Metatron]] ontmoette in [[content/Atlas/Sword Coast/Waterdeep/index]] gaf zij Elvira de opdracht een koets met huurlingen te paard te volgen in de richting van [[Carnath Roadhouse]]. Sindsdien had Remallia niets meer vernomen van Elvira. Zij vroeg daarom [[The Meta Band]] of zij uit wilden kijken naar Elvira op hun reis om contact te maken of uit te zoek wat haar lot was.

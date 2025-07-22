@@ -11,8 +11,7 @@ campaign:
 session_num: 7
 session_date: 2025-04-15
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|Castle Naerytar]]"
 PCs:
   - "[[Metatron]]"
   - "[[SmogEater]]"
@@ -45,7 +44,7 @@ Kleine binnenplaats:
 Afvaltoren:
 1 [[Otyugh]]
 
-Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[Castle Naerytar]] met daarin het observatorium blijkt niet gesloten :) 
+Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] met daarin het observatorium blijkt niet gesloten :) 
 
 Begane grond:
 * Eetzaal.

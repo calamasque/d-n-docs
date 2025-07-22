@@ -1,21 +1,24 @@
 ---
-title: Baldur's Gate
+title: Mere of Dead Men
 publish: true
-aliases: 
+aliases:
+  - Mere of Dead Men
 description: 
 world:
   - "[[Forgotten Realms]]"
 campaign:
   - "[[Hoard of the Dragon Queen]]"
 type: place
-locationType: city
-leaders: 
+locationType: swamp
+leaders:
+  - "[[Pharblex Spattergoo]]"
+  - "[[Suncaller]]"
 image: 
-date: 2025-07-15
+date: 2025-07-14
 last_modified: 2025-07-14
-tags: 
+tags:
 ---
-# Baldur's Gate
+# Mere of Dead Men
 ## Featured
 ```dataview
 
@@ -41,7 +44,6 @@ TABLE
 	description as Description 
 FROM 
 	"content/Characters"
-FLATTEN faction
 WHERE 
 	contains(type, "NPC") AND 
 	(contains(location, this.file.name) OR contains(location, link(this.file.name)))

@@ -1,8 +1,8 @@
 ---
-title: Tightrope
+title: Smoggi Watch The Stars
 publish: true
 aliases: 
-description: Telescopes are hard to find, but easy to break. Dr. Egbert fights The Red Wizard. A dragon(born) falls while an imaginary dragon saves the day. We descend into the dungeons for a frog fight.
+description: Telescopes are hard to find, but easy to break. Dr. Egbert fights The Red Wizard. A dragon(born) falls. An imaginary dragon saves the day. We descend into the dungeons for a frog fight.
 type: session
 world:
   - "[[Forgotten Realms]]"
@@ -11,8 +11,7 @@ campaign:
 session_num: 8
 session_date: 2025-05-18
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|Castle Naerytar]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
   - "[[Metatron|Metatron]]"
@@ -33,9 +32,16 @@ combats:
 game_date: 1489 DR
 date: 2025-05-18
 last_modified: 2025-07-15
-tags:
+tags: 
 ---
-
+# Summary
+- We defeat the 4 [[Gargoyle]]s guarding the [[Observatory]] 
+- Telescopes are hard to find, but easy to break. 
+- Dr. Egbert fights The Red Wizard.
+- We walk a tightrope, [[SmogEater]] BASE jumps.
+- [[Agrip’Ah]]'s imaginary dragon saves the day.
+- We descend into the dungeons for a frog fight.
+## The long version
 Na een kort gevecht weten onze helden de 4 gargoyles te verslaan. 
 
 De groep besluit een kijkje te nemen in het observatorium waar zich een gigantische telescoop bevindt. Bijzonder genoeg is het dak van het observatorium volledig afgesloten. Is dit misschien een magische telescoop. [[Szuszi|Szuszi]] en [[SmogEater|SmogEater]] besluiten een kijkje te nemen. De eerste doet dit voorzichtig en ziet (...). De draconian doet dit niet geheel onverwacht minder subtiel waardoor de telescoop een tik krijgt en daardoor iets anders in beeld brengt. 

@@ -1,7 +1,7 @@
 ---
 title: Dragonwing(s)
 publish: true
-aliases:
+aliases: 
 description: 
 world:
   - "[[Forgotten Realms]]"
@@ -17,8 +17,8 @@ race:
 gender: 
 class: 
 shop: 
-location: 
-  - "[[Castle Naerytar]]"
+location:
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin: 
 game_date: 1489 DR
 image: 

@@ -1,7 +1,8 @@
 ---
 title: Sword Coast
 publish: true
-aliases: 
+aliases:
+  - Sword Coast
 description: 
 world:
   - "[[Forgotten Realms]]"

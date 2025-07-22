@@ -4,13 +4,13 @@ publish: true
 aliases: 
 description: 
 type: faction
-faction_type: 	
-- avonturiers
+faction_type:
+  - avonturiers
 alignment: neutral
-symbol:
-goals:
-scope: "[[Sword Coast]]"
-headquarters:
+symbol: 
+goals: 
+scope: "[[content/Atlas/Sword Coast/index]]"
+headquarters: 
 image: 
 date: 2025-07-16
 last_modified: 2025-07-15

@@ -14,6 +14,18 @@ date: 2025-07-16
 last_modified: 2025-07-16
 ---
 # Adventures
+
+## Last week on Dungeons & Detectives
+```dataview
+TABLE
+	WITHOUT ID
+	description AS Description
+FROM "content/Adventures"
+WHERE type = "session" AND publish = true
+SORT session_num DESC
+LIMIT 1
+```
+
 ## Adventures in dataviewJS
 ```dataviewjs
 for (let group of dv.pages('"content/Adventures"').where(p => p.type === "session").groupBy(c => c.campaign)) {
@@ -29,13 +41,9 @@ for (let group of dv.pages('"content/Adventures"').where(p => p.type === "sessio
 ```dataview
 TABLE 
 	WITHOUT ID
-	session_num AS "Sessie",
-	link(file.link,title) AS "Avontuur", 
-	date AS "Datum"
-
+	session_num AS Sessie,
+	link(file.link,title) AS Avontuur
 FROM "content/Adventures"
-
-WHERE 
-	type = "session"
+WHERE type = "session"
 SORT session_num ASC
 ```

@@ -40,7 +40,7 @@ SORT file.name DESC
 * op een avontuurlijke huwelijksreis met hun schip de [[The Happily Ever After]] en kapitein [[Tu’aven]]. 
 
 Gebeurtenissen:
-* Tijdens hun huwelijksreis ontmoeten zij [[Agrip’Ah]], [[Dr. Egbert]], [[SmogEater]] en [[Waldo]] in [[Baldur's Gate]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
+* Tijdens hun huwelijksreis ontmoeten zij [[Agrip’Ah]], [[Dr. Egbert]], [[SmogEater]] en [[Waldo]] in [[content/Atlas/Sword Coast/Baldur's Gate/index]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
 * Onderweg ontdekken zij een verstekeling in de keuken ([[Szuszi]]) die zich bij het gezelschap voegt.
 * Kort daarna ontdekken ze de befaamde muzikant [[Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten hem te overtuigen zich bij hen te voegen. 
 

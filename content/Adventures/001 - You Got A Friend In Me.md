@@ -11,7 +11,7 @@ campaign:
 session_num: 1
 session_date: 2024-10-30
 location:
-  - "[[Sea of Swords]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/index|Sea of Swords]]"
   - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
 PCs:
   - "[[Dr. Egbert]]"

@@ -1,7 +1,7 @@
 ---
 title: Eye Know
 publish: true
-aliases:  Bog's Song
+aliases: Bog's Song
 description: 
 type: session
 world:
@@ -12,7 +12,7 @@ session_num: 5
 session_date: 2025-03-02
 location:
   - "[[Carnath Roadhouse]]"
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index|Mere of Dead Men]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"

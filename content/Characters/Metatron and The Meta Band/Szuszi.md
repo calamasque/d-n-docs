@@ -12,14 +12,15 @@ deceased:
 family: 
 faction:
   - "[[The Meta Band]]"
-race: [[halfling]]
+race:
+  - - halfling
 gender: male
 class:
   - thief
 shop: 
 location: 
 origin:
-  - "[[Waterdeep]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/index]]"
 game_date: 1489 DR
 image: 
 date: 2025-07-15

@@ -30,6 +30,6 @@ WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(
 SORT file.name ASC
 ```
 
-Tempel van Tyr gevestigd in [[Waterdeep]]. 
+Tempel van Tyr gevestigd in [[content/Atlas/Sword Coast/Waterdeep/index]]. 
 
 [[SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 

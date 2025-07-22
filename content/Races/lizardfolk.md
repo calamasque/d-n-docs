@@ -1,5 +1,5 @@
 ---
-title: Bullywug
+title: Lizardfolk
 publish: true
 type: race
 location:

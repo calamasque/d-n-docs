@@ -18,7 +18,7 @@ gender:
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -40,7 +40,7 @@ tags:
 Details:
 - Een [[Red Wizards of Thay]] 
 - Werkt samen met de [[Cult of the Dragon]]
-- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[Castle Naerytar]]. 
+- Verblijft in een gastenkamer op de begane grond in de observatoriumtoren van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]. 
 
 Brieven:
 - "Beste [[Rath Modar]], de gesprekken met [[Rezmir]] lopen goed."

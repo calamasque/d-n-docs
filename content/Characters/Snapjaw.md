@@ -19,8 +19,8 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -42,7 +42,7 @@ tags:
 * 
 
 Details:
-- Leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[Castle Naerytar]]
+- Leider van de [[Lizardfolk]] van de [[content/Atlas/Sword Coast/Mere of Dead Men/index]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 
 Avonturen:
 - [[006 - Short Skirmish - Long Jacket]]

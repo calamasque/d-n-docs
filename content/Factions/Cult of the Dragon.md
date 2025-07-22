@@ -42,5 +42,5 @@ tags:
 - [[/content/Characters/Snapjaw|Snapjaw]]
 
 ## Locaties
-- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]
+- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|index]]
 - [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]

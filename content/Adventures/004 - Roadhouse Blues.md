@@ -11,9 +11,9 @@ campaign:
 session_num: 4
 session_date: 2025-01-26
 location:
-  - "[[Waterdeep]]"
-  - "[[content/Atlas/Sword Coast/Carnath Roadhouse]]"
-  - "[[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/index|Waterdeep]]"
+  - "[[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/Halls of Justice|Halls of Justice]]"
 PCs:
   - "[[Dr. Egbert]]"
   - "[[Metatron]]"
@@ -31,10 +31,10 @@ combats:
 game_date: 1489 DR
 date: 2025-01-26
 last_modified: 2025-07-15
-tags:
+tags: 
 ---
 
-??? laten we achter in de [[Halls of Justice]] in [[Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
+??? laten we achter in de [[Halls of Justice]] in [[content/Atlas/Sword Coast/Waterdeep/index]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
 
 We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het altaar nemen we met ons mee in de wagen. 
 

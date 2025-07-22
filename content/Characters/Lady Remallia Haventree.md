@@ -18,7 +18,7 @@ gender: female
 class: 
 shop: 
 location:
-  - "[[Waterdeep]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/index]]"
   - "[[Ulbrinter Villa]]"
 origin: 
 game_date: 1489 DR
@@ -28,7 +28,7 @@ last_modified:
 tags: 
 ---
 # Character Summary
-Lady Remallia Haventree heeft een belangrijke positie binnen de Harpers en in de stad [[Waterdeep]]. 
+Lady Remallia Haventree heeft een belangrijke positie binnen de Harpers en in de stad [[content/Atlas/Sword Coast/Waterdeep/index]]. 
 
 # Verhaal:
 - [[Agrip'Ah]] en [[Metatron]] bezoeken [[Ulbrinter Villa]] om in contact te komen met [[Lady Remallia Haventree]].

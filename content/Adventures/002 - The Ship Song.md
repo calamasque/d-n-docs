@@ -11,7 +11,7 @@ campaign:
 session_num: 2
 session_date: 2024-11-20
 location:
-  - "[[Sea of Swords]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/index|Sea of Swords]]"
   - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
   - "[[content/Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]]"
 PCs:

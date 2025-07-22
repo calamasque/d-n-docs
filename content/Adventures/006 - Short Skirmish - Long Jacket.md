@@ -11,8 +11,7 @@ campaign:
 session_num: 6
 session_date: 2025-03-23
 location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]]"
-  - "[[Mere of Dead Men|Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|Castle Naerytar]]"
 PCs:
   - "[[Dr. Egbert|Dr. Egbert]]"
   - "[[Metatron|Metatron]]"
@@ -35,12 +34,12 @@ combats:
 game_date: 1489 DR
 date: 2025-03-23
 last_modified: 2025-07-15
-tags:
+tags: 
 ---
 
-Aangekomen bij [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[/content/Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[Metatron|Metatron]] de wachter van [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 
+Aangekomen bij [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|index]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[/content/Characters/Bog Luck|Bog Luck]] altijd nog eens de zee met zijn eigen ogen wilde zien inspireert [[Metatron|Metatron]] de wachter van [[content/Atlas/Sword Coast/Carnath Roadhouse|Carnath Roadhouse]] om samen met zijn vriend Bog Luck de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. 
 
-Die hadden ondertussen de tijd gehad de omgeving in zich op te nemen. Voor hen rees [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar|Castle Naerytar]] uit het landschap op met voor de poort een groep longhuts en verderop een andere groep hutten. 
+Die hadden ondertussen de tijd gehad de omgeving in zich op te nemen. Voor hen rees [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|index]] uit het landschap op met voor de poort een groep longhuts en verderop een andere groep hutten. 
 
 Gesprek met [[/content/Characters/Snapjaw|Snapjaw]]...
 

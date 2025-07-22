@@ -1,8 +1,8 @@
 ---
-title: Monsters
+title: Items
 publish: true
 aliases:
-  - Monsters
+  - items
 description: 
 world:
   - "[[Forgotten Realms]]"
@@ -11,13 +11,17 @@ campaign:
 type: index
 tags: 
 image: 
-date: 2025-07-16
+date: 2025-07-21
 last_modified: 2025-07-16
 ---
-# Recent encounters
+# Items
 ```dataview
 TABLE
-FROM "content/Monsters"
-WHERE type = "monster"
-SORT title ASC
+	WITHOUT ID
+	link(file.link,title) AS Item,
+	description AS Description,
+	("[[" + owner + "]]") AS Owner
+FROM "content/Items"
+WHERE type = "item"
 ```
+

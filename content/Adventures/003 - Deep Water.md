@@ -11,9 +11,9 @@ campaign:
 session_num: 3
 session_date: 2024-12-08
 location:
-  - "[[Waterdeep]]"
+  - "[[content/Atlas/Sword Coast/Waterdeep/index|Waterdeep]]"
   - "[[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]]"
-  - "[[Sea of Swords]]"
+  - "[[content/Atlas/Sword Coast/Sea of Swords/index|Sea of Swords]]"
   - "[[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]]"
   - "[[content/Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]]"
 PCs:
@@ -38,10 +38,10 @@ combats: []
 game_date: 1489 DR
 date: 2024-12-08
 last_modified: 2025-07-15
-tags:
+tags: 
 ---
 
-Onze helden arriveren met de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] in de haven van de indrukwekkende stad [[Waterdeep]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 
+Onze helden arriveren met de [[content/Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] in de haven van de indrukwekkende stad [[content/Atlas/Sword Coast/Waterdeep/index]]. Waldo is uiteraard op mysterieuze wijze verdwenen zodra we voet aan wal hebben gezet. 
 
 Als 1 groep (minus [[Waldo]]) begeven zij zich vervolgens naar het centrale plein van de stad waar van alles wordt verkocht en waar [[SmogEater]] in de buurt ook de [[content/Atlas/Sword Coast/Waterdeep/Halls of Justice]] hoopt te vinden. In deze tempel van Tyr zou het voor hem toch mogelijk moeten zijn een prachtige set zware bepantsering te kopen? [[Szuszi]] en [[Dr. Egbert]] vergezellen hem hierbij. In zijn enthousiasme om de Tyr-aanhangers tevreden te stellen wordt [[SmogEater]] al snel iets te loslippig en informeert hen dat wij in het bezit zijn van 
 
@@ -50,6 +50,6 @@ Ondertussen zijn [[Metatron]] en [[Agrip’Ah]] richting the North Ward vertrokk
 Op de weg terug 
 [[Szuszi]]
 [[Bibliotheek van Waterdeep]] 
-Stargazers: [[Adele Astrolara]] vertrok ergens in het verleden van [[Waterdeep]] naar [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar]] na de verdwijning van een student afkomstig van 1 van de huizen van adel. 
+Stargazers: [[Adele Astrolara]] vertrok ergens in het verleden van [[content/Atlas/Sword Coast/Waterdeep/index]] naar [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] na de verdwijning van een student afkomstig van 1 van de huizen van adel. 
 
-Szuszi bezoekt een oude bekende: [[Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[Waterdeep]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[The masked lords]].
+Szuszi bezoekt een oude bekende: [[Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[content/Atlas/Sword Coast/Waterdeep/index]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[The masked lords]].

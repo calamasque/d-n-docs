@@ -19,7 +19,7 @@ gender:
 class: 
 shop: 
 location:
-  - "[[Mere of Dead Men]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
 origin: 
 game_date: 1489 DR
 image: 

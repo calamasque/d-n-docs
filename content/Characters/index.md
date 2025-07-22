@@ -1,6 +1,8 @@
 ---
 title: Characters
 publish: true
+aliases:
+  - characters
 ---
 ## DataviewJS
 ```dataviewjs

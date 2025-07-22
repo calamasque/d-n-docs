@@ -1,7 +1,7 @@
 ---
 title: Suncaller
 publish: true
-aliases:
+aliases: 
 description: Former chief of Lizardfolk tribe
 world:
   - "[[Forgotten Realms]]"
@@ -19,7 +19,7 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -30,7 +30,7 @@ tags:
 # Suncaller
 
 ## Character summary
-* Vorige leider van de [[Lizardfolk]] van de [[Mere of Dead Men]] en [[Castle Naerytar]]
+* Vorige leider van de [[Lizardfolk]] van de [[content/Atlas/Sword Coast/Mere of Dead Men/index]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 - Gedood door [[Pharblex Spattergoo]]
 ## Featured / mentions
 ```dataview

@@ -1,7 +1,8 @@
 ---
 title: Waterdeep
 publish: true
-aliases: 
+aliases:
+  - Waterdeep
 description: 
 world:
   - "[[Forgotten Realms]]"
@@ -9,13 +10,13 @@ campaign:
   - "[[Hoard of the Dragon Queen]]"
 type: place
 locationType: city
-leaders: 
-- "[[Lord Neverember]]"
-- "[[The masked lords]]"
+leaders:
+  - "[[Lord Neverember]]"
+  - "[[The masked lords]]"
 image: 
 date: 2025-07-15
 last_modified: 2025-07-14
-tags: 
+tags:
 ---
 # Waterdeep
 

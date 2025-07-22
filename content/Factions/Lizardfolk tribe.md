@@ -29,8 +29,8 @@ WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name
 SORT file.name DESC
 ```
 ## Locaties:
-- [[Mere of Dead Men]] (vrouwen en kinderen)
-- [[Castle Naerytar]] (mannen)
+- [[content/Atlas/Sword Coast/Mere of Dead Men/index]] (vrouwen en kinderen)
+- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] (mannen)
 ## Allies:
 - [[Dralmorrer Borngray]]
 - [[The Meta Band]]
@@ -38,7 +38,7 @@ SORT file.name DESC
 - [[Pharblex Spattergoo]]
 - [[Bullywug tribe]] 
 ## Gebeurtenissen:
-- 3 kano's met Lizardfolk van de [[Lizardfolk tribe]] passeren onze helden in de [[Mere of Dead Men]]. [[SmogEater]] luistert hun gesprek af (zie "Meningen").
+- 3 kano's met Lizardfolk van de [[Lizardfolk tribe]] passeren onze helden in de [[content/Atlas/Sword Coast/Mere of Dead Men/index]]. [[SmogEater]] luistert hun gesprek af (zie "Meningen").
 - [[The Meta Band]] belooft [[Snapjaw]] en de [[Lizardfolk tribe]] om de [[Bullywug tribe]] in een kwaad daglicht te brengen bij de [[Cult of the Dragon]]. 
 ## Meningen:
 - Hebben een hekel aan de [[Dragon kneelers]] en de [[Bullywug tribe]]

@@ -1,6 +1,6 @@
 ---
 title: Giant frog
-publish: false
+publish: true
 aliases: 
 description: 
 world:

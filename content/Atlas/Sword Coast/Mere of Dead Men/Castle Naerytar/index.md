@@ -46,8 +46,8 @@ TABLE
 FROM 
 	"content/Adventures"
 WHERE 
-	contains(location, this.file.name) or 
-	contains(location, link(this.file.name))
+	contains(location, this.file.title) or 
+	contains(location, link(this.file.title))
 SORT 
 	session_num ASC
 

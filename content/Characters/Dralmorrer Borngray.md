@@ -19,7 +19,7 @@ gender: male
 class: 
 shop: 
 location:
-  - "[[Castle Naerytar]]"
+  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
 origin: 
 game_date: 1489 DR
 image: 
@@ -28,7 +28,7 @@ last_modified:
 tags: 
 ---
 # Character Summary
-- Baas van [[Castle Naerytar]]
+- Baas van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 - Lid van de [[Eldreth Veluuthra]]
 - Leert de [[Lizardfolk]] om wapens te smeden.
 - Blond haar, ooglapje.
@@ -39,14 +39,14 @@ tags:
 - [[007 - Gargoyle]]
 
 ## Gesprekken
-* Lopend over de kleine binnenplaats van [[Castle Naerytar]] zegt Dralmorrer: 
+* Lopend over de kleine binnenplaats van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] zegt Dralmorrer: 
   "Ik weet niet wat de onrust is maar ze zijn boos." 
   Waarop werd geantwoord door [[Pharblex Spattergoo]](?): 
   "Minkukels, zei nog zo niet geschikt!"
 
 ## Eigendom
 ### Boeken
-- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[Castle Naerytar]]) => gestolen door [[Metatron]] uit zijn werkkamer
+- Code of the Eldreth Valuuthra (in kamer op 1e verdieping direct onder het observatorium van [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]) => gestolen door [[Metatron]] uit zijn werkkamer
 ### Kleding 
 - Huidige kleding
 - [[Eldreth Veluuthra]] kleding => gestolen door [[Metatron]] uit zijn werkkamer
