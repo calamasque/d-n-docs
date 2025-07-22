@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Onbekende Red Wizard","description":"Red wizard werkt samen met Cult of the Dragon","created":"2025-06-30","modified":"2025-07-21T20:42:43.128+02:00","published":"2025-06-30","cssclasses":""}
+{"publish":true,"title":"Onbekende Red Wizard","description":"Red wizard werkt samen met Cult of the Dragon","created":"2025-06-30","modified":"2025-07-22T22:57:05.161+02:00","published":"2025-06-30","cssclasses":""}
 ---
 
 # Onbekende Red Wizard

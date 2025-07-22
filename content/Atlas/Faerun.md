@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"B F e r","title":"Faerûn","created":"2025-07-02","modified":"2025-07-20T15:39:05.147+02:00","published":"2025-07-02","cssclasses":""}
+{"publish":true,"aliases":"B F e r","title":"Faerûn","created":"2025-07-02","modified":"2025-07-22T13:15:39.706+02:00","published":"2025-07-02","cssclasses":""}
 ---
 
 # Faerûn

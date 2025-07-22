@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"De Dokter Doc","title":"Dr. Egbert","created":"2025-07-15","modified":"2025-07-16T00:53:29.400+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"De Dokter Doc","title":"Dr. Egbert","created":"2025-07-15","modified":"2025-07-22T12:40:03.854+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Dr. Egbert

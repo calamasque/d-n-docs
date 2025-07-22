@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Future chief of the Lizardmen tribe","title":"Snapjaw","description":"Future chief of the Lizardmen tribe","created":"2025-07-05","modified":"2025-07-21T20:42:43.139+02:00","published":"2025-07-05","cssclasses":""}
+{"publish":true,"aliases":"Future chief of the Lizardmen tribe","title":"Snapjaw","description":"Future chief of the Lizardmen tribe","created":"2025-07-05","modified":"2025-07-22T22:57:29.249+02:00","published":"2025-07-05","cssclasses":""}
 ---
 
 # Snapjaw

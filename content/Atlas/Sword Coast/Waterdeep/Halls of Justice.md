@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Halls of Justice","created":"2025-07-15","modified":"2025-07-21T19:14:15.018+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Halls of Justice","created":"2025-07-15","modified":"2025-07-22T21:05:29.628+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Halls of Justice

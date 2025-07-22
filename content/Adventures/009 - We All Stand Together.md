@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Crazy Frog Song","created":"2025-06-25","modified":"2025-07-21T20:46:20.304+02:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-07-22T23:16:00.588+02:00","published":"2025-06-25","cssclasses":""}
 ---
 
 ## Session Summary

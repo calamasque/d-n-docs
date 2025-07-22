@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-07-21T20:47:33.829+02:00","published":"2025-01-26","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-07-22T21:05:37.605+02:00","published":"2025-01-26","cssclasses":""}
 ---
 
 

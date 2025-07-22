@@ -6,12 +6,10 @@
 ## Featured
 | Sessie | Avontuur                                           | Datum          |
 | ------ | -------------------------------------------------- | -------------- |
-| 5      | [[Adventures/005 - Eye Know\|Eye Know]] | March 02, 2025 |
+| 5      | [[Adventures/005 - Eye Know\|Eye Know]] | 2 March , 2025 |
 
 ## People
-| File                                                               | Faction                                                                           | Description                         |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
-| [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]] | <ul><li>[[Factions/Bullywug tribe.md\\|Bullywug tribe]]</li></ul>         | Chief of Bullywug tribe             |
-| [[Characters/Snapjaw\|Snapjaw]]                         | <ul><li>[[Factions/Lizardfolk tribe.md\\|Lizardfolk tribe]]</li></ul>     | Future chief of the Lizardmen tribe |
-| [[Characters/Voaraghammanthar\|Voaraghammanthar]]       | <ul><li>[[Factions/Cult of the Dragon.md\\|Cult of the Dragon]]</li></ul> | \-                                  |
+| File                                                         | Faction                                                                           | Description |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------- |
+| [[Characters/Voaraghammanthar\|Voaraghammanthar]] | <ul><li>[[Factions/Cult of the Dragon.md\\|Cult of the Dragon]]</li></ul> | \-          |
 

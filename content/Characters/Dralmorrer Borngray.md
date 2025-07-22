@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"D r a m b u i e","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T16:58:46.945+02:00","modified":"2025-07-21T20:42:43.127+02:00","published":"2025-07-21T20:42:43.127+02:00","cssclasses":""}
+{"publish":true,"aliases":"Drambuie Dralmorrer","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T20:42:43.127+02:00","modified":"2025-07-22T22:56:19.057+02:00","published":"2025-07-22T22:56:19.057+02:00","cssclasses":""}
 ---
 
 # Character Summary

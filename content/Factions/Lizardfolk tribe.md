@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Lizardfolk tribe","created":"2025-07-16","modified":"2025-07-21T20:42:43.154+02:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"Lizardfolk tribe","created":"2025-07-16","modified":"2025-07-22T22:59:01.339+02:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # Lizardfolk tribe
@@ -7,10 +7,11 @@
 # Lizardfolk tribe
 
 ## Members
-| File                                           | description                         | deceased |
-| ---------------------------------------------- | ----------------------------------- | -------- |
-| [[Characters/Suncaller\|Suncaller]] | Former chief of Lizardfolk tribe    | true     |
-| [[Characters/Snapjaw\|Snapjaw]]     | Future chief of the Lizardmen tribe | \-       |
+| File                                             | description                         | deceased |
+| ------------------------------------------------ | ----------------------------------- | -------- |
+| [[Characters/Suncaller\|Suncaller]]   | Former chief of Lizardfolk tribe    | true     |
+| [[Characters/Snapjaw\|Snapjaw]]       | Future chief of the Lizardmen tribe | \-       |
+| [[Characters/Lizardfolk\|Lizardfolk]] | \-                                  | false    |
 
 ## Locaties:
 - [[Atlas/Sword Coast/Mere of Dead Men/index]] (vrouwen en kinderen)

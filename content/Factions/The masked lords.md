@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The masked lords","created":"2025-07-16","modified":"2025-07-21T13:07:46.162+02:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"The masked lords","created":"2025-07-16","modified":"2025-07-22T22:58:29.385+02:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # The masked lords

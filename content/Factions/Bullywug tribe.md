@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Bullywug stam","created":"2025-07-15","modified":"2025-07-21T20:42:43.152+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Bullywug stam","created":"2025-07-15","modified":"2025-07-22T22:59:11.109+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Bullywug tribe
@@ -21,6 +21,6 @@ Bondgenoten:
 - [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]
 
 Vijand:
-- [[Races/lizardfolk\|Lizardfolk]]
+- [[Races/lizardfolk\|lizardfolk]]
 - [[Characters/Snapjaw\|Snapjaw]]
 

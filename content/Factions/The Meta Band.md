@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Meta Band","created":"2025-07-16","modified":"2025-07-21T19:14:58.899+02:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"The Meta Band","created":"2025-07-16","modified":"2025-07-22T22:58:44.027+02:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # The Band

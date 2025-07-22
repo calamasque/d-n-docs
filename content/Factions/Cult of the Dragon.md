@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"D r a g o n K n e e l e r s","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-21T20:42:43.153+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"Dragon Kneelers cultist cultists","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-22T22:33:32.610+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Cult of the Dragon
@@ -12,8 +12,8 @@
 | [[Characters/Voaraghammanthar\|Voaraghammanthar]]                   | \-                           | \-       |
 | [[Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
 | [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
-| [[Characters/Dragonwing(s)\|Dragonwing(s)]]                         | \-                           | \-       |
-| [[Characters/Cult of the Dragon cultist(s)\|Cult of the Dragon guards]] | \-                           | \-       |
+| [[Characters/Dragonwing\|Dragonwing(s)]]                         | \-                           | \-       |
+| [[Characters/Initiate\|Cult of the Dragon guards]] | \-                           | \-       |
 | [[Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
 
 

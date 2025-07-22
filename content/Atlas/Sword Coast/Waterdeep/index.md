@@ -1,8 +1,14 @@
 ---
-{"publish":true,"aliases":"Waterdeep","title":"Waterdeep","created":"2025-07-15","modified":"2025-07-21T19:14:24.479+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"Waterdeep","title":"Waterdeep","created":"2025-07-15","modified":"2025-07-22T13:19:53.746+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Waterdeep
+## Locations
+| File                                                                   | Path                                         |
+| ---------------------------------------------------------------------- | -------------------------------------------- |
+| [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]] | content/Atlas/Sword Coast/Waterdeep/index.md |
+| [[Adventures/003 - Deep Water\|003 - Deep Water]]           | content/Atlas/Sword Coast/Waterdeep/index.md |
+
 
 ## Featured
 - [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]

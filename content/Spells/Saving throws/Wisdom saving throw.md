@@ -3,7 +3,8 @@
 ---
 
 # Wisdom saving throw
-| Spell                                      | Level |
-| ------------------------------------------ | ----- |
-| [[Spells/Polymorph\|Polymorph]] | 4     |
+| Spell                                                        | Level |
+| ------------------------------------------------------------ | ----- |
+| [[Spells/Polymorph\|Polymorph]]                   | 4     |
+| [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 4     |
 
