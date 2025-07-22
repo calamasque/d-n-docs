@@ -1,42 +1,13 @@
 ---
-title: The Crazy Frog Song
-publish: true
-aliases: 
-description: 
-type: session
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-session_num: 9
-session_date: 2025-06-25
-location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index|Castle Naerytar]]"
-PCs:
-  - "[[Dr. Egbert]]"
-  - "[[Metatron]]"
-  - "[[SmogEater]]"
-  - "[[Szuszi]]"
-  - "[[Agrip’Ah]]"
-NPCs:
-  - "[[Pharblex Spattergoo]]"
-  - "[[Rezmir]]"
-mentions: 
-combats:
-  - "[[Pharblex Spattergoo]]"
-  - "[[Bullywug tribe]]"
-  - "[[Cult of the Dragon guard]]"
-game_date: 1489 DR
-date: 2025-06-25
-last_modified: 2025-07-15
-tags: 
+{"publish":true,"title":"The Crazy Frog Song","created":"2025-06-25","modified":"2025-07-21T20:46:20.304+02:00","published":"2025-06-25","cssclasses":""}
 ---
+
 ## Session Summary
 
 ## Recap of last session
 
 ## Log
-Een poging om [[Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
+Een poging om [[Characters/Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik Pharblex. We werden weggestuurd uit het heiligdom waarop Dr. Egbert besloot de aanval te openen met een compleet mislukte Eldritch Blast. 
 
 Gang = chokehold
 
@@ -71,5 +42,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Characters/Rezmir]]
 

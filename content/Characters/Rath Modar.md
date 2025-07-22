@@ -1,31 +1,7 @@
 ---
-title: Rath Modar
-publish: true
-aliases: 
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: 
-family: 
-faction:
-  - "[[Red Wizards of Thay|Red Wizards of Thay]]"
-race: 
-gender: 
-class:
-  - wizard
-shop: 
-location: 
-origin: 
-game_date: 1489 DR
-image: 
-date: 2025-06-30
-last_modified: 2025-06-30
-tags: 
+{"publish":true,"title":"Rath Modar","created":"2025-06-30","modified":"2025-07-21T12:33:06.799+02:00","published":"2025-06-30","cssclasses":""}
 ---
+
 # Rath Modar
 
 ## Character summary

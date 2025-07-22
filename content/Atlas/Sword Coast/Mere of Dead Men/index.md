@@ -1,53 +1,17 @@
 ---
-title: Mere of Dead Men
-publish: true
-aliases:
-  - Mere of Dead Men
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: place
-locationType: swamp
-leaders:
-  - "[[Pharblex Spattergoo]]"
-  - "[[Suncaller]]"
-image: 
-date: 2025-07-14
-last_modified: 2025-07-14
-tags:
+{"publish":true,"aliases":"Mere of Dead Men","title":"Mere of Dead Men","created":"2025-07-14","modified":"2025-07-21T19:14:38.656+02:00","published":"2025-07-14","cssclasses":""}
 ---
+
 # Mere of Dead Men
 ## Featured
-```dataview
+| Sessie | Avontuur                                           | Datum          |
+| ------ | -------------------------------------------------- | -------------- |
+| 5      | [[Adventures/005 - Eye Know\|Eye Know]] | March 02, 2025 |
 
-TABLE 
-	WITHOUT ID
-	session_num AS "Sessie", 
-	link(file.link,title) AS "Avontuur", 
-	session_date AS "Datum"
-FROM 
-	"content/Adventures"
-WHERE 
-	contains(location, this.file.name) or 
-	contains(location, link(this.file.name))
-SORT 
-	session_num ASC
-
-```
 ## People
-```dataview
+| File                                                               | Faction                                                                           | Description                         |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
+| [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]] | <ul><li>[[Factions/Bullywug tribe.md\\|Bullywug tribe]]</li></ul>         | Chief of Bullywug tribe             |
+| [[Characters/Snapjaw\|Snapjaw]]                         | <ul><li>[[Factions/Lizardfolk tribe.md\\|Lizardfolk tribe]]</li></ul>     | Future chief of the Lizardmen tribe |
+| [[Characters/Voaraghammanthar\|Voaraghammanthar]]       | <ul><li>[[Factions/Cult of the Dragon.md\\|Cult of the Dragon]]</li></ul> | \-                                  |
 
-TABLE 
-	faction as Faction, 
-	description as Description 
-FROM 
-	"content/Characters"
-WHERE 
-	contains(type, "NPC") AND 
-	(contains(location, this.file.name) OR contains(location, link(this.file.name)))
-SORT 
-	file.name ASC
-
-```

@@ -1,55 +1,28 @@
 ---
-title: Pharblex Spattergoo
-publish: true
-aliases: 
-description: Chief of Bullywug tribe
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: true
-family:
-  - "[[Bullywug tribe|Bullywug tribe]]"
-faction:
-  - "[[Bullywug tribe|Bullywug tribe]]"
-race: "[[bullywug]]"
-gender: male
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
-origin:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
-game_date: 1489 DR
-image: "![[Pharblex_spattergoo-5e.webp]]"
-date: 
-last_modified: 
-tags: 
+{"publish":true,"title":"Pharblex Spattergoo","description":"Chief of Bullywug tribe","created":"2025-07-21T16:58:46.949+02:00","modified":"2025-07-21T20:42:43.136+02:00","published":"2025-07-21T20:42:43.136+02:00","cssclasses":"","socialImage":"![[public/_media/Pharblex_spattergoo-5e.webp]]"}
 ---
+
 
 | Image                                               |
 | --------------------------------------------------- |
 | ![[_media/Pharblex_spattergoo-5e.webp\|300]] |
 
 ## Character Summary
-- Leider van de [[Bullywug tribe]] in [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
-- Heeft een persoonlijk altaar in de grotten onder [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
-- Heeft een persoonlijke kamer in het kwartier van de  [[Bullywug tribe]] in [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]].
-- Stierf als een lafaard en leidde zo het definitieve einde in van de [[Bullywug tribe]].
-- Gedood door [[Szuszi]]
+- Leider van de [[Factions/Bullywug tribe]] in [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Heeft een persoonlijk altaar in de grotten onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Heeft een persoonlijke kamer in het kwartier van de  [[Factions/Bullywug tribe]] in [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]].
+- Stierf als een lafaard en leidde zo het definitieve einde in van de [[Factions/Bullywug tribe]].
+- Gedood door [[Characters/Metatron and The Meta Band/Szuszi]]
 ## Items
 - Hoed: krokodillenkop
 - Lichte bepansering
-- Staff (taken by [[Metatron]])
+- Staff (taken by [[Characters/Metatron and The Meta Band/Metatron]])
 - Skull of Guts
 ## Featured
-- [[010 - I Would Die 4 You]]
+- [[Adventures/010 - I Would Die 4 You]]
 - [[009 - Name this adventure]]
-- [[008 - Smoggi Watch The Stars]]
-- [[007 - Gargoyle]]
+- [[Adventures/008 - Smoggi Watch The Stars]]
+- [[Adventures/007 - Gargoyle]]
 
 
 

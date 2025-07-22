@@ -1,34 +1,20 @@
 ---
-title: The Meta Band
-publish: true
-aliases: 
-description: 
-type: faction
-faction_type:
-  - avonturiers
-alignment: neutral
-symbol: 
-goals: 
-scope: "[[content/Atlas/Sword Coast/index]]"
-headquarters: 
-image: 
-date: 2025-07-16
-last_modified: 2025-07-15
-tags: 
+{"publish":true,"title":"The Meta Band","created":"2025-07-16","modified":"2025-07-21T19:14:58.899+02:00","published":"2025-07-16","cssclasses":""}
 ---
+
 # The Band
 
-Lead: [[Metatron]]
+Lead: [[Characters/Metatron and The Meta Band/Metatron]]
 
 Support:
-- [[Agrip’Ah]]
-- [[Dr. Egbert]]
-- [[SmogEater]]
-- [[Szuszi]]
-- [[Waldo]]
+- [[Characters/Metatron and The Meta Band/Agrip’Ah]]
+- [[Characters/Metatron and The Meta Band/Dr. Egbert]]
+- [[Characters/Metatron and The Meta Band/SmogEater]]
+- [[Characters/Metatron and The Meta Band/Szuszi]]
+- [[Characters/Metatron and The Meta Band/Waldo]]
 
 Roadies:
-- [[Manni]]
-- [[Sanni]]
-- [[Tu’aven]]
+- [[Characters/Manni]]
+- [[Characters/Sanni]]
+- [[Characters/Tu’aven]]
 

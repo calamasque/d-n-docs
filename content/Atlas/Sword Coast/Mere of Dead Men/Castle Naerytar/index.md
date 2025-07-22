@@ -1,54 +1,26 @@
 ---
-title: Castle Naerytar
-publish: true
-aliases: 
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: place
-locationType: castle
-leaders: 
-- "[[Rezmir]]"
-- "[[Dralmorrer Borngray]]"
-image: 
-date: 2025-07-14
-last_modified: 2025-07-14
-tags: 
+{"publish":true,"title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-21T20:43:51.665+02:00","published":"2025-07-14","cssclasses":""}
 ---
+
 # Castle Naerytar
 
 ## NPCs
-```dataview
+| File                                                                                   | Description                                   |
+| -------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [[Characters/Cult of the Dragon cultist(s)\|Cult of the Dragon cultist(s)]] | \-                                            |
+| [[Characters/Dragonclaw(s)\|Dragonclaw(s)]]                                 | \-                                            |
+| [[Characters/Dragonwing(s)\|Dragonwing(s)]]                                 | \-                                            |
+| [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]                     | Caretaker of Castle Naerytar                  |
+| [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]]                   | Red wizard werkt samen met Cult of the Dragon |
+| [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]]                     | Chief of Bullywug tribe                       |
+| [[Characters/Rezmir\|Rezmir]]                                               | Cult of the Dragon leader                     |
+| [[Characters/Snapjaw\|Snapjaw]]                                             | Future chief of the Lizardmen tribe           |
+| [[Characters/Suncaller\|Suncaller]]                                         | Former chief of Lizardfolk tribe              |
 
-TABLE 
-	description as Description 
-FROM 
-	"content/Characters" OR "content/Monsters"
-WHERE 
-	(contains(type, "NPC") OR
-	contains(type, "NPC")) AND 
-	(contains(location, this.file.name) OR contains(location, link(this.file.name)))
-SORT 
-	file.name ASC
-
-```
 
 ## Featured
-```dataview
+| Sessie | Avontuur                                     | Datum         |
+| ------ | -------------------------------------------- | ------------- |
+| \-     | [[Adventures/index\|Adventures]]  | \-            |
+| 11     | [[Adventures/011 - Zzzzz\|Zzzzz]] | July 15, 2025 |
 
-TABLE 
-	WITHOUT ID
-	session_num AS "Sessie", 
-	link(file.link,title) AS "Avontuur", 
-	session_date AS "Datum"
-FROM 
-	"content/Adventures"
-WHERE 
-	contains(location, this.file.title) or 
-	contains(location, link(this.file.title))
-SORT 
-	session_num ASC
-
-```

@@ -1,27 +1,12 @@
 ---
-title: Items
-publish: true
-aliases:
-  - items
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: index
-tags: 
-image: 
-date: 2025-07-21
-last_modified: 2025-07-16
+{"publish":true,"aliases":"items","title":"Items","created":"2025-07-21","modified":"2025-07-21T19:59:52.579+02:00","published":"2025-07-21","cssclasses":""}
 ---
+
 # Items
-```dataview
-TABLE
-	WITHOUT ID
-	link(file.link,title) AS Item,
-	description AS Description,
-	("[[" + owner + "]]") AS Owner
-FROM "content/Items"
-WHERE type = "item"
-```
+| Item                                                      | Description                                                   | Owner         |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------- |
+| [[Items/Pipes of Haunting\|Pipes of Haunting]] | The infamous instrument killing audiences all over the place. | [[Characters/Metatron and The Meta Band/Metatron]]  |
+| [[Items/Dragon Egg\|Dragon Egg]]               | Probably valuable.                                            | [[Characters/Metatron and The Meta Band/SmogEater]] |
+| [[Items/Bog Luck's Sword\|Bog Luck's Sword]]   | Nothing special, just a sword.                                | [[Characters/Metatron and The Meta Band/Metatron]]  |
+
 

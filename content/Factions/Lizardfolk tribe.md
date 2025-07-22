@@ -1,48 +1,32 @@
 ---
-title: Lizardfolk tribe
-publish: true
-aliases: 
-description: 
-type: faction
-faction_type:
-- stam
-alignment: 
-symbol:
-goals:
-scope: [[Mere of Dead Men]]
-headquarters: [[Castle Naerytar]] 
-image: 
-date: 2025-07-16
-last_modified: 2025-07-16
-tags: 
+{"publish":true,"title":"Lizardfolk tribe","created":"2025-07-16","modified":"2025-07-21T20:42:43.154+02:00","published":"2025-07-16","cssclasses":""}
 ---
+
 # Lizardfolk tribe
 
 # Lizardfolk tribe
 
 ## Members
-```dataview
-table
-description, deceased
-FROM "content/Characters" or "content/The Band"
-WHERE contains(faction, this.file.name) or contains(faction, link(this.file.name))
-SORT file.name DESC
-```
+| File                                           | description                         | deceased |
+| ---------------------------------------------- | ----------------------------------- | -------- |
+| [[Characters/Suncaller\|Suncaller]] | Former chief of Lizardfolk tribe    | true     |
+| [[Characters/Snapjaw\|Snapjaw]]     | Future chief of the Lizardmen tribe | \-       |
+
 ## Locaties:
-- [[content/Atlas/Sword Coast/Mere of Dead Men/index]] (vrouwen en kinderen)
-- [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] (mannen)
+- [[Atlas/Sword Coast/Mere of Dead Men/index]] (vrouwen en kinderen)
+- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] (mannen)
 ## Allies:
-- [[Dralmorrer Borngray]]
-- [[The Meta Band]]
+- [[Characters/Dralmorrer Borngray]]
+- [[Factions/The Meta Band]]
 ## Enemies:
-- [[Pharblex Spattergoo]]
-- [[Bullywug tribe]] 
+- [[Characters/Pharblex Spattergoo]]
+- [[Factions/Bullywug tribe]] 
 ## Gebeurtenissen:
-- 3 kano's met Lizardfolk van de [[Lizardfolk tribe]] passeren onze helden in de [[content/Atlas/Sword Coast/Mere of Dead Men/index]]. [[SmogEater]] luistert hun gesprek af (zie "Meningen").
-- [[The Meta Band]] belooft [[Snapjaw]] en de [[Lizardfolk tribe]] om de [[Bullywug tribe]] in een kwaad daglicht te brengen bij de [[Cult of the Dragon]]. 
+- 3 kano's met Lizardfolk van de [[Factions/Lizardfolk tribe]] passeren onze helden in de [[Atlas/Sword Coast/Mere of Dead Men/index]]. [[Characters/Metatron and The Meta Band/SmogEater]] luistert hun gesprek af (zie "Meningen").
+- [[Factions/The Meta Band]] belooft [[Characters/Snapjaw]] en de [[Factions/Lizardfolk tribe]] om de [[Factions/Bullywug tribe]] in een kwaad daglicht te brengen bij de [[Factions/Cult of the Dragon]]. 
 ## Meningen:
-- Hebben een hekel aan de [[Dragon kneelers]] en de [[Bullywug tribe]]
-- Respecteren [[Dralmorrer Borngray]] omdat hij hen beter behandelt dan [[Pharblex Spattergoo]] en omdat hij hen "staal geeft".
-- Hebben respect voor [[Snapjaw]] en luisteren wanneer hij wat te zeggen heeft.
-- Luisteren naar [[Rezmir]]
+- Hebben een hekel aan de [[Dragon kneelers]] en de [[Factions/Bullywug tribe]]
+- Respecteren [[Characters/Dralmorrer Borngray]] omdat hij hen beter behandelt dan [[Characters/Pharblex Spattergoo]] en omdat hij hen "staal geeft".
+- Hebben respect voor [[Characters/Snapjaw]] en luisteren wanneer hij wat te zeggen heeft.
+- Luisteren naar [[Characters/Rezmir]]
 

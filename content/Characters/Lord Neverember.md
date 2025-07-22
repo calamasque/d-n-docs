@@ -1,34 +1,9 @@
 ---
-title: Lord Neverember
-publish: true
-aliases:
-  - Unmasked Lord
-description: Lord of Neverwinter. Unmasked lord of Waterdeep.
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: 
-family: 
-faction:
-  - "[[The masked lords]]"
-race: 
-gender: male
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Waterdeep/index]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 2025-07-04
-last_modified: 2025-07-04
-tags: 
+{"publish":true,"aliases":"Unmasked Lord","title":"Lord Neverember","description":"Lord of Neverwinter. Unmasked lord of Waterdeep.","created":"2025-07-04","modified":"2025-07-21T19:14:15.042+02:00","published":"2025-07-04","cssclasses":""}
 ---
-* De "Unmasked Lord" van de [[The masked lords]] van [[content/Atlas/Sword Coast/Waterdeep/index]].
+
+* De "Unmasked Lord" van de [[Factions/The masked lords]] van [[Atlas/Sword Coast/Waterdeep/index]].
 * Lord van [[Neverwinter]].
 * Betaald voor de 
-* Betaald voor de herstelwerkzaamheden aan [[The High Road]] tussen [[content/Atlas/Sword Coast/Waterdeep/index]] en [[Neverwinter]].
+* Betaald voor de herstelwerkzaamheden aan [[The High Road]] tussen [[Atlas/Sword Coast/Waterdeep/index]] en [[Neverwinter]].
 

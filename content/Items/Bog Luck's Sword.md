@@ -1,17 +1,5 @@
 ---
-title: Bog Luck's Sword
-publish: true
-aliases: 
-description: Nothing special, just a sword.
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: item
-owner: Metatron
-tags: 
-image: 
-date: 2025-07-21
-last_modified: 2025-07-20
+{"publish":true,"title":"Bog Luck's Sword","description":"Nothing special, just a sword.","created":"2025-07-21","modified":"2025-07-21T19:54:34.788+02:00","published":"2025-07-21","cssclasses":""}
 ---
+
 Nothing special, just a sword.

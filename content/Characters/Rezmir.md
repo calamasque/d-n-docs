@@ -1,33 +1,9 @@
 ---
-title: Rezmir
-publish: true
-aliases: 
-description: Cult of the Dragon leader
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: 
-family: 
-faction:
-  - "[[Cult of the Dragon]]"
-race: "[[half-dragon]]"
-gender: female
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 
-last_modified: 
-tags: 
+{"publish":true,"title":"Rezmir","description":"Cult of the Dragon leader","created":"2025-07-21T12:33:50.518+02:00","modified":"2025-07-21T20:42:43.137+02:00","published":"2025-07-21T20:42:43.137+02:00","cssclasses":""}
 ---
+
 ## Character Summary
-- leidend figuur in de [[Cult of the Dragon]].
+- leidend figuur in de [[Factions/Cult of the Dragon]].
 - half-draak
 
 ## Featured

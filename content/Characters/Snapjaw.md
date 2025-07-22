@@ -1,48 +1,22 @@
 ---
-title: Snapjaw
-publish: true
-aliases:
-  - Future chief of the Lizardmen tribe
-description: Future chief of the Lizardmen tribe
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: 
-family: 
-faction:
-  - "[[Lizardfolk tribe]]"
-race: "[[lizardfolk]]"
-gender: male
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/index]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 2025-07-05
-last_modified: 2025-07-05
-tags: 
+{"publish":true,"aliases":"Future chief of the Lizardmen tribe","title":"Snapjaw","description":"Future chief of the Lizardmen tribe","created":"2025-07-05","modified":"2025-07-21T20:42:43.139+02:00","published":"2025-07-05","cssclasses":""}
 ---
+
 # Snapjaw
 
 ## Character summary
 * 
 
 ## Featured
-- [[010 - I Would Die 4 You]]
-- [[006 - Short Skirmish - Long Jacket]]
+- [[Adventures/010 - I Would Die 4 You]]
+- [[Adventures/006 - Short Skirmish - Long Jacket]]
 
 
 ## Log
 * 
 
 Details:
-- Leider van de [[Lizardfolk]] van de [[content/Atlas/Sword Coast/Mere of Dead Men/index]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Leider van de [[Races/lizardfolk]] van de [[Atlas/Sword Coast/Mere of Dead Men/index]] en [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 
 Avonturen:
-- [[006 - Short Skirmish - Long Jacket]]
+- [[Adventures/006 - Short Skirmish - Long Jacket]]

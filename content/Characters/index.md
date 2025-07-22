@@ -1,35 +1,23 @@
 ---
-title: Characters
-publish: true
-aliases:
-  - characters
+{"publish":true,"aliases":"characters","title":"Characters","created":"2025-07-14T19:29:48.792+02:00","modified":"2025-07-21T19:15:34.713+02:00","published":"2025-07-21T19:15:34.713+02:00","cssclasses":""}
 ---
+
 ## DataviewJS
-```dataviewjs
-for (let group of dv.pages('"content/Characters"').where(p => p.type === "NPC").groupBy(c => c.campaign)) {
-	dv.table(["NPC","Locatie"],
-	group.rows
-		.where(p => p.type === "NPC")
-		.sort(p => p.title)
-		.map(p => [p.file.link,p.location]))
-}
-```
+|NPC7|Locatie|
+|---|---|
+|[[Characters/Barman Pete\|Barman Pete]]|- [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]|
+|[[Characters/Bog Luck\|Bog Luck]]|- [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]|
+|[[Characters/Cult of the Dragon cultist\(s\|Cult of the Dragon cultist(s)]])|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|index]]|
+|[[Characters/Dragonclaw\(s\|Dragonclaw(s)]])|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|index]]|
+|[[Characters/Elvira Blacktree\|Elvira Blacktree]]|- [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]|
+|[[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]|- [[Atlas/Sword Coast/Waterdeep/index\|index]]<br>- [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]|
+|[[Characters/Lenniton\|Lenniton]]|-|
 ## Dataview
-```dataview
+| Location                                                                       | NPCs                                                                                                                                                           |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]          | [[Characters/Barman Pete\|Barman Pete]], [[Characters/Bog Luck\|Bog Luck]], [[Characters/Elvira Blacktree\|Elvira Blacktree]] |
+| [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|index]] | [[Characters/Cult of the Dragon cultist(s)\|Cult of the Dragon cultist(s)]], [[Characters/Dragonclaw(s)\|Dragonclaw(s)]]                 |
+| [[Atlas/Sword Coast/Waterdeep/index\|index]]                        | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]                                                                                     |
+| [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]    | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]                                                                                     |
 
-TABLE WITHOUT ID
-
-flattenedLocation AS "Location",
-
-join(rows.file.link, ", ") AS "NPCs"
-
-FROM "content/Characters"
-
-WHERE type = "NPC" and location
-
-FLATTEN location AS flattenedLocation
-
-GROUP BY flattenedLocation
-
-```
 

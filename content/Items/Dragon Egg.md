@@ -1,17 +1,5 @@
 ---
-title: Dragon Egg
-publish: true
-aliases: 
-description: Probably valuable.
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: item
-owner: SmogEater
-tags: 
-image: 
-date: 2025-07-21
-last_modified: 2025-07-20
+{"publish":true,"title":"Dragon Egg","description":"Probably valuable.","created":"2025-07-21","modified":"2025-07-21T19:54:28.118+02:00","published":"2025-07-21","cssclasses":""}
 ---
+
 Het draken ei waar het allemaal mee begon.

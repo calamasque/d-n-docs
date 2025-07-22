@@ -1,33 +1,13 @@
 ---
-title: Faerûn
-publish: true
-aliases: BFer
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: place
-locationType: region
-leaders: 
-image: 
-date: 2025-07-02
-last_modified: 2025-07-02
-tags: 
+{"publish":true,"aliases":"B F e r","title":"Faerûn","created":"2025-07-02","modified":"2025-07-20T15:39:05.147+02:00","published":"2025-07-02","cssclasses":""}
 ---
+
 # Faerûn
-Beroemde inwoners van Faeûn zoals [[Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
+Beroemde inwoners van Faeûn zoals [[Characters/Metatron and The Meta Band/Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
 
 ## Locations
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(location, this.file.name) or contains(location, link(this.file.name))
-SORT file.name DESC
-```
+
 ## People
-```dataview
-table faction as Factie, description as Beschrijving
-WHERE contains(type, "NPC") and (contains(location, this.file.name) or contains(location, link(this.file.name)))
-SORT file.name ASC
-```
+| File | Factie | Beschrijving |
+| ---- | ------ | ------------ |
+

@@ -1,42 +1,13 @@
 ---
-title: Suncaller
-publish: true
-aliases: 
-description: Former chief of Lizardfolk tribe
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type:
-  - NPC
-deceased: true
-family:
-  - "[[Lizardfolk tribe]]"
-faction:
-  - "[[Lizardfolk tribe]]"
-race: "[[lizardfolk]]"
-gender: male
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 2025-07-05
-last_modified: 2025-07-05
-tags: 
+{"publish":true,"title":"Suncaller","description":"Former chief of Lizardfolk tribe","created":"2025-07-05","modified":"2025-07-21T20:42:43.142+02:00","published":"2025-07-05","cssclasses":""}
 ---
+
 # Suncaller
 
 ## Character summary
-* Vorige leider van de [[Lizardfolk]] van de [[content/Atlas/Sword Coast/Mere of Dead Men/index]] en [[content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
-- Gedood door [[Pharblex Spattergoo]]
+* Vorige leider van de [[Races/lizardfolk]] van de [[Atlas/Sword Coast/Mere of Dead Men/index]] en [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
+- Gedood door [[Characters/Pharblex Spattergoo]]
 ## Featured / mentions
-```dataview
-list
-FROM "content/Adventures"
-WHERE contains(NPCs, this.file.name) or contains(NPCs, link(this.file.name)) or contains(mentions, this.file.name) or contains(mentions, link(this.file.name)) or contains(encounters, this.file.name) or contains(encounters, link(this.file.name))
-SORT file.name DESC
-```
+- [[Adventures/006 - Short Skirmish - Long Jacket\|006 - Short Skirmish - Long Jacket]]
+
 

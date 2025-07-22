@@ -1,38 +1,13 @@
 ---
-title: Lady Remallia Haventree
-publish: true
-aliases: 
-description: Harper leadership
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: NPC
-deceased: 
-family:
-  - "[[Lord Ulbrinter]]"
-faction:
-  - "[[Harpers]]"
-race: "[[high elf]]"
-gender: female
-class: 
-shop: 
-location:
-  - "[[content/Atlas/Sword Coast/Waterdeep/index]]"
-  - "[[Ulbrinter Villa]]"
-origin: 
-game_date: 1489 DR
-image: 
-date: 
-last_modified: 
-tags: 
+{"publish":true,"title":"Lady Remallia Haventree","description":"Harper leadership","created":"2025-07-21T12:25:18.753+02:00","modified":"2025-07-21T19:14:15.038+02:00","published":"2025-07-21T19:14:15.038+02:00","cssclasses":""}
 ---
+
 # Character Summary
-Lady Remallia Haventree heeft een belangrijke positie binnen de Harpers en in de stad [[content/Atlas/Sword Coast/Waterdeep/index]]. 
+Lady Remallia Haventree heeft een belangrijke positie binnen de Harpers en in de stad [[Atlas/Sword Coast/Waterdeep/index]]. 
 
 # Verhaal:
-- [[Agrip'Ah]] en [[Metatron]] bezoeken [[Ulbrinter Villa]] om in contact te komen met [[Lady Remallia Haventree]].
-- Zij is een oude bekende van Metatron's vermoorde mentor [[Lorcil Silkhands]]  en tevens lid van de Harpers. 
+- [[Agrip'Ah]] en [[Characters/Metatron and The Meta Band/Metatron]] bezoeken [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]] om in contact te komen met [[Characters/Lady Remallia Haventree]].
+- Zij is een oude bekende van Metatron's vermoorde mentor [[Characters/Lorcil Silkhands]]  en tevens lid van de Harpers. 
 - 
 # Featured
 

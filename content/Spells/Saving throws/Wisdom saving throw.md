@@ -1,21 +1,9 @@
 ---
-title: Wisdom saving throw
-publish: true
-aliases: 
-description: 
-type: index
-tags: 
-image: 
-date: 2025-07-21
-last_modified: 2025-07-21
+{"publish":true,"title":"Wisdom saving throw","created":"2025-07-21","modified":"2025-07-21T19:18:19.571+02:00","published":"2025-07-21","cssclasses":""}
 ---
+
 # Wisdom saving throw
-```dataview
-TABLE 
-	WITHOUT ID
-	link(file.link, title) AS "Spell",
-	level AS "Level"
-FROM "content/Spells"
-WHERE type = "spell" AND contains(saving_throw, "Wisdom")
-SORT level ASC
-```
+| Spell                                      | Level |
+| ------------------------------------------ | ----- |
+| [[Spells/Polymorph\|Polymorph]] | 4     |
+

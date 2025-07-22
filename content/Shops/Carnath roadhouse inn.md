@@ -1,14 +1,5 @@
 ---
-title: Carnath roadhouse lodgings
-publish: true
-aliases: 
-description: 
-type: shop
-shop_type: 
-- inn
-tags: 
-image: 
-date: 2025-07-15
-last_modified: 2025-07-14
+{"publish":true,"title":"Carnath roadhouse lodgings","created":"2025-07-15","modified":"2025-07-16T14:05:27.323+02:00","published":"2025-07-15","cssclasses":""}
 ---
+
 # Carnath roadhouse lodgings

@@ -1,22 +1,8 @@
 ---
-title: Races
-publish: true
-aliases:
-  - races
-description: 
-world:
-  - "[[Forgotten Realms]]"
-campaign:
-  - "[[Hoard of the Dragon Queen]]"
-type: index
-tags: 
-image: 
-date: 2025-07-16
-last_modified: 2025-07-16
+{"publish":true,"aliases":"races","title":"Races","created":"2025-07-16","modified":"2025-07-21T20:10:55.686+02:00","published":"2025-07-16","cssclasses":""}
 ---
+
 # Races
-```dataview
-LIST
-FROM "content/Races"
-WHERE type = "race"
-```
+- [[Races/bullywug\|bullywug]]
+- [[Races/lizardfolk\|lizardfolk]]
+
