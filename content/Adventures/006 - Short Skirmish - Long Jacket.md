@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-07-22T21:22:54.698+02:00","published":"2025-03-23","cssclasses":""}
+{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-07-23T13:13:50.490+02:00","published":"2025-03-23","cssclasses":""}
 ---
 
 

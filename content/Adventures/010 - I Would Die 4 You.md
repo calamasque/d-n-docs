@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"I Would Die 4 You","description":"No more wasting time discussing important decisions.\nWe jump into the fight head first.\nMetatron is about to lose his head first, Pharblex wins.","created":"2025-07-06","modified":"2025-07-22T23:25:32.399+02:00","published":"2025-07-06","cssclasses":""}
+{"publish":true,"title":"I Would Die 4 You","description":"No more wasting time discussing important decisions.\nWe jump into the fight head first.\nMetatron is about to lose his head first, Pharblex wins.","created":"2025-07-06","modified":"2025-07-23T21:02:58.377+02:00","published":"2025-07-06","cssclasses":""}
 ---
 
 # Recap
@@ -20,7 +20,7 @@
 ### In het kort
 - [[Characters/Metatron and The Meta Band/Szuszi]] coacht [[Characters/Pharblex Spattergoo\|Pharblex]] voor zijn eerste optreden als public speaker.
 - [[Characters/Pharblex Spattergoo\|Pharblex]] is geen man van het/zijn woord en duikt, [[Characters/Metatron and The Meta Band/Szuszi]] laat zijn teleurstelling blijken.
-- We staan oog-in-oog met [[Characters/Dralmorrer Borngray]] en 15 [[Factions/Cult of the Dragon\|cultists]]: ==(aantal)== [[Characters/Dragonclaw]] en ==(aantal)== [[Characters/Initiate]].
+- We staan oog-in-oog met [[Characters/Dralmorrer Borngray]] en 15 [[Factions/Cult of the Dragon\|cultists]]: ==(aantal)== [[Characters/Dragonclaw\|Dragonclaws]] en ==(aantal)== [[Characters/Initiate\|initiates]].
 - [[Characters/Dralmorrer Borngray\|Drambuie]]'s versterkingen arriveren: 6 [[Characters/Dragonwing]], 6 [[Characters/Bullywug\|bullywugs]] en 2 [[Monsters/Dragon/Drake\|Drakes]]
 - De spanning is om te snijden: 
 	- [[Characters/Metatron and The Meta Band/Metatron]] voert al een Oscar-waardige sterfscene op als [[Characters/Metatron and The Meta Band/SmogEater\|Smoggi]] hem toch nog redt.
@@ -61,7 +61,7 @@
 >
 >> [!info]- Ronde 2
 >> - Het eerste wat de gearriveerde [[Characters/Bullywug\|bullywugs]] zien is hoe [[Characters/Metatron and The Meta Band/Szuszi]] hun leider [[Characters/Pharblex Spattergoo]] van het leven beroofd. 
->> - Dit is voor [[Characters/Metatron and The Meta Band/Metatron]] het teken om zich met [[misty step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Items/Pipes of Haunting]] te spelen. De [[Characters/Bullywug]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 [[Characters/Initiate\|initiates]] en 1 [[Characters/Dragonclaw]].
+>> - Dit is voor [[Characters/Metatron and The Meta Band/Metatron]] het teken om zich met [[Spells/Misty Step]] te verplaatsen naar de andere kant van de kamer en daar weer op zijn [[Items/Pipes of Haunting]] te spelen. De [[Characters/Bullywug]] zitten niet lekker in hun vel en zijn allemaal frightened. Datzelfde geldt voor 2 [[Characters/Initiate\|initiates]] en 1 [[Characters/Dragonclaw]].
 >> - [[Characters/Metatron and The Meta Band/Dr. Egbert]] gooit een fles met explosieven richting 1 van de [[Characters/Dragonclaw]] maar de pot land op de grond zonder te breken.
 >> - [[Characters/Metatron and The Meta Band/SmogEater]] doet wat hij het beste doet en dat is hakken: 2 cultists nemen daardoor vroegtijdig afscheid van deze wereld.
 >> - 1 [[Characters/Dragonclaw]] rent door de deur richting [[Characters/Metatron and The Meta Band/Agrip’Ah]] maar wordt door zowel [[Characters/Metatron and The Meta Band/Dr. Egbert]] als [[Characters/Metatron and The Meta Band/Szuszi]] geraakt en ziet het witte licht al maar weet nog net [[Characters/Metatron and The Meta Band/Agrip’Ah]] te raken. Hij wordt gevolgd door een vluchtende cultist.
@@ -77,14 +77,14 @@
 >> -  [[Characters/Metatron and The Meta Band/Dr. Egbert]] cast wederom [[Arms of Hadar]] waardoor [[Characters/Metatron and The Meta Band/Metatron]] en zijn publiek - waaronder [[Characters/Dralmorrer Borngray]] in de duisternis verdwijnen.
 >> -  [[Characters/Metatron and The Meta Band/SmogEater]] hakt lekker door en weet 1 [[Characters/Dragonclaw]] en 2 [[cultists]] naar het hiernamaals te sturen.
 >> -  De overgebleven [[cultists]]  lopen wat rond. De 2 [[Monsters/Dragon/Drake]] lopen schade op door de [[Arms of Hadar]], 1 doet [[Characters/Metatron and The Meta Band/Metatron]] schade met zijn staart.
->> -  [[Characters/Metatron and The Meta Band/Agrip’Ah]] cast [Mindsliver]] en 2 cultist krijgen schade en een duw richting [[Arms of Hadar]] waardoor 1 er in verdwijnt.
+>> -  [[Characters/Metatron and The Meta Band/Agrip’Ah]] cast [[Spells/Mind Sliver]] en 2 cultist krijgen schade en een duw richting [[Arms of Hadar]] waardoor 1 er in verdwijnt.
 >> -  [[Characters/Dralmorrer Borngray]] loopt naar buiten buiten het bereik van de [[Arms of Hadar]] en zegt iets in het Elvish. Is het een spreuk? [[Characters/Metatron and The Meta Band/Metatron]] snapt er niets van.
 >> -  4 [[Characters/Dragonwing]] vallen [[Characters/Metatron and The Meta Band/Metatron]] aan en weten hem fataal te raken - hij stort Oscarwaardig ter aarde. 
 >> -  De [[Characters/Dragonwing]] vliegen (!) vervolgens de lucht in en bewegen buiten bereik van de [[Arms of Hadar]].
 >> -  [[Characters/Metatron and The Meta Band/SmogEater]] wordt ook nog aangevallen maar brengt het er zonder schade vanaf. 
 >
 >> [!info]- Ronde 4
->> -  [[Characters/Metatron and The Meta Band/SmogEater]] hoort ondertussen een groep [[Races/lizardfolk]] onze kant op komen - al [[Characters/Bullywug]] dodend. Afgaand op het geschreeuw komen ze ons te hulp.
+>> -  [[Characters/Metatron and The Meta Band/SmogEater]] hoort ondertussen een groep [[Races/lizardfolk\|lizardfolk]] onze kant op komen - al [[Characters/Bullywug]] dodend. Afgaand op het geschreeuw komen ze ons te hulp.
 >> -  [[Characters/Metatron and The Meta Band/Szuszi]] schiet op de 2 voorste [[Characters/Dragonwing]]af en valt aan met zijn dolk. 1 [[Characters/Dragonwing]] stort ter aarde.
 >> -  [[Characters/Metatron and The Meta Band/Metatron]] schreeuwt het uit en failt 2 Death Saves.
 >> -  [[Characters/Metatron and The Meta Band/Dr. Egbert]] laat de [[Arms of Hadar]] verdwijnen en raakt beide [[Monsters/Dragon/Drake]]s met een [[agonizing blast]]. 
@@ -154,10 +154,10 @@
 	* potion of greater healing
 * Short rest (+22)
 * [[Characters/Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Races/lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Characters/Metatron and The Meta Band/Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Factions/Lizardfolk tribe]] heeft deze dagger gevonden in [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en cadeau gedaan aan [[Characters/Rezmir]]. [[Characters/Metatron and The Meta Band/Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Netherese dagger of Venom]].
-- We bezoeken [[Castle Naerytar's S-E Tower]] van [[Characters/Rezmir]]. 
+- We bezoeken [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/S-E Tower]] van [[Characters/Rezmir]]. 
 	- We bezoeken de torenkamer waar [[Characters/Rezmir]] huist.
 		- Prachtige meubels en tapijten
-		- [ ] De [[teleportatiecirkel]] werkt met het commando: "*Draezir*"
+		- [ ] De [[teleportatiecirkel]] werkt met het commando: "*Draezir*" 
 		- Metatron vindt een brief: 
 		  "[[Characters/Rezmir]], [[Characters/Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[Characters/Voaraghammanthar]]?) rustig blijft in het Mere ([[Atlas/Sword Coast/Mere of Dead Men/index]]?) en tevreden blijft. [[Galvan]]".
 		- 2 Onyx dragon statues (3000GP)

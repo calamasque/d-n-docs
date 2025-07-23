@@ -5,5 +5,7 @@
 # Spell List
 | Spell                                                        | Level |
 | ------------------------------------------------------------ | ----- |
+| [[Spells/Mind Sliver\|Mind Sliver]]               | 0     |
+| [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 1     |
+| [[Spells/Misty Step\|Misty Step]]                 | 2     |
 | [[Spells/Polymorph\|Polymorph]]                   | 4     |
-| [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 4     |

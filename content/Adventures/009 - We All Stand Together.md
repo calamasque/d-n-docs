@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-07-22T23:16:00.588+02:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-07-23T13:13:27.954+02:00","published":"2025-06-25","cssclasses":""}
 ---
 
 ## Session Summary

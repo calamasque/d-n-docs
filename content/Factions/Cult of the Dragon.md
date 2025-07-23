@@ -1,28 +1,25 @@
 ---
-{"publish":true,"aliases":"Dragon Kneelers cultist cultists","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-22T22:33:32.610+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"cultist cultists Dragon kneelers","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-23T10:30:12.202+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
-# Cult of the Dragon
-
-# Cult of the Dragon
-
-## Members
-| File                                                                           | description                  | deceased |
-| ------------------------------------------------------------------------------ | ---------------------------- | -------- |
-| [[Characters/Voaraghammanthar\|Voaraghammanthar]]                   | \-                           | \-       |
-| [[Characters/Rezmir\|Rezmir]]                                       | Cult of the Dragon leader    | \-       |
-| [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]             | Caretaker of Castle Naerytar | \-       |
-| [[Characters/Dragonwing\|Dragonwing(s)]]                         | \-                           | \-       |
-| [[Characters/Initiate\|Cult of the Dragon guards]] | \-                           | \-       |
-| [[Characters/Bog Luck\|Bog Luck]]                                   | Owner of Carnath Roadhouse   | \-       |
+# Members
+| File                                                               | description                  | deceased |
+| ------------------------------------------------------------------ | ---------------------------- | -------- |
+| [[Characters/Bog Luck\|Bog Luck]]                       | Owner of Carnath Roadhouse   | \-       |
+| [[Characters/Dragonclaw\|Dragonclaw]]                   | \-                           | \-       |
+| [[Characters/Dragonwing\|Dragonwing]]                   | \-                           | \-       |
+| [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] | Caretaker of Castle Naerytar | \-       |
+| [[Characters/Initiate\|Initiate]]                       | Cult of the Dragon initiate  | \-       |
+| [[Characters/Rezmir\|Rezmir]]                           | Cult of the Dragon leader    | \-       |
+| [[Characters/Voaraghammanthar\|Voaraghammanthar]]       | \-                           | \-       |
 
 
-## Partners
+# Partners
 - [[Characters/Rath Modar\|Rath Modar]]
 - [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]]
 - [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]]
 - [[Characters/Snapjaw\|Snapjaw]]
 
-## Locaties
-- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|index]]
+# Locaties
+- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
 - [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]

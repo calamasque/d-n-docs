@@ -1,14 +1,15 @@
 ---
-{"publish":true,"aliases":"Mere of Dead Men","title":"Mere of Dead Men","created":"2025-07-14","modified":"2025-07-21T19:14:38.656+02:00","published":"2025-07-14","cssclasses":""}
+{"publish":true,"aliases":"Mere of Dead Men","title":"Mere of Dead Men","created":"2025-07-14","modified":"2025-07-23T13:06:19.008+02:00","published":"2025-07-14","cssclasses":""}
 ---
 
-# Mere of Dead Men
-## Featured
-| Sessie | Avontuur                                           | Datum          |
-| ------ | -------------------------------------------------- | -------------- |
-| 5      | [[Adventures/005 - Eye Know\|Eye Know]] | 2 March , 2025 |
+# Adventures in Mere of Dead Men
+| Sessie | Avontuur                                                                                   | Path                                                                                                                                                                                                                                                                                                                               | FlatLoc                                                                               | TFT              |
+| ------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
+| 5      | [[Adventures/005 - Eye Know\|Eye Know]]                                         | <ul><li>content/Atlas/Sword Coast/Carnath Roadhouse.md</li><li>content/Atlas/Sword Coast/Mere of Dead Men/index.md</li></ul>                                                                                                                                                                                                       | [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]]                | Mere of Dead Men |
+| 6      | [[Adventures/006 - Short Skirmish - Long Jacket\|Short Skirmish - Long Jacket]] | <ul><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index.md</li><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/N-W Tower.md</li></ul>                                                                                                                                                              | [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] | Mere of Dead Men |
+| 7      | [[Adventures/007 - Gargoyle\|Gargoyle]]                                         | <ul><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/N-W Tower.md</li><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Keep.md</li><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Observatory.md</li><li>content/Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index.md</li></ul> | [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] | Mere of Dead Men |
 
-## People
+# People
 | File                                                         | Faction                                                                           | Description |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------- |
 | [[Characters/Voaraghammanthar\|Voaraghammanthar]] | <ul><li>[[Factions/Cult of the Dragon.md\\|Cult of the Dragon]]</li></ul> | \-          |

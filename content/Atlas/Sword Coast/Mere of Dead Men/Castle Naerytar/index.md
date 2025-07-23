@@ -1,10 +1,8 @@
 ---
-{"publish":true,"aliases":"Castle Naerytar","title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-22T22:20:54.400+02:00","published":"2025-07-14","cssclasses":""}
+{"publish":true,"aliases":"Castle Naerytar","title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-23T12:00:31.656+02:00","published":"2025-07-14","cssclasses":""}
 ---
 
-# Castle Naerytar
-
-## NPCs
+# NPCs
 | File                                                                 | Description                                   |
 | -------------------------------------------------------------------- | --------------------------------------------- |
 | [[Characters/Bullywug\|Bullywug]]                         | \-                                            |
@@ -20,9 +18,8 @@
 | [[Characters/Suncaller\|Suncaller]]                       | Former chief of Lizardfolk tribe              |
 
 
-## Featured
-| Sessie | Avontuur                                     | Datum          |
-| ------ | -------------------------------------------- | -------------- |
-| \-     | [[Adventures/index\|Adventures]]  | \-             |
-| 11     | [[Adventures/011 - Zzzzz\|Zzzzz]] | 15 July , 2025 |
+# Featured
+| Sessie | Avontuur                                    | Datum |
+| ------ | ------------------------------------------- | ----- |
+| \-     | [[Adventures/index\|Adventures]] | \-    |
 

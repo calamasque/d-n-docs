@@ -3,6 +3,7 @@
 ---
 
 # Races
+- [[Races/Human\|Human]]
 - [[Races/bullywug\|bullywug]]
 - [[Races/lizardfolk\|lizardfolk]]
 

@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Smoggi Watch The Stars","description":"Telescopes are hard to find, but easy to break. Dr. Egbert fights The Red Wizard. A dragon(born) falls. An imaginary dragon saves the day. We descend into the dungeons for a frog fight.","created":"2025-05-18","modified":"2025-07-22T21:22:34.574+02:00","published":"2025-05-18","cssclasses":""}
+{"publish":true,"title":"Smoggi Watch The Stars","description":"Telescopes are hard to find, but easy to break. Dr. Egbert fights The Red Wizard. A dragon(born) falls. An imaginary dragon saves the day. We descend into the dungeons for a frog fight.","created":"2025-05-18","modified":"2025-07-23T13:14:09.865+02:00","published":"2025-05-18","cssclasses":""}
 ---
 
 # Summary
-- We defeat the 4 [[Monsters/Elementals/Gargoyle]]s guarding the [[Observatory]] 
+- We defeat the 4 [[Monsters/Elementals/Gargoyle]]s guarding the [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Observatory]] 
 - Telescopes are hard to find, but easy to break. 
 - Dr. Egbert fights The Red Wizard and takes a dip in the pool (yuk!).
 - We walk a tightrope, [[Characters/Metatron and The Meta Band/SmogEater]] BASE jumps.

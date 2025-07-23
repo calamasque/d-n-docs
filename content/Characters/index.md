@@ -1,13 +1,43 @@
 ---
-{"publish":true,"aliases":"characters","title":"Characters","created":"2025-07-14T19:29:48.792+02:00","modified":"2025-07-21T19:15:34.713+02:00","published":"2025-07-21T19:15:34.713+02:00","cssclasses":""}
+{"publish":true,"aliases":"characters","title":"Characters","created":"2025-07-21T19:15:34.713+02:00","modified":"2025-07-23T21:28:41.938+02:00","published":"2025-07-23T21:28:41.938+02:00","cssclasses":""}
 ---
+
+
+
+| Naam                                                                       |                                                              |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [[Characters/Bullywug\|Bullywug]]                               | ![anyName\|50](\-)                                           |
+| [[Characters/Barman Pete\|Barman Pete]]                         | ![anyName\|50](\-)                                           |
+| [[Characters/Bog Luck\|Bog Luck]]                               | ![anyName\|50](\-)                                           |
+| [[Characters/Dragonclaw\|Dragonclaw]]                           | ![anyName\|50](\-)                                           |
+| [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]         | ![anyName\|50](\-)                                           |
+| [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | ![anyName\|50](\-)                                           |
+| [[Characters/Dragonwing\|Dragonwing]]                           | ![anyName\|50](\-)                                           |
+| [[Characters/Lizardfolk\|Lizardfolk]]                           | ![anyName\|50](\-)                                           |
+| [[Characters/Lenniton\|Lenniton]]                               | ![anyName\|50](\-)                                           |
+| [[Characters/Lord Neverember\|Lord Neverember]]                 | ![anyName\|50](\-)                                           |
+| [[Characters/Mama Metatron\|Mama Metatron]]                     | ![anyName\|50](\-)                                           |
+| [[Characters/Manni\|Manni]]                                     | ![anyName\|50](\-)                                           |
+| [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | ![anyName\|50](\-)                                           |
+| [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]]       | ![anyName\|50](\-)                                           |
+| [[Characters/Rath Modar\|Rath Modar]]                           | ![anyName\|50](\-)                                           |
+| [[Characters/Rezmir\|Rezmir]]                                   | ![anyName\|50](\-)                                           |
+| [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]]         | ![[enveloppe/public/_media/Pharblex_spattergoo-5e.webp\|50]] |
+| [[Characters/Sanni\|Sanni]]                                     | ![anyName\|50](\-)                                           |
+| [[Characters/Snapjaw\|Snapjaw]]                                 | ![anyName\|50](\-)                                           |
+| [[Characters/Torn Broadleaf\|Torn Broadleaf]]                   | ![anyName\|50](\-)                                           |
+| [[Characters/Voaraghammanthar\|Voaraghammanthar]]               | ![anyName\|50](\-)                                           |
+| [[Characters/Tu’aven\|Tu’aven]]                                 | ![anyName\|50](\-)                                           |
+| [[Characters/Elvira Blacktree\|Elvira Blacktree]]               | ![anyName\|50](\-)                                           |
+| [[Characters/Initiate\|Initiate]]                               | ![anyName\|50](\-)                                           |
+
 
 ## DataviewJS
 |NPC|Locatie|
 |---|---|
 |[[Characters/Barman Pete\|Barman Pete]]|- [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]|
 |[[Characters/Bog Luck\|Bog Luck]]|- [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]|
-|[[Characters/Bullywug\|Bullywug]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]<br>- [[Castle Naerytar's S-W Tower\|Castle Naerytar's S-W Tower]]|
+|[[Characters/Bullywug\|Bullywug]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]<br>- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/S-W Tower\|S-W Tower]]|
 |[[Characters/Dragonclaw\|Dragonclaw]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]|
 |[[Characters/Dragonwing\|Dragonwing]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]|
 |[[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]|
@@ -15,9 +45,9 @@
 |[[Characters/Initiate\|Initiate]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]|
 |[[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]]|- [[Atlas/Sword Coast/Waterdeep/index\|index]]<br>- [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]|
 |[[Characters/Lenniton\|Lenniton]]|-|
-|[[Characters/Lizardfolk\|Lizardfolk]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]<br>- [[Castle Naerytar's S-W Tower\|Castle Naerytar's S-W Tower]]|
-|[[Characters/Lord Neverember\|Lord Neverember]]|- [[Atlas/Sword Coast/Waterdeep/index\|index]]|
-|[[Characters/Lord Ulbrinter\|Lord Ulbrinter]]|- [[Atlas/Sword Coast/Waterdeep/index\|index]]<br>- [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]|
+|[[Characters/Lizardfolk\|Lizardfolk]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]<br>- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/S-W Tower\|S-W Tower]]|
+|[[Characters/Lord Neverember\|Lord Neverember]]|- [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]]|
+|[[Characters/Lord Ulbrinter\|Lord Ulbrinter]]|- [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]|
 |[[Characters/Mama Metatron\|Mama Metatron]]|- [[Een mijn op een onbekende locatie\|Een mijn op een onbekende locatie]]|
 |[[Characters/Manni\|Manni]]|- [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After\|The Happily Ever After]]|
 |[[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]]|- [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]|
@@ -33,12 +63,12 @@
 ## Dataview
 | Location                                                                                      | NPCs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Castle Naerytar's S-W Tower\|Castle Naerytar's S-W Tower]]                                  | [[Characters/Bullywug\|Bullywug]], [[Characters/Lizardfolk\|Lizardfolk]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]                         | [[Characters/Barman Pete\|Barman Pete]], [[Characters/Bog Luck\|Bog Luck]], [[Characters/Elvira Blacktree\|Elvira Blacktree]]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]      | [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]], [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]], [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]], [[Characters/Rezmir\|Rezmir]], [[Characters/Snapjaw\|Snapjaw]], [[Characters/Suncaller\|Suncaller]], [[Characters/Dragonclaw\|Dragonclaw]], [[Characters/Bullywug\|Bullywug]], [[Characters/Dragonwing\|Dragonwing]], [[Characters/Initiate\|Initiate]], [[Characters/Lizardfolk\|Lizardfolk]] |
+| [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]      | [[Characters/Bullywug\|Bullywug]], [[Characters/Dragonclaw\|Dragonclaw]], [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]], [[Characters/Dragonwing\|Dragonwing]], [[Characters/Lizardfolk\|Lizardfolk]], [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]], [[Characters/Rezmir\|Rezmir]], [[Characters/Pharblex Spattergoo\|Pharblex Spattergoo]], [[Characters/Suncaller\|Suncaller]], [[Characters/Snapjaw\|Snapjaw]], [[Characters/Initiate\|Initiate]] |
+| [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/S-W Tower\|S-W Tower]]        | [[Characters/Bullywug\|Bullywug]], [[Characters/Lizardfolk\|Lizardfolk]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [[Atlas/Sword Coast/Mere of Dead Men/index\|index]]                                | [[Characters/Voaraghammanthar\|Voaraghammanthar]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After\|The Happily Ever After]] | [[Characters/Manni\|Manni]], [[Characters/Sanni\|Sanni]], [[Characters/Tu’aven\|Tu’aven]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| [[Atlas/Sword Coast/Waterdeep/index\|index]]                                       | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]], [[Characters/Lord Neverember\|Lord Neverember]], [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [[Atlas/Sword Coast/Waterdeep/index\|index]]                                       | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]], [[Characters/Lord Neverember\|Lord Neverember]]                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa\|Ulbrinter Villa]]                   | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]], [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [[Een mijn op een onbekende locatie\|Een mijn op een onbekende locatie]]                      | [[Characters/Mama Metatron\|Mama Metatron]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 

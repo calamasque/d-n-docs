@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Gargoyle","created":"2025-04-15","modified":"2025-07-22T21:22:49.148+02:00","published":"2025-04-15","cssclasses":""}
+{"publish":true,"title":"Gargoyle","created":"2025-04-15","modified":"2025-07-23T13:14:09.843+02:00","published":"2025-04-15","cssclasses":""}
 ---
 
 

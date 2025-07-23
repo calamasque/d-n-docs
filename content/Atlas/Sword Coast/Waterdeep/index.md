@@ -19,5 +19,4 @@
 | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------ |
 | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | <ul><li>[[Factions/Harpers.md\\|Harpers]]</li></ul>                   | Harper leadership                                |
 | [[Characters/Lord Neverember\|Lord Neverember]]                 | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Lord of Neverwinter. Unmasked lord of Waterdeep. |
-| [[Characters/Lord Ulbrinter\|Lord Ulbrinter]]                   | <ul><li>[[Factions/The masked lords.md\\|The masked lords]]</li></ul> | Waterdeep lord                                   |
 
