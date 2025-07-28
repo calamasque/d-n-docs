@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-07-22T21:03:30.949+02:00","published":"2024-10-30","cssclasses":""}
+{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-07-28T17:34:17.843+02:00","published":"2024-10-30","cssclasses":""}
 ---
-
 
 ## Session Summary
 Wat zit er in de keuken? [[Characters/Metatron and The Meta Band/Szuszi]]

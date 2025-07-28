@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Lorcil Silkhands","description":"Bard, Harper agent","created":"2025-07-21T12:26:30.957+02:00","modified":"2025-07-21T12:26:30.957+02:00","published":"2025-07-21T12:26:30.957+02:00","cssclasses":""}
+{"publish":true,"title":"Lorcil Silkhands","description":"Bard, Harper agent","created":"2025-07-21T12:26:30.957+02:00","modified":"2025-07-24T21:02:19.172+02:00","published":"2025-07-24T21:02:19.172+02:00","cssclasses":""}
 ---
 
 

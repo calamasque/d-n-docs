@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Red Wizards of Thay","created":"2025-07-16","modified":"2025-07-23T10:30:56.103+02:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"Red Wizards of Thay","created":"2025-07-16","modified":"2025-07-24T21:16:04.191+02:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # Members

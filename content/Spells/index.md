@@ -7,5 +7,9 @@
 | ------------------------------------------------------------ | ----- |
 | [[Spells/Mind Sliver\|Mind Sliver]]               | 0     |
 | [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 1     |
+| [[Spells/Darkness\|Darkness]]                     | 2     |
+| [[Spells/Enhance Ability\|Enhance Ability]]       | 2     |
 | [[Spells/Misty Step\|Misty Step]]                 | 2     |
+| [[Spells/Bestow Curse\|Bestow Curse]]             | 3     |
+| [[Spells/Counterspell\|Counterspell]]             | 3     |
 | [[Spells/Polymorph\|Polymorph]]                   | 4     |

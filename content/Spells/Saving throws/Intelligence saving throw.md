@@ -3,8 +3,9 @@
 ---
 
 # Intelligence saving throw
-| Spell                                          | Level |
-| ---------------------------------------------- | ----- |
-| [[Spells/Mind Sliver\|Mind Sliver]] | 0     |
+| Spell                                                  | Level |
+| ------------------------------------------------------ | ----- |
+| [[Spells/Mind Sliver\|Mind Sliver]]         | 0     |
+| [[Spells/Enhance Ability\|Enhance Ability]] | 2     |
 
 

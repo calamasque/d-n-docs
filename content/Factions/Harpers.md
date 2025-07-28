@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Harpers","created":"2025-07-15","modified":"2025-07-23T10:31:21.331+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Harpers","created":"2025-07-15","modified":"2025-07-24T21:15:44.120+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Members

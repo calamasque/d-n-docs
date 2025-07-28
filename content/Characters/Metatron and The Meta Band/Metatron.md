@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Metatron","created":"2025-07-15","modified":"2025-07-22T12:42:32.193+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Metatron","created":"2025-07-15","modified":"2025-07-24T20:51:41.832+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Metatron

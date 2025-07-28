@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Eldreth Veluuthra","created":"2025-07-15","modified":"2025-07-23T10:32:09.990+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Eldreth Veluuthra","created":"2025-07-15","modified":"2025-07-24T21:17:24.377+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Eldreth Veluuthra

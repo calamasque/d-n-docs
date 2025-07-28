@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Manni","description":"Owner of The Happily Ever After","created":"2025-07-21T19:14:09.526+02:00","modified":"2025-07-22T22:57:00.937+02:00","published":"2025-07-22T22:57:00.937+02:00","cssclasses":""}
+{"publish":true,"title":"Manni","description":"Owner of The Happily Ever After","created":"2025-07-21T19:14:09.526+02:00","modified":"2025-07-24T20:51:41.831+02:00","published":"2025-07-24T20:51:41.831+02:00","cssclasses":""}
 ---
 
 ## Character Summary

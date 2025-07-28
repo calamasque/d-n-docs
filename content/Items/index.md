@@ -7,7 +7,7 @@
 | --------------------------------------------------------------- | ------------------------------------------------------------- | ------------- |
 | [[Items/Bog Luck's Sword\|Bog Luck's Sword]]         | Nothing special, just a sword.                                | [[Characters/Metatron and The Meta Band/Metatron]]  |
 | [[Items/Dragon Egg\|Dragon Egg]]                     | Probably valuable.                                            | [[Characters/Metatron and The Meta Band/SmogEater]] |
-| [[Items/Pipes of Haunting\|Pipes of Haunting]]       | The infamous instrument killing audiences all over the place. | [[Characters/Metatron and The Meta Band/Metatron]]  |
 | [[Items/Scrying Altar of Tyr\|Scrying Altar of Tyr]] | \-                                                            | [[Characters/Metatron and The Meta Band/Metatron]]  |
+| [[Items/Pipes of Haunting\|Pipes of Haunting]]       | The infamous instrument killing audiences all over the place. | [[Characters/Metatron and The Meta Band/Metatron]]  |
 
 

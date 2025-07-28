@@ -3,7 +3,8 @@
 ---
 
 # Constitution saving throw
-| Spell | Level |
-| ----- | ----- |
+| Spell                                                  | Level |
+| ------------------------------------------------------ | ----- |
+| [[Spells/Enhance Ability\|Enhance Ability]] | 2     |
 
 

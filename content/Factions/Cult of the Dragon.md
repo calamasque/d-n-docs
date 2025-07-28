@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"cultist cultists Dragon kneelers","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-23T10:30:12.202+02:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"cultist cultists Dragon kneelers","title":"Cult of the Dragon","created":"2025-07-15","modified":"2025-07-24T21:15:27.367+02:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Members

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mama Metatron","description":"Mother of Metatron the Magnificent","created":"2025-07-16T00:45:27.599+02:00","modified":"2025-07-22T22:56:57.150+02:00","published":"2025-07-22T22:56:57.150+02:00","cssclasses":""}
+{"publish":true,"title":"Mama Metatron","description":"Mother of Metatron the Magnificent","created":"2025-07-16T00:45:27.599+02:00","modified":"2025-07-24T20:51:41.826+02:00","published":"2025-07-24T20:51:41.826+02:00","cssclasses":""}
 ---
 
 ## Character Summary

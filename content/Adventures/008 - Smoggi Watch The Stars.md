@@ -3,7 +3,7 @@
 ---
 
 # Summary
-- We defeat the 4 [[Monsters/Elementals/Gargoyle]]s guarding the [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Observatory]] 
+- We defeat the 4 [[DND.SRD.Wiki-main/Monsters/Gargoyle]]s guarding the [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Observatory]] 
 - Telescopes are hard to find, but easy to break. 
 - Dr. Egbert fights The Red Wizard and takes a dip in the pool (yuk!).
 - We walk a tightrope, [[Characters/Metatron and The Meta Band/SmogEater]] BASE jumps.

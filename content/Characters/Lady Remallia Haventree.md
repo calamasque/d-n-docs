@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Lady Remallia Haventree","description":"Harper leadership","created":"2025-07-21T19:14:15.038+02:00","modified":"2025-07-22T21:05:29.712+02:00","published":"2025-07-22T21:05:29.712+02:00","cssclasses":""}
+{"publish":true,"title":"Lady Remallia Haventree","description":"Harper leadership","created":"2025-07-21T19:14:15.038+02:00","modified":"2025-07-24T21:02:08.426+02:00","published":"2025-07-24T21:02:08.426+02:00","cssclasses":""}
 ---
 
 # Character Summary

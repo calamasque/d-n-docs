@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Elvira Blacktree","created":"2025-07-21T19:14:15.037+02:00","modified":"2025-07-22T21:05:29.649+02:00","published":"2025-07-22T21:05:29.649+02:00","cssclasses":""}
+{"publish":true,"title":"Elvira Blacktree","created":"2025-07-21T19:14:15.037+02:00","modified":"2025-07-24T20:51:41.824+02:00","published":"2025-07-24T20:51:41.824+02:00","cssclasses":""}
 ---
 
 ## Character Summary

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Polymorph","description":"This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a [[Wisdom saving throw]] to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points. \n The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality. \n The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. \n The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech. \n The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.","created":"2025-07-20","modified":"2025-07-23T14:03:04.009+02:00","published":"2025-07-20","cssclasses":""}
+{"publish":true,"title":"Polymorph","description":"This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a [[Wisdom saving throw]] to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points. \n The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target’s (or the target’s level, if it doesn’t have a challenge rating). The target’s game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality. \n The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn’t reduce the creature’s normal form to 0 hit points, it isn’t knocked unconscious. \n The creature is limited in the actions it can perform by the nature of its new form, and it can’t speak, cast spells, or take any other action that requires hands or speech. \n The target’s gear melds into the new form. The creature can’t activate, use, wield, or otherwise benefit from any of its equipment.","created":"2025-07-20","modified":"2025-07-24T21:55:14.874+02:00","published":"2025-07-20","cssclasses":""}
 ---
 
 # Spell
@@ -15,19 +15,15 @@ The target’s gear melds into the new form. The creature can’t activate, use,
 - CR 0: [[Monsters/Beasts/Bat]] - arial
 - CR 0: [[Monsters/Beasts/Owl]] - arial
 - CR 1: [[Monsters/Beasts/Giant Octopus]] - aquatic
-
 ## Damage dealer
 - CR 5: [[Monsters/Beasts/Giant Shark]] - aquatic
 - CR 7: [[Monsters/Beasts/Giant Ape]] - land 
 - CR 8: [[Monsters/Beasts/Tyrannosaurus Rex]] - land
-
 ## Tank
 - CR 6: [[Monsters/Beasts/Mammoth]] - land
 - CR 7: [[Monsters/Beasts/Giant Ape]] - land
-
 ## Mount
 - CR 1/2: [[Monsters/Beasts/Warhorse]] - land
-
 ## Disable
 -  CR 0: [[Monsters/Beasts/Rat]] - land
 

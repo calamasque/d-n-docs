@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-21T20:42:43.110+02:00","modified":"2025-07-22T12:37:44.159+02:00","published":"2025-07-22T12:37:44.159+02:00","cssclasses":""}
+{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-21T20:42:43.110+02:00","modified":"2025-07-24T20:51:41.775+02:00","published":"2025-07-24T20:51:41.775+02:00","cssclasses":""}
 ---
 
 # Character Summary

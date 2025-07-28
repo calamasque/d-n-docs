@@ -3,7 +3,15 @@
 ---
 
 # Races
+- [[Races/Bullywug\|Bullywug]]
+- [[Races/Dragonborn\|Dragonborn]]
+- [[Races/Elf\|Elf]]
+- [[Races/Dwarf\|Dwarf]]
+- [[Races/Half-Elf\|Half-Elf]]
+- [[Races/Half-Orc\|Half-Orc]]
+- [[Races/Halfling\|Halfling]]
 - [[Races/Human\|Human]]
-- [[Races/bullywug\|bullywug]]
-- [[Races/lizardfolk\|lizardfolk]]
+- [[Races/Tiefling\|Tiefling]]
+- [[Races/Lizardfolk\|Lizardfolk]]
+- [[Races/Gnome\|Gnome]]
 

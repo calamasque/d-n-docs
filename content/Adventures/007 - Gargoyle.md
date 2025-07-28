@@ -13,7 +13,7 @@ Kleine binnenplaats:
 3 [[Monsters/Dragon/Drake]]s 
 
 Afvaltoren:
-1 [[Monsters/Abberation/Otyugh]]
+1 [[DND.SRD.Wiki-main/Monsters/Otyugh]]
 
 Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenplaats. Eén van onze doelen is het vinden van de telescoop van de Stargazers dus we gaan richting het observatorium. De deur naar de keep van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] met daarin het observatorium blijkt niet gesloten :) 
 
@@ -32,4 +32,4 @@ Eerste verdieping:
 Trap: [[Characters/Metatron and The Meta Band/Szuszi]] en [[Characters/Metatron and The Meta Band/Metatron]] gaan voorop
 
 Bovenste verdieping:
-- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[Monsters/Elementals/Gargoyle]]s. 
+- Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[DND.SRD.Wiki-main/Monsters/Gargoyle]]s. 

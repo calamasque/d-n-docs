@@ -7,6 +7,8 @@
 | ------------------------------------------------------------ | ----- |
 | [[Items/Pipes of Haunting\|Pipes of Haunting]]    | \-    |
 | [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 1     |
+| [[Spells/Enhance Ability\|Enhance Ability]]       | 2     |
+| [[Spells/Bestow Curse\|Bestow Curse]]             | 3     |
 | [[Spells/Polymorph\|Polymorph]]                   | 4     |
 
 
