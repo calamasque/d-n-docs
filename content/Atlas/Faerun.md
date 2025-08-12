@@ -3,7 +3,7 @@
 ---
 
 # Faerûn
-Beroemde inwoners van Faeûn zoals [[Characters/Metatron and The Meta Band/Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
+Beroemde inwoners van Faeûn zoals [[Characters/The Meta Band/Metatron]] worden door andere inwoners ook wel bewonderend 'BFer' oftewel 'Bekende Faerûniër'.
 
 ## Locations
 

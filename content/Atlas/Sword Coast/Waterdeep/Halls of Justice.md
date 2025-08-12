@@ -14,4 +14,4 @@
 
 Tempel van Tyr gevestigd in [[Atlas/Sword Coast/Waterdeep/index]]. 
 
-[[Characters/Metatron and The Meta Band/SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 
+[[Characters/The Meta Band/SmogEater]] was hier iets te loslippig en deelde dat wij in het bezit waren van 

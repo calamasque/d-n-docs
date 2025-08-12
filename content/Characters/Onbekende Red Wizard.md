@@ -27,4 +27,4 @@ Spellbook:
 - Level 3:  Counterspell, Dispel magic, Fireball
 
 Gebeurtenissen:
-* [[Characters/Onbekende Red Wizard]] werd tijdens [[Adventures/8 - Imagine Dragon]] aangevallen door [[Characters/Metatron and The Meta Band/Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.
+* [[Characters/Onbekende Red Wizard]] werd tijdens [[Adventures/8 - Imagine Dragon]] aangevallen door [[Characters/The Meta Band/Dr. Egbert]] bij het betreden van de kleine binnenplaats. Raakte hierbij zwaargewond maar wist deze aanval te overleven door te vluchten naar de grote binnenplaats en alarm te slaan.

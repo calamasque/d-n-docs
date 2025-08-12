@@ -3,7 +3,7 @@
 ---
 
 # Locatie
-- [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]]
+- [[Characters/The Meta Band/SmogEater\|SmogEater]]
 
 # Info
 ### Handy Haversack

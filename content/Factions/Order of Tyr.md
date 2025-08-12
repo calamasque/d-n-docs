@@ -3,7 +3,7 @@
 ---
 
 # Members
-| File                                                                      | description | deceased |
-| ------------------------------------------------------------------------- | ----------- | -------- |
-| [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]] | \-          | \-       |
+| File                                                         | description | deceased |
+| ------------------------------------------------------------ | ----------- | -------- |
+| [[Characters/The Meta Band/SmogEater\|SmogEater]] | \-          | \-       |
 

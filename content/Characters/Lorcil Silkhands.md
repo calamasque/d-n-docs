@@ -8,4 +8,4 @@
 
 
 
-Nadat de familie van [[Characters/Metatron and The Meta Band/Metatron]] werd ontvoerd door de [[Factions/Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 
+Nadat de familie van [[Characters/The Meta Band/Metatron]] werd ontvoerd door de [[Factions/Red Wizards of Thay]] nam Lorcil Silkhands de jonge tiefling onder zijn hoede. 

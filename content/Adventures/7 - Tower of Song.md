@@ -7,11 +7,11 @@
 
 # Log
 
-The [[Characters/Metatron and The Meta Band/Dr. Egbert]] is out.
+The [[Characters/The Meta Band/Dr. Egbert]] is out.
 
 Na een korte rustpauze in de torenkamer van de afvaltoren gingen onze nachtelijke avonturiers op onderzoek uit. 
 
-[[Characters/Metatron and The Meta Band/Szuszi]] kruipt door een kleine opening het dak op.................
+[[Characters/The Meta Band/Szuszi]] kruipt door een kleine opening het dak op.................
 
 Kleine binnenplaats:
 3 [[Reference/Monsters/Dragon/Drake]]s 
@@ -33,7 +33,7 @@ Begane grond:
 Eerste verdieping:
 * Luxe werkkamer van [[Characters/Dralmorrer Borngray]] met het boek "Code of the [[Factions/Eldreth Veluuthra]]" en een [[Factions/Eldreth Veluuthra]] outfit.
 
-Trap: [[Characters/Metatron and The Meta Band/Szuszi]] en [[Characters/Metatron and The Meta Band/Metatron]] gaan voorop
+Trap: [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/Metatron]] gaan voorop
 
 Bovenste verdieping:
 - Observatorium: direct bij het betreden worden onze helden aangevallen door 4 [[DND.SRD.Wiki-main/Monsters/Gargoyle]]s. 

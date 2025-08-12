@@ -3,7 +3,7 @@
 ---
 
 # Locatie
-- [[Characters/Metatron and The Meta Band/Metatron\|Metatron]]
+- [[Characters/The Meta Band/Metatron\|Metatron]]
 
 # Info
 ### Pipes of Haunting

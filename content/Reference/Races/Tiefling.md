@@ -4,7 +4,7 @@
 
 # 0800 - TIEFLING
 - [[Characters/Mama Metatron\|Mama Metatron]]
-- [[Characters/Metatron and The Meta Band/Metatron\|Metatron]]
+- [[Characters/The Meta Band/Metatron\|Metatron]]
 
 # Tiefling
 

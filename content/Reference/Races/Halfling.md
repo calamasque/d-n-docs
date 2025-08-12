@@ -5,7 +5,7 @@
 # 0800 - HALFLING
 - [[Characters/Manni\|Manni]]
 - [[Characters/Sanni\|Sanni]]
-- [[Characters/Metatron and The Meta Band/Szuszi\|Szuszi]]
+- [[Characters/The Meta Band/Szuszi\|Szuszi]]
 
 # Halfling
 

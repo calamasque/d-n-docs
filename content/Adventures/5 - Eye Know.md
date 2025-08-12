@@ -10,9 +10,9 @@
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: altaar ophalen uit Bog-box 
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: paarden en wagen ophalen 
 # Log
-[[Characters/Metatron and The Meta Band/Szuszi]] is out.
+[[Characters/The Meta Band/Szuszi]] is out.
 
-Gevecht in de storage room waar [[Characters/Metatron and The Meta Band/Szuszi]] verdween.
+Gevecht in de storage room waar [[Characters/The Meta Band/Szuszi]] verdween.
 
 Voordat we de achtervolging inzetten besluiten we ons [[Items/Scrying Altar of Tyr]] veilig op te bergen in de storage room in een kist die we labellen met "Eigendom van [[Characters/Bog Luck]], afblijven!". Niet vergeten: 
 

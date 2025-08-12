@@ -6,7 +6,7 @@
 Lady Remallia Haventree heeft een belangrijke positie binnen de Harpers en in de stad [[Atlas/Sword Coast/Waterdeep/index]]. 
 
 # Verhaal:
-- [[Agrip'Ah]] en [[Characters/Metatron and The Meta Band/Metatron]] bezoeken [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]] om in contact te komen met [[Characters/Lady Remallia Haventree]].
+- [[Agrip'Ah]] en [[Characters/The Meta Band/Metatron]] bezoeken [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]] om in contact te komen met [[Characters/Lady Remallia Haventree]].
 - Zij is een oude bekende van Metatron's vermoorde mentor [[Characters/Lorcil Silkhands]]  en tevens lid van de Harpers. 
 - 
 # Featured

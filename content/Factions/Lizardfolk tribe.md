@@ -18,7 +18,7 @@
 - [[Characters/Pharblex Spattergoo]]
 - [[Factions/Bullywug tribe]] 
 # Gebeurtenissen:
-- 3 kano's met Lizardfolk van de [[Factions/Lizardfolk tribe]] passeren onze helden in de [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]]. [[Characters/Metatron and The Meta Band/SmogEater]] luistert hun gesprek af (zie "Meningen").
+- 3 kano's met Lizardfolk van de [[Factions/Lizardfolk tribe]] passeren onze helden in de [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]]. [[Characters/The Meta Band/SmogEater]] luistert hun gesprek af (zie "Meningen").
 - [[Factions/The Meta Band]] belooft [[Characters/Snapjaw]] en de [[Factions/Lizardfolk tribe]] om de [[Factions/Bullywug tribe]] in een kwaad daglicht te brengen bij de [[Factions/Cult of the Dragon]]. 
 # Meningen:
 - Hebben een hekel aan de [[Factions/Cult of the Dragon\|Dragon kneelers]] en de [[Factions/Bullywug tribe]]

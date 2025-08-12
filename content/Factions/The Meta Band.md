@@ -3,14 +3,14 @@
 ---
 
 # Members
-| File                                                                        | description | deceased |
-| --------------------------------------------------------------------------- | ----------- | -------- |
-| [[Characters/Metatron and The Meta Band/Agrip’Ah\|Agrip’Ah]]     | \-          | \-       |
-| [[Characters/Metatron and The Meta Band/Dr. Egbert\|Dr. Egbert]] | \-          | \-       |
-| [[Characters/Metatron and The Meta Band/Metatron\|Metatron]]     | \-          | \-       |
-| [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]]   | \-          | \-       |
-| [[Characters/Metatron and The Meta Band/Szuszi\|Szuszi]]         | \-          | \-       |
-| [[Characters/Metatron and The Meta Band/Waldo\|Waldo]]           | \-          | \-       |
+| File                                                           | description | deceased |
+| -------------------------------------------------------------- | ----------- | -------- |
+| [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]     | \-          | \-       |
+| [[Characters/The Meta Band/Dr. Egbert\|Dr. Egbert]] | \-          | \-       |
+| [[Characters/The Meta Band/Metatron\|Metatron]]     | \-          | \-       |
+| [[Characters/The Meta Band/SmogEater\|SmogEater]]   | \-          | \-       |
+| [[Characters/The Meta Band/Szuszi\|Szuszi]]         | \-          | \-       |
+| [[Characters/The Meta Band/Waldo\|Waldo]]           | \-          | \-       |
 
 
 

@@ -12,11 +12,11 @@
 - Heeft een persoonlijk altaar in de grotten onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 - Heeft een persoonlijke kamer in het kwartier van de  [[Factions/Bullywug tribe]] in [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]].
 - Stierf als een lafaard en leidde zo het definitieve einde in van de [[Factions/Bullywug tribe]].
-- Gedood door [[Characters/Metatron and The Meta Band/Szuszi]]
+- Gedood door [[Characters/The Meta Band/Szuszi]]
 ## Items
 - Hoed: krokodillenkop
 - Lichte bepansering
-- Staff (taken by [[Characters/Metatron and The Meta Band/Metatron]])
+- Staff (taken by [[Characters/The Meta Band/Metatron]])
 - Skull of Guts
 ## Featured
 - [[Adventures/10 - Death Or Glory]]

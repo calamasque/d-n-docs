@@ -8,5 +8,5 @@
 | [[Characters/Elvira Blacktree\|Elvira Blacktree]]               | \-                 | true     |
 | [[Characters/Lady Remallia Haventree\|Lady Remallia Haventree]] | Harper leadership  | \-       |
 | [[Characters/Lorcil Silkhands\|Lorcil Silkhands]]               | Bard, Harper agent | true     |
-| [[Characters/Metatron and The Meta Band/Metatron\|Metatron]]    | \-                 | \-       |
+| [[Characters/The Meta Band/Metatron\|Metatron]]                 | \-                 | \-       |
 

@@ -7,9 +7,9 @@
 ## Featured
 
 ## Details
-* Moeder van [[Characters/Metatron and The Meta Band/Metatron]].
-* Gevangen en tot slaaf gemaakt door [[Factions/Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[Characters/Metatron and The Meta Band/Metatron]]
-* Het [[Scrying altaar van Tyr]] onthulde aan [[Characters/Metatron and The Meta Band/Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
+* Moeder van [[Characters/The Meta Band/Metatron]].
+* Gevangen en tot slaaf gemaakt door [[Factions/Red Wizards of Thay]] met het gehele gezin, uitgezonderd [[Characters/The Meta Band/Metatron]]
+* Het [[Scrying altaar van Tyr]] onthulde aan [[Characters/The Meta Band/Metatron]] dat zijn moeder in leven is. Wel is zij sterk vermagerd en geketend. Ze bevindt zich in een [[Mijn op een onbekende locatie]] waar zij wordt bewaakt door wachters.
 
 ## Featured
 

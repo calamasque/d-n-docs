@@ -15,7 +15,7 @@
 * op een avontuurlijke huwelijksreis met hun schip de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Characters/Tu’aven]]. 
 
 Gebeurtenissen:
-* Tijdens hun huwelijksreis ontmoeten zij [[Characters/Metatron and The Meta Band/Agrip’Ah]], [[Characters/Metatron and The Meta Band/Dr. Egbert]], [[Characters/Metatron and The Meta Band/SmogEater]] en [[Characters/Metatron and The Meta Band/Waldo]] in [[Atlas/Sword Coast/Baldur's Gate/index]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
-* Onderweg ontdekken zij een verstekeling in de keuken ([[Characters/Metatron and The Meta Band/Szuszi]]) die zich bij het gezelschap voegt.
-* Kort daarna ontdekken ze de befaamde muzikant [[Characters/Metatron and The Meta Band/Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten hem te overtuigen zich bij hen te voegen. 
+* Tijdens hun huwelijksreis ontmoeten zij [[Characters/The Meta Band/Agrip’Ah]], [[Characters/The Meta Band/Dr. Egbert]], [[Characters/The Meta Band/SmogEater]] en [[Characters/The Meta Band/Waldo]] in [[Atlas/Sword Coast/Baldur's Gate/index]] die hen overtuigen de ervaren avonturiers mee aan boord te nemen met de belofte van avontuur en schatten. 
+* Onderweg ontdekken zij een verstekeling in de keuken ([[Characters/The Meta Band/Szuszi]]) die zich bij het gezelschap voegt.
+* Kort daarna ontdekken ze de befaamde muzikant [[Characters/The Meta Band/Metatron]] die een optreden verzorgt op een klein eiland voor een groep harpies. Zij weten hem te overtuigen zich bij hen te voegen. 
 

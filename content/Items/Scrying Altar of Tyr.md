@@ -10,6 +10,6 @@
 ## Achtergrond
 - Geborgen uit het [[Atlas/Sword Coast/Sea of Swords/wrak van The Marshall]]
 - Stevig formaat, past niet in een rugzak, zwaar om te dragen.
-- Door de loslippigheid van [[Characters/Metatron and The Meta Band/SmogEater\|Smoggi]] in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] waren wij gedwongen dit altaar over te dragen aan de [[Factions/Order of Tyr\|volgelingen van Tyr]].
+- Door de loslippigheid van [[Characters/The Meta Band/SmogEater\|Smoggi]] in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] waren wij gedwongen dit altaar over te dragen aan de [[Factions/Order of Tyr\|volgelingen van Tyr]].
 - Meegenomen vanuit [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]] in de wagen.
 

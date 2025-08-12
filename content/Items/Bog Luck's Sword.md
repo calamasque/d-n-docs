@@ -3,8 +3,8 @@
 ---
 
 # Locatie
-- [[Characters/Metatron and The Meta Band/Metatron\|Metatron]]
+- [[Characters/The Meta Band/Metatron\|Metatron]]
 
 # Info
 * Gewoon een zwaard, niets speciaals
-* Maar speciaal omdat het een geschenk was van [[Characters/Bog Luck]] aan [[Characters/Metatron and The Meta Band/Metatron]]
+* Maar speciaal omdat het een geschenk was van [[Characters/Bog Luck]] aan [[Characters/The Meta Band/Metatron]]

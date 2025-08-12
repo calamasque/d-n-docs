@@ -3,7 +3,7 @@
 ---
 
 # 0800 - DRAGONBORN
-- [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]]
+- [[Characters/The Meta Band/SmogEater\|SmogEater]]
 
 # Dragonborn
 
