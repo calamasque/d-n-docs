@@ -8,8 +8,8 @@
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
 | [[Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
-| [[Characters/Elvira Blacktree\|Elvira Blacktree]] | \-                          |
 | [[Characters/Barman Pete\|Barman Pete]]           | Barman at Carnath Roadhouse |
+| [[Characters/Elvira Blacktree\|Elvira Blacktree]] | \-                          |
 
 ## Locatie
 - Poort

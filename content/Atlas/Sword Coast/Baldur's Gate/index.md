@@ -4,8 +4,9 @@
 
 # Baldur's Gate
 ## Featured
-| Sessie | Avontuur | Datum |
-| ------ | -------- | ----- |
+| Sessie | Avontuur                                                     | Datum            |
+| ------ | ------------------------------------------------------------ | ---------------- |
+| 0      | [[Adventures/0 - The Lost Tapes\|The Lost Tapes]] | 1 October , 2024 |
 
 ## People
 | File | Faction | Description |

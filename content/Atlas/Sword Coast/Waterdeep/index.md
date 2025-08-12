@@ -4,15 +4,15 @@
 
 # Waterdeep
 ## Locations
-| File                                                                   | Path                                         |
-| ---------------------------------------------------------------------- | -------------------------------------------- |
-| [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]] | content/Atlas/Sword Coast/Waterdeep/index.md |
-| [[Adventures/003 - Deep Water\|003 - Deep Water]]           | content/Atlas/Sword Coast/Waterdeep/index.md |
+| File                                                               | Path                                         |
+| ------------------------------------------------------------------ | -------------------------------------------- |
+| [[Adventures/4 - Roadhouse Blues\|4 - Roadhouse Blues]] | content/Atlas/Sword Coast/Waterdeep/index.md |
+| [[Adventures/3 - Deep Water\|3 - Deep Water]]           | content/Atlas/Sword Coast/Waterdeep/index.md |
 
 
 ## Featured
-- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+- [[Adventures/4 - Roadhouse Blues\|4 - Roadhouse Blues]]
+- [[Adventures/3 - Deep Water\|3 - Deep Water]]
 
 ## People
 | File                                                                       | Faction                                                                       | Description                                      |

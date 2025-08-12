@@ -4,8 +4,8 @@
 
 # Halls of Justice
 ## Featured
-- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+- [[Adventures/4 - Roadhouse Blues\|4 - Roadhouse Blues]]
+- [[Adventures/3 - Deep Water\|3 - Deep Water]]
 
 ## People
 | File | Faction | Description |

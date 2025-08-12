@@ -1,6 +1,14 @@
 ---
-{"publish":true,"aliases":"Castle Naerytar","title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-23T12:00:31.656+02:00","published":"2025-07-14","cssclasses":""}
+{"publish":true,"aliases":"Castle Naerytar","title":"Castle Naerytar","created":"2025-07-14","modified":"2025-07-30T14:57:48.233+02:00","published":"2025-07-14","cssclasses":""}
 ---
+
+# Taken
+- [ ] [[Items/Waardevol object van Rezmir]] stelen 
+- [ ] [[Items/Waardevol object van Rezmir]] 'planten' op/bij [[Characters/Pharblex Spattergoo\|Pharblex]] 
+- [ ] [[Characters/Pharblex Spattergoo\|Pharblex]] (laten) ontmaskeren als dief 
+- [ ] Het commando voor de [[teleportatiecirkel Naerytar\|teleportatiecirkel]] is: "*Draezir*" 
+- [ ] Een commando is nodig om de [[teleportatiecirkel Naerytar\|teleportatiecirkel]] te gebruiken 
+
 
 # NPCs
 | File                                                                 | Description                                   |
@@ -19,7 +27,8 @@
 
 
 # Featured
-| Sessie | Avontuur                                    | Datum |
-| ------ | ------------------------------------------- | ----- |
-| \-     | [[Adventures/index\|Adventures]] | \-    |
+| Sessie | Avontuur                                    | Datum            |
+| ------ | ------------------------------------------- | ---------------- |
+| \-     | [[Adventures/index\|Adventures]] | \-               |
+| 11     | [[Adventures/11 - Zzzzz\|Zzzzz]] | 13 August , 2025 |
 

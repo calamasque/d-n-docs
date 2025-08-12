@@ -8,9 +8,10 @@
 * op een avontuurlijke huwelijksreis met hun schip de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After]] en kapitein [[Characters/Tu’aven]]. 
 
 ## Featured
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
-- [[Adventures/002 - The Ship Song\|002 - The Ship Song]]
-- [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]]
+- [[Adventures/3 - Deep Water\|3 - Deep Water]]
+- [[Adventures/2 - The Ship Song\|2 - The Ship Song]]
+- [[Adventures/1 - You Got A Friend In Me\|1 - You Got A Friend In Me]]
+- [[Adventures/0 - The Lost Tapes\|0 - The Lost Tapes]]
 
 
 ## Log

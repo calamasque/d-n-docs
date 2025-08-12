@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Drambuie Dralmorrer","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T20:42:43.127+02:00","modified":"2025-07-24T20:51:54.233+02:00","published":"2025-07-24T20:51:54.233+02:00","cssclasses":""}
+{"publish":true,"aliases":"Drambuie Dralmorrer","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T20:42:43.127+02:00","modified":"2025-08-08T14:32:45.119+02:00","published":"2025-08-08T14:32:45.119+02:00","cssclasses":""}
 ---
 
 # Character Summary
@@ -9,9 +9,9 @@
 - Blond haar, ooglapje.
 - draagt armor
 # Featured
-- [[Adventures/010 - I Would Die 4 You]]
-- [[Adventures/008 - Smoggi Watch The Stars]]
-- [[Adventures/007 - Gargoyle]]
+- [[Adventures/10 - Death Or Glory]]
+- [[Adventures/8 - Imagine Dragon]]
+- [[Adventures/7 - Tower of Song]]
 
 ## Gesprekken
 * Lopend over de kleine binnenplaats van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]] zegt Dralmorrer: 

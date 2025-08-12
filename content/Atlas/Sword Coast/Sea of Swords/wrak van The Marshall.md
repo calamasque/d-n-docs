@@ -5,7 +5,7 @@
 # wrak van The Marshall
 
 ## Featured
-- [[Adventures/002 - The Ship Song\|002 - The Ship Song]]
+- [[Adventures/2 - The Ship Song\|2 - The Ship Song]]
 
 ## People
 | File | Faction | Description |

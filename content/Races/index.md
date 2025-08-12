@@ -4,14 +4,14 @@
 
 # Races
 - [[Races/Bullywug\|Bullywug]]
-- [[Races/Dragonborn\|Dragonborn]]
-- [[Races/Elf\|Elf]]
 - [[Races/Dwarf\|Dwarf]]
-- [[Races/Half-Elf\|Half-Elf]]
-- [[Races/Half-Orc\|Half-Orc]]
-- [[Races/Halfling\|Halfling]]
-- [[Races/Human\|Human]]
-- [[Races/Tiefling\|Tiefling]]
-- [[Races/Lizardfolk\|Lizardfolk]]
+- [[Races/Elf\|Elf]]
 - [[Races/Gnome\|Gnome]]
+- [[Races/Half-Elf\|Half-Elf]]
+- [[Races/Dragonborn\|Dragonborn]]
+- [[Races/Half-Orc\|Half-Orc]]
+- [[Races/Human\|Human]]
+- [[Races/Halfling\|Halfling]]
+- [[Races/Lizardfolk\|Lizardfolk]]
+- [[Races/Tiefling\|Tiefling]]
 

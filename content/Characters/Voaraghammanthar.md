@@ -9,7 +9,7 @@
 undefined
 
 ## Mentions
-- [[Adventures/006 - Short Skirmish - Long Jacket\|006 - Short Skirmish - Long Jacket]]
+- [[Adventures/6 - Short Skirmish, Long Jacket\|6 - Short Skirmish, Long Jacket]]
 
 
 ## Log

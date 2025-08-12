@@ -5,6 +5,7 @@
 # Wisdom saving throw
 | Spell                                                        | Level |
 | ------------------------------------------------------------ | ----- |
+| [[Items/Handy Haversack\|Pipes of Haunting]]      | \-    |
 | [[Items/Pipes of Haunting\|Pipes of Haunting]]    | \-    |
 | [[Spells/Dissonant Whispers\|Dissonant Whispers]] | 1     |
 | [[Spells/Enhance Ability\|Enhance Ability]]       | 2     |

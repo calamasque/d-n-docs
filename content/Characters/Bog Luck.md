@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-21T20:42:43.110+02:00","modified":"2025-07-24T20:51:41.775+02:00","published":"2025-07-24T20:51:41.775+02:00","cssclasses":""}
+{"publish":true,"aliases":"Bog the Blind Blind Luck","title":"Bog Luck","description":"Owner of Carnath Roadhouse","created":"2025-07-21T20:42:43.110+02:00","modified":"2025-07-30T11:21:51.382+02:00","published":"2025-07-30T11:21:51.382+02:00","cssclasses":""}
 ---
 
 # Character Summary
@@ -10,9 +10,9 @@
 - Heeft een hekel aan [[Characters/Metatron and The Meta Band/SmogEater]] die hij kent als voormalig lid van de [[Factions/Cult of the Dragon]] en uit hun jeugd. Kijkt op Smoggie neer en neemt hem niet serieus
 
 ## Featured
-- [[Adventures/006 - Short Skirmish - Long Jacket]]
-- [[Adventures/005 - Eye Know]]
-- [[Adventures/004 - Roadhouse Blues]]
+- [[Adventures/6 - Short Skirmish, Long Jacket]]
+- [[Adventures/5 - Eye Know]]
+- [[Adventures/4 - Roadhouse Blues]]
 
 ## Mentions
 

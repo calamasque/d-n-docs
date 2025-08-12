@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Dragon Egg","description":"Probably valuable.","created":"2025-07-21","modified":"2025-07-21T19:54:28.118+02:00","published":"2025-07-21","cssclasses":""}
+{"publish":true,"title":"Dragon Egg","description":"Probably valuable.","created":"2025-07-21","modified":"2025-07-30T15:50:30.575+02:00","published":"2025-07-21","cssclasses":""}
 ---
 
-Het draken ei waar het allemaal mee begon.
+# Locatie
+- [[Atlas/Sword Coast/Waterdeep/Halls of Justice\|Halls of Justice]]
+
+# Info
+Het drakenei waar het avontuur mee begon.

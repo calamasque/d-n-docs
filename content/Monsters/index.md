@@ -13,6 +13,7 @@
 | [[Monsters/Beasts/Giant frog\|Giant frog]]               |
 | [[Monsters/Beasts/Giant Octopus\|Giant Octopus]]         |
 | [[Monsters/Beasts/Giant Shark\|Giant Shark]]             |
+| [[Monsters/Harpy\|Harpy]]                                |
 | [[Monsters/Beasts/Mammoth\|Mammoth]]                     |
 | [[Monsters/Abberation/Otyugh\|Otyugh]]                   |
 | [[Monsters/Beasts/Owl\|Owl]]                             |

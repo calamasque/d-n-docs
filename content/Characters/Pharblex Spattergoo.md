@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Pharblex","title":"Pharblex Spattergoo","description":"Chief of Bullywug tribe","created":"2025-07-21T20:42:43.136+02:00","modified":"2025-07-24T20:52:13.484+02:00","published":"2025-07-24T20:52:13.484+02:00","cssclasses":"","socialImage":"![[_media/Pharblex_spattergoo-5e.webp]]"}
+{"publish":true,"aliases":"Pharblex","title":"Pharblex Spattergoo","description":"Chief of Bullywug tribe","created":"2025-07-21T20:42:43.136+02:00","modified":"2025-08-08T14:32:45.135+02:00","published":"2025-08-08T14:32:45.135+02:00","cssclasses":"","socialImage":"![[_media/Pharblex_spattergoo-5e.webp]]"}
 ---
 
 
@@ -19,10 +19,10 @@
 - Staff (taken by [[Characters/Metatron and The Meta Band/Metatron]])
 - Skull of Guts
 ## Featured
-- [[Adventures/010 - I Would Die 4 You]]
+- [[Adventures/10 - Death Or Glory]]
 - [[009 - Name this adventure]]
-- [[Adventures/008 - Smoggi Watch The Stars]]
-- [[Adventures/007 - Gargoyle]]
+- [[Adventures/8 - Imagine Dragon]]
+- [[Adventures/7 - Tower of Song]]
 
 
 

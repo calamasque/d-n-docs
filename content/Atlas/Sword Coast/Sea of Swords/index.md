@@ -4,8 +4,9 @@
 
 # Sea of Swords
 ## Featured
-- [[Adventures/002 - The Ship Song\|002 - The Ship Song]]
-- [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]]
+- [[Adventures/2 - The Ship Song\|2 - The Ship Song]]
+- [[Adventures/1 - You Got A Friend In Me\|1 - You Got A Friend In Me]]
+- [[Adventures/0 - The Lost Tapes\|0 - The Lost Tapes]]
 
 ## People
 | File | Faction | Description |

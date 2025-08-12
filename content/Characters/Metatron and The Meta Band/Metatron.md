@@ -7,14 +7,14 @@
 ## Character Summary
 
 ## Featured
-- [[Adventures/011 - Zzzzz\|011 - Zzzzz]]
-- [[Adventures/010 - I Would Die 4 You\|010 - I Would Die 4 You]]
-- [[Adventures/009 - We All Stand Together\|009 - We All Stand Together]]
-- [[Adventures/008 - Smoggi Watch The Stars\|008 - Smoggi Watch The Stars]]
-- [[Adventures/007 - Gargoyle\|007 - Gargoyle]]
-- [[Adventures/006 - Short Skirmish - Long Jacket\|006 - Short Skirmish - Long Jacket]]
-- [[Adventures/005 - Eye Know\|005 - Eye Know]]
-- [[Adventures/004 - Roadhouse Blues\|004 - Roadhouse Blues]]
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
-- [[Adventures/001 - You Got A Friend In Me\|001 - You Got A Friend In Me]]
+- [[Adventures/9 - We All Stand Together\|9 - We All Stand Together]]
+- [[Adventures/8 - Imagine Dragon\|8 - Imagine Dragon]]
+- [[Adventures/7 - Tower of Song\|7 - Tower of Song]]
+- [[Adventures/6 - Short Skirmish, Long Jacket\|6 - Short Skirmish, Long Jacket]]
+- [[Adventures/5 - Eye Know\|5 - Eye Know]]
+- [[Adventures/4 - Roadhouse Blues\|4 - Roadhouse Blues]]
+- [[Adventures/3 - Deep Water\|3 - Deep Water]]
+- [[Adventures/11 - Zzzzz\|11 - Zzzzz]]
+- [[Adventures/10 - Death Or Glory\|10 - Death Or Glory]]
+- [[Adventures/1 - You Got A Friend In Me\|1 - You Got A Friend In Me]]
 

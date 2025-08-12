@@ -5,7 +5,7 @@
 # Ulbrinter Villa
 
 ## Featured
-- [[Adventures/003 - Deep Water\|003 - Deep Water]]
+- [[Adventures/3 - Deep Water\|3 - Deep Water]]
 
 ## People
 | File                                                                       | Faction                                                                       | Description       |
