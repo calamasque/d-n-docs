@@ -3,10 +3,10 @@
 ---
 
 # Taken
+- [ ] Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/teleportatiecirkel Naerytar\|teleportatiecirkel]] is: "*Draezir*" 
 - [ ] [[Items/Waardevol object van Rezmir]] stelen 
 - [ ] [[Items/Waardevol object van Rezmir]] 'planten' op/bij [[Characters/Pharblex Spattergoo\|Pharblex]] 
 - [ ] [[Characters/Pharblex Spattergoo\|Pharblex]] (laten) ontmaskeren als dief 
-- [ ] Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/teleportatiecirkel Naerytar\|teleportatiecirkel]] is: "*Draezir*" 
 - [ ] Een commando is nodig om de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/teleportatiecirkel Naerytar\|teleportatiecirkel]] te gebruiken 
 
 

@@ -7,9 +7,9 @@
 ## Gerelateerde NPCs
 | Name                                                         | Beschrijving                |
 | ------------------------------------------------------------ | --------------------------- |
-| [[Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
 | [[Characters/Barman Pete\|Barman Pete]]           | Barman at Carnath Roadhouse |
 | [[Characters/Elvira Blacktree\|Elvira Blacktree]] | \-                          |
+| [[Characters/Bog Luck\|Bog Luck]]                 | Owner of Carnath Roadhouse  |
 
 ## Locatie
 - Poort
