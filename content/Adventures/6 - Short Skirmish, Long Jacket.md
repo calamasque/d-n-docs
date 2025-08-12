@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-08-12T13:46:16.672+02:00","published":"2025-03-23","cssclasses":""}
+{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-08-12T15:57:09.267+02:00","published":"2025-03-23","cssclasses":""}
 ---
 
 [[Adventures/5 - Eye Know\|Vorige]] ← 6 - Short Skirmish - Long Jacket → [[Adventures/7 - Tower of Song\|Volgende]]
@@ -12,7 +12,7 @@
 
 # Log
 
-## Bye-bye Boggi, hello Szuszi
+## Bye-bye Boggi
 Aangekomen bij [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] beginnen de (on)vrijwillige metgezellen van onze helden een beetje een blok aan hun been te worden. Omdat [[Characters/Bog Luck\|Bog Luck]] altijd nog eens de zee wil zien ~~met zijn eigen ogen~~ inspireert [[Characters/The Meta Band/Metatron\|Metatron]] de wachter van [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]] om samen met zijn vriend [[Characters/Bog Luck]] de kano westwaarts te varen richting de zee. En zo geschiedde: zij verdwenen aan de horizon, uitgezwaaid door onze helden. Die hadden ondertussen de tijd gehad de omgeving in zich op te nemen. Voor hen rees [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] uit het landschap op met voor de poort een groep [[longhuts]] en gescheiden daarvan verderop een groep [[modderhutten]]. We ontmoeten een groep [[Reference/Races/Lizardfolk\|lizardfolk]] waaronder [[Characters/Snapjaw\|Snapjaw]] die ons meeneemt naar hun [[longhuts]]. Daar blijkt [[Characters/The Meta Band/Szuszi]] gezond en wel in hun gezelschap te zijn. 
 
 ## Intel
@@ -24,6 +24,7 @@ Nadat we hun vertrouwen hebben gewonnen praat [[Characters/Snapjaw]] on bij over
 * De [[Factions/Lizardfolk tribe]] is wel erg te spreken over [[Characters/Dralmorrer Borngray]], de kastelein van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]. Hij leert hen om staal/wapens te smeden. Ook al blijken [[Jank]], [[Ooz]] en [[Lyterics]] niet erg talentvolle leerlingen te zijn. 
 * Navraag leert dat de [[Factions/Red Wizards of Thay\|rode tovenaar]] ook aanwezig is in het kasteel. 
 * [[Characters/Snapjaw]] geeft ons ook een uitgebreide beschrijving van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] en wat ons te wachten staat
+
 ### Kaart van het kasteel
    ![[Excalidraw/Drawing 2025-07-29 15.34.08.excalidraw\|100%]]
 ### Aantallen
