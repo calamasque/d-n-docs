@@ -27,8 +27,9 @@
 
 
 # Featured
-| Sessie | Avontuur                                    | Datum            |
-| ------ | ------------------------------------------- | ---------------- |
-| \-     | [[Adventures/index\|Adventures]] | \-               |
-| 11     | [[Adventures/11 - Zzzzz\|Zzzzz]] | 13 August , 2025 |
+| Sessie | Avontuur                                           | Datum            |
+| ------ | -------------------------------------------------- | ---------------- |
+| \-     | [[Adventures/index\|Adventures]]        | \-               |
+| \-     | [[Adventures/reminders\|Losse eindjes]] | \-               |
+| 11     | [[Adventures/11 - Zzzzz\|Zzzzz]]        | 13 August , 2025 |
 
