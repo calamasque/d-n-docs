@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Lizardfolk tribe","created":"2025-07-16","modified":"2025-07-24T21:17:43.829+02:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"Lizardfolk tribe","created":"2025-07-16","modified":"2025-08-12T13:46:07.554+02:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # Members

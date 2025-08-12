@@ -1,11 +1,11 @@
 ---
-{"publish":true,"aliases":"Drambuie Dralmorrer","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T20:42:43.127+02:00","modified":"2025-08-08T14:32:45.119+02:00","published":"2025-08-08T14:32:45.119+02:00","cssclasses":""}
+{"publish":true,"aliases":"Drambuie Dralmorrer","title":"Dralmorrer Borngray","description":"Caretaker of Castle Naerytar","created":"2025-07-21T20:42:43.127+02:00","modified":"2025-08-12T13:46:07.535+02:00","published":"2025-08-12T13:46:07.535+02:00","cssclasses":""}
 ---
 
 # Character Summary
 - Baas van [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index]]
 - Lid van de [[Factions/Eldreth Veluuthra]]
-- Leert de [[Races/Lizardfolk]] om wapens te smeden.
+- Leert de [[Reference/Races/Lizardfolk]] om wapens te smeden.
 - Blond haar, ooglapje.
 - draagt armor
 # Featured

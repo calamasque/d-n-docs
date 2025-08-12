@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Imagine Dragon","description":"Telescopes are hard to find, but much easier to break. While we fought Gargoyles, Dr. Egbert fights The Red Wizard. A dragon(born) falls down and an imaginary dragon saves the day. We descend into the dungeons for some frog fighting.","created":"2025-05-18","modified":"2025-08-08T14:49:07.382+02:00","published":"2025-05-18","cssclasses":""}
+{"publish":true,"title":"Imagine Dragon","description":"Telescopes are hard to find, but much easier to break. While we fought Gargoyles, Dr. Egbert fights The Red Wizard. A dragon(born) falls down and an imaginary dragon saves the day. We descend into the dungeons for some frog fighting.","created":"2025-05-18","modified":"2025-08-12T13:46:16.678+02:00","published":"2025-05-18","cssclasses":""}
 ---
 
 [[Adventures/7 - Tower of Song\|Vorige]] ← 8 - Imagine Dragon → [[Adventures/9 - We All Stand Together\|Volgende]]
@@ -34,7 +34,7 @@ ONTBREKEND DEEL
 
 Vanaf het dak zien onze helden aan de overkant een toren waarvan het dak een opening heeft: een route om te ontsnappen? [[Characters/Metatron and The Meta Band/Metatron\|Metatron]] bereikt de overkant via Misty Step, [[Characters/Metatron and The Meta Band/Szuszi\|Szuszi]] weet met een spectaculaire sprong de overkant te bereiken met een touw waardoor de rest nu de oversteek kan maken. Hierbij zit [[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]]'s trotse nieuwe bezit - zijn prachtige harnas - hem nogal in de weg wat zorgt voor een pijnlijke val. Niet gehinderd door de pijn of gezond verstand besluit hij via het nog aan het observatorium hangende touw weer omhoog te klimmen ...
 
-[[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]] weet een donkere kamer binnen te vluchten waar verschillende tafels staan. Daar duikt hij snel onder wanneer hij stemmen hoort naderen maar terwijl hij onder tafel schuilt betreden ook 2? 3? [[Monsters/Dragon/Drake\|Drake]] de ruimte ...
+[[Characters/Metatron and The Meta Band/SmogEater\|SmogEater]] weet een donkere kamer binnen te vluchten waar verschillende tafels staan. Daar duikt hij snel onder wanneer hij stemmen hoort naderen maar terwijl hij onder tafel schuilt betreden ook 2? 3? [[Reference/Monsters/Dragon/Drake\|Drake]] de ruimte ...
 
 ONTBREKEND DEEL
 
@@ -46,7 +46,7 @@ Nu de kust veilig is dalen onze helden snel de trap af en begeven zich in de tun
 
 Doden 2 Bullywugs die maar wat staan te luieren.
 
-Doden meerdere  [[Monsters/Beasts/Giant frog\|Giant frog]] in een grote ruimte met een soort vijver.
+Doden meerdere  [[Reference/Monsters/Beasts/Giant frog\|Giant frog]] in een grote ruimte met een soort vijver.
 
 Vinden in een daar achter gelegen kleine ruimte een soort poging tot een altaar/vereringsplek voor 3 oude goden:
 - [[Ghaunadowr\|Ghaunadowr]] - (the god of slime)

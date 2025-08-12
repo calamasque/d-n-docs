@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tower of Song","created":"2025-04-15","modified":"2025-08-08T14:49:06.495+02:00","published":"2025-04-15","cssclasses":""}
+{"publish":true,"title":"Tower of Song","created":"2025-04-15","modified":"2025-08-12T13:46:16.674+02:00","published":"2025-04-15","cssclasses":""}
 ---
 
 [[6 - Short Skirmish - Long Jacket\|Vorige]] ← 7 - Tower of Song → [[Adventures/8 - Imagine Dragon\|Volgende]]
@@ -14,7 +14,7 @@ Na een korte rustpauze in de torenkamer van de afvaltoren gingen onze nachtelijk
 [[Characters/Metatron and The Meta Band/Szuszi]] kruipt door een kleine opening het dak op.................
 
 Kleine binnenplaats:
-3 [[Monsters/Dragon/Drake]]s 
+3 [[Reference/Monsters/Dragon/Drake]]s 
 
 Afvaltoren:
 1 [[DND.SRD.Wiki-main/Monsters/Otyugh]]

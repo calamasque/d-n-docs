@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Pharblex","title":"Pharblex Spattergoo","description":"Chief of Bullywug tribe","created":"2025-07-21T20:42:43.136+02:00","modified":"2025-08-08T14:32:45.135+02:00","published":"2025-08-08T14:32:45.135+02:00","cssclasses":"","socialImage":"![[_media/Pharblex_spattergoo-5e.webp]]"}
+{"publish":true,"aliases":"Pharblex","title":"Pharblex Spattergoo","description":"Chief of Bullywug tribe","created":"2025-07-21T20:42:43.136+02:00","modified":"2025-08-12T13:46:07.542+02:00","published":"2025-08-12T13:46:07.542+02:00","cssclasses":"","socialImage":"![[_media/Pharblex_spattergoo-5e.webp]]"}
 ---
 
 

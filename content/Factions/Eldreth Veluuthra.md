@@ -4,7 +4,7 @@
 
 # Eldreth Veluuthra
 - Elvish supremacists. 
-- Objective: kill/remove all [[Races/Human]] from Faerun.
+- Objective: kill/remove all [[Reference/Races/Human]] from Faerun.
 
 # Members
 | File                                                               | description                  | deceased |

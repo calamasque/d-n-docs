@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-08-12T11:06:54.843+02:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-08-12T13:46:07.522+02:00","published":"2025-06-25","cssclasses":""}
 ---
 
 [[Adventures/8 - Imagine Dragon\|Vorige]] ← 9 - We All Stand Together → [[Adventures/10 - Death Or Glory\|Volgende]]
 # Lang verhaal kort
-* We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
-* Na het doden van al zijn [[Races/Bullywug\|bullywugs]] vindt [[Characters/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
+* We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Reference/Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
+* Na het doden van al zijn [[Reference/Races/Bullywug\|bullywugs]] vindt [[Characters/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
 * Tijdens een long rest hoort [[Characters/Metatron and The Meta Band/Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir]]
-* [[Characters/Metatron and The Meta Band/Szuszi]] gaat op onderzoek uit en ontdekt een nog nagloeiende [[teleportatiecirkel Naerytar]].
+* [[Characters/Metatron and The Meta Band/Szuszi]] gaat op onderzoek uit en ontdekt een nog nagloeiende [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/teleportatiecirkel Naerytar]].
 
 # Log
 Een poging om [[Characters/Pharblex Spattergoo]] en zijn 10 bullywugs te overtuigen dat wij op zoek waren naar lizardfolk met kwade bedoelingen lukte maar ten dele. Wat niet hielp was dat Smog riep dat wij op zoek waren naar de slechterik [[Characters/Pharblex Spattergoo\|Pharblex]]. We werden weggestuurd uit het heiligdom waarop [[Characters/Metatron and The Meta Band/Dr. Egbert]] besloot de aanval te openen met een compleet mislukte [[DND.SRD.Wiki-main/Spells/Eldritch Blast]]. 
