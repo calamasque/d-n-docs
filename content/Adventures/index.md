@@ -3,16 +3,16 @@
 ---
 
 # Vorige keer
-**Aflevering 11: [[Adventures/11 - Zzzzz\|Zzzzz]]**
+**Aflevering 10: [[Adventures/10 - Death Or Glory\|Death Or Glory]]**
 
--
+We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.
 
 ```
 
 
-| Description |
-| ----------- |
-| \-          |
+| Description                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk. |
 
 # HEADER is Recap
 ```dataviewjs
@@ -99,10 +99,6 @@ Telescopes are hard to find, but much easier to break. While we fought Gargoyles
 ### [[Adventures/10 - Death Or Glory\|Death Or Glory]]
 
 We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.
-
-### [[Adventures/11 - Zzzzz\|Zzzzz]]
-
--
 
 ## Adventures in Dataview
 | Sessie | Avontuur                                                                                |
