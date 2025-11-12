@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-11-09T16:22:47.872+01:00","published":"2025-03-23","cssclasses":""}
+{"publish":true,"title":"Short Skirmish - Long Jacket","created":"2025-03-23","modified":"2025-11-12T18:00:34.298+01:00","published":"2025-03-23","cssclasses":""}
 ---
 
-[[Adventures/5 - Eye Know\|Vorige]] ← 6 - Short Skirmish - Long Jacket → [[Adventures/7 - Tower of Song\|Volgende]]
+
+[[5 - I'd rather go blind \(Bogluck's song\|Vorige]]) ← 6 - Short Skirmish - Long Jacket → [[Adventures/7 - Monster Mash\|Volgende]]
+
 # Lang verhaal kort
 
 # Taken + reminders

@@ -1,8 +1,10 @@
 ---
-{"publish":true,"title":"Death Or Glory","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2025-11-09T16:23:03.007+01:00","published":"2025-07-06","cssclasses":""}
+{"publish":true,"title":"Death Or Glory","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2025-11-12T17:26:34.455+01:00","published":"2025-07-06","cssclasses":""}
 ---
 
-[[Adventures/9 - We All Stand Together\|Vorige]] ← 10 - Death Or Glory → [[Adventures/11 - The Lodge\|Volgende]]
+
+[[Adventures/9 - We All Stand Together\|Vorige]] ← 10 - Death Or Glory → [[11 - Enter the Dragon / Cabin Fever!\|Volgende]]
+
 # Lang verhaal kort
 - [[Characters/The Meta Band/Szuszi]] coacht [[Characters/Pharblex Spattergoo\|Pharblex]] voor zijn eerste optreden als public speaker.
 - [[Characters/Pharblex Spattergoo\|Pharblex]] is geen man van het/zijn woord en duikt, [[Characters/The Meta Band/Szuszi]] laat zijn teleurstelling blijken.

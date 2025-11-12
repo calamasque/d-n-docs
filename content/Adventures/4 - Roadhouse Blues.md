@@ -1,15 +1,15 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-08-13T18:50:22.103+02:00","published":"2025-01-26","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-11-12T16:44:18.207+01:00","published":"2025-01-26","cssclasses":""}
 ---
 
-[[Adventures/3 - Deep Water\|Vorige]] ← 4 - Roadhouse Blues → [[Adventures/5 - Eye Know\|Volgende]]
+[[Adventures/3 - City by the Sea\|Vorige]] ← 4 - Roadhouse Blues → [[5 - I'd rather go blind \(Bogluck's song\|Volgende]])
 # Lang verhaal kort
 
 # Taken + reminders
 - [ ] [[Atlas/Sword Coast/Waterdeep/Halls of Justice]]: [[draken ei]] ophalen 
 
 # Log
-??? laten we achter in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
+Het draken-ei (en andere spullen?) laten we achter in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.
 
 We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het [[Items/Scrying Altar of Tyr\|Altaar]] nemen we met ons mee in de wagen. 
 

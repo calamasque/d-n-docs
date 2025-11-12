@@ -1,8 +1,9 @@
 ---
-{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-08-14T10:30:32.589+02:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"We All Stand Together","created":"2025-06-25","modified":"2025-11-12T17:26:49.017+01:00","published":"2025-06-25","cssclasses":""}
 ---
 
-[[Adventures/8 - Imagine Dragon\|Vorige]] ← 9 - We All Stand Together → [[Adventures/10 - Death Or Glory\|Volgende]]
+
+[[Adventures/8 - Imagine Dragons\|Vorige]] ← 9 - We All Stand Together → [[Adventures/10 - Death Or Glory\|Volgende]]
 # Lang verhaal kort
 * We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Reference/Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
 * Na het doden van al zijn [[Reference/Races/Bullywug\|bullywugs]] vindt [[Characters/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
