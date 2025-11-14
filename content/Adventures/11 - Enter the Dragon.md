@@ -1,11 +1,14 @@
 ---
-{"publish":true,"title":"Enter the Dragon","created":"2025-07-15","modified":"2025-11-12T22:06:13.507+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Enter the Dragon","created":"2025-07-15","modified":"2025-11-15T00:26:02.598+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 
 [[Adventures/10 - Death Or Glory\|Vorige]] ← 11 - Enter the Dragon → [[Adventures/12 - Monkey Man\|Volgende]]
 # Lang verhaal kort
-- xxx
+- [[Characters/Voaraghammanthar]] in Lizardfolk verschijning toont interesse in ons maar is niet gediend van [[Characters/The Meta Band/Agrip’Ah]]'s vragen over [[de tweede draak]] en brent hem in ademnood en op de rand van de dood. 
+- We ontsnappen via de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Teleportatiecirkel - Naerytar\|teleportatiecirkel]] en eindigen bij [[Atlas/Sword Coast/Greypeak Mountains/3 portals near lodge\|3 portals ]] gelegen bij [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]].
+- [[Trollen]] met [[Reference/Monsters/Dragon/Drake\|Drakes]] patrouilleren de omgeving maar geloven dat wij [[Factions/Cult of the Dragon\|cultists]] zijn en laten ons binnen.
+- Wij moeten wachten tot [[Characters/Talis]] ons ontvangt.
 
 # Acties & reminders
 - [ ]  commando [[teleportatiecirkel - sneeuw]] ontdekken 
@@ -72,8 +75,9 @@
 - [[Characters/The Meta Band/Szuszi]] loert en ziet een derde trol: een [[grote trol]] met 3 [[Reference/Monsters/Dragon/Drake\|Drakes]]. 
 - We sluipen terug in de richting van de [[portal stones]]
 - De portals reageren niet op het commando "Draezir". We moeten uitzoeken wat de commando's zijn voor deze 3 portals.
-- [[Characters/The Meta Band/SmogEater]] kostuum aan: 
-- [[Characters/Rezmir]] is een paar uur geleden naar [[parnast]] vertrokken met de beste [[wyverns]] van [[Trepsin]] (de jager van de vallei). We moeten door lopen naar binnen naar [[Characters/Talis]]. 
+- [[Characters/The Meta Band/SmogEater]] trekt zijn [[Factions/Cult of the Dragon]] kostuum aan 
+- ...
+- [[Characters/Rezmir]] is een paar uur geleden naar [[parnast]] vertrokken met de beste [[wyverns]] van [[Trepsin]] (de jager van de vallei). We moeten doorlopen naar binnen naar [[Characters/Talis]]. 
 - [[Characters/The Meta Band/SmogEater]] herinnert zich dat in zijn [[Factions/Cult of the Dragon]] 1x één van de hoger geplaatsten op bezoek is geweest - [[Characters/Talis]] - die hem probeerde te overtuigen dat hij lid moest worden van de cult.
 - [[Angard]] heeft verkeerd vlees buiten gegooid?
 - [[Gastin]] er is bezoek!
@@ -81,8 +85,8 @@
 ## The Hunting Lodge
 - We komen het huis binnen door een entree waar ongewenste gasten door gaten beschoten kunnen worden 
 - We komen binnen in de hal
-- [[lange magere man]] komt wat verwart binnen.
-- [[Gastin]]: "Welkom in de [[hunting lodge]]"
+- Een [[Gastin\|lange magere man]] komt wat verwart binnen.
+- [[Gastin]]: "Welkom in de [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]!"
 - [[Gastin]]: "Er zou morgen pas weer bezoek komen"
 - Komt u voor [[Characters/Talis]]?
 - [[Characters/The Meta Band/Agrip’Ah]]: Waarom bent u zo zenuwachtig?

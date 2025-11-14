@@ -1,75 +1,91 @@
 ---
-{"publish":true,"title":"Monkey Man","created":"2025-11-09","modified":"2025-11-12T22:06:42.091+01:00","published":"2025-11-09","cssclasses":""}
+{"publish":true,"title":"Monkey Man","created":"2025-11-09","modified":"2025-11-15T00:26:08.795+01:00","published":"2025-11-09","cssclasses":""}
 ---
 
 
 [[Adventures/11 - Enter the Dragon\|Vorige]] ← 12 - Monkey Man
 
 # Lang verhaal kort
-- xxx
+- We verrassen [[Characters/Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden. 
+- We doen ons voor als een groep huurlingen die door [[Characters/Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir]] is gestuurd voor een klus zonder te weten wat. [[Characters/Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
+- We krijgen 3 klussen: 
+	1. [[Characters/Varram]] doden
+	2. In [[Atlas/Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] beëindigen.
+	3. [[Characters/Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
+- Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater]]'s staart zichtbaar en zijn we ontmaskerd - het wordt vechten.
+- [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]], wordt een [[Reference/Monsters/Beasts/Giant Ape]], klimt uit het raam en slaat [[Characters/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. 
 
 # Acties & reminders
-- [ ]  [[Characters/Varram]] uitschakelen ([[Characters/Talis]]) 
-- [ ]  Transport van schatten onderbreken vanuit [[Castle Skyreach]] 
-- [ ]  Eieren bij [[Characters/Rezmir]] ontvreemden en naar [[Characters/Talis]] brengen 
+- [ ] [[Characters/Varram]] uitschakelen voor [[Characters/Talis]] 
+- [ ] Transport van schatten onderbreken vanuit [[Castle Skyreach]] voor [[Characters/Talis]]  
+- [ ] [[Characters/Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen voor [[Characters/Talis]]  
 - [ ]  Wachtwoord [[Castle Skyreach]]: "[[Tiamat]], our mother and strength" 
-- [ ]  [[Characters/Rezmir]] vertrokken in grote haast naar [[Parnast]] per [[DND.SRD.Wiki-main/Monsters/Wyvern]]
-- [ ]  [[Characters/The Meta Band/Metatron]] heeft melodie geleerd om [[wyverns]] rustig te maken 
+- [ ]  [[Characters/Rezmir]] vertrok in grote haast per [[DND.SRD.Wiki-main/Monsters/Wyvern]] naar [[Parnast]] 
+- [ ]  [[Characters/The Meta Band/Metatron]] leerde een melodie om [[wyverns]] rustig te maken 
+- [ ]  [[Trepsin]] vinden 
+- [ ]  [[Characters/Talis]]' lijk vinden en ontdoen van de [[onbekende documenten]], [[Talis' staff]] en [[Talis' armor]] 
 
-# Log
+# Session Log
 
+[[Characters/The Meta Band/SmogEater]] deelt belangrijke informatie over [[Characters/Talis]]:
+- [[Characters/The Meta Band/SmogEater]] kent [[Characters/Talis]] uit zijn tijd in [[Elturel]] bij de [[Factions/Cult of the Dragon\|Cult]] 
+- [[Characters/Talis]] is een heel charmante dame, ze gebruikt haar charme tegen je. 
+- [[Characters/Talis]] is een hooggeplaatst persoon in de [[Factions/Cult of the Dragon]]. 
+- [[Characters/Talis]] had veel op met [[Bahamut]] en was voor [[Characters/The Meta Band/SmogEater\|Smoggi]] daarom heel inspirerend. Totdat duidelijk werd dat ze een heel vervelende interesse heeft voor draken. Dit zorgde voor een confrontatie met [[Characters/The Meta Band/SmogEater]], waarna ze [[Characters/Bog Luck]] achter hem aan stuurde. 
+- [[Characters/Talis]]' ambitie heeft haar zo verblind dat ze niet meer voor rede vatbaar is. 
+- [[Characters/Talis]] heeft waarschijnlijk interesse in de [[Items/Dragon Egg\|dragon eggs]].
+- [[Characters/Talis]] zal [[Characters/The Meta Band/SmogEater]] waarschijnlijk gaan herkennen.
 
-## Whatever
-- [[Characters/The Meta Band/SmogEater]] heeft geschiedenis met [[Characters/Talis]] in de [[Elturel]]. Zij is een heel charmante dame, ze pakt je in met haar charme. Ze is een hooggeplaatst persoon in de [[Factions/Cult of the Dragon]]. Zij had veel op met [[Bahamut]] en was voor [[Characters/The Meta Band/SmogEater]] heel inspirerend. Totdat duidelijk was dat ze een heel vervelende interesse had voor draken. Confrontatie met [[Characters/The Meta Band/SmogEater]] toen hij ontdekte wie zij werkelijk was. Ze bleek een wolf in schaapskleren te zijn. Haar ambitie heeft haar zo verblind dat ze niet meer tot rede vatbaar is. Wel heeft ze zeer waarschijnlijk interesse in de eieren. 
-- We lopen naar boven
-- Badkamer
-- Slaapkamer met iemand die slaapt
-- Vergaderkamer met [[Characters/Talis]], 2 [[guards]] en 1 [[Characters/Dragonclaw]].
-- [[Characters/Talis]]: "Welkom [[Children of the Wurm]]!"
-- [[Characters/The Meta Band/Agrip’Ah]] cast een mislukte charm spell op [[Characters/Talis]]
-- [[Characters/The Meta Band/Metatron]] difused de situatie
-- [[Characters/Talis]]: "Waar is [[Fenric]]?" 
-- [[Characters/The Meta Band/Metatron]]: "[[Fenric]] ([[Characters/The Meta Band/Szuszi]]) stap anders even naar voren?"
-- [[Characters/Talis]]: "Dit is niet [[Fenric]]! En jullie zien er niet uit alsof jullie uit het noorden komen?"
-- [[Characters/The Meta Band/Metatron]]: "Wij komen ook helemaal niet het noorden. Wij zijn hier heen gestuurd vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]], door [[Characters/Dralmorrer Borngray\|Dralmorrer]] op orders van [[Characters/Rezmir]] die zelf al vooruit was gereisd."
-- Wachter wordt gevraagd om andere wachter wakker te maken en [[Trepsin]] er bij te roepen als ik je roep. Deur wordt gesloten.
-- Wij zijn slechts hands for hire die hier heen zijn gestuurd, meer weten wij niet.
-- [[Characters/The Meta Band/SmogEater]]: "Mijn naam is [[Fire Breather]]"
-- [[Characters/Talis]]: "Serieus, ik kijk door je vermomming heen, een beetje smink"
-- [[Characters/The Meta Band/SmogEater]]: De heren heb ik kunnen recruteren om te vechten tegen de lord van castle Green Edge, succesvol mag ik zeggen.
-- [[Characters/Talis]]: Maar je kleding past bij iemand die al veel langer bij de cult zit.
-- [[Characters/Talis]]: Wat vind je van de huidige leiders van het gilde?
-- [[Characters/The Meta Band/SmogEater]]: Ik weet niet of de huidige leiders nog wel allemaal de juiste zijn.
-- [[Characters/The Meta Band/Agrip’Ah]]: [[Characters/Rezmir]] is qua methodes niet helemaal niet wat perfect bij ons past
-- [[Characters/Talis]]: Rezmir is hier in paniek langs gekomen en dit voelt voor mij enigszins vijandig.
-- [[Characters/The Meta Band/Szuszi]]: hoe kunnen we je overtuigen?
-- [[Characters/Talis]]: Mogelijk kunnen we elkaar wel helpen
-- [[Characters/Varram]] is het [[witte masker]] niet waardig en heeft nu volgens mij wat problemen. Jullie kunnen helpen omdat het natuurlijk zou kunnen gebeuren dat [[Characters/Varram]] ineens verdwijnt.
-- [[Characters/Varram]] is niet geschikt in het grote plan van [[Severin]]. [[Characters/Rezmir]] is irritant 
+## Plan A: leugen & bedrog
+We lopen naar boven en overwegen om [[Characters/The Meta Band/SmogEater]] niet met ons de kamer met [[Characters/Talis]] in te laten stappen. Maar [[Characters/The Meta Band/SmogEater]] wil ook graag meedoen en kiest er voor zich te vermommen - hoe kan dit niet fout gaan? 
+
+We ontdekken een badkamer en een slaapkamer met iemand die slaapt. Een stoel onder de deurklink lijkt een goed idee om hem onopgemerkt uit te schakelen.
+Bij de 3e kamer is het raak: we verrassen [[Characters/Talis]], een [[Characters/Dragonclaw]] en 2 [[veteran guards]] in een vergaderruimte. We zien [[Characters/Talis]] [[onbekende documenten]] in wegstoppen in haar heuptas waarna ze ons welkom heet: "Welkom [[Children of the Wurm]]!". 
+
+[[Characters/The Meta Band/Agrip’Ah]] gebruikt onze onverwachte entree en cast direct [[DND.SRD.Wiki-main/Spells/Charm Person]] op [[Characters/Talis]] wat helaas mislukt. Dit zorgt wel direct voor een vijandige sfeer. [[Characters/The Meta Band/Metatron]] blust de situatie door het als een misverstand te bestempelen. 
+[[Characters/Talis]] verwacht een andere groep en vraagt daarom waar [[Fenric]] is waarop [[Characters/The Meta Band/Metatron]] [[Characters/The Meta Band/Szuszi]] aanwijst. Helaas kent [[Characters/Talis]] [[Fenric]] en stelt ook vast dat onze kleding niet past bij mensen die uit het noorden komen. [[Characters/The Meta Band/Metatron]] antwoord dat wij helemaal niet uit noorden komen maar vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] en zijn gestuurd door [[Characters/Dralmorrer Borngray\|Dralmorrer]] op orders van [[Characters/Rezmir]] die zelf al vooruit was gereisd. 
+
+[[Characters/Talis]] is niet meer openlijk vijandig maar lijkt het ook nog niet helemaal te vertrouwen. Ze vraagt 1 van de [[veteran guards]] een andere [[veteran]] wakker te maken en [[Trepsin]] er bij te roepen als [[Characters/Talis]] een signaal geeft. Deze [[veteran]] ontdekt de stoel voor de deur van de slaapzaal wat weer voor spanning zorgt. Wij spelen echter overtuigend de vermoorde onschuld. 
+
+[[Characters/Talis]] wil meer over ons weten. We blijven bij ons verhaal dat we slechts 'hands for hire' zijn die hierheen zijn gestuurd zonder dat er meer informatie met ons is gedeeld. [[Characters/Talis]] interesse gaat naar [[Characters/The Meta Band/SmogEater]] die zich voorstelt als [[Characters/The Meta Band/SmogEater\|Fire Breather]]. [[Characters/Talis]] ziet direct dat hij zich heeft vermomd maar herkent niet wie hij is. [[Characters/The Meta Band/SmogEater\|Fire Breather]] legt uit dat hij relatief kort bij de [[Factions/Cult of the Dragon\|de Cult]] zit en de rest van ons heeft gerecruteerd om te vechten tegen de [[lord van Castle Green Edge]], met veel succes. [[Characters/Talis]] merkt wel op dat zijn kleding past bij iemand die al veel langer bij de [[Factions/Cult of the Dragon\|de Cult]] zit.
+
+[[Characters/Talis]] wil weten wat we van de huidige leiders van [[Factions/Cult of the Dragon\|de Cult]] vinden:
+- [[Characters/The Meta Band/SmogEater]] weet niet of de huidige leiders nog wel allemaal de juiste zijn.
+- [[Characters/The Meta Band/Agrip’Ah]]: vindt [[Characters/Rezmir]] qua methodes niet helemaal bij ons passen
+
+- [[Characters/Talis]] heeft Rezmir in paniek langs zien komen onze aanwezigheid haar een vijandig gevoel geeft. [[Characters/The Meta Band/Szuszi]] vraagt hoe we haar kunnen overtuigen dat wij niet haar vijanden zijn? [[Characters/Talis]] geeft aan dat we elkaar misschien kunnen helpen:[[Characters/Varram]] is volgens [[Characters/Talis]] het [[witte masker]] niet waardig en heeft ook problemen. Het verzoek is [[Characters/Varram]] te laten verdwijnen. 
+   
+   [[Characters/Varram]] is volgens haar niet geschikt in het grote plan van [[Severin]]. [[Characters/Rezmir]] is 'slechts' irritant.  
 - [[Characters/The Meta Band/Agrip’Ah]]: weet u dat [[Characters/Rezmir]] een drakenei is verloren?
 - [[Characters/Rezmir]] misbruikte draken voor dingen die niet aan hun stand zijn
 
 Er is iets mis met de logistieke lijn:
-* sinds een dag komen er geen kisten meer vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
-* het rommelt bij [[Characters/Varram]]
-[[Severin]] laat [[Characters/Talis]] [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] alleen verlaten als alle aanvoer is gestokt en er dus geen noodzaak meer is voor iemand die ter plekke alles in goede banen leidt. 
+1. sinds een dag komen er geen kisten meer vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
+2. het rommelt bij [[Characters/Varram]]
+[[Severin]] laat [[Characters/Talis]] [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] pas verlaten als er alle aanvoer is gestokt en er dus geen noodzaak meer is voor iemand die ter plekke alles in goede banen leidt. 
 
 ([[Gastin]] komt binnen met wijn en water, 2 wachters nog steeds voor de deur.)
 
-[[Characters/The Meta Band/Agrip’Ah]] vraagt aan [[Characters/Talis]] of zij misschien kan uitleggen wat hij zag bij het afwijkende zwarte drakenei wat hij heeft gezien. [[Characters/Talis]] geeft aan dat zij hier ook niets van weet. [[Characters/Talis]] kan wel meer vertellen over de 3 portals:
+[[Characters/The Meta Band/Agrip’Ah]] vraagt aan [[Characters/Talis]] of zij misschien kan uitleggen wat hij zag bij het afwijkende zwarte [[Items/Dragon Egg]] wat hij heeft gezien. [[Characters/Talis]] geeft aan dat zij hier ook niets van weet. 
+
+[[Characters/Talis]] kan wel meer vertellen over de 3 portals:
 1. Moeras = [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
 2. Sneeuw = [[Icewind Dale]]
 3. Rode zon = (out of order)
 
-Het is midden in de middag (16:00). Het is een 5 mile hike naar [[Parnast]].
+Het is nu midden op de dag (16:00) en het is een 5 mile hike naar [[Parnast]]. We blijven daarom vandaag hier en vertrekken pas morgen naar [[Parnast]]. Tijd om te rusten en we verlaten daarom de kamer. [[Characters/Talis]] spot op dat moment de staart van [[Characters/The Meta Band/SmogEater\|Fire Breather]] en herkent hem als [[Characters/The Meta Band/SmogEater]]. [[Characters/The Meta Band/SmogEater]] hangt een geloofwaardig verhaal op dat hij uiteindelijk toch het "juiste" pad heeft gevonden. [[Characters/Talis]] geeft aan dat [[Factions/Cult of the Dragon\|de Cult]] problemen heeft met de [[metallic dragons]] en dat de [[chromatic dragons]] gesteund moeten worden.  [[Characters/Talis]] probeert [[Characters/The Meta Band/SmogEater]] uit zijn tent te lokken door hem te vertellen dat ze meteen als een bijzonder herkende: een groene [[Reference/Races/Dragonborn]] met een staart. Maar dat ze sindsdien zijn (adoptief) ouders en broertjes en zusjes heeft vermoord. Onze held [[Characters/The Meta Band/SmogEater]] geeft geen krimp! 
 
-[[Characters/Talis]] spot de staart van de vermomde [[Characters/The Meta Band/SmogEater]] en herkent hem. 
-[[Characters/The Meta Band/SmogEater]] hangt een geloofwaardig verhaal op dat hij uiteindelijk op het "juiste" pad is gekomen.
-[[Characters/Talis]]: we hebben een probleem met de [[metallic dragons]] dus steun de [[chromatic dragons]]. Ik herkende je meteen als een bijzonder, een groene [[Reference/Races/Dragonborn]] met een staart. Degenen die je had aangewezen als je (adoptief) ouders en je broertjes en zusjes zijn - moet ik je melden - helaas niet meer in leven. Het dorp bestaat nog wel.
-[[Characters/The Meta Band/SmogEater]] vertelt een verhaal over zijn jeugd en de zoektocht naar zijn identiteit.
+Maar onze held [[Characters/The Meta Band/SmogEater\|Smoggi]] wordt binnen no time de schlemiel (niet de onze) door een ongekend wollig verhaal op te hangen over zijn jeugd, zijn zoektocht naar zijn identiteit en zijn liefde voor [[Bahamut]]. Voor [[Characters/Talis]] is nu duidelijk dat dit geen aanhanger van de [[Factions/Cult of the Dragon]] is en zij besluit zich van ons te ontdoen.  
 
-# Combat
-> [!info]- **COMBAT LOG**
+## Plan B: done talking
+
+> [!info]+ **Een lang gevecht kort**
+> - [[Characters/Talis]] cast [[DND.SRD.Wiki-main/Spells/Insect Plague]]
+> - [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern]]. 
+> - [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]], wordt een [[Reference/Monsters/Beasts/Giant Ape]], klimt uit het raam en slaat [[Characters/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. [[Trepsin]] gaat er vandoor met het lijk van [[Characters/Talis]]
+> - [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/SmogEater\|Smoggi]] waren ondertussen druk bezig met de 3 [[veteran guards]], een groep [[kobolds]], 2 [[Reference/Monsters/Elementals/Gargoyle\|Gargoyle]]s en een [[Helmed horror]]
+
+> [!info]- **Full Combat Log**
 > *INITIATIEF:*
 > 1. [[Characters/Talis]]
 > 2. [[Characters/The Meta Band/SmogEater]]
@@ -166,6 +182,7 @@ Het is midden in de middag (16:00). Het is een 5 mile hike naar [[Parnast]].
 >> 2. [[Reference/Monsters/Elementals/Gargoyle\|Gargoyle]]s - 1 onder hypnose, 1 ontwaakt. Deze krijgt nog 11 dmg van de [[Booming Blade]] vanwege beweging en weet [[Characters/The Meta Band/SmogEater]] niet te raken. 
 >> 3. We eindigen alle overgebleven [[kobolds]] en [[Reference/Monsters/Elementals/Gargoyle\|Gargoyles]]
 
+## After the party
 - [[Characters/The Meta Band/Metatron]] pakt de zwarte mantel en het zwart masker van de [[Characters/Dragonclaw]] plus zijn scimitar en mes.
 - [[Characters/The Meta Band/Szuszi]] sneakt naar beneden
 - [[Characters/The Meta Band/Agrip’Ah]] onderzoekt de kamer maar vindt geen spullen van geldelijke of informatieve waarde.

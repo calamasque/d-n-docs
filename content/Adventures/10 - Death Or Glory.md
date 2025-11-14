@@ -1,21 +1,20 @@
 ---
-{"publish":true,"title":"Death Or Glory","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2025-11-12T17:26:34.455+01:00","published":"2025-07-06","cssclasses":""}
+{"publish":true,"title":"Death Or Glory","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2025-11-15T00:25:57.599+01:00","published":"2025-07-06","cssclasses":""}
 ---
 
 
-[[Adventures/9 - We All Stand Together\|Vorige]] ← 10 - Death Or Glory → [[11 - Enter the Dragon / Cabin Fever!\|Volgende]]
+[[Adventures/9 - We All Stand Together\|Vorige]] ← 10 - Death Or Glory → [[Adventures/11 - Enter the Dragon\|Volgende]]
 
 # Lang verhaal kort
-- [[Characters/The Meta Band/Szuszi]] coacht [[Characters/Pharblex Spattergoo\|Pharblex]] voor zijn eerste optreden als public speaker.
-- [[Characters/Pharblex Spattergoo\|Pharblex]] is geen man van het/zijn woord en duikt, [[Characters/The Meta Band/Szuszi]] laat zijn teleurstelling blijken.
 - We staan oog-in-oog met [[Characters/Dralmorrer Borngray]] en 15 [[Factions/Cult of the Dragon\|cultists]]: ==(aantal)== [[Characters/Dragonclaw\|Dragonclaws]] en ==(aantal)== [[Characters/Initiate\|initiates]].
+- [[Characters/Pharblex Spattergoo\|Pharblex]] blijkt geen man van het/zijn woord en duikt tot teleurstelling van [[Characters/The Meta Band/Szuszi]].
 - [[Characters/Dralmorrer Borngray\|Drambuie]]'s versterkingen arriveren: 6 [[Characters/Dragonwing]], 6 [[Characters/Bullywug fighter\|bullywugs]] en 2 [[Reference/Monsters/Dragon/Drake\|Drakes]]
 - De spanning is om te snijden: 
 	- [[Characters/The Meta Band/Metatron]] voert al een Oscar-waardige sterfscene op als [[Characters/The Meta Band/SmogEater\|Smoggi]] hem toch nog redt.
-	- [[Characters/The Meta Band/Dr. Egbert]] ziet ook het licht maar [[Characters/The Meta Band/Agrip’Ah]] houdt hem aan deze zijde.
-- Langzaam draait het gevecht toch onze kant op.
+	- [[Characters/The Meta Band/Dr. Egbert]] ziet ook het licht al maar [[Characters/The Meta Band/Agrip’Ah]] houdt hem aan deze zijde.
+- Langzaam draait het gevecht onze kant op.
 - De cavalerie arriveert: [[Characters/The Meta Band/Waldo]] met [[Characters/Snapjaw]] en de [[Factions/Lizardfolk tribe]].
-- [[Characters/The Meta Band/Agrip’Ah]] laat [[Characters/Dralmorrer Borngray\|Drambuie]] inslapen (tijdelijk), [[Characters/Snapjaw]] & Co 
+- [[Characters/The Meta Band/Agrip’Ah]] laat [[Characters/Dralmorrer Borngray\|Drambuie]] inslapen (tijdelijk)
 
 # Acties & reminders
 - [x] Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Teleportatiecirkel - Naerytar\|teleportatiecirkel]] is: "*Draezir*"  ✅ 2025-11-09
