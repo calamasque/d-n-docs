@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:24:09.573+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:28:04.097+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
@@ -15,6 +15,9 @@
     3. [[Characters/Rezmir\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
 - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater\|SmogEater]]'s staart zichtbaar en zijn we ontmaskerd - het wordt vechten.
 - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] duwt [[Characters/Talis\|Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron\|Metatron]] cast [[Reference/Spells/Polymorph\|Polymorph]], wordt een [[Reference/Monsters/Beasts/Giant Ape\|Giant Ape]], klimt uit het raam en slaat [[Characters/Talis\|Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile\|Magic Missile]].
+
+[[Adventures/index\|Alle samenvattingen]] 
+
 | Sessie | Avontuur                                                                                |
 | ------ | --------------------------------------------------------------------------------------- |
 | 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                     |
