@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:28:04.097+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:35:48.987+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
@@ -18,19 +18,19 @@
 
 [[Adventures/index\|Alle samenvattingen]] 
 
-| Sessie | Avontuur                                                                                |
-| ------ | --------------------------------------------------------------------------------------- |
-| 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                     |
-| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                       |
-| 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                           |
-| 9      | [[Adventures/9 - We All Stand Together\|We All Stand Together]]              |
-| 8      | [[Adventures/8 - Imagine Dragons\|Imagine Dragons]]                          |
-| 7      | [[Adventures/7 - Monster Mash\|Monster Mash]]                                |
-| 6      | [[Adventures/6 - Short Skirmish, Long Jacket\|Short Skirmish - Long Jacket]] |
-| 5      | [[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]              |
-| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                          |
-| 3      | [[Adventures/3 - City by the Sea\|City by the Sea]]                          |
-| 2      | [[Adventures/2 - Under the Sea\|Under the Sea]]                              |
-| 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]            |
-| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                              |
+| Sessie | Avontuur                                                                                 |
+| ------ | ---------------------------------------------------------------------------------------- |
+| 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                      |
+| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                        |
+| 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                            |
+| 9      | [[Adventures/9 - We All Stand Together\|We All Stand Together]]               |
+| 8      | [[Adventures/8 - Imagine Dragons\|Imagine Dragons]]                           |
+| 7      | [[Adventures/7 - Monster Mash\|Monster Mash]]                                 |
+| 6      | [[Adventures/6 - Short Skirmish - Long Jacket\|Short Skirmish - Long Jacket]] |
+| 5      | [[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]               |
+| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                           |
+| 3      | [[Adventures/3 - City by the Sea\|City by the Sea]]                           |
+| 2      | [[Adventures/2 - Under the Sea\|Under the Sea]]                               |
+| 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]             |
+| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                               |
 
