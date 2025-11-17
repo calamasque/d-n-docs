@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:45:10.827+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:47:32.742+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-(1762642800000)
+(undefined)
 
 # [[Adventures/12 - Hypnotize\|Hypnotize]]
 
