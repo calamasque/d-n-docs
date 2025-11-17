@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:43:18.589+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:45:10.827+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-# 9 November , 2025
+(1762642800000)
 
-[[Adventures/12 - Hypnotize\|Hypnotize]]
+# [[Adventures/12 - Hypnotize\|Hypnotize]]
 
 - We verrassen [[Characters/Talis\|Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person\|Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden.
 - We doen ons voor als een groep huurlingen die door [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir\|Rezmir]] is gestuurd voor een klus zonder te weten wat. [[Characters/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
