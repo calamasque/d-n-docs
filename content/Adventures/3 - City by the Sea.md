@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"City by the Sea","created":"2024-12-08","modified":"2025-11-15T00:28:22.112+01:00","published":"2024-12-08","cssclasses":""}
+{"publish":true,"title":"City by the Sea","created":"2024-12-08","modified":"2025-12-06T12:56:30.903+01:00","published":"2024-12-08","cssclasses":""}
 ---
 
 [[Adventures/2 - Under the Sea\|Vorige]] ← 3 - City by the Sea → [[Adventures/4 - Roadhouse Blues\|Volgende]]
@@ -11,7 +11,7 @@ Onze helden arriveren met de [[Atlas/Sword Coast/Sea of Swords/The Happily Ever 
 
 Als 1 groep (minus [[Characters/The Meta Band/Waldo]]) begeven zij zich vervolgens naar het centrale plein van de stad waar van alles wordt verkocht en waar [[Characters/The Meta Band/SmogEater]] in de buurt ook de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] hoopt te vinden. In deze tempel van Tyr zou het voor hem toch mogelijk moeten zijn een prachtige set zware bepantsering te kopen? [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/Dr. Egbert]] vergezellen hem hierbij. In zijn enthousiasme om de Tyr-aanhangers tevreden te stellen wordt [[Characters/The Meta Band/SmogEater]] al snel iets te loslippig en informeert hen dat wij in het bezit zijn van 
 
-Ondertussen zijn [[Characters/The Meta Band/Metatron]] en [[Characters/The Meta Band/Agrip’Ah]] richting the North Ward vertrokken op zoek naar [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]] waar zij [[Characters/Lady Remallia Haventree]] hopen te ontmoeten. Deze dame is lid van de [[Factions/Harpers]] en kan ons hopelijk aan meer informatie helpen over de [[Factions/Cult of the Dragon]] en de [[Factions/Red Wizards of Thay]]. Zij informeert ons dat ze een half-elf ranger, genaamd [[Characters/Elvira Blacktree]], achter de red wizard aan heeft gestuurd richting het noorden richting [[Atlas/Sword Coast/Carnath Roadhouse]] maar al enige tijd niets meer van haar heeft vernomen. 
+Ondertussen zijn [[Characters/The Meta Band/Metatron]] en [[Characters/The Meta Band/Agrip’Ah]] richting the North Ward vertrokken op zoek naar [[Atlas/Sword Coast/Waterdeep/Ulbrinter Villa]] waar zij [[Characters/Waterdeep/Lady Remallia Haventree]] hopen te ontmoeten. Deze dame is lid van de [[Factions/Harpers]] en kan ons hopelijk aan meer informatie helpen over de [[Factions/Cult of the Dragon]] en de [[Factions/Red Wizards of Thay]]. Zij informeert ons dat ze een half-elf ranger, genaamd [[Characters/Carnath Roadhouse/Elvira Blacktree]], achter de red wizard aan heeft gestuurd richting het noorden richting [[Atlas/Sword Coast/Carnath Roadhouse]] maar al enige tijd niets meer van haar heeft vernomen. 
 
 Op de weg terug 
 [[Characters/The Meta Band/Szuszi]]

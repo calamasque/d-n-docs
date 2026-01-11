@@ -1,32 +1,30 @@
 ---
-{"publish":true,"aliases":"quest quests","title":"Niet vergeten!","created":"2025-07-22","modified":"2025-11-17T23:05:10.631+01:00","published":"2025-07-22","cssclasses":""}
+{"publish":true,"aliases":"quest quests","title":"Niet vergeten!","created":"2025-07-22","modified":"2025-12-06T21:59:29.893+01:00","published":"2025-07-22","cssclasses":""}
 ---
 
+# AWOL
+
+
 # To do
-- [ ] commando [[teleportatiecirkel - sneeuw]] ontdekken 
-- [ ] commando [[teleportatiecirkel - rode zon]] ontdekken 
-- [ ] commando [[teleportatiecirkel - moeras]] ontdekken 
-- [ ] [[Trepsin]] vinden 
-- [ ] [[Characters/Talis]]' lijk vinden en ontdoen van de [[onbekende documenten]], [[Talis' staff]] en [[Talis' armor]] 
 
 
 # Ideas
-- [ ] [[hunting lodge]]: [[Trepsin]] vragen ons [[wyverns]] te lenen mbv [[Reference/Spells/Suggestion]] 
-- [ ] [[hunting lodge]]: [[Characters/Talis]] vragen ons commando's te vertellen mbv [[Reference/Spells/Suggestion]] 
 
 
 # Intel
-- [ ] [[Characters/Varram]] uitschakelen voor [[Characters/Talis]] 
-- [ ] Transport van schatten onderbreken vanuit [[Castle Skyreach]] voor [[Characters/Talis]] 
+- [ ] [[Characters/Varram the White]] uitschakelen voor [[Characters/The Hunting Lodge/Talis]] 
+- [ ] Transport van schatten onderbreken vanuit [[Castle Skyreach]] voor [[Characters/The Hunting Lodge/Talis]] 
 - [ ] Wachtwoord [[Castle Skyreach]]: "[[Tiamat]], our mother and strength" 
 - [ ] [[Characters/Rezmir]] vertrok in grote haast per [[DND.SRD.Wiki-main/Monsters/Wyvern]] naar [[Parnast]] 
-- [ ] [[Characters/The Meta Band/Metatron]] leerde een melodie om [[wyverns]] rustig te maken 
+- [ ] [[Characters/The Meta Band/Metatron]] kent een melodie om [[wyverns]] rustig te maken 
+- [ ] Wachtwoord [[teleportatiecirkels]] [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]: 1. sterrenwacht; 2. ten towns; 3. (kapot) 
 
 
 # Reminders
 - [ ] [[Atlas/Sword Coast/Waterdeep/Halls of Justice]]: [[draken ei]] ophalen 
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: altaar ophalen uit Bog-box 
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: paarden en wagen ophalen 
+- [ ] Wachtwoord [[teleportatiecirkels]] [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]: 1. sterrenwacht; 2. ten towns; 3. (kapot) 
 
 
 # meta

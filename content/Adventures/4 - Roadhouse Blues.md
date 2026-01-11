@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-11-15T00:28:31.176+01:00","published":"2025-01-26","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-12-06T12:56:24.864+01:00","published":"2025-01-26","cssclasses":""}
 ---
 
 [[Adventures/3 - City by the Sea\|Vorige]] ← 4 - Roadhouse Blues → [[5 - I'd Rather Go Blind\|Volgende]]
@@ -16,4 +16,4 @@ We reizen over land naar Carnath Roadhouse met paarden (en 1 wagen). Het [[Items
 
 Halverwege slaan we ons kamp op. Daar probeert de [[Factions/Bullywug tribe]] midden in de nacht onze paarden te stelen. Dit moeten zij bekopen met hun leven.
 
-Met enig bedrog lukt het ons [[Characters/Bog Luck]] te overtuigen dat een opdrachtgever ons achter [[Characters/Elvira Blacktree]] aan heeft gestuurd met de vraag of hij haar misschien heeft gezien. Lachend laat hij weten dat hij haar al heeft uitgeschakeld en dat zij xxx meter ten westen van [[Atlas/Sword Coast/Carnath Roadhouse]] in de struiken is verborgen. 
+Met enig bedrog lukt het ons [[Characters/Carnath Roadhouse/Bog Luck]] te overtuigen dat een opdrachtgever ons achter [[Characters/Carnath Roadhouse/Elvira Blacktree]] aan heeft gestuurd met de vraag of hij haar misschien heeft gezien. Lachend laat hij weten dat hij haar al heeft uitgeschakeld en dat zij xxx meter ten westen van [[Atlas/Sword Coast/Carnath Roadhouse]] in de struiken is verborgen. 

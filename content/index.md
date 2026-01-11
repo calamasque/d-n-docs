@@ -1,26 +1,35 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2025-11-18T00:47:32.742+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-01-11T14:43:39.893+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-(undefined)
+# [[Adventures/14 - Firestarter\|Firestarter]]
 
-# [[Adventures/12 - Hypnotize\|Hypnotize]]
+Episode 14 (22 dec 2025)
 
-- We verrassen [[Characters/Talis\|Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person\|Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden.
-- We doen ons voor als een groep huurlingen die door [[Characters/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir\|Rezmir]] is gestuurd voor een klus zonder te weten wat. [[Characters/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
-- We krijgen 3 klussen:
-    1. [[Characters/Varram\|Varram]] doden
-    2. In [[Atlas/Castle Sky Reach\|Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]] beëindigen.
-    3. [[Characters/Rezmir\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
-- Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater\|SmogEater]]'s staart zichtbaar en zijn we ontmaskerd - het wordt vechten.
-- [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] duwt [[Characters/Talis\|Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron\|Metatron]] cast [[Reference/Spells/Polymorph\|Polymorph]], wordt een [[Reference/Monsters/Beasts/Giant Ape\|Giant Ape]], klimt uit het raam en slaat [[Characters/Talis\|Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile\|Magic Missile]].
+- [[Characters/The Hunting Lodge/Trepsin\|Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]]
+- In de schuur vinden we de lichamen van [[Arlinga\|Arlinga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
+- Lijkpikken bij [[Characters/The Hunting Lodge/Talis\|Talis]] levert de [[onbekende documenten\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron\|Metatron]] strip [[Characters/The Hunting Lodge/Talis\|Talis]] ook nog van een [[scale mail +1\|scale mail +1]].
+- Na het ontheiligen van [[Characters/The Hunting Lodge/Talis\|Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead\|Speak with Dead]]:
+    1. [[Characters/Rezmir\|Rezmir]] is onderweg naar de cirkel op de kaart via [[Parnast\|Parnast]]
+    2. De wachtwoorden van de [[teleportatiecirkels\|teleportatiecirkels]]:
+        - 1e = sterrenwacht
+        - 2e = ten towns
+        - 3e = (kapot)
+    3. [teleportatiecirkel - rode zon]] is buiten gebruik gesteld omdat in [[Thay\|Thay]] niet iedereen [[Tiamat\|Tiamat]] gunstig gezind is.
+    4. [[Ber Dusk\|Ber Dusk]] is gemarkeerd op de kaart omdat [[Characters/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
+    5. De schatten worden naar de [[well of the dragons\|well of the dragons]] gestuurd.
+- Het lijkt van [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] levert ook waardevolle spullen op voor de verkoop.
+- [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor\|Craggnor]] voor een [[Items/Halsketting van Tiamat\|Halsketting van Tiamat]] met een waarde van 50GP.
 
-
-\>> [[Adventures/index\|Alle samenvattingen]] 
+> [!warning] **Attentie** 
+> Bovenstaande is een korte samenvatting van de laatste sessie. 
+> Volledige verslag per sessie is terug te lezen via de links in onderstaande tabel. 
 
 | Sessie | Avontuur                                                                                 |
 | ------ | ---------------------------------------------------------------------------------------- |
+| 14     | [[Adventures/14 - Firestarter\|Firestarter]]                                  |
+| 13     | [[Adventures/13 - Keep Trollin'\|Keep Trollin']]                              |
 | 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                      |
 | 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                        |
 | 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                            |
@@ -35,3 +44,5 @@
 | 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]             |
 | 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                               |
 
+
+\>>  [[Adventures/index\|Alle samenvattingen]]

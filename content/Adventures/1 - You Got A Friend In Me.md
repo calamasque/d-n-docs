@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-11-15T00:27:56.120+01:00","published":"2024-10-30","cssclasses":""}
+{"publish":true,"title":"You Got A Friend In Me","created":"2024-10-30","modified":"2025-12-06T12:56:47.452+01:00","published":"2024-10-30","cssclasses":""}
 ---
 
-[[0 - BS \(Before Szuszi and Metatron\|Vorige]]) ← 1 - You Got A Friend In Me → [[Adventures/2 - Under the Sea\|Volgende]]
+[[Adventures/0 - Baldur's Gate\|Vorige]] ← 1 - You Got A Friend In Me → [[Adventures/2 - Under the Sea\|Volgende]]
 # Lang verhaal kort
 (ontbreekt nog)
 

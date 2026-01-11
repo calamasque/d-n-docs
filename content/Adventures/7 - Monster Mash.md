@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Monster Mash","created":"2025-04-15","modified":"2025-11-15T00:29:07.294+01:00","published":"2025-04-15","cssclasses":""}
+{"publish":true,"title":"Monster Mash","created":"2025-04-15","modified":"2025-12-06T12:55:58.989+01:00","published":"2025-04-15","cssclasses":""}
 ---
 
 
-[[6 - Short Skirmish - Long Jacket\|Vorige]] ← 7 - Monster Mash → [[Adventures/8 - Imagine Dragons\|Volgende]]
+[[Adventures/6 - Short Skirmish - Long Jacket\|Vorige]] ← 7 - Monster Mash → [[Adventures/8 - Imagine Dragons\|Volgende]]
 
 # Lang verhaal kort
 (ontbreekt nog)
@@ -27,14 +27,14 @@ Ladder wordt verborgen in de struiken langs de buitenmuur van de kleine binnenpl
 Begane grond:
 * Eetzaal.
 * Kleine gastenkamer. 
-	* De spullen die we aantreffen doet ons eerst vermoeden dat dit de kamer is van [[Characters/Dralmorrer Borngray]]. 
+	* De spullen die we aantreffen doet ons eerst vermoeden dat dit de kamer is van [[Characters/Castle Naerytar/Dralmorrer Borngray]]. 
 	* We realiseren ons echter dat hier de [[Characters/Onbekende Red Wizard]] verblijft. 
 	* We vinden een brief geschreven in Thayan: "Beste [[Characters/Rath Modar]], de gesprekken met [[Characters/Rezmir]] lopen goed". 
 	* Er lijkt dus een samenwerking te zijn tussen de [[Factions/Red Wizards of Thay]] of in ieder geval meerdere van hen met de [[Factions/Cult of the Dragon]].  
 * Wenteltrap naar boven.
 
 Eerste verdieping:
-* Luxe werkkamer van [[Characters/Dralmorrer Borngray]] met het boek "Code of the [[Factions/Eldreth Veluuthra]]" en een [[Factions/Eldreth Veluuthra]] outfit.
+* Luxe werkkamer van [[Characters/Castle Naerytar/Dralmorrer Borngray]] met het boek "Code of the [[Factions/Eldreth Veluuthra]]" en een [[Factions/Eldreth Veluuthra]] outfit.
 
 Trap: [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/Metatron]] gaan voorop
 

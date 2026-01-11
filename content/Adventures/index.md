@@ -1,70 +1,144 @@
 ---
-{"publish":true,"title":"Adventures","created":"2025-07-16","modified":"2025-11-17T23:00:31.941+01:00","published":"2025-07-16","cssclasses":""}
+{"publish":true,"title":"Adventures","created":"2025-07-16","modified":"2025-12-03T20:40:13.178+01:00","published":"2025-07-16","cssclasses":""}
 ---
 
 # Dungeons & Detectives
-| Sessie | Avontuur                                                                                | Datum       |
-| ------ | --------------------------------------------------------------------------------------- | ----------- |
-| 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                     | 9 Nov 2025  |
-| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                       | 13 Aug 2025 |
-| 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                           | 6 Jul 2025  |
-| 9      | [[Adventures/9 - We All Stand Together\|We All Stand Together]]              | 25 Jun 2025 |
-| 8      | [[Adventures/8 - Imagine Dragons\|Imagine Dragons]]                          | 18 May 2025 |
-| 7      | [[Adventures/7 - Monster Mash\|Monster Mash]]                                | 15 Apr 2025 |
-| 6      | [[Adventures/6 - Short Skirmish, Long Jacket\|Short Skirmish - Long Jacket]] | 23 Mar 2025 |
-| 5      | [[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]              | 2 Mar 2025  |
-| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                          | 26 Jan 2025 |
-| 3      | [[Adventures/3 - City by the Sea\|City by the Sea]]                          | 8 Dec 2024  |
-| 2      | [[Adventures/2 - Under the Sea\|Under the Sea]]                              | 20 Nov 2024 |
-| 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]            | 30 Oct 2024 |
-| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                              | 1 Jan 2024  |
+## Episodes
 
-| Description                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| \-                                                                                                                                                                                                                                                                                          |
-| \-                                                                                                                                                                                                                                                                                          |
-| We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk. |
+|No.|Avontuur|
+|---|---|
+|14|[[Adventures/14 - Firestarter\|Firestarter]]|
+|13|[[Adventures/13 - Keep Trollin'\|Keep Trollin']]|
+|12|[[Adventures/12 - Hypnotize\|Hypnotize]]|
+|11|[[Adventures/11 - Enter the Dragon\|Enter the Dragon]]|
+|10|[[Adventures/10 - Death Or Glory\|Death Or Glory]]|
+|9|[[Adventures/9 - We All Stand Together\|We All Stand Together]]|
+|8|[[Adventures/8 - Imagine Dragons\|Imagine Dragons]]|
+|7|[[Adventures/7 - Monster Mash\|Monster Mash]]|
+|6|[[Adventures/6 - Short Skirmish - Long Jacket\|Short Skirmish - Long Jacket]]|
+|5|[[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]|
+|4|[[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]|
+|3|[[Adventures/3 - City by the Sea\|City by the Sea]]|
+|2|[[Adventures/2 - Under the Sea\|Under the Sea]]|
+|1|[[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]|
+|0|[[Adventures/0 - Baldur's Gate\|Baldur's Gate]]|
 
-# HEADER is Recap
-```dataviewjs
-let pages = dv.pages('"content/Adventures"')
-    .where(p => p.publish == true && p.type == "session")
-    .sort(p => p.session_num);
+# Lang verhaal kort
+**Baldur's Gate**
 
-// Loop through pages
-for (let p of pages) {
-  let noteText = await dv.io.load(p.file.path);
+Wat gebeurt in [[Atlas/Sword Coast/Baldur's Gate/index\|Baldur's Gate]], blijft in [[Atlas/Sword Coast/Baldur's Gate/index\|Baldur's Gate]]?
 
-  // define headers to look for
-  const headers = ["Recap"];
+> - [[Characters/The Meta Band/SmogEater\|SmogEater]] hing met verkeerde vrienden en eindigde zo bij de [[Factions/Cult of the Dragon\|Cult of the Dragon]]
+> - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]], [[Characters/The Meta Band/Dr. Egbert\|Dr. Egbert]] en [[Characters/The Meta Band/SmogEater\|SmogEater]] gingen eieren zoeken (?)
+> - [[Characters/Sea of Swords/Manni\|Manni]] en [[Characters/Sea of Swords/Sanni\|Sanni]] werden overtuigd dat ze een avontuurlijke huwelijksreis tegemoet zouden gaan als het gezelschap mee mag reizen op [[Atlas/Sword Coast/Sea of Swords/The Happily Ever After\|The Happily Ever After]] (noordwaarts).
 
-  headers.map((header) => {
-    // https://regex101.com/r/liL65A/1
-    let regexPattern = new RegExp("#{1,6}\\s(" + header + ")\\n(.+?)(?:\\n#{1,6}|$)", "sg");
-    let matches = regexPattern.exec(noteText);
-    // check if we got a match and only then insert
-    if (matches != null) {
-      let fileName = p.title;
-      let headerName = matches[1];
-      let headerText = matches[2];
-      // remove trailing line delimiter, if any, and trim whitespaces
-      headerText = headerText
-        .replace(new RegExp("\n---\n$"), "")
-        .trim();
-      // I have '- ...' placeholders in each header, so first check if the header section actually has any text
-      if (headerText != "- ...") {
-        // Insert into document however you like
-        dv.paragraph(
-          `> [!note] [[${p.file.name}#${headerName}]]` +
-          "\n>" + 
-          "\n" +
-          headerText.split("\n").map((text) => `> ${text}`).join("\n>")
-        );
-      }
-    }
-  });
-}
-```
+**You Got A Friend In Me**
+
+(ontbreekt nog)
+
+**Under the Sea**
+
+(ontbreekt nog)
+
+**City by the Sea**
+
+(ontbreekt nog)
+
+**Roadhouse Blues**
+
+(ontbreekt nog)
+
+**I'd Rather Go Blind**
+
+(ontbreekt nog)
+
+**Short Skirmish - Long Jacket**
+
+(ontbreekt nog)
+
+**Monster Mash**
+
+(ontbreekt nog)
+
+**Imagine Dragons**
+
+- We verslaan de 4 [[Reference/Monsters/Elementals/Gargoyle\|Gargoyles]] die het [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Observatory\|Observatory]] bewaken.
+    
+    > - De [[telescoop\|telescoop]] laat ons naar ver af gelegen plaatsen kijken. We zien [[Characters/Mere of Dead Men/Voaraghammanthar\|Voaraghammanthar]] ergens in de [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] maar op een andere plek in het moeras ook een [[de tweede draak\|tweede draak]]?
+    > - [[Characters/The Meta Band/Dr. Egbert\|Dr. Egbert]] vecht met de [[Characters/Onbekende Red Wizard\|Onbekende Red Wizard]] maar de laatste ontsnapt. De dokter voegt zich bij ons.
+    > - We ontsnappen dankzij [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s illusie van een draak aan [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] & co. en belanden in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/S-W tower\|S-W tower]]
+    > - We dalen af naar de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeons]] en banen ons een weg door gangen en langs kikker-achtigen om uiteindelijk oog-in-oog te eindigen tegenover [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]].
+    
+
+**We All Stand Together**
+
+- We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Reference/Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
+    
+    > - Na het doden van al zijn [[Reference/Races/Bullywug\|bullywugs]] vindt [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
+    > - Tijdens een long rest hoort [[Characters/The Meta Band/Metatron\|Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir\|Rezmir]]
+    > - [[Characters/The Meta Band/Szuszi\|Szuszi]] gaat op onderzoek uit en ontdekt een nog nagloeiende [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Teleportatiecirkel - Naerytar\|Teleportatiecirkel - Naerytar]].
+    
+
+**Death Or Glory**
+
+- We staan oog-in-oog met [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] en 15 [[Factions/Cult of the Dragon\|cultists]]: ==(aantal)== [[Characters/Dragonclaw\|Dragonclaws]] en ==(aantal)== [[Characters/Initiate\|initiates]].
+    
+    > - [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] blijkt geen man van het/zijn woord en duikt tot teleurstelling van [[Characters/The Meta Band/Szuszi\|Szuszi]].
+    > - [[Characters/Castle Naerytar/Dralmorrer Borngray\|Drambuie]]'s versterkingen arriveren: 6 [[Characters/Dragonwing\|Dragonwing]], 6 [[Characters/Mere of Dead Men/Bullywug fighter\|bullywugs]] en 2 [[Reference/Monsters/Dragon/Drake\|Drakes]]
+    > - De spanning is om te snijden:
+    >     - [[Characters/The Meta Band/Metatron\|Metatron]] voert al een Oscar-waardige sterfscene op als [[Characters/The Meta Band/SmogEater\|Smoggi]] hem toch nog redt.
+    >     - [[Characters/The Meta Band/Dr. Egbert\|Dr. Egbert]] ziet ook het licht al maar [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] houdt hem aan deze zijde.
+    > - Langzaam draait het gevecht onze kant op.
+    > - De cavalerie arriveert: [[Characters/The Meta Band/Waldo\|Waldo]] met [[Characters/Castle Naerytar/Snapjaw\|Snapjaw]] en de [[Factions/Lizardfolk tribe\|Lizardfolk tribe]].
+    > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] laat [[Characters/Castle Naerytar/Dralmorrer Borngray\|Drambuie]] inslapen (tijdelijk)
+    
+
+**Enter the Dragon**
+
+- [[Characters/Mere of Dead Men/Voaraghammanthar\|Voaraghammanthar]] in Lizardfolk verschijning toont interesse in ons maar is niet gediend van [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s vragen over [[de tweede draak\|de tweede draak]] en brent hem in ademnood en op de rand van de dood.
+    
+    > - We ontsnappen via de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Teleportatiecirkel - Naerytar\|teleportatiecirkel]] en eindigen bij [[Atlas/Sword Coast/Greypeak Mountains/3 portals near lodge\|3 portals]] gelegen bij [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]].
+    > - [[Trollen\|Trollen]] met [[Reference/Monsters/Dragon/Drake\|Drakes]] patrouilleren de omgeving maar geloven dat wij [[Factions/Cult of the Dragon\|cultists]] zijn en laten ons binnen.
+    > - Wij moeten wachten tot [[Characters/The Hunting Lodge/Talis\|Talis]] ons ontvangt.
+    
+
+**Hypnotize**
+
+- We verrassen [[Characters/The Hunting Lodge/Talis\|Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person\|Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden.
+    
+    > - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir\|Rezmir]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
+    > - We krijgen 3 klussen:
+    >     1. [[Characters/Varram the White\|Varram the White]] doden
+    >     2. In [[Atlas/Castle Sky Reach\|Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]] beëindigen.
+    >     3. [[Characters/Rezmir\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
+    > - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater\|SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
+    > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis\|Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|DND.SRD.Wiki-main/Spells/Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron\|Metatron]] cast [[Reference/Spells/Polymorph\|Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape\|Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis\|Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile\|Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis\|Talis]].
+    
+
+**Keep Trollin'**
+
+- [[Items/Tapijt met honden en een zwijn\|Tapijt met honden en een zwijn]] is een teleportatie-tapijt
+    
+    > - [[Items/Dragongleam\|Dragongleam]] en een [[Items/Ancient arrow catching shield\|Ancient arrow catching shield]] gevonden
+    
+
+**Firestarter**
+
+- [[Characters/The Hunting Lodge/Trepsin\|Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]]
+    
+    > - In de schuur vinden we de lichamen van [[Arlinga\|Arlinga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
+    > - Lijkpikken bij [[Characters/The Hunting Lodge/Talis\|Talis]] levert de [[onbekende documenten\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron\|Metatron]] strip [[Characters/The Hunting Lodge/Talis\|Talis]] ook nog van een [[scale mail +1\|scale mail +1]].
+    > - Na het ontheiligen van [[Characters/The Hunting Lodge/Talis\|Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead\|Speak with Dead]]:
+    >     1. [[Characters/Rezmir\|Rezmir]] is onderweg naar de cirkel op de kaart via [[Parnast\|Parnast]]
+    >     2. De wachtwoorden van de [[teleportatiecirkels\|teleportatiecirkels]]:
+    >         - 1e = sterrenwacht
+    >         - 2e = ten towns
+    >         - 3e = (kapot)
+    >     3. [teleportatiecirkel - rode zon]] is buiten gebruik gesteld omdat in [[Thay\|Thay]] niet iedereen [[Tiamat\|Tiamat]] gunstig gezind is.
+    >     4. [[Ber Dusk\|Ber Dusk]] is gemarkeerd op de kaart omdat [[Characters/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
+    >     5. De schatten worden naar de [[well of the dragons\|well of the dragons]] gestuurd.
+    > - Het lijkt van [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] levert ook waardevolle spullen op voor de verkoop.
+    > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor\|Craggnor]] voor een [[Items/Halsketting van Tiamat\|Halsketting van Tiamat]] met een waarde van 50GP.
 
 # Adventures
 ### [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]
@@ -91,7 +165,7 @@ Avonturen in Baldur's Gate. Waar SmogEater met verkeerde vrienden hangt, de groe
 
 -
 
-### [[Adventures/6 - Short Skirmish, Long Jacket\|Short Skirmish - Long Jacket]]
+### [[Adventures/6 - Short Skirmish - Long Jacket\|Short Skirmish - Long Jacket]]
 
 -
 
@@ -119,20 +193,30 @@ We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in 
 
 -
 
+### [[Adventures/13 - Keep Trollin'\|Keep Trollin']]
+
+-
+
+### [[Adventures/14 - Firestarter\|Firestarter]]
+
+-
+
 ## Adventures in Dataview
-| Sessie | Avontuur                                                                                |
-| ------ | --------------------------------------------------------------------------------------- |
-| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                              |
-| 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]            |
-| 2      | [[Adventures/2 - Under the Sea\|Under the Sea]]                              |
-| 3      | [[Adventures/3 - City by the Sea\|City by the Sea]]                          |
-| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                          |
-| 5      | [[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]              |
-| 6      | [[Adventures/6 - Short Skirmish, Long Jacket\|Short Skirmish - Long Jacket]] |
-| 7      | [[Adventures/7 - Monster Mash\|Monster Mash]]                                |
-| 8      | [[Adventures/8 - Imagine Dragons\|Imagine Dragons]]                          |
-| 9      | [[Adventures/9 - We All Stand Together\|We All Stand Together]]              |
-| 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                           |
-| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                       |
-| 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                     |
+| Sessie | Avontuur                                                                                 |
+| ------ | ---------------------------------------------------------------------------------------- |
+| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                               |
+| 1      | [[Adventures/1 - You Got A Friend In Me\|You Got A Friend In Me]]             |
+| 2      | [[Adventures/2 - Under the Sea\|Under the Sea]]                               |
+| 3      | [[Adventures/3 - City by the Sea\|City by the Sea]]                           |
+| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                           |
+| 5      | [[Adventures/5 - I would rather go blind\|I'd Rather Go Blind]]               |
+| 6      | [[Adventures/6 - Short Skirmish - Long Jacket\|Short Skirmish - Long Jacket]] |
+| 7      | [[Adventures/7 - Monster Mash\|Monster Mash]]                                 |
+| 8      | [[Adventures/8 - Imagine Dragons\|Imagine Dragons]]                           |
+| 9      | [[Adventures/9 - We All Stand Together\|We All Stand Together]]               |
+| 10     | [[Adventures/10 - Death Or Glory\|Death Or Glory]]                            |
+| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                        |
+| 12     | [[Adventures/12 - Hypnotize\|Hypnotize]]                                      |
+| 13     | [[Adventures/13 - Keep Trollin'\|Keep Trollin']]                              |
+| 14     | [[Adventures/14 - Firestarter\|Firestarter]]                                  |
 
