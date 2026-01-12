@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2025-12-06T12:56:24.864+01:00","published":"2025-01-26","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2026-01-11T17:04:53.816+01:00","published":"2025-01-26","cssclasses":""}
 ---
 
 [[Adventures/3 - City by the Sea\|Vorige]] ← 4 - Roadhouse Blues → [[5 - I'd Rather Go Blind\|Volgende]]
@@ -8,6 +8,7 @@
 
 # Taken + reminders
 - [ ] [[Atlas/Sword Coast/Waterdeep/Halls of Justice]]: [[draken ei]] ophalen 
+- [ ] @[[Characters/Waterdeep/Lady Remallia Haventree]]: informeren dat [[Characters/Carnath Roadhouse/Elvira Blacktree]] is vermoord 
 
 # Log
 Het draken-ei (en andere spullen?) laten we achter in de [[Atlas/Sword Coast/Waterdeep/Halls of Justice]] in [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]]. We voegen wat beveiligingsmaatregelen toe om te zorgen dat niemand ongezien toegang heeft.

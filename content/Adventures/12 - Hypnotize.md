@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Hypnotize","created":"2025-11-09","modified":"2025-12-22T23:06:19.362+01:00","published":"2025-11-09","cssclasses":""}
+{"publish":true,"title":"Hypnotize","created":"2025-11-09","modified":"2026-01-11T18:15:08.527+01:00","published":"2025-11-09","cssclasses":""}
 ---
 
 
-[[Adventures/11 - Enter the Dragon\|Vorige]] ← 12 - Hypnotize → [[Adventures/13 - Keep Trollin'\|Volgende]]
+[[Adventures/11 - Enter the Dragon\|Vorige]] ← 12 - Hypnotize → [[Adventures/13 - Keep Trollin\|Volgende]]
 
 # Lang verhaal kort
 - We verrassen [[Characters/The Hunting Lodge/Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden. 
@@ -13,7 +13,7 @@
 	2. In [[Atlas/Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] beëindigen.
 	3. [[Characters/Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
 - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
-- [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis]].
+- [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis]].
 
 # Acties & reminders
 - [ ] [[Characters/Varram the White]] uitschakelen voor [[Characters/The Hunting Lodge/Talis]] 
