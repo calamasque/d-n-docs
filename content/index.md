@@ -3,31 +3,38 @@
 ---
 
 
-# [[Adventures/15 - A canary and a castle in the sky\|nog zonder titel]]
+# [[Adventures/15 - A canary and a castle in the sky\|A canary and a castle in the sky]]
 
 Episode 15 (11 jan 2026)
+
+- We doden cultists zonder onze tiny hut
+- We jagen op een kanarie en vallen in de prijzen
+- We doden cultists vanuit onze tiny hut
+- We arriveren in Parnast en duiken de kroeg in
+- [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Castle Skyreach\|Castle Skyreach]].
+- De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[captain Othelstan\|captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].
 
 > [!warning] **Attentie** 
 > Bovenstaande is een korte samenvatting van de laatste sessie. 
 > Volledige verslag per sessie is terug te lezen via de links in onderstaande tabel. 
 
-| Sessie | Avontuur                                                                               |
-| ------ | -------------------------------------------------------------------------------------- |
-| 15     | [[Adventures/15 - A canary and a castle in the sky\|nog zonder titel]]      |
-| 14     | [[Adventures/14 - The Band vs. Trepsin\|Firestarter]]                       |
-| 13     | [[Adventures/13 - Inside The Hunting Lodge\|Keep Trollin]]                  |
-| 12     | [[Adventures/12 - The Band vs. Talis\|Hypnotize]]                           |
-| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                      |
-| 10     | [[Adventures/10 - The Band vs. Dralmorrer B.\|Death Or Glory]]              |
-| 9      | [[Adventures/9 - The Band vs. Pharblex S.\|We All Stand Together]]          |
-| 8      | [[Adventures/8 - Imaginary Dragons be here\|Imagine Dragons]]               |
-| 7      | [[Adventures/7 - Inside Castle Naerytar\|Monster Mash]]                     |
-| 6      | [[Adventures/6 - Arrival at Castle Naerytar\|Short Skirmish - Long Jacket]] |
-| 5      | [[Adventures/5 - Mere of Dead Men\|I'd Rather Go Blind]]                    |
-| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                         |
-| 3      | [[Adventures/3 - Waterdeep\|City by the Sea]]                               |
-| 2      | [[Adventures/2 - Mister Crab\|Under the Sea]]                               |
-| 1      | [[Adventures/1 - Friends at sea\|You Got A Friend In Me]]                   |
+| Sessie | Avontuur                                                                                          |
+| ------ | ------------------------------------------------------------------------------------------------- |
+| 15     | [[Adventures/15 - A canary and a castle in the sky\|A canary and a castle in the sky]] |
+| 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]                         |
+| 13     | [[Adventures/13 - Treasure Hunting in the Lodge\|Treasure Hunting in the Lodge]]       |
+| 12     | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                             |
+| 11     | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                                 |
+| 10     | [[Adventures/10 - The Band vs. Dralmorrer B.\|The Band vs. Dralmorrer B.]]             |
+| 9      | [[Adventures/9 - The Band vs. Pharblex S.\|The Band vs. Pharblex S.]]                  |
+| 8      | [[Adventures/8 - Imaginary Dragons be here\|Imaginary Dragons be here]]                |
+| 7      | [[Adventures/7 - Inside Castle Naerytar\|Inside Castle Naerytar]]                      |
+| 6      | [[Adventures/6 - Arrival at Castle Naerytar\|Arrival at Castle Naerytar]]              |
+| 5      | [[Adventures/5 - Mere of Dead Men\|Mere of Dead Men]]                                  |
+| 4      | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                                    |
+| 3      | [[Adventures/3 - Waterdeep\|Waterdeep]]                                                |
+| 2      | [[Adventures/2 - Mister Crab\|Mister Crab]]                                            |
+| 1      | [[Adventures/1 - Friends at sea\|Friends at sea]]                                      |
 
 
 \>>  [[Adventures/index\|Alle samenvattingen]]
