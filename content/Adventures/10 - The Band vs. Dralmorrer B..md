@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Dralmorrer B.","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2026-01-13T12:46:14.985+01:00","published":"2025-07-06","cssclasses":""}
+{"publish":true,"title":"The Band vs. Dralmorrer B.","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2026-01-13T21:22:18.291+01:00","published":"2025-07-06","cssclasses":""}
 ---
 
 
@@ -18,6 +18,8 @@
 
 # Acties & reminders
 - [x] Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel\|teleportatiecirkel]] is: "*Draezir*"  ✅ 2025-11-09
+- [ ] [[Characters/Galvin the Blue]] broedt de eieren uit die [[Characters/Lenniton]] meegebracht. [[Characters/Severin the Red\|Severin]] zal tevreden zijn. 
+- [ ] [[Characters/Galvin the Blue]] vraagt [[Characters/Rezmir the Black\|Rezmir]] te zorgen dat [[Characters/Mere of Dead Men/Voaraghammanthar]] rustig en tevreden blijft. 
 
 # Log
 
@@ -170,13 +172,13 @@
 		- Prachtige meubels en tapijten
 		- Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel]] is: "*Draezir*". Deze 
 		- Metatron vindt een brief: 
-		  "[[Characters/Rezmir the Black]], [[Characters/Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin the Red]] zal tevreden zijn. Zorg ervoor dat V. ([[Characters/Mere of Dead Men/Voaraghammanthar]]?) rustig blijft in het [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en tevreden blijft. [[Galvan]]".
+		  "[[Characters/Rezmir the Black]], [[Characters/Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Characters/Severin the Red]] zal tevreden zijn. Zorg ervoor dat V. ([[Characters/Mere of Dead Men/Voaraghammanthar]]?) rustig blijft in het [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en tevreden blijft. [[Characters/Galvin the Blue]]".
 		- 2 Onyx dragon statues (3000GP)
 	* 1 [[Rezmir's Meditatiekamer]]
 	* 1 [[Rezmir's Slaapkamer]]
-		* 5 headed dragon vanuit vulkaar staat op achterkant van de deur van kleine verborgen ruimte.
+		* 5 headed dragon vanuit vulkaan staat op achterkant van de deur van kleine verborgen ruimte.
 		* Standbeeld van draak bovenop berg edelstenen (4800GP)  
-		* [[Characters/The Meta Band/Metatron]] opent de kledingkast en triggert een valstrik. Alle spullen in de ruimte zijn naar de klote. Zelf lopen we (behalve [[Characters/The Meta Band/Szuszi]] die in de kast zat) flink schade.
+		* [[Characters/The Meta Band/Metatron]] opent de kledingkast en triggert een valstrik. Alle spullen in de ruimte zijn naar de klote. Zelf lopen we (behalve [[Characters/The Meta Band/Szuszi]] die in de kast zat) flink schade op.
 	* Bibliotheek:
 		* [[Characters/The Meta Band/Waldo]] blijft in de biblioteek op zoek naar boeken over draken en [[Factions/Red Wizards of Thay]]
 * Bij [[Castle Naerytar's keuken]] dringen [[Characters/The Meta Band/SmogEater]] en [[Characters/The Meta Band/Metatron]] erg aan om toegang te krijgen tot de slaapvertrekken van de kok [[Tangsit]] en zijn voorraadkasten. Die is daar niet blij mee (disadvantage!).

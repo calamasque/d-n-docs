@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"troll trolls","title":"Troll","created":"2025-07-24","modified":"2026-01-12T22:36:57.042+01:00","published":"2025-07-24","cssclasses":""}
+{"publish":true,"aliases":"troll trolls","title":"Troll","created":"2025-07-24","modified":"2026-01-13T20:03:04.936+01:00","published":"2025-07-24","cssclasses":""}
 ---
 
 # Known trolls

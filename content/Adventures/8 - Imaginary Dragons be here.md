@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Imaginary Dragons be here","description":"Telescopes are hard to find, but much easier to break. While we fought Gargoyles, Dr. Egbert fights The Red Wizard. A dragon(born) falls down and an imaginary dragon saves the day. We descend into the dungeons for some frog fighting.","created":"2025-05-18","modified":"2026-01-12T23:25:04.315+01:00","published":"2025-05-18","cssclasses":""}
+{"publish":true,"title":"Imaginary Dragons be here","description":"Telescopes are hard to find, but much easier to break. While we fought Gargoyles, Dr. Egbert fights The Red Wizard. A dragon(born) falls down and an imaginary dragon saves the day. We descend into the dungeons for some frog fighting.","created":"2025-05-18","modified":"2026-01-13T21:21:59.207+01:00","published":"2025-05-18","cssclasses":""}
 ---
 
 

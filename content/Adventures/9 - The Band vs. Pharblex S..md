@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"The Band vs. Pharblex S.","created":"2025-06-25","modified":"2026-01-13T12:46:15.112+01:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"The Band vs. Pharblex S.","created":"2025-06-25","modified":"2026-01-13T21:22:11.908+01:00","published":"2025-06-25","cssclasses":""}
 ---
-
 
 [[Adventures/8 - Imaginary Dragons be here\|Vorige]] ← 9 → [[Adventures/10 - The Band vs. Dralmorrer B.\|Volgende]]
 

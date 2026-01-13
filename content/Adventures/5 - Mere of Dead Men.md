@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"B o g ' s S o n g","title":"Mere of Dead Men","created":"2025-03-02","modified":"2026-01-12T23:24:31.903+01:00","published":"2025-03-02","cssclasses":""}
+{"publish":true,"aliases":"B o g ' s S o n g","title":"Mere of Dead Men","created":"2025-03-02","modified":"2026-01-13T19:32:11.282+01:00","published":"2025-03-02","cssclasses":""}
 ---
 
 [[Adventures/4 - Roadhouse Blues\|Vorige]] ← 5 → [[Adventures/6 - Arrival at Castle Naerytar\|Volgende]]
@@ -7,8 +7,8 @@
 (ontbreekt nog)
 
 # Taken + reminders
-- [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: altaar ophalen uit Bog-box 
-- [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: paarden en wagen ophalen 
+- [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: altaar ophalen uit Bog-box  
+- [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: paarden en wagen ophalen  
 
 # Log
 [[Characters/The Meta Band/Szuszi]] is out.

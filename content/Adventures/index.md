@@ -89,8 +89,8 @@
 
 - [[Characters/Mere of Dead Men/Voaraghammanthar\|Voaraghammanthar]] in Lizardfolk verschijning toont interesse in ons maar is niet gediend van [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s vragen over [[de tweede draak\|de tweede draak]] en brent hem in ademnood en op de rand van de dood.
     
-    > - We ontsnappen via de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel\|teleportatiecirkel]] en eindigen bij [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge's 3 portals\|3 portals]] gelegen bij [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]].
-    > - [[Trollen\|Trollen]] met [[Reference/Monsters/Dragon/Drake\|Drakes]] patrouilleren de omgeving maar geloven dat wij [[Factions/Cult of the Dragon\|cultists]] zijn en laten ons binnen.
+    > - We ontsnappen via de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel\|teleportatiecirkel]] en eindigen bij [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|3 portals]]gelegen bij [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]].
+    > - [[Characters/The Hunting Lodge/Dirk en Dirk\|Trollen]] met [[Reference/Monsters/Dragon/Drake\|Drakes]] patrouilleren de omgeving maar geloven dat wij [[Factions/Cult of the Dragon\|cultists]] zijn en laten ons binnen.
     > - Wij moeten wachten tot [[Characters/The Hunting Lodge/Talis\|Talis]] ons ontvangt.
     
 
@@ -101,8 +101,8 @@
     > - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir the Black\|Rezmir the Black]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
     > - We krijgen 3 opdrachten:
     >     1. [[Characters/Varram the White\|Varram the White]] doden
-    >     2. In [[Atlas/Castle Sky Reach\|Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]] beëindigen.
-    >     3. [[Characters/Rezmir the Black\|Rezmir the Black]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
+    >     2. In [[Atlas/Greypeak Mountains/Castle Sky Reach\|Castle Sky Reach]] de toevoer naar [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] beëindigen.
+    >     3. [[Characters/Rezmir the Black\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
     > - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater\|SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
     > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis\|Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron\|Metatron]] cast [[Reference/Spells/Polymorph\|Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape\|Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis\|Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile\|Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis\|Talis]].
     
@@ -116,29 +116,29 @@
 
 **The Band vs. Trepsin**
 
-- [[Characters/The Hunting Lodge/Trepsin\|Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]]
+- [[Characters/The Hunting Lodge/Trepsin\|Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]]
     
-    > - In de schuur vinden we de lichamen van [[Arlaenga\|Arlaenga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
-    > - Lijkpikken bij [[Characters/The Hunting Lodge/Talis\|Talis]] levert de [[onbekende documenten\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron\|Metatron]] strip [[Characters/The Hunting Lodge/Talis\|Talis]] ook nog van een [[scale mail +1\|scale mail +1]].
+    > - In de schuur vinden we de lichamen van [[Characters/The Hunting Lodge/Arlaenga\|Arlaenga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
+    > - Lijkpikken bij [[Characters/The Hunting Lodge/Talis\|Talis]] levert de [[Items/Documenten over witte draken\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron\|Metatron]] stript [[Characters/The Hunting Lodge/Talis\|Talis]] ook nog van een [[scale mail +1\|scale mail +1]].
     > - Na het ontheiligen van [[Characters/The Hunting Lodge/Talis\|Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead\|Speak with Dead]]:
-    >     1. [[Characters/Rezmir the Black\|Rezmir the Black]] is onderweg naar de cirkel op de kaart via [[Parnast\|Parnast]]
+    >     1. [[Characters/Rezmir the Black\|Rezmir the Black]] is onderweg naar de cirkel op de kaart via [[Atlas/Greypeak Mountains/Parnast\|Parnast]]
     >     2. De wachtwoorden van de [[teleportatiecirkels\|teleportatiecirkels]]:
     >         - 1e = sterrenwacht
     >         - 2e = ten towns
     >         - 3e = (kapot)
     >     3. [[teleportatiecirkel - rode zon\|teleportatiecirkel - rode zon]] is buiten gebruik gesteld omdat in [[Thay\|Thay]] niet iedereen [[Tiamat\|Tiamat]] gunstig gezind is.
-    >     4. [[Ber Dusk\|Ber Dusk]] is gemarkeerd op de kaart omdat [[Characters/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
-    >     5. De schatten worden naar de [[well of the dragons\|well of the dragons]] gestuurd.
-    > - Het lijkt van [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] levert ook waardevolle spullen op voor de verkoop.
-    > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor\|Craggnor]] voor een [[Items/Halsketting van Tiamat\|Halsketting van Tiamat]] met een waarde van 50GP.
+    >     4. [[Berdusk\|Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
+    >     5. De schatten worden naar de [[Atlas/Well of the Dragons\|Well of the Dragons]] gestuurd.
+    > - Het lijk van [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] levert ook waardevolle spullen op voor de verkoop.
+    > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor the Dwarf\|Craggnor the Dwarf]] voor een [[Items/Halsketting van Tiamat\|Halsketting van Tiamat]] met een waarde van 50GP.
     
 
 **A canary and a castle in the sky**
 
-- We doden cultists zonder onze tiny hut
+- De verwachtte cultists arriveren bij [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|de 3 teleportatiecirkels]] en vinden daar hun einde
     
-    > - We jagen op een kanarie en vallen in de prijzen
-    > - We doden cultists vanuit onze tiny hut
+    > - We jagen op de kanarie van [[Reference/Gods/Bahamut\|Bahamut]] en vallen in de prijzen
+    > - Onderweg naar [[Atlas/Greypeak Mountains/Parnast\|Parnast]] doden we meer [[cultists\|cultists]], dit keer vanuit onze tiny hut
     > - We arriveren in Parnast en duiken de kroeg in
     > - [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Castle Skyreach\|Castle Skyreach]].
     > - De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].

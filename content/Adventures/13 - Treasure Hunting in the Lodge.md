@@ -1,7 +1,6 @@
 ---
-{"publish":true,"title":"Treasure Hunting in the Lodge","created":"2025-11-30","modified":"2026-01-13T12:46:15.092+01:00","published":"2025-11-30","cssclasses":""}
+{"publish":true,"title":"Treasure Hunting in the Lodge","created":"2025-11-30","modified":"2026-01-13T20:15:08.508+01:00","published":"2025-11-30","cssclasses":""}
 ---
-
 
 [[Adventures/12 - The Band vs. Talis\|Vorige]] ← 13 → [[Adventures/14 - The Band vs. Trepsin\|Volgende]]
 
@@ -10,15 +9,15 @@
 - [[Items/Dragongleam]] en een [[Items/Ancient arrow catching shield]] gevonden
 
 # Acties & reminders
-- [x] [[Characters/The Meta Band/Szuszi]]: Short Rest, +D6 HP +11 Temp HP  ✅ 2025-12-22
-- [x] @[[Characters/The Hunting Lodge/Talis]] lijk: sleutel van de ketenen van 3 gevangen  ✅ 2025-12-22
+- [x] [[Characters/The Meta Band/Szuszi]]: Short Rest, +D6 HP +11 Temp HP  ✅ 2025-12-22 🟢 2025-11-30
+- [x] @[[Characters/The Hunting Lodge/Talis]] lijk: sleutel van de ketenen van 3 gevangen  ✅ 2025-12-22  🟢 2025-11-30
 
 # Session Log
 - [[Characters/The Meta Band/Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Detect Magic]] staat aan.
 - [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Waldo]] stappen naar binnen en worden door de 2 [[Elven armor\|Elven armors]] met een cold attack bevroren.
 - [[Characters/The Meta Band/Agrip’Ah]] spot een [[Items/Dragongleam\|mithril spear]] in de armory met een tekst in Draconic. Volgens [[Characters/The Meta Band/SmogEater]] staat er "Tiamat's eyes shine" en is dit de speer [[Items/Dragongleam]]. [[Characters/The Meta Band/SmogEater\|Smoggi]] neemt de speer en pakt ook het net uit de armory.
 - In de [[Queen of Dragons Chamber]] hangt een drakentapijt met Tiamat er op afgebeeld.
-- [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Metatron]] gaan door de achterdeur naar buiten naar de plek waar [[Characters/The Hunting Lodge/Talis]] stierf. Ze horen een een gil en zien [[Arlaenga]] meegenomen worden door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] en hun [[Reference/Monsters/Dragon/Drake\|drakes]].
+- [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Metatron]] gaan door de achterdeur naar buiten naar de plek waar [[Characters/The Hunting Lodge/Talis]] stierf. Ze horen een een gil en zien [[Characters/The Hunting Lodge/Arlaenga]] meegenomen worden door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] en hun [[Reference/Monsters/Dragon/Drake\|drakes]].
 - [[Characters/The Meta Band/Agrip’Ah]] ontdekt dat het [[Items/Tapijt met honden en een zwijn]] magisch is en waarschijnlijk toegang biedt naar een andere plek via teleportatie.
 - Een rondzwevende [[Characters/The Meta Band/Agrip’Ah]] vliegt uit het raam en ontdekt een nest op het dak met botten. Uit het dal ziet hij 2 [[Reference/Monsters/Peryton\|perytons]] met hoge snelheid aan komen vliegen. Hij vindt zilverwaar in het nest en een [[Items/Ancient arrow catching shield]]. Daarna vliegt hij weer snel naar binnen.
 - Door [[Characters/The Meta Band/Dr. Egbert]]'s [[DND.SRD.Wiki-main/Spells/Phantasmal Killer]] vlucht [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]]
@@ -188,24 +187,25 @@
 
 # Kelder
 Terug in het huis vinden we in de kelder 3 gevangenen:
-1. [[Characters/The Hunting Lodge/Miresella]] is 5 dagen geleden aangekomen en is zwaar mishandeld, [[Characters/The Meta Band/Dr. Egbert]] verzorgd haar wonden. Werd gepakt terwijl ze rondsloop. [[Characters/The Hunting Lodge/Craggnor]] was 
+1. [[Characters/The Hunting Lodge/Miresella]] is 5 dagen geleden aangekomen en is zwaar mishandeld, [[Characters/The Meta Band/Dr. Egbert]] verzorgd haar wonden. Werd gepakt terwijl ze rondsloop. [[Characters/The Hunting Lodge/Craggnor the Dwarf]] was 
 2. [[Characters/The Hunting Lodge/Brother Caemon]] is 5 dagen geleden aangekomen en is een priester van [[Reference/Gods/Amaunathor]]. Hij kwam vanuit [[Hilsvar]] en was onderweg naar de kust.
-3. [[Characters/The Hunting Lodge/Craggnor]] de dwerg is gemarteld en was hier al toen [[Characters/The Hunting Lodge/Miresella]] hier werd gebracht. Hij vertrouwd ons niet. Hij hoort bij de clan van [[Characters/Varram the WhiteR]]. We ondervraagt over [[Characters/Varram the White]] om informatie lost te peuteren.
+3. [[Characters/The Hunting Lodge/Craggnor the Dwarf]] de dwerg is gemarteld en was hier al toen [[Characters/The Hunting Lodge/Miresella]] hier werd gebracht. Hij vertrouwd ons niet. Hij hoort bij de clan van [[Characters/Varram the White]]. We ondervraagt over [[Characters/Varram the White]] om informatie lost te peuteren.
 
-[[Parnast]] is overgenomen door [[cultisten]]. 
+[[Atlas/Greypeak Mountains/Parnast]] is overgenomen door [[cultisten]]. 
 
 [[Characters/Varram the White]] vertrokken naar de [[strongholds]]. 
 
-[[Severin the Red]]
-[[Neronvain the Green]]
-[[Galvin the Blue]]
-[[Characters/Rezmir the Black]]
-[[Characters/Varram the WhiteR]]
+De leiders van de [[Factions/Cult of the Dragon]] zijn:
+1. [[Characters/Severin the Red]]
+2. [[Characters/Neronvain the Green]]
+3. [[Characters/Galvin the Blue]]
+4. [[Characters/Rezmir the Black]]
+5. [[Characters/Varram the White]]
 
 [[Characters/The Meta Band/Metatron]] intimideert en bedriegt [[Characters/The Hunting Lodge/Trepsin]]: [[Characters/The Hunting Lodge/Dirk en Dirk]] zijn uit op zijn plek en vinden hem zwak en willen hem pootje ligten. Hij stormt weg.
 
 De staf van Talis - een [[Items/Wand of Winter]] - gaat naar [[Characters/The Meta Band/Agrip’Ah]].
 
-[[Angrath Woodwise]] doet mee met ons mee aan de trollenjacht! [[Gastyn]] is minder enthousiast en blijft thuis.
+[[Characters/The Hunting Lodge/Angrath Woodwise]] doet mee met ons mee aan de trollenjacht! [[Characters/The Hunting Lodge/Gastyn]] is minder enthousiast en blijft thuis.
 
 In de voorraadkast zijn veel flessen olie: handig voor molotov cocktails! [[Characters/The Meta Band/Agrip’Ah]] gaat aan de slag maar wordt gespot door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] terwijl hij in de keuken zijn cocktails aan het maken is. 

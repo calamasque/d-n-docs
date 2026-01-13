@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Metatron","created":"2025-07-15","modified":"2025-12-03T23:18:43.402+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Metatron","created":"2025-07-15","modified":"2026-01-13T13:54:50.013+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Metatron
@@ -13,17 +13,17 @@
 |[[Reference/Spells/Minor Illusion\|Minor Illusion]]|0|
 |[[Reference/Spells/Dissonant Whispers\|Dissonant Whispers]]|1|
 |[[Reference/Spells/Tasha's Hideous Laughter\|Tasha's Hideous Laughter]]|1|
-|[[Reference/Spells/Enhance Ability\|Enhance Ability]]|2|
 |[[Reference/Spells/Misty Step\|Misty Step]]|2|
 |[[Reference/Spells/Suggestion\|Suggestion]]|2|
 |[[Reference/Spells/Counterspell\|Counterspell]]|3|
 |[[Reference/Spells/Hypnotic Pattern\|Hypnotic Pattern]]|3|
 |[[Reference/Spells/Polymorph\|Polymorph]]|4|
-|[[Aura of Vitality\|Aura of Vitality]]|—|
 |[[Leomund's Tiny Hut\|Leomund's Tiny Hut]]|—|
 |[[Silvery Barbs\|Silvery Barbs]]|—|
+|[[DND.SRD.Wiki-main/Spells/Blindness-Deafness\|Blindness-Deafness]]|—|
 |[[Reference/Spells/Faerie Fire\|Faerie Fire]]|—|
 |[[Reference/Spells/Feather Fall\|Feather Fall]]|—|
+|[[DND.SRD.Wiki-main/Spells/Fireball\|Fireball]]|—|
 |[[DND.SRD.Wiki-main/Spells/Greater Invisibility\|Greater Invisibility]]|—|
 |[[Reference/Spells/Mage Hand\|Mage Hand]]|—|
 |[[Reference/Spells/Thaumaturgy\|Thaumaturgy]]|—|

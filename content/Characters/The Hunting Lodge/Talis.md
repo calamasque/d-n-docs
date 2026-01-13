@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"Talis","description":"Belangrijk figuur binnen Cult of the Dragon, drakenkenner","created":"2025-11-09","modified":"2026-01-13T12:46:15.131+01:00","published":"2025-11-09","cssclasses":""}
+{"publish":true,"title":"Talis","description":"Belangrijk figuur binnen Cult of the Dragon, drakenkenner","created":"2025-11-09","modified":"2026-01-13T20:25:12.232+01:00","published":"2025-11-09","cssclasses":""}
 ---
 
 # Character info
 - Ranking figure within the [[Factions/Cult of the Dragon]], no top brass.
-- Leader of [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] untill her untimely death
+- Leader of [[Atlas/Greypeak Mountains/The Hunting Lodge/index]] untill her untimely death
 - Knows [[Characters/The Meta Band/SmogEater]] as a traitor of the [[Factions/Cult of the Dragon]]
 - Not truly loyal to [[Characters/Rezmir the Black]]
 - Bad relationship with [[Characters/Varram the White]] whom she considers unworthy of the [[white mask]], orders his 'disappearance'
@@ -13,7 +13,8 @@
 # Items
 * [[Talis' staff]]
 * [[Talis' armor]]
-* [[onbekende documenten]]
+* een kaart met aantekeningen
+- [[Items/Documenten over witte draken\|documenten over witte draken]]
 
 # Timeline
 

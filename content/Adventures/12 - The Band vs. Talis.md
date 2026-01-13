@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Talis","created":"2025-11-09","modified":"2026-01-13T13:50:55.180+01:00","published":"2025-11-09","cssclasses":""}
+{"publish":true,"title":"The Band vs. Talis","created":"2025-11-09","modified":"2026-01-13T20:16:53.629+01:00","published":"2025-11-09","cssclasses":""}
 ---
 
 [[Adventures/11 - Enter the Dragon\|Vorige]] ← 12 → [[Adventures/13 - Treasure Hunting in the Lodge\|Volgende]]
@@ -9,22 +9,25 @@
 - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir the Black]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
 - We krijgen 3 opdrachten: 
 	1. [[Characters/Varram the White]] doden
-	2. In [[Atlas/Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] beëindigen.
-	3. [[Characters/Rezmir the Black]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
+	2. In [[Atlas/Greypeak Mountains/Castle Sky Reach]] de toevoer naar [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] beëindigen.
+	3. [[Characters/Rezmir the Black\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
 - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
 - [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis]].
 
 # Acties & reminders
-- [ ] [[Characters/Varram the White]] uitschakelen voor [[Characters/The Hunting Lodge/Talis]] 
-- [ ] Transport van schatten onderbreken vanuit [[Castle Skyreach]] voor [[Characters/The Hunting Lodge/Talis]]  
+- [ ] [[Characters/Varram the White]] uitschakelen voor [[Characters/The Hunting Lodge/Talis]]  
+- [ ] Transport van schatten onderbreken vanuit [[Castle Skyreach]] voor [[Characters/The Hunting Lodge/Talis]] 
 - [ ] [[Characters/Rezmir the Black]]'s [[Items/Dragon Egg\|dragon eggs]] stelen voor [[Characters/The Hunting Lodge/Talis]]  
-- [x] Wachtwoord [[Castle Skyreach]]: "[[Tiamat]], our mother and strength"  ✅ 2026-01-13
-- [x] [[Characters/Rezmir the Black]] vertrok in grote haast per [[DND.SRD.Wiki-main/Monsters/Wyvern]] naar [[Parnast]]  ✅ 2026-01-13
-- [ ] [[Characters/The Meta Band/Metatron]] kent een melodie om [[wyverns]] rustig te maken start:: 2025-11-09 
+- [x] Wachtwoord [[Castle Skyreach]]: "[[Tiamat]], our mother and strength" 
+- [x] [[Characters/Rezmir the Black]] vertrok in grote haast per [[DND.SRD.Wiki-main/Monsters/Wyvern]] naar [[Atlas/Greypeak Mountains/Parnast]] 
+- [ ] [[Characters/The Meta Band/Metatron]] kent een melodie om [[wyverns]] rustig te maken 
 - [x] @waar-[[Characters/The Hunting Lodge/Talis]]-viel: [[Talis' staff]] oprapen   [completion:: 2025-11-30]
 - [x] [[Characters/The Hunting Lodge/Trepsin]] vinden   [completion:: 2025-11-30]
-- [x] @[[Characters/The Hunting Lodge/Talis]]' lijk: [[onbekende documenten]]  ✅ 2025-12-22
+- [x] @[[Characters/The Hunting Lodge/Talis]]' lijk: onbekende documenten  ✅ 2025-12-22
 - [x] @[[Characters/The Hunting Lodge/Talis]]' lijk: [[Talis' armor]]  ✅ 2025-12-22
+- [ ] [[Factions/Cult of the Dragon]] groet: "Welkom [[Children of the Wurm]]!" 
+- [ ] [[Characters/Varram the White\|Varram]] is niet in [[Icewind Dale]], vertrokken naar de [[strongholds]]: mogelijk iets verloren? 
+* [ ] [[Characters/Varram the White\|Varram]] is te beïnvloeden en slordig 
 
 
 # Session Log
@@ -42,10 +45,10 @@
 We lopen naar boven en overwegen om [[Characters/The Meta Band/SmogEater]] niet met ons de kamer met [[Characters/The Hunting Lodge/Talis]] in te laten stappen. Maar [[Characters/The Meta Band/SmogEater]] wil ook graag meedoen en kiest er voor zich te vermommen - hoe kan dit niet fout gaan? 
 
 We ontdekken een badkamer en een slaapkamer met iemand die slaapt. Een stoel onder de deurklink lijkt een goed idee om hem onopgemerkt uit te schakelen.
-Bij de 3e kamer is het raak: we verrassen [[Characters/The Hunting Lodge/Talis]], een [[Characters/Dragonclaw]] en 2 [[veteran guards]] in een vergaderruimte. We zien [[Characters/The Hunting Lodge/Talis]] [[onbekende documenten]] in wegstoppen in haar heuptas waarna ze ons welkom heet: "Welkom [[Children of the Wurm]]!". 
+Bij de 3e kamer is het raak: we verrassen [[Characters/The Hunting Lodge/Talis]], een [[Characters/Dragonclaw]] en 2 [[veteran guards]] in een vergaderruimte. We zien [[Characters/The Hunting Lodge/Talis]] enkele onbekende documenten wegstoppen in haar heuptas waarna ze ons welkom heet: "Welkom [[Children of the Wurm]]!". 
 
 [[Characters/The Meta Band/Agrip’Ah]] gebruikt onze onverwachte entree en cast direct [[DND.SRD.Wiki-main/Spells/Charm Person]] op [[Characters/The Hunting Lodge/Talis]] wat helaas mislukt. Dit zorgt wel direct voor een vijandige sfeer. [[Characters/The Meta Band/Metatron]] blust de situatie door het als een misverstand te bestempelen. 
-[[Characters/The Hunting Lodge/Talis]] verwacht een andere groep en vraagt daarom waar [[Fenric]] is waarop [[Characters/The Meta Band/Metatron]] [[Characters/The Meta Band/Szuszi]] aanwijst. Helaas kent [[Characters/The Hunting Lodge/Talis]] [[Fenric]] en stelt ook vast dat onze kleding niet past bij mensen die uit het noorden komen. [[Characters/The Meta Band/Metatron]] antwoord dat wij helemaal niet uit noorden komen maar vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] en zijn gestuurd door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer]] op orders van [[Characters/Rezmir the Black]] die zelf al vooruit was gereisd. 
+[[Characters/The Hunting Lodge/Talis]] verwacht een andere groep en vraagt daarom waar [[Characters/The Hunting Lodge/Fenric]] is waarop [[Characters/The Meta Band/Metatron]] [[Characters/The Meta Band/Szuszi]] aanwijst. Helaas kent [[Characters/The Hunting Lodge/Talis]] [[Characters/The Hunting Lodge/Fenric]] en stelt ook vast dat onze kleding niet past bij mensen die uit het noorden komen. [[Characters/The Meta Band/Metatron]] antwoord dat wij helemaal niet uit noorden komen maar vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] en zijn gestuurd door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer]] op orders van [[Characters/Rezmir the Black]] die zelf al vooruit was gereisd. 
 
 [[Characters/The Hunting Lodge/Talis]] is niet meer openlijk vijandig maar lijkt het ook nog niet helemaal te vertrouwen. Ze vraagt 1 van de [[veteran guards]] een andere [[veteran]] wakker te maken en [[Characters/The Hunting Lodge/Trepsin]] er bij te roepen als [[Characters/The Hunting Lodge/Talis]] een signaal geeft. Deze [[veteran]] ontdekt de stoel voor de deur van de slaapzaal wat weer voor spanning zorgt. Wij spelen echter overtuigend de vermoorde onschuld. 
 
@@ -53,21 +56,21 @@ Bij de 3e kamer is het raak: we verrassen [[Characters/The Hunting Lodge/Talis]]
 
 [[Characters/The Hunting Lodge/Talis]] wil weten wat we van de huidige leiders van [[Factions/Cult of the Dragon\|de Cult]] vinden:
 - [[Characters/The Meta Band/SmogEater]] weet niet of de huidige leiders nog wel allemaal de juiste zijn.
-- [[Characters/The Meta Band/Agrip’Ah]]: vindt [[Characters/Rezmir the Black]] qua methodes niet helemaal bij ons passen
+- [[Characters/The Meta Band/Agrip’Ah]]: vindt [[Characters/Rezmir the Black\|Rezmir]] qua methodes niet helemaal bij ons passen
 
-- [[Characters/The Hunting Lodge/Talis]] heeft Rezmir in paniek langs zien komen onze aanwezigheid haar een vijandig gevoel geeft. [[Characters/The Meta Band/Szuszi]] vraagt hoe we haar kunnen overtuigen dat wij niet haar vijanden zijn? [[Characters/The Hunting Lodge/Talis]] geeft aan dat we elkaar misschien kunnen helpen: [[Characters/Varram the White]] is volgens [[Characters/The Hunting Lodge/Talis]] het [[witte masker]] niet waardig en heeft ook problemen. Het verzoek is [[Characters/Varram the White]] te laten verdwijnen. 
+- [[Characters/The Hunting Lodge/Talis]] heeft Rezmir in paniek langs zien komen waardoor onze plotselinge aanwezigheid haar een vijandig gevoel geeft. [[Characters/The Meta Band/Szuszi]] vraagt hoe we haar kunnen overtuigen dat wij niet haar vijanden zijn? [[Characters/The Hunting Lodge/Talis]] geeft aan dat we elkaar misschien kunnen helpen: [[Characters/Varram the White\|Varram]] is volgens [[Characters/The Hunting Lodge/Talis]] het [[witte masker]] niet waardig en heeft ook problemen. Het verzoek is [[Characters/Varram the White\|Varram]] te laten verdwijnen. 
    
-[[Characters/Varram the White]] is volgens haar niet geschikt in het grote plan van [[Severin the Red]]. [[Characters/Rezmir the Black]] is 'slechts' irritant.  
-- [[Characters/The Meta Band/Agrip’Ah]]: weet u dat [[Characters/Rezmir the Black]] een drakenei is verloren?
-- [[Characters/Rezmir the Black]] misbruikte draken voor dingen die niet aan hun stand zijn
+[[Characters/Varram the White\|Varram]] is volgens haar niet geschikt in het grote plan van [[Characters/Severin the Red\|Severin]]. [[Characters/Rezmir the Black]] is 'slechts' irritant.  
+- [[Characters/The Meta Band/Agrip’Ah]]: weet u dat [[Characters/Rezmir the Black\|Rezmir]] een [[Items/Dragon Egg]] is verloren?
+- [[Characters/The Hunting Lodge/Talis]]: [[Rezmir]] misbruikte draken voor dingen die niet bij hun stand passen
 
 Er is iets mis met de logistieke lijn:
 1. sinds een dag komen er geen kisten meer vanuit [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
 2. het rommelt bij [[Characters/Varram the White]]
 
-[[Severin the Red]] laat [[Characters/The Hunting Lodge/Talis]] [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]] pas verlaten als alle aanvoer is gestokt en er dus geen noodzaak meer is voor iemand die ter plekke alles in goede banen leidt. 
+[[Characters/The Hunting Lodge/Talis]] mag [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] pas verlaten van [[Characters/Severin the Red]] als er geen noodzaak meer is voor iemand die ter plekke alles in goede banen leidt. Daarom moet de aanvoer eerst stoppen.
 
-([[Gastyn]] komt binnen met wijn en water, 2 wachters nog steeds voor de deur.)
+([[Characters/The Hunting Lodge/Gastyn]] komt binnen met wijn en water, 2 wachters nog steeds voor de deur.)
 
 [[Characters/The Meta Band/Agrip’Ah]] vraagt aan [[Characters/The Hunting Lodge/Talis]] of zij misschien kan uitleggen wat hij zag bij het afwijkende zwarte [[Items/Dragon Egg]] wat hij heeft gezien. [[Characters/The Hunting Lodge/Talis]] geeft aan dat zij hier ook niets van weet. 
 
@@ -76,9 +79,9 @@ Er is iets mis met de logistieke lijn:
 2. [[teleportatiecirkel - sneeuw\|Sneeuw]] leidt naar [[Icewind Dale]]
 3. [[teleportatiecirkel - rode zon\|Rode zon]] is buiten gebruik.
 
-Het is nu midden op de dag (16:00) en het is een 5 uur hike naar [[Parnast]]. We blijven daarom vandaag hier en vertrekken pas morgen naar [[Parnast]]. Tijd om te rusten en we verlaten daarom de kamer. [[Characters/The Hunting Lodge/Talis]] spot op dat moment de staart van '[[Characters/The Meta Band/SmogEater\|Fire Breather]]' en herkent hem als [[Characters/The Meta Band/SmogEater]]. [[Characters/The Meta Band/SmogEater\|Smoggi]] hangt een geloofwaardig verhaal op dat hij uiteindelijk toch het "juiste" pad heeft gevonden. [[Characters/The Hunting Lodge/Talis]] geeft aan dat [[Factions/Cult of the Dragon\|de Cult]] problemen heeft met de [[metallic dragons]] en dat de [[chromatic dragons]] gesteund moeten worden.  [[Characters/The Hunting Lodge/Talis]] probeert [[Characters/The Meta Band/SmogEater]] uit zijn tent te lokken door hem te vertellen dat ze meteen als een bijzonder herkende: een groene [[Reference/Races/Dragonborn]] met een staart. Maar dat ze sindsdien zijn (adoptief) ouders en broertjes en zusjes heeft vermoord. Onze held [[Characters/The Meta Band/SmogEater]] geeft geen krimp! 
+Het is nu midden op de dag (16:00) en het is een 5 uur hike naar [[Atlas/Greypeak Mountains/Parnast]]. We blijven daarom vandaag hier en vertrekken pas morgen naar [[Atlas/Greypeak Mountains/Parnast]]. Tijd om te rusten en we verlaten daarom de kamer. [[Characters/The Hunting Lodge/Talis]] spot op dat moment de staart van '[[Characters/The Meta Band/SmogEater\|Fire Breather]]' en herkent hem als [[Characters/The Meta Band/SmogEater]]. [[Characters/The Meta Band/SmogEater\|Smoggi]] hangt een geloofwaardig verhaal op dat hij uiteindelijk toch het "juiste" pad heeft gevonden. [[Characters/The Hunting Lodge/Talis]] geeft aan dat [[Factions/Cult of the Dragon\|de Cult]] problemen heeft met de [[metallic dragons]] en dat de [[chromatic dragons]] gesteund moeten worden.  [[Characters/The Hunting Lodge/Talis]] probeert [[Characters/The Meta Band/SmogEater]] uit zijn tent te lokken door hem te vertellen dat ze meteen als een bijzonder herkende: een groene [[Reference/Races/Dragonborn]] met een staart. Maar dat ze sindsdien zijn (adoptief) ouders en broertjes en zusjes heeft vermoord. Onze held [[Characters/The Meta Band/SmogEater]] geeft geen krimp! 
 
-Maar van held [[Characters/The Meta Band/SmogEater\|Smoggi]] wordt binnen no time de schlemiel door een ongekend wollig verhaal op te hangen over zijn jeugd, zijn zoektocht naar zijn identiteit en zijn liefde voor [[Reference/Gods/Bahamut]]. Voor [[Characters/The Hunting Lodge/Talis]] is nu duidelijk dat hij geen aanhanger van de [[Factions/Cult of the Dragon]] is en zij besluit zich van ons te ontdoen.  
+Maar van held wordt  [[Characters/The Meta Band/SmogEater\|Smoggi]] binnen no time de schlemiel door een ongekend wollig verhaal op te hangen over zijn jeugd, zijn zoektocht naar zijn identiteit en zijn liefde voor [[Reference/Gods/Bahamut]]. Voor [[Characters/The Hunting Lodge/Talis]] is nu duidelijk dat hij geen aanhanger van de [[Factions/Cult of the Dragon]] is en zij besluit zich van ons te ontdoen.  
 
 ## Plan B: done talking
 
@@ -193,7 +196,7 @@ Maar van held [[Characters/The Meta Band/SmogEater\|Smoggi]] wordt binnen no tim
 - [[Characters/The Meta Band/Metatron]] ontdekt op een lijk een zilveren [[symbol of the cult]] (40GP). 
 - [[Characters/The Meta Band/Szuszi]] ziet niemand in de keuken: van de 4 leden van het [[keukenpersoneel]] hebben we er 3 vermoord, we missen iemand! Hij doorzoekt de kamer maar vindt niets behalve keukengerei en voedsel. In de naast de keuken gelegen pantry is genoeg voedsel voor een kleine groep om een winter door te komen.
 
-[[Gastyn]], [[Arlaenga]] en [[Angrath Woodwise]] verschijnen en zien er angstig uit. Ongeloof maar opluchting dat [[Characters/The Hunting Lodge/Talis]] dood is maar angst dat [[Characters/The Hunting Lodge/Trepsin]] nog blijkt te leven.
+[[Characters/The Hunting Lodge/Gastyn]], [[Characters/The Hunting Lodge/Arlaenga]] en [[Characters/The Hunting Lodge/Angrath Woodwise]] verschijnen en zien er angstig uit. Ongeloof maar opluchting dat [[Characters/The Hunting Lodge/Talis]] dood is maar angst dat [[Characters/The Hunting Lodge/Trepsin]] nog blijkt te leven.
 
 - [[Characters/The Meta Band/SmogEater]] vindt onder het bed een kist en roept via de mind-link van [[Characters/The Meta Band/Agrip’Ah]] collega [[Characters/The Meta Band/Szuszi]] om de kist te onderzoeken.
 - [[Characters/The Meta Band/Agrip’Ah]] onderzoekt het armor van de [[Helmed horror]] maar vindt geen bruikbare onderdelen.
