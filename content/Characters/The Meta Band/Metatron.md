@@ -17,6 +17,7 @@
 |[[Reference/Spells/Misty Step\|Misty Step]]|2|
 |[[Reference/Spells/Suggestion\|Suggestion]]|2|
 |[[Reference/Spells/Counterspell\|Counterspell]]|3|
+|[[Reference/Spells/Hypnotic Pattern\|Hypnotic Pattern]]|3|
 |[[Reference/Spells/Polymorph\|Polymorph]]|4|
 |[[Aura of Vitality\|Aura of Vitality]]|—|
 |[[Leomund's Tiny Hut\|Leomund's Tiny Hut]]|—|
@@ -24,7 +25,6 @@
 |[[Reference/Spells/Faerie Fire\|Faerie Fire]]|—|
 |[[Reference/Spells/Feather Fall\|Feather Fall]]|—|
 |[[DND.SRD.Wiki-main/Spells/Greater Invisibility\|Greater Invisibility]]|—|
-|[[Reference/Spells/Hypnotic Pattern\|Hypnotic Pattern]]|—|
 |[[Reference/Spells/Mage Hand\|Mage Hand]]|—|
 |[[Reference/Spells/Thaumaturgy\|Thaumaturgy]]|—|
 |[[Reference/Spells/Vicious Mockery\|Vicious Mockery]]|—|

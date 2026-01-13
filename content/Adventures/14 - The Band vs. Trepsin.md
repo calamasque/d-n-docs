@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Trepsin","created":"2025-12-22","modified":"2026-01-12T23:26:14.466+01:00","published":"2025-12-22","cssclasses":""}
+{"publish":true,"title":"The Band vs. Trepsin","created":"2025-12-22","modified":"2026-01-13T12:46:15.096+01:00","published":"2025-12-22","cssclasses":""}
 ---
 
 
@@ -7,10 +7,10 @@
 
 # Lang verhaal kort
 - [[Characters/The Hunting Lodge/Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]
-- In de schuur vinden we de lichamen van [[Arlinga]] en [[Characters/The Hunting Lodge/Talis]]
+- In de schuur vinden we de lichamen van [[Arlaenga]] en [[Characters/The Hunting Lodge/Talis]]
 - Lijkpikken bij [[Characters/The Hunting Lodge/Talis]] levert de [[onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron]] strip [[Characters/The Hunting Lodge/Talis]] ook nog van een [[scale mail +1]].
 - Na het ontheiligen van [[Characters/The Hunting Lodge/Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead]]:
-    1. [[Characters/Rezmir]] is onderweg naar de cirkel op de kaart via [[Parnast]]
+    1. [[Characters/Rezmir the Black]] is onderweg naar de cirkel op de kaart via [[Parnast]]
 	2. De wachtwoorden van de [[teleportatiecirkels]]:
 		- 1e = sterrenwacht
 		- 2e = ten towns
@@ -76,7 +76,7 @@
 > 
 >> [!info]- Ronde 3 
 >> 1. [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] rent door de voordeur weer naar buiten. [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] verschijnt ook ten tonele en valt [[Angrath Woodwise]] aan en doet hem 10 schade.
->> 2. [[Characters/The Meta Band/Waldo]] onderzoekt stealthy de schuur en hij ontdekt het dode lichaam van [[Arlinga]] wiens hoofd is ingeslagen.
+>> 2. [[Characters/The Meta Band/Waldo]] onderzoekt stealthy de schuur en hij ontdekt het dode lichaam van [[Arlaenga]] wiens hoofd is ingeslagen.
 >> 3. [[Egbert]] cast [[DND.SRD.Wiki-main/Spells/Eldritch Blast]] op [[Characters/The Hunting Lodge/Trepsin]] met 2 beams en doet hem 13 schade.
 >> 	- [[shadowspan]] gaat weer achter [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] aan.
 >> 4. [[Characters/The Meta Band/Metatron]] rent om de schuur heen en gaat door de zijdeur naar binnen.
@@ -119,13 +119,13 @@ Extra info:
 - Minder intelligent dan andere draken.
 
 # Mensen
-- [[Characters/The Meta Band/Metatron]] informeert [[Angrath]] dat [[Arlinga]] is overleden.
+- [[Characters/The Meta Band/Metatron]] informeert [[Angrath]] dat [[Arlaenga]] is overleden.
 - [[Characters/The Meta Band/Agrip’Ah]] praat [[Myracella]] bij over onze positie. Ze informeert hem dat [[Parnast]] vol zit met [[Factions/Cult of the Dragon\|Dragon kneelers]] en dat ze daar is gepakt toen ze onder een zeil van een kar keek. Daar bleken kisten met waardevolle spullen te zitten. 
 - [[Angard]] weet te vertellen dat de [[teleportatiecirkels]] vroeger allemaal werkten maar dat [[teleportatiecirkel - rode zon]] door de [[Factions/Cult of the Dragon]] met een ritueel is gesloten.
 
 # Speak with dead: Talis
 - Een als Thayan vermomde [[Characters/The Meta Band/Agrip’Ah]] cast [[DND.SRD.Wiki-main/Spells/Speak with Dead]] op het lijk van [[Characters/The Hunting Lodge/Talis]]:
-	1. Waarom is er iets omcirkeld op de kaart?  =>  [[Characters/Rezmir]] is hiernaar onderweg via [[Parnast]]
+	1. Waarom is er iets omcirkeld op de kaart?  =>  [[Characters/Rezmir the Black]] is hiernaar onderweg via [[Parnast]]
 	2. Wat zijn de wachtwoorden van de [[teleportatiecirkels]]?
 		- 1e = sterrenwacht
 		- 2e = ten towns

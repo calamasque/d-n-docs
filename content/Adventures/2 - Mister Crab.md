@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mister Crab","created":"2024-11-20","modified":"2026-01-12T23:24:16.306+01:00","published":"2024-11-20","cssclasses":""}
+{"publish":true,"title":"Mister Crab","created":"2024-11-20","modified":"2026-01-13T12:46:15.105+01:00","published":"2024-11-20","cssclasses":""}
 ---
 
 [[Adventures/1 - Friends at sea\|Vorige]] ← 2 → [[Adventures/3 - Waterdeep\|Volgende]]

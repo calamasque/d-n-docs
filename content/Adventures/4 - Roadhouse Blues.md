@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2026-01-12T23:42:57.979+01:00","published":"2025-01-26","cssclasses":""}
+{"publish":true,"title":"Roadhouse Blues","created":"2025-01-26","modified":"2026-01-13T10:07:45.987+01:00","published":"2025-01-26","cssclasses":""}
 ---
 
 [[Adventures/3 - Waterdeep\|Vorige]] ← 4 → [[Adventures/5 - Mere of Dead Men\|Volgende]]

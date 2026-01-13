@@ -67,7 +67,7 @@
 - We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Reference/Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
     
     > - Na het doden van al zijn [[Reference/Races/Bullywug\|bullywugs]] vindt [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
-    > - Tijdens een long rest hoort [[Characters/The Meta Band/Metatron\|Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir\|Rezmir]]
+    > - Tijdens een long rest hoort [[Characters/The Meta Band/Metatron\|Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir the Black\|Rezmir the Black]]
     > - [[Characters/The Meta Band/Szuszi\|Szuszi]] gaat op onderzoek uit en ontdekt een nog nagloeiende [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel\|Naerytar - teleportatiecirkel]].
     
 
@@ -98,11 +98,11 @@
 
 - We verrassen [[Characters/The Hunting Lodge/Talis\|Talis]] & co. maar worden zelf verrast als [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]]'s [[DND.SRD.Wiki-main/Spells/Charm Person\|Charm Person]] mislukt. Het brandje wordt snel geblust maar de spanning blijft om te snijden.
     
-    > - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir\|Rezmir]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
-    > - We krijgen 3 klussen:
+    > - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer Borngray]] in opdracht van [[Characters/Rezmir the Black\|Rezmir the Black]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis\|Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
+    > - We krijgen 3 opdrachten:
     >     1. [[Characters/Varram the White\|Varram the White]] doden
     >     2. In [[Atlas/Castle Sky Reach\|Castle Sky Reach]] de toevoer naar [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]] beëindigen.
-    >     3. [[Characters/Rezmir\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
+    >     3. [[Characters/Rezmir the Black\|Rezmir the Black]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
     > - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater\|SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
     > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis\|Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron\|Metatron]] cast [[Reference/Spells/Polymorph\|Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape\|Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis\|Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile\|Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin\|Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis\|Talis]].
     
@@ -118,10 +118,10 @@
 
 - [[Characters/The Hunting Lodge/Trepsin\|Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge\|The Hunting Lodge]]
     
-    > - In de schuur vinden we de lichamen van [[Arlinga\|Arlinga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
+    > - In de schuur vinden we de lichamen van [[Arlaenga\|Arlaenga]] en [[Characters/The Hunting Lodge/Talis\|Talis]]
     > - Lijkpikken bij [[Characters/The Hunting Lodge/Talis\|Talis]] levert de [[onbekende documenten\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron\|Metatron]] strip [[Characters/The Hunting Lodge/Talis\|Talis]] ook nog van een [[scale mail +1\|scale mail +1]].
     > - Na het ontheiligen van [[Characters/The Hunting Lodge/Talis\|Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead\|Speak with Dead]]:
-    >     1. [[Characters/Rezmir\|Rezmir]] is onderweg naar de cirkel op de kaart via [[Parnast\|Parnast]]
+    >     1. [[Characters/Rezmir the Black\|Rezmir the Black]] is onderweg naar de cirkel op de kaart via [[Parnast\|Parnast]]
     >     2. De wachtwoorden van de [[teleportatiecirkels\|teleportatiecirkels]]:
     >         - 1e = sterrenwacht
     >         - 2e = ten towns

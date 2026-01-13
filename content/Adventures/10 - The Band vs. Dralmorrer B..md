@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Dralmorrer B.","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2026-01-12T23:25:19.320+01:00","published":"2025-07-06","cssclasses":""}
+{"publish":true,"title":"The Band vs. Dralmorrer B.","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2026-01-13T12:46:14.985+01:00","published":"2025-07-06","cssclasses":""}
 ---
 
 
@@ -152,10 +152,10 @@
 
 ## Het stof daalt neer
 * [[Characters/Castle Naerytar/Snapjaw]] treedt binnen.
-* [[Characters/The Meta Band/Waldo]] is gisteravond naar [[Characters/Castle Naerytar/Snapjaw]] gegaan en heeft hem geïnformeerd over het teken ("de draak"). [[Characters/Rezmir]] heeft overal wachters neergezet. Daarna is [[Characters/Rezmir]] met de [[Characters/Onbekende Red Wizard]] de grot in gegaan. Daarna hebben de [[Factions/Lizardfolk tribe]] de [[Factions/Bullywug tribe]] aangevallen. Daarna heeft [[Characters/Castle Naerytar/Dralmorrer Borngray]] geprobeerd de rust te bewaren door iedereen van elkaar te scheiden.  
-* Op verzoek van [[Characters/The Meta Band/Agrip’Ah]] posteert [[Characters/Castle Naerytar/Snapjaw]] wat [[Reference/Races/Lizardfolk]] bij de teleportatiecirkel om ons te waarschuwen als [[Characters/Rezmir]] en de [[Characters/Onbekende Red Wizard]] terugkeren.
+* [[Characters/The Meta Band/Waldo]] is gisteravond naar [[Characters/Castle Naerytar/Snapjaw]] gegaan en heeft hem geïnformeerd over het teken ("de draak"). [[Characters/Rezmir the Black]] heeft overal wachters neergezet. Daarna is [[Characters/Rezmir the Black]] met de [[Characters/Onbekende Red Wizard]] de grot in gegaan. Daarna hebben de [[Factions/Lizardfolk tribe]] de [[Factions/Bullywug tribe]] aangevallen. Daarna heeft [[Characters/Castle Naerytar/Dralmorrer Borngray]] geprobeerd de rust te bewaren door iedereen van elkaar te scheiden.  
+* Op verzoek van [[Characters/The Meta Band/Agrip’Ah]] posteert [[Characters/Castle Naerytar/Snapjaw]] wat [[Reference/Races/Lizardfolk]] bij de teleportatiecirkel om ons te waarschuwen als [[Characters/Rezmir the Black]] en de [[Characters/Onbekende Red Wizard]] terugkeren.
 * [[Characters/Castle Naerytar/Dralmorrer Borngray]] wordt cadeau gedaan aan de [[Factions/Lizardfolk tribe]] en wordt gevangengezet in de stallen.
-* [[Characters/Castle Naerytar/Snapjaw]] geeft ons toegang tot de torens van [[Characters/Rezmir]] en de [[Characters/Onbekende Red Wizard]].
+* [[Characters/Castle Naerytar/Snapjaw]] geeft ons toegang tot de torens van [[Characters/Rezmir the Black]] en de [[Characters/Onbekende Red Wizard]].
 * De dwarf kok [[Tangsit]] en zijn hulpjes komen binnen en bieden ons een maaltijd aan.
 * We voegen toe aan onze [[haversack]]:
 	* 450 GP
@@ -164,13 +164,13 @@
 	* 22 semi-precious stones
 	* potion of greater healing
 * We gebruiken deze gelegenheid voor een [[Reference/short rest]] 
-* [[Characters/Castle Naerytar/Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Reference/Races/Lizardfolk\|Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Characters/The Meta Band/Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Factions/Lizardfolk tribe]] heeft deze dagger gevonden in [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en cadeau gedaan aan [[Characters/Rezmir]]. [[Characters/The Meta Band/Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Items/Netherese dagger of Venom]].
-- We bezoeken [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar's S-E tower]] van [[Characters/Rezmir]]. 
-	- We bezoeken de torenkamer waar [[Characters/Rezmir]] huist.
+* [[Characters/Castle Naerytar/Snapjaw]] laat een beeldje zien in de kapel, die nu is gewijd aan [[Tiamat]] maar wel in de stijl van de [[Reference/Races/Lizardfolk\|Lizardfolk]]. Uit een compartiment in het beeld haalt hij een dagger, mogelijk magisch. [[Characters/The Meta Band/Szuszi]] herkent wel vaag de stijl doet hem dingen aan een oude stad / kasteel waar hij over gehoord heeft. De [[Factions/Lizardfolk tribe]] heeft deze dagger gevonden in [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en cadeau gedaan aan [[Characters/Rezmir the Black]]. [[Characters/The Meta Band/Agrip’Ah]] bestudeert de dagger en herkent de stijl als die van de [[Netherese]]. Hij weet dat dit een oude beschaving was geleidt door magiërs. Het is een [[Items/Netherese dagger of Venom]].
+- We bezoeken [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar's S-E tower]] van [[Characters/Rezmir the Black]]. 
+	- We bezoeken de torenkamer waar [[Characters/Rezmir the Black]] huist.
 		- Prachtige meubels en tapijten
 		- Het commando voor de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel]] is: "*Draezir*". Deze 
 		- Metatron vindt een brief: 
-		  "[[Characters/Rezmir]], [[Characters/Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin]] zal tevreden zijn. Zorg ervoor dat V. ([[Characters/Mere of Dead Men/Voaraghammanthar]]?) rustig blijft in het [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en tevreden blijft. [[Galvan]]".
+		  "[[Characters/Rezmir the Black]], [[Characters/Lenniton]] heeft de eieren meegebracht. Ik zal zorgdragen voor hen en ze uitbroeden. [[Severin the Red]] zal tevreden zijn. Zorg ervoor dat V. ([[Characters/Mere of Dead Men/Voaraghammanthar]]?) rustig blijft in het [[Atlas/Sword Coast/Mere of Dead Men/index\|Mere of Dead Men]] en tevreden blijft. [[Galvan]]".
 		- 2 Onyx dragon statues (3000GP)
 	* 1 [[Rezmir's Meditatiekamer]]
 	* 1 [[Rezmir's Slaapkamer]]

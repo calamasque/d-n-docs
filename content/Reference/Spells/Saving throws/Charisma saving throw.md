@@ -3,8 +3,7 @@
 ---
 
 # Charisma saving throw
-| Spell                                                            | Level |
-| ---------------------------------------------------------------- | ----- |
-| [[Reference/Spells/Enhance Ability\|Enhance Ability]] | 2     |
+| Spell | Level |
+| ----- | ----- |
 
 

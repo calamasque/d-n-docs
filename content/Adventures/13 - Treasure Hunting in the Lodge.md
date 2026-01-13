@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Treasure Hunting in the Lodge","created":"2025-11-30","modified":"2026-01-12T23:26:06.512+01:00","published":"2025-11-30","cssclasses":""}
+{"publish":true,"title":"Treasure Hunting in the Lodge","created":"2025-11-30","modified":"2026-01-13T12:46:15.092+01:00","published":"2025-11-30","cssclasses":""}
 ---
 
 
@@ -18,7 +18,7 @@
 - [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Waldo]] stappen naar binnen en worden door de 2 [[Elven armor\|Elven armors]] met een cold attack bevroren.
 - [[Characters/The Meta Band/Agrip’Ah]] spot een [[Items/Dragongleam\|mithril spear]] in de armory met een tekst in Draconic. Volgens [[Characters/The Meta Band/SmogEater]] staat er "Tiamat's eyes shine" en is dit de speer [[Items/Dragongleam]]. [[Characters/The Meta Band/SmogEater\|Smoggi]] neemt de speer en pakt ook het net uit de armory.
 - In de [[Queen of Dragons Chamber]] hangt een drakentapijt met Tiamat er op afgebeeld.
-- [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Metatron]] gaan door de achterdeur naar buiten naar de plek waar [[Characters/The Hunting Lodge/Talis]] stierf. Ze horen een een gil en zien [[Arlinga]] meegenomen worden door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] en hun [[Reference/Monsters/Dragon/Drake\|drakes]].
+- [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Metatron]] gaan door de achterdeur naar buiten naar de plek waar [[Characters/The Hunting Lodge/Talis]] stierf. Ze horen een een gil en zien [[Arlaenga]] meegenomen worden door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] en hun [[Reference/Monsters/Dragon/Drake\|drakes]].
 - [[Characters/The Meta Band/Agrip’Ah]] ontdekt dat het [[Items/Tapijt met honden en een zwijn]] magisch is en waarschijnlijk toegang biedt naar een andere plek via teleportatie.
 - Een rondzwevende [[Characters/The Meta Band/Agrip’Ah]] vliegt uit het raam en ontdekt een nest op het dak met botten. Uit het dal ziet hij 2 [[Reference/Monsters/Peryton\|perytons]] met hoge snelheid aan komen vliegen. Hij vindt zilverwaar in het nest en een [[Items/Ancient arrow catching shield]]. Daarna vliegt hij weer snel naar binnen.
 - Door [[Characters/The Meta Band/Dr. Egbert]]'s [[DND.SRD.Wiki-main/Spells/Phantasmal Killer]] vlucht [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]]
@@ -199,13 +199,13 @@ Terug in het huis vinden we in de kelder 3 gevangenen:
 [[Severin the Red]]
 [[Neronvain the Green]]
 [[Galvin the Blue]]
-[[Rezmir the Black]]
+[[Characters/Rezmir the Black]]
 [[Characters/Varram the WhiteR]]
 
 [[Characters/The Meta Band/Metatron]] intimideert en bedriegt [[Characters/The Hunting Lodge/Trepsin]]: [[Characters/The Hunting Lodge/Dirk en Dirk]] zijn uit op zijn plek en vinden hem zwak en willen hem pootje ligten. Hij stormt weg.
 
 De staf van Talis - een [[Items/Wand of Winter]] - gaat naar [[Characters/The Meta Band/Agrip’Ah]].
 
-[[Angrath Woodwise]] doet mee met ons mee aan de trollenjacht! [[Gastin]] is minder enthousiast en blijft thuis.
+[[Angrath Woodwise]] doet mee met ons mee aan de trollenjacht! [[Gastyn]] is minder enthousiast en blijft thuis.
 
 In de voorraadkast zijn veel flessen olie: handig voor molotov cocktails! [[Characters/The Meta Band/Agrip’Ah]] gaat aan de slag maar wordt gespot door [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] terwijl hij in de keuken zijn cocktails aan het maken is. 

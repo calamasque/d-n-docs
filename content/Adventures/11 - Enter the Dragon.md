@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Enter the Dragon","created":"2025-07-15","modified":"2026-01-12T23:08:41.120+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Enter the Dragon","created":"2025-07-15","modified":"2026-01-13T12:46:15.072+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 
@@ -33,7 +33,7 @@
 - [[Characters/Castle Naerytar/Snapjaw]] verdedigt ons richting [[Characters/Mere of Dead Men/Voaraghammanthar]] 
 - [[Characters/Mere of Dead Men/Voaraghammanthar]] knijpt verder en [[Characters/The Meta Band/Agrip’Ah]] knijpt verder (13 damage) en legt het loodje
 - We geven [[Characters/The Meta Band/Agrip’Ah]] onze healing potion
-- We horen [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer]] woedend roepen dat het een schande is en dat er wat zwaait als [[Characters/Rezmir]] hier van hoort.
+- We horen [[Characters/Castle Naerytar/Dralmorrer Borngray\|Dralmorrer]] woedend roepen dat het een schande is en dat er wat zwaait als [[Characters/Rezmir the Black]] hier van hoort.
 - We vermoeden dat de woede van [[Characters/Mere of Dead Men/Voaraghammanthar]] werd opgewekt doordat [[Characters/The Meta Band/Agrip’Ah]] sprak over [[de tweede draak]]. 
 - De duiken de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeon]] in en rennen snel naar de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel\|teleportatiecirkel]] en roepen "Draezir".
 
@@ -77,20 +77,20 @@
 - De portals reageren niet op het commando "Draezir". We moeten uitzoeken wat de commando's zijn voor deze 3 portals.
 - [[Characters/The Meta Band/SmogEater]] trekt zijn [[Factions/Cult of the Dragon]] kostuum aan 
 - ...
-- [[Characters/Rezmir]] is een paar uur geleden naar [[parnast]] vertrokken met de beste [[wyverns]] van [[Characters/The Hunting Lodge/Trepsin]] (de jager van de vallei). We moeten doorlopen naar binnen naar [[Characters/The Hunting Lodge/Talis]]. 
+- [[Characters/Rezmir the Black]] is een paar uur geleden naar [[parnast]] vertrokken met de beste [[wyverns]] van [[Characters/The Hunting Lodge/Trepsin]] (de jager van de vallei). We moeten doorlopen naar binnen naar [[Characters/The Hunting Lodge/Talis]]. 
 - [[Characters/The Meta Band/SmogEater]] herinnert zich dat in zijn [[Factions/Cult of the Dragon]] 1x één van de hoger geplaatsten op bezoek is geweest - [[Characters/The Hunting Lodge/Talis]] - die hem probeerde te overtuigen dat hij lid moest worden van de cult.
 - [[Angard]] heeft verkeerd vlees buiten gegooid?
-- [[Gastin]] er is bezoek!
+- [[Gastyn]] er is bezoek!
 
 ## The Hunting Lodge
 - We komen het huis binnen door een entree waar ongewenste gasten door gaten beschoten kunnen worden 
 - We komen binnen in de hal
-- Een [[Gastin\|lange magere man]] komt wat verwart binnen.
-- [[Gastin]]: "Welkom in de [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]!"
-- [[Gastin]]: "Er zou morgen pas weer bezoek komen"
+- Een [[Gastyn\|lange magere man]] komt wat verwart binnen.
+- [[Gastyn]]: "Welkom in de [[Atlas/Sword Coast/Greypeak Mountains/The Hunting Lodge]]!"
+- [[Gastyn]]: "Er zou morgen pas weer bezoek komen"
 - Komt u voor [[Characters/The Hunting Lodge/Talis]]?
 - [[Characters/The Meta Band/Agrip’Ah]]: Waarom bent u zo zenuwachtig?
-- [[Gastin]]: we zijn nog niet helemaal gewend aan hoe iedereen binnen komt lopen
+- [[Gastyn]]: we zijn nog niet helemaal gewend aan hoe iedereen binnen komt lopen
 - Hoeveel drakenridders zijn er eigenlijk?
 	- [[Characters/The Hunting Lodge/Talis]]
 	- 3 [[bodyguards]]
@@ -101,21 +101,21 @@
 - 3 [[kobolden]] komen giechelend binnen met glazen wijn en 2 andere kijken toe en vertrekken weer.
 - 20 [[kobolds]] in de kamer
 - 2 [[kobolds]] lopen langs
-- [[Gastin]] komt binnen om te melden dat [[Characters/The Hunting Lodge/Talis]] ons straks wil spreken als hij klaar is met de belangrijke zaken waar hij nog mee bezig is
-- [[insight]]: [[Gastin]] is niet heel op zijn gemak met de [[kobolds]] 
+- [[Gastyn]] komt binnen om te melden dat [[Characters/The Hunting Lodge/Talis]] ons straks wil spreken als hij klaar is met de belangrijke zaken waar hij nog mee bezig is
+- [[insight]]: [[Gastyn]] is niet heel op zijn gemak met de [[kobolds]] 
 - [[intimidation]] => vertel over iedereen die er is
 	- staff:
-		- [[Gastin]]
-		- [[Arlinga]]: head maid
+		- [[Gastyn]]
+		- [[Arlaenga]]: head maid
 		- [[Angrath Woodwise]]: eerder head hunter, tegenwoordig chief groom 
 		- [[keukenpersoneel]]
 		- trollen
 	- 
 - We verwachten morgen bezoekers dus de feast hall moest worden vrijgemaakt.
-- Op zoek naar [[Gastin]] vinden [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/Metatron]] een kamer met linnen en een grote kamer met [[harnassen]] en een [[tapestry of 3 hounds dragging down a white boar]]. Het tapestry lijkt magisch te zijn.
+- Op zoek naar [[Gastyn]] vinden [[Characters/The Meta Band/Szuszi]] en [[Characters/The Meta Band/Metatron]] een kamer met linnen en een grote kamer met [[harnassen]] en een [[tapestry of 3 hounds dragging down a white boar]]. Het tapestry lijkt magisch te zijn.
 - de wijn smaakt [[Characters/The Meta Band/SmogEater]] goed
 - [[Characters/The Meta Band/Agrip’Ah]] en [[Characters/The Meta Band/SmogEater]] bereiken de keuken en zien daar het [[keukenpersoneel]] die vrij boos naar hen keek.
 - [[Characters/The Meta Band/Metatron]] neemt het [[notitieblok]] mee en ook wat [[inkt]] en een [[pen]]
-- servant quarters: [[Gastin]], [[Arlinga]], [[Angrath Woodwise]]
+- servant quarters: [[Gastyn]], [[Arlaenga]], [[Angrath Woodwise]]
 - [[Reference/Spells/Suggestion]]: hier wil je [[Characters/The Hunting Lodge/Talis]] niet mee lastigvallen (succes)
 - we gaan naar boven 

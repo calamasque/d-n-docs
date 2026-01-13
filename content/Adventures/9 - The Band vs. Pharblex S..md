@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Pharblex S.","created":"2025-06-25","modified":"2026-01-12T23:25:11.202+01:00","published":"2025-06-25","cssclasses":""}
+{"publish":true,"title":"The Band vs. Pharblex S.","created":"2025-06-25","modified":"2026-01-13T12:46:15.112+01:00","published":"2025-06-25","cssclasses":""}
 ---
 
 
@@ -8,7 +8,7 @@
 # Lang verhaal kort
 * We staan in de [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/dungeons\|dungeons]] onder [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] tegenover [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] en een groep van 10 [[Reference/Races/Bullywug\|bullywugs]] met een niet heel overtuigend verhaal.
 * Na het doden van al zijn [[Reference/Races/Bullywug\|bullywugs]] vindt [[Characters/Castle Naerytar/Pharblex Spattergoo\|Pharblex]] ons verhaal een stuk overtuigender.
-* Tijdens een long rest hoort [[Characters/The Meta Band/Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir]]
+* Tijdens een long rest hoort [[Characters/The Meta Band/Metatron]] 2 stemmen waarvan 1 klinkt als [[Characters/Rezmir the Black]]
 * [[Characters/The Meta Band/Szuszi]] gaat op onderzoek uit en ontdekt een nog nagloeiende [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/Naerytar - teleportatiecirkel]].
 
 # Log
@@ -47,5 +47,5 @@ Tiny hut:
 
  Smog herkent dat er een permanente teleportatiecirkel ligt die werkt met een commando.
 
-Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Characters/Rezmir]]
+Metatron bedenkt ineens dat de stem wel heel erg vrouwelijk en drakelijk klinkt: [[Characters/Rezmir the Black]]
 

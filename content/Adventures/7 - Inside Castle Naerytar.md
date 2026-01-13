@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Inside Castle Naerytar","created":"2025-04-15","modified":"2026-01-12T23:24:54.582+01:00","published":"2025-04-15","cssclasses":""}
+{"publish":true,"title":"Inside Castle Naerytar","created":"2025-04-15","modified":"2026-01-13T12:46:15.109+01:00","published":"2025-04-15","cssclasses":""}
 ---
 
 
@@ -29,7 +29,7 @@ Begane grond:
 * Kleine gastenkamer. 
 	* De spullen die we aantreffen doet ons eerst vermoeden dat dit de kamer is van [[Characters/Castle Naerytar/Dralmorrer Borngray]]. 
 	* We realiseren ons echter dat hier de [[Characters/Onbekende Red Wizard]] verblijft. 
-	* We vinden een brief geschreven in Thayan: "Beste [[Characters/Rath Modar]], de gesprekken met [[Characters/Rezmir]] lopen goed". 
+	* We vinden een brief geschreven in Thayan: "Beste [[Characters/Rath Modar]], de gesprekken met [[Characters/Rezmir the Black]] lopen goed". 
 	* Er lijkt dus een samenwerking te zijn tussen de [[Factions/Red Wizards of Thay]] of in ieder geval meerdere van hen met de [[Factions/Cult of the Dragon]].  
 * Wenteltrap naar boven.
 
