@@ -18,4 +18,4 @@ Op de weg terug
 [[Bibliotheek van Waterdeep]] 
 Stargazers: [[Adele Astrolara]] vertrok ergens in het verleden van [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]] naar [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]] na de verdwijning van een student afkomstig van 1 van de huizen van adel. 
 
-Szuszi bezoekt een oude bekende: [[Characters/Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[Factions/The masked lords]].
+Szuszi bezoekt een oude bekende: [[Characters/Waterdeep/Torn Broadleaf]]. Torn is boos op Szuszi dat hij het risico neemt zijn gezicht weer in [[Atlas/Sword Coast/Waterdeep/index\|Waterdeep]] te laten zien nadat hij hem heeft geholpen te ontsnappen na het fiasco met de mislukte inbraak bij 1 van [[Factions/The masked lords]].

@@ -141,7 +141,7 @@
     > - We doden cultists vanuit onze tiny hut
     > - We arriveren in Parnast en duiken de kroeg in
     > - [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Castle Skyreach\|Castle Skyreach]].
-    > - De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[captain Othelstan\|captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].
+    > - De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].
 
 # Adventures
 ### [[Adventures/1 - Friends at sea\|Friends at sea]]
@@ -223,4 +223,5 @@ We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in 
 | 13     | [[Adventures/13 - Treasure Hunting in the Lodge\|Treasure Hunting in the Lodge]]       |
 | 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]                         |
 | 15     | [[Adventures/15 - A canary and a castle in the sky\|A canary and a castle in the sky]] |
+| 16     | [[Adventures/16 - TBD\|TBD]]                                                           |
 

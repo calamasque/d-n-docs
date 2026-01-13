@@ -30,20 +30,21 @@
 |[[Reference/Spells/Vicious Mockery\|Vicious Mockery]]|—|
 
 ## Adventures
-| No. | Avontuur                                                                               |
-| --- | -------------------------------------------------------------------------------------- |
-| 1   | [[Adventures/1 - Friends at sea\|You Got A Friend In Me]]                   |
-| 3   | [[Adventures/3 - Waterdeep\|City by the Sea]]                               |
-| 4   | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                         |
-| 5   | [[Adventures/5 - Mere of Dead Men\|I'd Rather Go Blind]]                    |
-| 6   | [[Adventures/6 - Arrival at Castle Naerytar\|Short Skirmish - Long Jacket]] |
-| 7   | [[Adventures/7 - Inside Castle Naerytar\|Monster Mash]]                     |
-| 8   | [[Adventures/8 - Imaginary Dragons be here\|Imagine Dragons]]               |
-| 9   | [[Adventures/9 - The Band vs. Pharblex S.\|We All Stand Together]]          |
-| 10  | [[Adventures/10 - The Band vs. Dralmorrer B.\|Death Or Glory]]              |
-| 11  | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                      |
-| 12  | [[Adventures/12 - The Band vs. Talis\|Hypnotize]]                           |
-| 13  | [[Adventures/13 - Inside The Hunting Lodge\|Keep Trollin]]                  |
-| 14  | [[Adventures/14 - The Band vs. Trepsin\|Firestarter]]                       |
-| 15  | [[Adventures/15 - A canary and a castle in the sky\|nog zonder titel]]      |
+| No. | Avontuur                                                                                          |
+| --- | ------------------------------------------------------------------------------------------------- |
+| 1   | [[Adventures/1 - Friends at sea\|Friends at sea]]                                      |
+| 3   | [[Adventures/3 - Waterdeep\|Waterdeep]]                                                |
+| 4   | [[Adventures/4 - Roadhouse Blues\|Roadhouse Blues]]                                    |
+| 5   | [[Adventures/5 - Mere of Dead Men\|Mere of Dead Men]]                                  |
+| 6   | [[Adventures/6 - Arrival at Castle Naerytar\|Arrival at Castle Naerytar]]              |
+| 7   | [[Adventures/7 - Inside Castle Naerytar\|Inside Castle Naerytar]]                      |
+| 8   | [[Adventures/8 - Imaginary Dragons be here\|Imaginary Dragons be here]]                |
+| 9   | [[Adventures/9 - The Band vs. Pharblex S.\|The Band vs. Pharblex S.]]                  |
+| 10  | [[Adventures/10 - The Band vs. Dralmorrer B.\|The Band vs. Dralmorrer B.]]             |
+| 11  | [[Adventures/11 - Enter the Dragon\|Enter the Dragon]]                                 |
+| 12  | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                             |
+| 13  | [[Adventures/13 - Treasure Hunting in the Lodge\|Treasure Hunting in the Lodge]]       |
+| 14  | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]                         |
+| 15  | [[Adventures/15 - A canary and a castle in the sky\|A canary and a castle in the sky]] |
+| 16  | [[Adventures/16 - TBD\|TBD]]                                                           |
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"A canary and a castle in the sky","created":"2026-01-11","modified":"2026-01-12T23:41:50.150+01:00","published":"2026-01-11","cssclasses":""}
+{"publish":true,"title":"A canary and a castle in the sky","created":"2026-01-11","modified":"2026-01-13T09:50:53.774+01:00","published":"2026-01-11","cssclasses":""}
 ---
 
 
@@ -11,7 +11,7 @@
 - We doden cultists vanuit onze tiny hut
 - We arriveren in Parnast en duiken de kroeg in
 - [[Characters/The Meta Band/SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Castle Skyreach]].
-- De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[captain Othelstan]] ook [[Castle Skyreach]].
+- De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[Characters/Parnast/Captain Othelstan]] ook [[Castle Skyreach]].
 
 # Acties & reminders
 * [ ]  [[Characters/Rezmir]] een broodje drakenei verhaal verkopen 
@@ -132,6 +132,6 @@
 - [[Characters/The Meta Band/SmogEater\|Smoggi]] loopt ondertussen met zijn kratje de brug over [[Castle Skyreach]] binnen. Bij het binnenkomen ziet hij 2 stenen beelden naast de gateway voor hem. Deze herkent hij als 2 golems. Hij ziet mensen daar steeds even pauzeren en iets prevelen en dan weer verder lopen.
 - Hij stapt tussen de golems, spreekt "Tiamat, our mother and strength" en loopt verder zonder dat er wat gebeurt.
 - Een enorme courtyard is nu zichtbaar, alles in reuzenformaat.
-- De officier genaamd [[captain Othelstan]] neemt ons mee naar buiten, richting [[Castle Skyreach]]. We worden gevolgd door zijn 4 collega's.
+- De officier genaamd [[Characters/Parnast/Captain Othelstan]] neemt ons mee naar buiten, richting [[Castle Skyreach]]. We worden gevolgd door zijn 4 collega's.
 - "Wel het juiste wachtwoord uitspreken als u tussen de golems doorloopt!" "[[Characters/Rezmir]]'s vertrekken zijn links achterin. Zeg maar dat we binnen een uur kunnen vertrekken."
 - [[Characters/The Meta Band/SmogEater]] zijn krat neer op de plek waar iedereen de kratten neerzet. Maar hij heeft niet een heel sterk verhaal als hij wordt aangesproken en krijgt met de zweep van [[Sjors]] en een klap op zijn kop.

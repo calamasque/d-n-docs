@@ -19,7 +19,8 @@
 
 ## Mentions
 - [[Adventures/11 - Enter the Dragon\|11 - Enter the Dragon]]
-- [[Adventures/13 - Inside The Hunting Lodge\|13 - Inside The Hunting Lodge]]
+- [[Adventures/13 - Treasure Hunting in the Lodge\|13 - Treasure Hunting in the Lodge]]
+- [[Adventures/15 - A canary and a castle in the sky\|15 - A canary and a castle in the sky]]
 
 
 ## Encounters

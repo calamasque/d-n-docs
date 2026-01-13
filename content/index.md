@@ -3,16 +3,16 @@
 ---
 
 
-# [[Adventures/15 - A canary and a castle in the sky\|A canary and a castle in the sky]]
+# [[Adventures/16 - TBD\|TBD]]
 
-Episode 15 (11 jan 2026)
+Episode 16 (12 feb 2026)
 
 - We doden cultists zonder onze tiny hut
 - We jagen op een kanarie en vallen in de prijzen
 - We doden cultists vanuit onze tiny hut
 - We arriveren in Parnast en duiken de kroeg in
 - [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Castle Skyreach\|Castle Skyreach]].
-- De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[captain Othelstan\|captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].
+- De rest van ons drinkt wat biertjes en bereikt na een prettige wandeling met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook [[Castle Skyreach\|Castle Skyreach]].
 
 > [!warning] **Attentie** 
 > Bovenstaande is een korte samenvatting van de laatste sessie. 
