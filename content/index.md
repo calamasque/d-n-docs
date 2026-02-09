@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:34:14.057+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:55:51.440+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-# [[Adventures/15 - The Band vs. the canary\|Samenvatting vorige keer]]
+# Samenvatting vorige keer
 
 11 jan 2026
 
