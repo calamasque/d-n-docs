@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Waldo","created":"2025-07-15","modified":"2025-11-14T21:03:07.059+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Waldo","created":"2025-07-15","modified":"2026-02-09T23:24:32.583+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Waldo
@@ -10,7 +10,6 @@
 ## Featured
 | Sessie | Avontuur                                                                              | Datum       |
 | ------ | ------------------------------------------------------------------------------------- | ----------- |
-| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                            | 1 jan 2024  |
 | 1      | [[Adventures/1 - You've got a friend at sea\|You've got a friend at sea]]  | 30 okt 2024 |
 | 2      | [[Adventures/2 - Under the sea\|Under the sea]]                            | 20 nov 2024 |
 | 3      | [[Adventures/3 - Waterdeep\|Waterdeep]]                                    | 8 dec 2024  |

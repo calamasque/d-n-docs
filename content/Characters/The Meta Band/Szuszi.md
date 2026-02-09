@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Szuszi","created":"2025-07-15","modified":"2025-11-14T21:02:54.130+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"title":"Szuszi","created":"2025-07-15","modified":"2026-02-09T23:24:24.016+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # Szuszi
@@ -23,5 +23,4 @@
 | 12     | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                 | 9 nov 2025  |
 | 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             | 22 dec 2025 |
 | 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       | 11 jan 2026 |
-| 16     | [[Adventures/16 - Castle Skyreach\|Castle Skyreach]]                       | 12 feb 2026 |
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Smoggi Fire Breather","title":"SmogEater","created":"2025-07-15","modified":"2025-11-14T21:02:42.749+01:00","published":"2025-07-15","cssclasses":""}
+{"publish":true,"aliases":"Smoggi Fire Breather","title":"SmogEater","created":"2025-07-15","modified":"2026-02-09T23:24:17.026+01:00","published":"2025-07-15","cssclasses":""}
 ---
 
 # SmogEater
@@ -10,7 +10,6 @@
 ## Featured
 | Sessie | Avontuur                                                                              | Datum       |
 | ------ | ------------------------------------------------------------------------------------- | ----------- |
-| 0      | [[Adventures/0 - Baldur's Gate\|Baldur's Gate]]                            | 1 jan 2024  |
 | 1      | [[Adventures/1 - You've got a friend at sea\|You've got a friend at sea]]  | 30 okt 2024 |
 | 2      | [[Adventures/2 - Under the sea\|Under the sea]]                            | 20 nov 2024 |
 | 3      | [[Adventures/3 - Waterdeep\|Waterdeep]]                                    | 8 dec 2024  |
@@ -26,5 +25,4 @@
 | 13     | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         | 30 nov 2025 |
 | 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             | 22 dec 2025 |
 | 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       | 11 jan 2026 |
-| 16     | [[Adventures/16 - Castle Skyreach\|Castle Skyreach]]                       | 12 feb 2026 |
 
