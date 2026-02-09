@@ -1,5 +1,4 @@
 ```dataviewjs
-// TO DO
 const today = dv.date("today");
 
 const tasks = dv.pages("")
