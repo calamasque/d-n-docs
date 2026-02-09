@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:56:43.951+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:58:20.614+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
@@ -13,6 +13,7 @@
 - We arriveren in Parnast en duiken de kroeg in
 - [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach\|Castle Skyreach]].
 - De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach\|Castle Skyreach]]
+
 \>>>  [[Niet vergeten!\|NIET VERGETEN !]]  <<<
 
 # Alle sessies
