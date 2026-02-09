@@ -45,6 +45,6 @@
 | 12  | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                 |
 | 13  | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         |
 | 14  | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             |
-| 15  | [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]       |
+| 15  | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       |
 | 16  | [[Adventures/16 - Castle Skyreach\|Castle Skyreach]]                       |
 

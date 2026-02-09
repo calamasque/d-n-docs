@@ -22,6 +22,6 @@
 | 10     | [[Adventures/10 - The Band vs. Dralmorrer B.\|The Band vs. Dralmorrer B.]] | 6 jul 2025  |
 | 13     | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         | 30 nov 2025 |
 | 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             | 22 dec 2025 |
-| 15     | [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]       | 11 jan 2026 |
+| 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       | 11 jan 2026 |
 | 16     | [[Adventures/16 - Castle Skyreach\|Castle Skyreach]]                       | 12 feb 2026 |
 

@@ -3,7 +3,7 @@
 ---
 
 
-[[Adventures/13 - Treasure hunting lodge\|←]]    22 december 2025    [[Adventures/15 - The Band vs. The Canary\|→]]
+[[Adventures/13 - Treasure hunting lodge\|←]]    22 december 2025    [[Adventures/15 - The Band vs. the canary\|→]]
 
 # Lang verhaal kort
 - [[Characters/The Hunting Lodge/Trepsin]], [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 1]] en [[Characters/The Hunting Lodge/Dirk en Dirk\|Dirk 2]] vinden hun Waterloo bij de schuur van [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]]

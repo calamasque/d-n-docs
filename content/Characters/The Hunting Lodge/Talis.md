@@ -21,7 +21,7 @@
 ## Mentions
 - [[Adventures/11 - Enter the dragon\|11 - Enter the dragon]]
 - [[Adventures/13 - Treasure hunting lodge\|13 - Treasure hunting lodge]]
-- [[Adventures/15 - The Band vs. The Canary\|15 - The Band vs. The Canary]]
+- [[Adventures/15 - The Band vs. the canary\|15 - The Band vs. the canary]]
 
 
 ## Encounters

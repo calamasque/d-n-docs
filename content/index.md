@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T22:37:44.517+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:17:29.812+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-# [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]
+# [[Adventures/15 - The Band vs. the canary\|Samenvatting sessie 15:]]
 
 11 jan 2026
 
@@ -18,23 +18,23 @@
 > Bovenstaande is een korte samenvatting van de laatste sessie. 
 > Volledige verslag per sessie is terug te lezen via de links in onderstaande tabel. 
 
-| Sessie | Avontuur                                                                              |
-| ------ | ------------------------------------------------------------------------------------- |
-| 15     | [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]       |
-| 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             |
-| 13     | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         |
-| 12     | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                 |
-| 11     | [[Adventures/11 - Enter the dragon\|Enter the Dragon]]                     |
-| 10     | [[Adventures/10 - The Band vs. Dralmorrer B.\|The Band vs. Dralmorrer B.]] |
-| 9      | [[Adventures/9 - The Band vs. Pharblex S.\|The Band vs. Pharblex S.]]      |
-| 8      | [[Adventures/8 - Imaginary dragons be here\|Imaginary dragons be here]]    |
-| 7      | [[Adventures/7 - Otyugh vs. drakes\|Otyugh vs. drakes]]                    |
-| 6      | [[Adventures/6 - Castle Naerytar\|Castle Naerytar]]                        |
-| 5      | [[Adventures/5 - Mere of Dead Men\|Mere of Dead Men]]                      |
-| 4      | [[Adventures/4 - Roadhouse blues\|Roadhouse blues]]                        |
-| 3      | [[Adventures/3 - Waterdeep\|Waterdeep]]                                    |
-| 2      | [[Adventures/2 - Under the sea\|Under the sea]]                            |
-| 1      | [[Adventures/1 - You've got a friend at sea\|You've got a friend at sea]]  |
+| Sessie | Avontuur                                                                              | Datum            |
+| ------ | ------------------------------------------------------------------------------------- | ---------------- |
+| 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       | 11 January 2026  |
+| 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             | 22 December 2025 |
+| 13     | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         | 30 November 2025 |
+| 12     | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                 | 9 November 2025  |
+| 11     | [[Adventures/11 - Enter the dragon\|Enter the Dragon]]                     | 15 July 2025     |
+| 10     | [[Adventures/10 - The Band vs. Dralmorrer B.\|The Band vs. Dralmorrer B.]] | 6 July 2025      |
+| 9      | [[Adventures/9 - The Band vs. Pharblex S.\|The Band vs. Pharblex S.]]      | 25 June 2025     |
+| 8      | [[Adventures/8 - Imaginary dragons be here\|Imaginary dragons be here]]    | 18 May 2025      |
+| 7      | [[Adventures/7 - Otyugh vs. drakes\|Otyugh vs. drakes]]                    | 15 April 2025    |
+| 6      | [[Adventures/6 - Castle Naerytar\|Castle Naerytar]]                        | 23 March 2025    |
+| 5      | [[Adventures/5 - Mere of Dead Men\|Mere of Dead Men]]                      | 2 March 2025     |
+| 4      | [[Adventures/4 - Roadhouse blues\|Roadhouse blues]]                        | 26 January 2025  |
+| 3      | [[Adventures/3 - Waterdeep\|Waterdeep]]                                    | 8 December 2024  |
+| 2      | [[Adventures/2 - Under the sea\|Under the sea]]                            | 20 November 2024 |
+| 1      | [[Adventures/1 - You've got a friend at sea\|You've got a friend at sea]]  | 30 October 2024  |
 
 
 \>>  [[Adventures/index\|Alle samenvattingen]]

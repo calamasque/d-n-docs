@@ -57,11 +57,11 @@
 - [ ] [[Characters/Cult of the Dragon/Varram the White\|Varram]] is niet in [[Icewind Dale]], vertrokken naar de [[strongholds]]: mogelijk iets verloren? 
 - [ ] [[Characters/Cult of the Dragon/Varram the White\|Varram]] is te beïnvloeden en slordig 
 - [ ] Op het dak van [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] zit een nest [[Reference/Monsters/Peryton\|perytons]] 
-- [ ] We gaan [[Characters/Cult of the Dragon/Rezmir the Black\|Rezmir]] een broodje drakenei verhaal verkopen  
 - [ ] [[Atlas/Sword Coast/Waterdeep/Halls of Justice]]: [[draken ei]] ophalen 
 - [ ] [[Characters/Waterdeep/Lady Remallia Haventree]] informeren dat [[Characters/Carnath Roadhouse/Elvira Blacktree]] is vermoord 
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: altaar ophalen uit Bog-box  
 - [ ] [[Atlas/Sword Coast/Carnath Roadhouse]]: paarden en wagen ophalen  
+- [ ] We gaan [[Characters/Cult of the Dragon/Rezmir the Black\|Rezmir]] een broodje drakenei verhaal verkopen  
 
 
 # Alles gedaan

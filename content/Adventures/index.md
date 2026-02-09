@@ -7,7 +7,7 @@
 
 |No.|Avontuur|
 |---|---|
-|15|[[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]|
+|15|[[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]|
 |14|[[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]|
 |13|[[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]|
 |12|[[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]|
@@ -133,7 +133,7 @@
     > - [[Characters/The Meta Band/Agrip’Ah\|Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor the Dwarf\|Craggnor the Dwarf]] voor een [[Items/Halsketting van Tiamat\|Halsketting van Tiamat]] met een waarde van 50GP.
     
 
-**The Band vs. The Canary**
+**The Band vs. the canary**
 
 - [[Characters/The Hunting Lodge/Fenric\|Fenric]] en 2 andere cultists arriveren via de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]] en vinden hun einde
     
@@ -200,7 +200,7 @@ We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in 
 
 -
 
-### [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]
+### [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]
 
 -
 
@@ -222,6 +222,6 @@ We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in 
 | 12     | [[Adventures/12 - The Band vs. Talis\|The Band vs. Talis]]                 |
 | 13     | [[Adventures/13 - Treasure hunting lodge\|Treasure hunting lodge]]         |
 | 14     | [[Adventures/14 - The Band vs. Trepsin\|The Band vs. Trepsin]]             |
-| 15     | [[Adventures/15 - The Band vs. The Canary\|The Band vs. The Canary]]       |
+| 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       |
 | 16     | [[Adventures/16 - Castle Skyreach\|Castle Skyreach]]                       |
 

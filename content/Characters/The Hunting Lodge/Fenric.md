@@ -18,9 +18,9 @@
 
 
 ## Encounters
-- [[Adventures/15 - The Band vs. The Canary\|15 - The Band vs. The Canary]]
+- [[Adventures/15 - The Band vs. the canary\|15 - The Band vs. the canary]]
 
 
 ## Combat
-- [[Adventures/15 - The Band vs. The Canary\|15 - The Band vs. The Canary]]
+- [[Adventures/15 - The Band vs. the canary\|15 - The Band vs. the canary]]
 
