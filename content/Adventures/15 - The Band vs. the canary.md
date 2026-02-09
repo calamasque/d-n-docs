@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. the canary","created":"2026-01-11","modified":"2026-02-09T23:18:28.634+01:00","published":"2026-01-11","cssclasses":""}
+{"publish":true,"title":"The Band vs. the canary","created":"2026-01-11","modified":"2026-02-09T23:50:44.993+01:00","published":"2026-01-11","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The Band vs. Trepsin","created":"2025-12-22","modified":"2026-02-05T23:14:17.703+01:00","published":"2025-12-22","cssclasses":""}
+{"publish":true,"title":"The Band vs. Trepsin","created":"2025-12-22","modified":"2026-02-09T23:48:34.219+01:00","published":"2025-12-22","cssclasses":""}
 ---
 
 
@@ -24,7 +24,7 @@
 # Acties & reminders
 - [ ] Wachtwoord [[teleportatiecirkel - moeras]] = sterrenwacht 
 - [ ] Wachtwoord [[teleportatiecirkel - sneeuw]] = ten towns 
-- [ ] Wachtwoord [[teleportatiecirkel - rode zon]] = (onbruikbaar) 
+- [x] Wachtwoord [[teleportatiecirkel - rode zon]] = (onbruikbaar)  ✅ 2026-02-09
 - [ ] [[Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Cult of the Dragon/Varram the White\|Varram]] daar een kluis heeft waar hij (1 van) zijn masker(s) verbergt.   
 - [ ] De schatten worden naar de [[Atlas/Well of the Dragons]] gestuurd.   
 

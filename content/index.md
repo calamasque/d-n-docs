@@ -1,9 +1,9 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:17:29.812+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:34:14.057+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
-# [[Adventures/15 - The Band vs. the canary\|Samenvatting sessie 15:]]
+# [[Adventures/15 - The Band vs. the canary\|Samenvatting vorige keer]]
 
 11 jan 2026
 
@@ -13,11 +13,9 @@
 - We arriveren in Parnast en duiken de kroeg in
 - [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach\|Castle Skyreach]].
 - De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach\|Castle Skyreach]]
+\>>>  [[Niet vergeten!\|NIET VERGETEN !]]  <<<
 
-> [!warning] **Attentie** 
-> Bovenstaande is een korte samenvatting van de laatste sessie. 
-> Volledige verslag per sessie is terug te lezen via de links in onderstaande tabel. 
-
+# Alle sessies
 | Sessie | Avontuur                                                                              | Datum            |
 | ------ | ------------------------------------------------------------------------------------- | ---------------- |
 | 15     | [[Adventures/15 - The Band vs. the canary\|The Band vs. the canary]]       | 11 January 2026  |
@@ -37,4 +35,4 @@
 | 1      | [[Adventures/1 - You've got a friend at sea\|You've got a friend at sea]]  | 30 October 2024  |
 
 
-\>>  [[Adventures/index\|Alle samenvattingen]]
+
