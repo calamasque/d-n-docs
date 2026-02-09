@@ -1,11 +1,11 @@
 ---
-{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:55:51.440+01:00","published":"2025-07-07","cssclasses":""}
+{"publish":true,"title":"Metatron & The Band","created":"2025-07-07","modified":"2026-02-09T23:56:43.951+01:00","published":"2025-07-07","cssclasses":""}
 ---
 
 
 # Samenvatting vorige keer
 
-11 jan 2026
+11 januari 2026
 
 - [[Characters/The Hunting Lodge/Fenric\|Fenric]] en 2 andere cultists arriveren via de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]] en vinden hun einde
 - We jagen op de kanarie van [[Reference/Gods/Bahamut\|Bahamut]] en vallen in de prijzen: [[Items/Boots of the Winterlands\|Boots of the Winterlands]] en een [[boog +1\|boog +1]].
