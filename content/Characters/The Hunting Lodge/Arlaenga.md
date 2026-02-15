@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"arlaenga","title":"Arlaenga","description":"Personeel van The Hunting Lodge","created":"2026-01-13","modified":"2026-01-13T20:25:54.197+01:00","published":"2026-01-13","cssclasses":""}
+publish: true
+aliases: arlaenga
+title: Arlaenga
+description: Personeel van The Hunting Lodge
+created: 2026-01-13
+modified: 2026-02-13T16:20:20.278+01:00
+published: 2026-01-13
+cssclasses: ""
 ---
 
 # Info

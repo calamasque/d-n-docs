@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"The Band vs. Trepsin","created":"2025-12-22","modified":"2026-02-09T23:48:34.219+01:00","published":"2025-12-22","cssclasses":""}
+publish: true
+title: The Band vs. Trepsin
+created: 2025-12-22
+modified: 2026-02-15T14:38:29.113+01:00
+published: 2025-12-22
+cssclasses: ""
 ---
 
 
@@ -11,21 +16,21 @@
 - Lijkpikken bij [[Characters/The Hunting Lodge/Talis]] levert de [[Items/Documenten over witte draken\|onbekende documenten]] op die informatie bevatten over witte draken. [[Characters/The Meta Band/Metatron]] stript [[Characters/The Hunting Lodge/Talis]] ook nog van een [[scale mail +1]].
 - Na het ontheiligen van [[Characters/The Hunting Lodge/Talis]]' dode lichaam pakken we gelijk door met een [[DND.SRD.Wiki-main/Spells/Speak with Dead]]:
     1. [[Characters/Cult of the Dragon/Rezmir the Black]] is onderweg naar de cirkel op de kaart via [[Atlas/Greypeak Mountains/Parnast]]
-	2. De wachtwoorden van de [[teleportatiecirkels]]:
+	2. De wachtwoorden van de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels]]:
 		- 1e = sterrenwacht
 		- 2e = ten towns
 		- 3e = (kapot)
-	3. [[teleportatiecirkel - rode zon]] is buiten gebruik gesteld omdat in [[Thay]] niet iedereen [[Tiamat]] gunstig gezind is.
-	4. [[Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Cult of the Dragon/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
+	3. [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - rode zon]] is buiten gebruik gesteld omdat in [[Thay]] niet iedereen [[Tiamat]] gunstig gezind is.
+	4. [[Atlas/Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Cult of the Dragon/Varram the White\|Varram]] daar een kluis heeft waar hij 1 van zijn maskers verbergt.
 	5. De schatten worden naar de [[Atlas/Well of the Dragons]] gestuurd.
 - Het lijk van [[Characters/The Hunting Lodge/Trepsin]] levert ook waardevolle spullen op voor de verkoop.
 - [[Characters/The Meta Band/Agrip’Ah]] verliest zijn onschuld door een volstrekt onnodige moord op [[Characters/The Hunting Lodge/Craggnor the Dwarf]] voor een [[Items/Halsketting van Tiamat]] met een waarde van 50GP. 
 
 # Acties & reminders
-- [ ] Wachtwoord [[teleportatiecirkel - moeras]] = sterrenwacht 
-- [ ] Wachtwoord [[teleportatiecirkel - sneeuw]] = ten towns 
-- [x] Wachtwoord [[teleportatiecirkel - rode zon]] = (onbruikbaar)  ✅ 2026-02-09
-- [ ] [[Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Cult of the Dragon/Varram the White\|Varram]] daar een kluis heeft waar hij (1 van) zijn masker(s) verbergt.   
+- [ ] Wachtwoord [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - moeras]] = sterrenwacht 
+- [ ] Wachtwoord [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]] = ten towns 
+- [x] Wachtwoord [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - rode zon]] = (onbruikbaar)  ✅ 2026-02-09
+- [ ] [[Atlas/Berdusk]] is gemarkeerd op de kaart omdat [[Characters/Cult of the Dragon/Varram the White\|Varram]] daar een kluis heeft waar hij (1 van) zijn masker(s) verbergt.   
 - [ ] De schatten worden naar de [[Atlas/Well of the Dragons]] gestuurd.   
 
 # Session Log
@@ -116,23 +121,23 @@
 # Onderzoek naar witte draak
 [[Characters/The Meta Band/Agrip’Ah]] onderzoekt de [[Items/Documenten over witte draken\|documenten over de witte draak]].
 - Witte draken hebben [[Cold resistance]] en [[Cryogenic breath]] maar zijn minder intelligent dan andere draken.
-- [ ] De naam van de witte draak is [[Glazhael]] 
-- [ ] [[Atlas/Greypeak Mountains/Castle Skyreach]]: 2 verdiepingen met toren. Daaronder een grot met het teken van [[Glazhael]]. 
+- [ ] De naam van de witte draak is [[Characters/Castle Skyreach/Glazhael]] 
+- [ ] [[Atlas/Greypeak Mountains/Castle Skyreach/index]]: 2 verdiepingen met toren. Daaronder een grot met het teken van [[Characters/Castle Skyreach/Glazhael]]. 
 
 # Mensen
 - [[Characters/The Meta Band/Metatron]] informeert [[Characters/The Hunting Lodge/Angrath Woodwise\|Angrath]] dat [[Characters/The Hunting Lodge/Arlaenga]] is overleden.
-- [[Characters/The Meta Band/Agrip’Ah]] praat [[Myracella]] bij over onze positie. Ze informeert hem dat [[Atlas/Greypeak Mountains/Parnast]] vol zit met [[Factions/Cult of the Dragon\|Dragon kneelers]] en dat ze daar is gepakt toen ze onder een zeil van een kar keek. Daar bleken kisten met waardevolle spullen te zitten. 
-- [[Characters/The Hunting Lodge/Angrath Woodwise\|Angrath]] weet te vertellen dat de [[teleportatiecirkels]] vroeger allemaal werkten maar dat [[teleportatiecirkel - rode zon]] door de [[Factions/Cult of the Dragon]] met een ritueel is gesloten.
+- [[Characters/The Meta Band/Agrip’Ah]] praat [[Characters/The Hunting Lodge/Miresella]] bij over onze positie. Ze informeert hem dat [[Atlas/Greypeak Mountains/Parnast]] vol zit met [[Factions/Cult of the Dragon\|Dragon kneelers]] en dat ze daar is gepakt toen ze onder een zeil van een kar keek. Daar bleken kisten met waardevolle spullen te zitten. 
+- [[Characters/The Hunting Lodge/Angrath Woodwise\|Angrath]] weet te vertellen dat de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels]] vroeger allemaal werkten maar dat [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - rode zon]] door de [[Factions/Cult of the Dragon]] met een ritueel is gesloten.
 
 # Speak with dead: Talis
 - Een als Thayan vermomde [[Characters/The Meta Band/Agrip’Ah]] cast [[DND.SRD.Wiki-main/Spells/Speak with Dead]] op het lijk van [[Characters/The Hunting Lodge/Talis]]:
 	1. Waarom is er iets omcirkeld op de kaart?  =>  [[Characters/Cult of the Dragon/Rezmir the Black]] is hiernaar onderweg via [[Atlas/Greypeak Mountains/Parnast]]
-	2. Wat zijn de wachtwoorden van de [[teleportatiecirkels]]?
+	2. Wat zijn de wachtwoorden van de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels]]?
 		- 1e = sterrenwacht
 		- 2e = ten towns
 		- 3e = (kapot)
-	3. Waarom is de [[teleportatiecirkel - rode zon]] buiten gebruik gesteld?  =>  Niet iedereen in [[Thay]] is [[Tiamat]] gunstig gezind.
-	4. Waarom is [[Berdusk]] gemarkeerd op de kaart?  =>  [[Characters/Cult of the Dragon/Varram the White\|Varram]] heeft daar een kluis waar hij 1 van zijn masker verbergd.
+	3. Waarom is de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - rode zon]] buiten gebruik gesteld?  =>  Niet iedereen in [[Thay]] is [[Tiamat]] gunstig gezind.
+	4. Waarom is [[Atlas/Berdusk]] gemarkeerd op de kaart?  =>  [[Characters/Cult of the Dragon/Varram the White\|Varram]] heeft daar een kluis waar hij 1 van zijn masker verbergd.
 	5. Waar gaan de schatten naar toe?  =>  De schatten worden naar de [[Atlas/Well of the Dragons]] gestuurd.
 
 # Trepsin' treasures
@@ -141,7 +146,7 @@
 - [ ] 1 jas van wolvenhuiden (250 GP) 
 - [ ] een mithril gesp (750 GP) 
 
-[[Atlas/Greypeak Mountains/Castle Skyreach]] is aangemeerd bij [[Atlas/Greypeak Mountains/Parnast]]. [[Characters/The Meta Band/Agrip’Ah]] weet ons te vertellen dat er [[Cloud giants]] wonen en dat ze het kasteel kunnen verplaatsen.
+[[Atlas/Greypeak Mountains/Castle Skyreach/index]] is aangemeerd bij [[Atlas/Greypeak Mountains/Parnast]]. [[Characters/The Meta Band/Agrip’Ah]] weet ons te vertellen dat er [[Cloud giants]] wonen en dat ze het kasteel kunnen verplaatsen.
 
 [[Characters/The Hunting Lodge/Craggnor the Dwarf]] wil zijn [[Items/Halsketting van Tiamat]] (50 GP) niet afgeven aan [[Characters/The Meta Band/Agrip’Ah]], ook niet na een [[Reference/Spells/Suggestion]]. [[DND.SRD.Wiki-main/Spells/Hold Person]] helpt wel. Door deze actie van [[Characters/The Meta Band/Agrip’Ah]] zijn we genoodzaakt [[Characters/The Hunting Lodge/Craggnor the Dwarf]] te doden.
 

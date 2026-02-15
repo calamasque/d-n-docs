@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"parnast","title":"Parnast","created":"2026-01-13","modified":"2026-01-13T21:53:51.069+01:00","published":"2026-01-13","cssclasses":"","socialImage":"[[Parnast.webp]]"}
+publish: true
+aliases: parnast
+title: Parnast
+created: 2026-01-13
+modified: 2026-01-13T21:53:51.069+01:00
+published: 2026-01-13
+cssclasses: ""
+socialImage: "[[Parnast.webp]]"
 ---
 
 # Parnast

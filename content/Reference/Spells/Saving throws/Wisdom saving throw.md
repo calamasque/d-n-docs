@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Wisdom saving throw","created":"2025-07-21","modified":"2026-01-13T13:48:18.236+01:00","published":"2025-07-21","cssclasses":""}
+publish: true
+title: Wisdom saving throw
+created: 2025-07-21
+modified: 2026-01-13T13:48:18.236+01:00
+published: 2025-07-21
+cssclasses: ""
 ---
 
 # Spells requiring a Wis saving throw 

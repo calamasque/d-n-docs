@@ -1,5 +1,11 @@
 ---
-{"publish":true,"aliases":"cultist cultists Dragon kneelers de Cult","title":"Cult of the Dragon","created":"2025-07-15","modified":"2026-01-20T16:33:39.944+01:00","published":"2025-07-15","cssclasses":""}
+publish: true
+aliases: cultist cultists Dragon kneelers de Cult
+title: Cult of the Dragon
+created: 2025-07-15
+modified: 2026-02-11T20:22:37.835+01:00
+published: 2025-07-15
+cssclasses: ""
 ---
 
 # Info
@@ -31,9 +37,9 @@
 - [[Characters/Castle Naerytar/Snapjaw\|Snapjaw]]
 
 # Locaties
-- [[Atlas/Greypeak Mountains/Castle Skyreach]]
+- [[Atlas/Greypeak Mountains/Castle Skyreach/index]]
 - [[Atlas/Greypeak Mountains/Parnast]]
-- [[Icewind Dale]]
+- [[Atlas/Icewind Dale]]
 - [[Atlas/Greypeak Mountains/The Hunting Lodge/index]]
 - [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
 - [[Atlas/Sword Coast/Carnath Roadhouse\|Carnath Roadhouse]]

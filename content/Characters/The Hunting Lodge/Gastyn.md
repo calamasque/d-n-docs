@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"gastyn","title":"Gastyn","description":"Personeel van The Hunting Lodge","created":"2026-01-13","modified":"2026-01-13T20:24:56.234+01:00","published":"2026-01-13","cssclasses":""}
+publish: true
+aliases: gastyn
+title: Gastyn
+description: Personeel van The Hunting Lodge
+created: 2026-01-13
+modified: 2026-02-11T20:19:19.499+01:00
+published: 2026-01-13
+cssclasses: ""
 ---
 
 # Gastyn

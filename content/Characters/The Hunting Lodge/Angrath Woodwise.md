@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"angrath woodwise angrath Angrath","title":"Angrath Woodwise","description":"Personeel van The Hunting Lodge","created":"2026-01-13","modified":"2026-01-13T20:26:00.232+01:00","published":"2026-01-13","cssclasses":""}
+publish: true
+aliases: angrath woodwise angrath Angrath
+title: Angrath Woodwise
+description: Personeel van The Hunting Lodge
+created: 2026-01-13
+modified: 2026-02-11T20:19:19.458+01:00
+published: 2026-01-13
+cssclasses: ""
 ---
 
 # Info

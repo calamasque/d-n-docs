@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Minor Illusion","description":"You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.","created":"2025-12-03","modified":"2025-12-03T23:17:00.783+01:00","published":"2025-12-03","cssclasses":""}
+publish: true
+title: Minor Illusion
+description: You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
+created: 2025-12-03
+modified: 2025-12-03T23:17:00.783+01:00
+published: 2025-12-03
+cssclasses: ""
 ---
 
 # Minor Illusion

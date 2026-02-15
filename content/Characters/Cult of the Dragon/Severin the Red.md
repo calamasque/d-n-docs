@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"severin Severin","title":"Severin the Red","description":"Eén van de leiders van de Cult of the Dragon","created":"2026-01-13","modified":"2026-01-13T12:50:50.680+01:00","published":"2026-01-13","cssclasses":""}
+publish: true
+aliases: severin Severin
+title: Severin the Red
+description: Eén van de leiders van de Cult of the Dragon
+created: 2026-01-13
+modified: 2026-01-13T12:50:50.680+01:00
+published: 2026-01-13
+cssclasses: ""
 ---
 
 # Info

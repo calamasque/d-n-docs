@@ -16,8 +16,8 @@ cssclasses: ""
 - We jagen op de kanarie van [[Reference/Gods/Bahamut\|Bahamut]] en vallen in de prijzen: [[Items/Boots of the Winterlands\|Boots of the Winterlands]] en een [[boog +1\|boog +1]].
 - Onderweg naar [[Atlas/Greypeak Mountains/Parnast\|Parnast]] doden we meer [[cultists\|cultists]] vanuit onze tiny hut
 - We arriveren in Parnast en duiken de kroeg in
-- [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach/index\|content/Atlas/Greypeak Mountains/Castle Skyreach/index]].
-- De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach/index\|content/Atlas/Greypeak Mountains/Castle Skyreach/index]]
+- [[Characters/The Meta Band/SmogEater\|SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]].
+- De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan\|Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]]
 
 \>>>  [[Niet vergeten!\|REMINDERS]]  <<<
 

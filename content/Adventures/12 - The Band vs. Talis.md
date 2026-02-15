@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"The Band vs. Talis","created":"2025-11-09","modified":"2026-02-05T23:14:25.734+01:00","published":"2025-11-09","cssclasses":""}
+publish: true
+title: The Band vs. Talis
+created: 2025-11-09
+modified: 2026-02-15T14:40:20.584+01:00
+published: 2025-11-09
+cssclasses: ""
 ---
 
 
@@ -10,16 +15,16 @@
 - We doen ons voor als een groep huurlingen die door [[Characters/Castle Naerytar/Dralmorrer Borngray]] in opdracht van [[Characters/Cult of the Dragon/Rezmir the Black]] is gestuurd voor een klus zonder te weten wat. [[Characters/The Hunting Lodge/Talis]] weet hier uiteraard niets van maar denkt ons toch te kunnen gebruiken.
 - We krijgen 3 opdrachten: 
 	1. [[Characters/Cult of the Dragon/Varram the White]] doden
-	2. In [[Atlas/Greypeak Mountains/Castle Sky Reach]] de toevoer naar [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] beëindigen.
+	2. In [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]] de toevoer naar [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] beëindigen.
 	3. [[Characters/Cult of the Dragon/Rezmir the Black\|Rezmir]]'s [[Items/Dragon Egg\|dragon eggs]] stelen
 - Bij het verlaten van de kamer is [[Characters/The Meta Band/SmogEater]]'s staart zichtbaar waardoor we worden ontmaskerd - het wordt vechten!
 - [[Characters/The Meta Band/Agrip’Ah]] duwt [[Characters/The Hunting Lodge/Talis]] uit het raam en maakt bijna alle vijanden onschadelijk met een geslaagde [[DND.SRD.Wiki-main/Spells/Hypnotic Pattern\|Hypnotic Pattern]]. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Polymorph]] en verandert in een [[Reference/Monsters/Beasts/Giant Ape]] en slaat [[Characters/The Hunting Lodge/Talis]] op een haar na dood, [[Characters/The Meta Band/SmogEater\|Smoggi]] maakt het karwei af met [[DND.SRD.Wiki-main/Spells/Magic Missile]]. [[Characters/The Hunting Lodge/Trepsin]] gaat er vandaar met het lijk van [[Characters/The Hunting Lodge/Talis]].
 
 # Acties & reminders
 - [ ] [[Characters/Cult of the Dragon/Varram the White]] uitschakelen voor [[Characters/The Hunting Lodge/Talis]]  
-- [ ] Transport van schatten onderbreken vanuit [[Atlas/Greypeak Mountains/Castle Skyreach]] voor [[Characters/The Hunting Lodge/Talis]] 
+- [ ] Transport van schatten onderbreken vanuit [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]] voor [[Characters/The Hunting Lodge/Talis]] 
 - [ ] [[Characters/Cult of the Dragon/Rezmir the Black]]'s [[Items/Dragon Egg\|dragon eggs]] stelen voor [[Characters/The Hunting Lodge/Talis]]  
-- [x] Wachtwoord [[Atlas/Greypeak Mountains/Castle Skyreach]]: "[[Tiamat]], our mother and strength" 
+- [x] Wachtwoord [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]]: "[[Tiamat]], our mother and strength" 
 - [x] [[Characters/Cult of the Dragon/Rezmir the Black]] vertrok in grote haast per [[DND.SRD.Wiki-main/Monsters/Wyvern]] naar [[Atlas/Greypeak Mountains/Parnast]] 
 - [ ] [[Characters/The Meta Band/Metatron]] kent een melodie om [[wyverns]] rustig te maken 
 - [x] @waar-[[Characters/The Hunting Lodge/Talis]]-viel: [[Talis' staff]] oprapen   [completion:: 2025-11-30]
@@ -27,7 +32,7 @@
 - [x] @[[Characters/The Hunting Lodge/Talis]]' lijk: onbekende documenten  ✅ 2025-12-22
 - [x] @[[Characters/The Hunting Lodge/Talis]]' lijk: [[Talis' armor]]  ✅ 2025-12-22
 - [ ] [[Factions/Cult of the Dragon]] groet: "Welkom [[Children of the Wurm]]!" 
-- [ ] [[Characters/Cult of the Dragon/Varram the White\|Varram]] is niet in [[Icewind Dale]], vertrokken naar de [[strongholds]]: mogelijk iets verloren? 
+- [ ] [[Characters/Cult of the Dragon/Varram the White\|Varram]] is niet in [[Atlas/Icewind Dale]], vertrokken naar de [[strongholds]]: mogelijk iets verloren? 
 * [ ] [[Characters/Cult of the Dragon/Varram the White\|Varram]] is te beïnvloeden en slordig 
 
 
@@ -75,10 +80,10 @@ Er is iets mis met de logistieke lijn:
 
 [[Characters/The Meta Band/Agrip’Ah]] vraagt aan [[Characters/The Hunting Lodge/Talis]] of zij misschien kan uitleggen wat hij zag bij het afwijkende zwarte [[Items/Dragon Egg]] wat hij heeft gezien. [[Characters/The Hunting Lodge/Talis]] geeft aan dat zij hier ook niets van weet. 
 
-[[Characters/The Hunting Lodge/Talis]] kan wel meer vertellen over de 3 [[teleportatiecirkels]]:
-1. [[teleportatiecirkel - moeras\|Moeras]] leidt naar [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
-2. [[teleportatiecirkel - sneeuw\|Sneeuw]] leidt naar [[Icewind Dale]]
-3. [[teleportatiecirkel - rode zon\|Rode zon]] is buiten gebruik.
+[[Characters/The Hunting Lodge/Talis]] kan wel meer vertellen over de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels]]:
+1. [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - moeras]] leidt naar [[Atlas/Sword Coast/Mere of Dead Men/Castle Naerytar/index\|Castle Naerytar]]
+2. [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]] leidt naar [[Atlas/Icewind Dale]]
+3. [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - rode zon]] is buiten gebruik.
 
 Het is nu midden op de dag (16:00) en het is een 5 uur hike naar [[Atlas/Greypeak Mountains/Parnast]]. We blijven daarom vandaag hier en vertrekken pas morgen naar [[Atlas/Greypeak Mountains/Parnast]]. Tijd om te rusten en we verlaten daarom de kamer. [[Characters/The Hunting Lodge/Talis]] spot op dat moment de staart van '[[Characters/The Meta Band/SmogEater\|Fire Breather]]' en herkent hem als [[Characters/The Meta Band/SmogEater]]. [[Characters/The Meta Band/SmogEater\|Smoggi]] hangt een geloofwaardig verhaal op dat hij uiteindelijk toch het "juiste" pad heeft gevonden. [[Characters/The Hunting Lodge/Talis]] geeft aan dat [[Factions/Cult of the Dragon\|de Cult]] problemen heeft met de [[metallic dragons]] en dat de [[chromatic dragons]] gesteund moeten worden.  [[Characters/The Hunting Lodge/Talis]] probeert [[Characters/The Meta Band/SmogEater]] uit zijn tent te lokken door hem te vertellen dat ze meteen als een bijzonder herkende: een groene [[Reference/Races/Dragonborn]] met een staart. Maar dat ze sindsdien zijn (adoptief) ouders en broertjes en zusjes heeft vermoord. Onze held [[Characters/The Meta Band/SmogEater]] geeft geen krimp! 
 

@@ -1,5 +1,16 @@
 ---
-{"publish":true,"title":"Bestow Curse","description":"You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:\n- Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.\n- While cursed, the target has disadvantage on attack rolls against you.\n- While cursed, the target must make a [[Reference/Spells/Saving throws/Wisdom saving throw]] at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.\n- While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.A *remove curse* spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.","created":"2025-07-24","modified":"2025-12-03T23:11:14.649+01:00","published":"2025-07-24","cssclasses":""}
+publish: true
+title: Bestow Curse
+description: |-
+  You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
+  - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
+  - While cursed, the target has disadvantage on attack rolls against you.
+  - While cursed, the target must make a [[Reference/Spells/Saving throws/Wisdom saving throw]] at the start of each of its turns. If it fails, it wastes its action that turn doing nothing.
+  - While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.A *remove curse* spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect.
+created: 2025-07-24
+modified: 2025-12-03T23:11:14.649+01:00
+published: 2025-07-24
+cssclasses: ""
 ---
 
 # Bestow Curse

@@ -1,5 +1,12 @@
 ---
-{"publish":true,"aliases":"trepsin","title":"Trepsin","description":"4 armed troll in service of Talis as hunter of the Hunting Lodge","created":"2025-12-06","modified":"2026-01-13T20:25:18.965+01:00","published":"2025-12-06","cssclasses":""}
+publish: true
+aliases: trepsin
+title: Trepsin
+description: 4 armed troll in service of Talis as hunter of the Hunting Lodge
+created: 2025-12-06
+modified: 2026-02-13T16:20:39.320+01:00
+published: 2025-12-06
+cssclasses: ""
 ---
 
 # Info

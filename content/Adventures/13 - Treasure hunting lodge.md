@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"Treasure hunting lodge","created":"2025-11-30","modified":"2026-02-05T23:14:23.391+01:00","published":"2025-11-30","cssclasses":""}
+publish: true
+title: Treasure hunting lodge
+created: 2025-11-30
+modified: 2026-02-11T20:44:54.573+01:00
+published: 2025-11-30
+cssclasses: ""
 ---
 
 
@@ -64,8 +69,8 @@
 > 
 >> [!info] - Ronde 3
 >> 1. [[Dirk]]
-> 	1. [[Dirk 1]] incasseert weer pijn. 
-> 	2. [[Dirk 2]] rent naar [[Characters/The Meta Band/Dr. Egbert]] en gaat naast hem staan.
+>> 	1. [[Dirk 1]] incasseert weer pijn. 
+>> 	2. [[Dirk 2]] rent naar [[Characters/The Meta Band/Dr. Egbert]] en gaat naast hem staan.
 >> 2. [[Characters/The Meta Band/Dr. Egbert]] cast [[DND.SRD.Wiki-main/Spells/Shocking Grasp]] op [[Dirk 2]] en rent ook naar de achterdeur maar krijgt in het passeren wel een tikkie van de [[Reference/Monsters/Dragon/Drake\|drake]]
 >> 3. [[Characters/The Meta Band/SmogEater]] cast [[DND.SRD.Wiki-main/Spells/Scorching Ray]] op de [[Reference/Monsters/Dragon/Drake\|drake]] naast [[Dirk 2]] maar is niet echt succesvol met het gebruik van magie.
 >> 4. [[Paritons]] klinken nu wel heel dichtbij!

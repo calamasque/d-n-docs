@@ -1,9 +1,15 @@
 ---
-{"publish":true,"title":"The Band vs. Dralmorrer B.","description":"We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.","created":"2025-07-06","modified":"2026-02-05T23:12:39.283+01:00","published":"2025-07-06","cssclasses":""}
+publish: true
+title: The Band vs. Dralmorrer B.
+description: We zijn avonturiers die weten wat ze willen en geen tijd verspillen! Dus vol in de aanval met een vastberaden Pharblex. Voor het dramatisch effect laten Dr. Egbert en Metatron bijna het leven voor we Dralmorrer Borngray en zijn trawanten verslaan met hulp van Waldo en de lizardfolk.
+created: 2025-07-06
+modified: 2026-02-11T20:14:20.900+01:00
+published: 2025-07-06
+cssclasses: ""
 ---
 
 
-[[Adventures/9 - The Band vs. Pharblex S.\|←]]    6 juli 2025    [[Adventures/11 - Enter the dragon\|→]]
+[[9 - The Band vs. Pharblex S.\|←]]    6 juli 2025    [[Adventures/11 - Enter the dragon\|→]]
 
 # Lang verhaal kort
 - We staan oog-in-oog met [[Characters/Castle Naerytar/Dralmorrer Borngray]] en 15 [[Factions/Cult of the Dragon\|cultists]]: ==(aantal)== [[Characters/Cult of the Dragon/Dragonclaw\|Dragonclaws]] en ==(aantal)== [[Characters/Initiate\|initiates]].

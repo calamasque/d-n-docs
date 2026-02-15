@@ -1,5 +1,11 @@
 ---
-{"publish":true,"title":"Counterspell","description":"You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.","created":"2025-07-24","modified":"2025-12-03T23:11:06.138+01:00","published":"2025-07-24","cssclasses":""}
+publish: true
+title: Counterspell
+description: You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+created: 2025-07-24
+modified: 2025-12-03T23:11:06.138+01:00
+published: 2025-07-24
+cssclasses: ""
 ---
 
 # Counterspell

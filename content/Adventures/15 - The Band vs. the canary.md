@@ -1,5 +1,10 @@
 ---
-{"publish":true,"title":"The Band vs. the canary","created":"2026-01-11","modified":"2026-02-09T23:50:44.993+01:00","published":"2026-01-11","cssclasses":""}
+publish: true
+title: The Band vs. the canary
+created: 2026-01-11
+modified: 2026-02-15T14:36:10.386+01:00
+published: 2026-01-11
+cssclasses: ""
 ---
 
 
@@ -10,21 +15,19 @@
 - We jagen op de kanarie van [[Reference/Gods/Bahamut]] en vallen in de prijzen: [[Items/Boots of the Winterlands\|Boots of the Winterlands]] en een [[boog +1]].
 - Onderweg naar [[Atlas/Greypeak Mountains/Parnast]] doden we meer [[cultists]] vanuit onze tiny hut
 - We arriveren in Parnast en duiken de kroeg in
-- [[Characters/The Meta Band/SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach]].
-- De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach]]
+- [[Characters/The Meta Band/SmogEater]] heeft last van obstipatie, gaat zware kratten sjouwen, krijgt met de zweep, wordt geslagen en bereikt [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]].
+- De rest van ons drinkt wat biertjes en arriveert met [[Characters/Parnast/Captain Othelstan]] ook bij [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]]
 
 # Acties & reminders
 * [ ]  We gaan [[Characters/Cult of the Dragon/Rezmir the Black\|Rezmir]] een broodje drakenei verhaal verkopen  
 
 # Session Log
 - [[Characters/The Meta Band/SmogEater]] onderzoekt de muur achter het [[Items/Tapijt met honden en een zwijn]] maar vindt niets bijzonders. Volgens [[Characters/The Hunting Lodge/Angrath Woodwise]] leidt het naar wisselende locaties op de jachtgronden van [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]] waar je direct op jacht kunt. 
-- We wachten de [[Factions/Cult of the Dragon\|cultists]] op die worden verwacht terwijl we comfortabel in [[Leomund's Tiny Hut]] verblijven bij [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|de 3 teleportatiecirkels]]. Na precies 8 uur wachten verdwijnt onze hut en begint de [[teleportatiecirkel - sneeuw]] te gloeien.
-- [[Characters/The Meta Band/SmogEater]] en [[Characters/The Meta Band/Metatron]] casten 2 struiken met [[Reference/Spells/Minor Illusion]] om ons te verbergen maar [[Characters/The Meta Band/Dr. Egbert]] cast [[Hunger of Hadar]] op de [[teleportatiecirkel - sneeuw]]. [[Characters/The Meta Band/Agrip’Ah]] zorgt dat hij klaar staat met [[Evard's Black Tentacles]].
+- We wachten de [[Factions/Cult of the Dragon\|cultists]] op die worden verwacht terwijl we comfortabel in [[Leomund's Tiny Hut]] verblijven bij [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|de 3 teleportatiecirkels]]. Na precies 8 uur wachten verdwijnt onze hut en begint de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]] te gloeien.
+- [[Characters/The Meta Band/SmogEater]] en [[Characters/The Meta Band/Metatron]] casten 2 struiken met [[Reference/Spells/Minor Illusion]] om ons te verbergen maar [[Characters/The Meta Band/Dr. Egbert]] cast [[Hunger of Hadar]] op de [[Atlas/Greypeak Mountains/The Hunting Lodge/3 teleportatiecirkels\|teleportatiecirkel - sneeuw]]. [[Characters/The Meta Band/Agrip’Ah]] zorgt dat hij klaar staat met [[Evard's Black Tentacles]].
 
 ## Combat
-
-> [!info]+ **Een lang gevecht kort**
-> - [[Characters/The Hunting Lodge/Fenric]] en 2 andere [[cultists]] arriveren via de teleportatiecirkel midden in een [[Hunger of Hadar]] en worden kort daarna gedood terwijl ze vluchten.
+- [[Characters/The Hunting Lodge/Fenric]] en 2 andere [[cultists]] arriveren via de teleportatiecirkel midden in een [[Hunger of Hadar]] en worden kort daarna gedood terwijl ze vluchten.
 
 > [!info]- **Full Combat Log**
 > *INITIATIEF:*
@@ -40,7 +43,7 @@
 >
 >> [!info]- Ronde 1
 >> 1. [[Characters/The Meta Band/Metatron]] cast [[Reference/Spells/Faerie Fire]] op de [[cultists from the north]]
->> 2. [[Cultists from the north]] rent de [[Hunger of Hadar]] cirkel uit richting ons, [[Cultist from the north 2]] richting [[Atlas/Greypeak Mountains/The Hunting Lodge/index]]
+>> 2. [[Cultists from the north]] rent de [[Hunger of Hadar]] cirkel uit richting ons, [[Cultist from the north 2]] richting [[Atlas/Greypeak Mountains/The Hunting Lodge/index\|the Hunting Lodge]]
 >> 3. [[Characters/The Meta Band/Szuszi]] doodt [[Cultists from the north]]
 >> 4. [[Cultist from the north 3]] rent ook naar het huis toe
 >> 5. [[Characters/The Meta Band/Waldo]] readied een dart
@@ -56,8 +59,8 @@
 
 # The hunting grounds
 - De cultist hebben niets van waarde op zak behalve hun kleding. 
-- We gaan het tapijt door en staan in het woud. 
-- We ontdekken een vogeltje wat hier niet thuis lijkt te horen: een kanarie? De vogel lokt ons een bepaalde kant op, [[Characters/The Meta Band/Szuszi]] sneakt er achteraan om meer te weten te komen. De kanarie vliegt in een open vlakte. De vogel is geen echte kanarie maar iets religieus?
+- We gaan het tapijt door en staan in een woud, we zijn in [[Atlas/Greypeak Mountains/The Hunting Lodge/The hunting grounds\|the hunting grounds]] 
+- We ontdekken een vogeltje wat hier niet thuis lijkt te horen: [[canary\|een kanarie]]? De vogel lokt ons een bepaalde kant op, [[Characters/The Meta Band/Szuszi]] sneakt er achteraan om meer te weten te komen. De kanarie vliegt richting een open vlakte. De vogel is geen echte kanarie maar iets religieus?
 - Het doet [[Characters/The Meta Band/Agrip’Ah]] denken aan een oude man met een kanarie. [[Characters/The Meta Band/SmogEater]] weet meteen dat het iets te maken heeft met zijn god [[Reference/Gods/Bahamut]]. [[Characters/The Meta Band/SmogEater]] gooit zijn net naar de kanarie maar mist. 
 - Met [[Reference/Spells/Misty Step]] komt [[Characters/The Meta Band/Dr. Egbert]] in de buurt van de vogel maar grijpt mis. 
 - [[Reference/Spells/Feather Fall]] bij de afgrond van de beek waardoor we geen schade oplopen
@@ -113,7 +116,7 @@
 - [[Characters/The Meta Band/Agrip’Ah]] gaat attunen met de [[Items/Wand of Winter]]
 - [[Characters/The Meta Band/Szuszi]] gaat attunen met de [[Items/Boots of the Winterlands\|schoenen van zeehondenleer]] wat [[Items/Boots of the Winterlands\|Boots of the Winterlands]] blijken te zijn.
 - [[Characters/The Meta Band/Agrip’Ah]] en [[Characters/The Meta Band/Dr. Egbert]] gaan een uurtje rusten.
-- Na de rust komen we bij [[Atlas/Greypeak Mountains/Parnast]] aan en zien boven in de bergen [[Atlas/Greypeak Mountains/Castle Skyreach]] (waarschijnlijk).
+- Na de rust komen we bij [[Atlas/Greypeak Mountains/Parnast]] aan en zien boven in de bergen [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]] (waarschijnlijk).
 
 # Parnast
 - Taveerne [[The Golden Tankard]], tempel, wielenmaker, put
@@ -129,9 +132,9 @@
 - Een officier van de cultists komt samen met zijn mannen binnen en neemt plaats aan de bar. Ze beginnen ons onderzoekend aan te kijken.
 - Een als cultist vermomde [[Characters/The Meta Band/SmogEater]] ziet niets cult-achtigs maar ziet wel allemaal kratten. En biedt heel overtuigend aan om te helpen. Hij pakt een krat op en gaat aan de slag. 
 - Ondertussen spreekt [[Characters/The Meta Band/Metatron]] de officier aan. [[Characters/The Meta Band/Dr. Egbert]] en [[Characters/The Meta Band/Agrip’Ah]] voegen zich ook bij het gesprek. De laatste overtuigt de officier dat wij belangrijke informatie voor [[Characters/Cult of the Dragon/Rezmir the Black]] en dat wij daarom naar haar gebracht moeten worden.
-- [[Characters/The Meta Band/SmogEater\|Smoggi]] loopt ondertussen met zijn kratje de brug over [[Atlas/Greypeak Mountains/Castle Skyreach]] binnen. Bij het binnenkomen ziet hij 2 stenen beelden naast de gateway voor hem. Deze herkent hij als 2 golems. Hij ziet mensen daar steeds even pauzeren en iets prevelen en dan weer verder lopen.
+- [[Characters/The Meta Band/SmogEater\|Smoggi]] loopt ondertussen met zijn kratje de brug over [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]] binnen. Bij het binnenkomen ziet hij 2 stenen beelden naast de gateway voor hem. Deze herkent hij als 2 golems. Hij ziet mensen daar steeds even pauzeren en iets prevelen en dan weer verder lopen.
 - Hij stapt tussen de golems, spreekt "Tiamat, our mother and strength" en loopt verder zonder dat er wat gebeurt.
 - Een enorme courtyard is nu zichtbaar, alles in reuzenformaat.
-- De officier genaamd [[Characters/Parnast/Captain Othelstan]] neemt ons mee naar buiten, richting [[Atlas/Greypeak Mountains/Castle Skyreach]]. We worden gevolgd door zijn 4 collega's.
+- De officier genaamd [[Characters/Parnast/Captain Othelstan]] neemt ons mee naar buiten, richting [[Atlas/Greypeak Mountains/Castle Skyreach/index\|Castle Skyreach]]. We worden gevolgd door zijn 4 collega's.
 - "Wel het juiste wachtwoord uitspreken als u tussen de golems doorloopt!" "[[Characters/Cult of the Dragon/Rezmir the Black]]'s vertrekken zijn links achterin. Zeg maar dat we binnen een uur kunnen vertrekken."
 - [[Characters/The Meta Band/SmogEater]] zijn krat neer op de plek waar iedereen de kratten neerzet. Maar hij heeft niet een heel sterk verhaal als hij wordt aangesproken en krijgt met de zweep van [[Sjors]] en een klap op zijn kop.
